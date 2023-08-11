@@ -249,7 +249,7 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: '{inproject}: UserSettings/user.keystore'
+  AndroidKeystoreName: '{inproject}: user.keystore'
   AndroidKeyaliasName: admin
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
