@@ -6,10 +6,10 @@ public class RandomSpawner : MonoBehaviour
 {
     public GameObject spherePrefab;
     Vector3[] Spawns = new[]{
-        new Vector3(-5,1,6),
-        new Vector3(5,1,5),
-        new Vector3(1,1,-6),
-        new Vector3(-8,1,-6)
+        new Vector3(-5,1,4),
+        new Vector3(6,1,3),
+        new Vector3(1,1,-8),
+        new Vector3(-8,1,-8)
     };
     // Start is called before the first frame update
     void Start()
