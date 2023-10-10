@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 //using UnityEngine.SceneManagement;
+using UnityEngine.InputSystem;
 
 public class PauseMenu : MonoBehaviour
 {
@@ -11,6 +12,21 @@ public class PauseMenu : MonoBehaviour
     public Button resumeButton;
     public Button menuButton;
     public Button quitButton;
+
+    /*[SerializeField] public InputActionReference menuInputActionReference;
+
+    public void OnEnable()
+    {
+        menuInputActionReference.action.started += MenuPressed;
+        ResumeGame();
+    }
+ 
+    public void OnDisable()
+    {
+        menuInputActionReference.action.started -= MenuPressed;
+        PauseGame();
+ 
+    }*/
 
     public static bool GameIsPaused = false;
 
@@ -38,6 +54,7 @@ public class PauseMenu : MonoBehaviour
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
+        //if (menuInputActionReference.action.started = MenuPressed)
         {
             if (GameIsPaused)
             {
@@ -47,7 +64,11 @@ public class PauseMenu : MonoBehaviour
                 PauseGame();
             }
         }
+
+
     }
+    
+
 
     public void QuitGame()
     {
