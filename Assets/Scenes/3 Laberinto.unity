@@ -386,6 +386,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6359048287785638240, guid: 75b2c2c1f9f7f2e48a5e0fbf7f5ab63b,
+        type: 3}
+      propertyPath: m_TurnSpeed
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 6359048287785638271, guid: 75b2c2c1f9f7f2e48a5e0fbf7f5ab63b,
+        type: 3}
+      propertyPath: m_TurnAmount
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6359048287785638271, guid: 75b2c2c1f9f7f2e48a5e0fbf7f5ab63b,
+        type: 3}
+      propertyPath: m_DebounceTime
+      value: 0.00001
+      objectReference: {fileID: 0}
     - target: {fileID: 6359048287976603574, guid: 75b2c2c1f9f7f2e48a5e0fbf7f5ab63b,
         type: 3}
       propertyPath: m_Name
@@ -4459,7 +4474,7 @@ Canvas:
   m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 1
-  m_Camera: {fileID: 0}
+  m_Camera: {fileID: 1769789028}
   m_PlaneDistance: 0.5
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
@@ -5576,6 +5591,12 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: -4957301927772954577, guid: 2488f82ef2901504a9a3927396ab5291, type: 3}
+--- !u!20 &1769789028 stripped
+Camera:
+  m_CorrespondingSourceObject: {fileID: 6359048286536599112, guid: 75b2c2c1f9f7f2e48a5e0fbf7f5ab63b,
+    type: 3}
+  m_PrefabInstance: {fileID: 82841256}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1793089056
 PrefabInstance:
   m_ObjectHideFlags: 0
