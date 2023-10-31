@@ -1,0 +1,11 @@
+Model Information:
+* title:	CREB bZIP bound to DNA
+* source:	https://sketchfab.com/3d-models/creb-bzip-bound-to-dna-abd13c9b8074440d8aa2137db7fc0ed5
+* author:	sgup0437 (https://sketchfab.com/sgup0437)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CREB bZIP bound to DNA" (https://sketchfab.com/3d-models/creb-bzip-bound-to-dna-abd13c9b8074440d8aa2137db7fc0ed5) by sgup0437 (https://sketchfab.com/sgup0437) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
