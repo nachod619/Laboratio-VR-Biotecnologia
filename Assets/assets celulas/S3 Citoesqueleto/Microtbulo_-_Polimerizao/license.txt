@@ -1,0 +1,11 @@
+Model Information:
+* title:	Microtúbulo - Polimerização
+* source:	https://sketchfab.com/3d-models/microtubulo-polimerizacao-ef280ea938104d45a76ea31281391d1f
+* author:	juliopanz (https://sketchfab.com/juliopanz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Microtúbulo - Polimerização" (https://sketchfab.com/3d-models/microtubulo-polimerizacao-ef280ea938104d45a76ea31281391d1f) by juliopanz (https://sketchfab.com/juliopanz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

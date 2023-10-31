@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.0009051513, g: 0.0009051513, b: 0.0009051513, a: 1}
+  m_IndirectSpecularColor: {r: 0.0009056597, g: 0.0008734958, b: 0.0009056597, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -5320,7 +5320,7 @@ GameObject:
   - component: {fileID: 1915889947}
   - component: {fileID: 1915889946}
   m_Layer: 0
-  m_Name: Star Wars Intro
+  m_Name: Musica Intro
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
