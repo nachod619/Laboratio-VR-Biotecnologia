@@ -16,7 +16,12 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: ed0831c5b79e8814388e21ffe4c5568d
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 514a8b40671907040ab2b6e7e0abafe1
+    m_Address: Assets/chemistry/models/Materials/wall.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 36c25fc640e0a3a48aa9c44cb77bc5c5, type: 2}
   m_SchemaSet:

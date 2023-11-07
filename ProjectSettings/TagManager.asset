@@ -8,6 +8,7 @@ TagManager:
   - Flame
   - Water
   - Destroyer
+  - UI
   layers:
   - Default
   - TransparentFX
@@ -42,6 +43,9 @@ TagManager:
   - Character Controller
   - Teleport
   m_SortingLayers:
+  - name: New Layer 1
+    uniqueID: 1056825253
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

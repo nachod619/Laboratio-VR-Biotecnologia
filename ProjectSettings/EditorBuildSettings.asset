@@ -14,9 +14,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/3 Laberinto.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/4 Celulas.unity
     guid: 7f169f5b3be56d64daf4d9c34a51449a
+  - enabled: 1
+    path: Assets/Scenes/5 Sesion 1.unity
+    guid: 90176b5b5b7f10a4fa9b5d04a77b589a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2238d457089b9494896515a25debf01c,
       type: 2}
