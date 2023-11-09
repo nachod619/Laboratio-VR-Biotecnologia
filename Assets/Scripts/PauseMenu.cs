@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-//using UnityEngine.SceneManagement;
+using UnityEngine.SceneManagement;
 using UnityEngine.InputSystem;
 
 public class PauseMenu : MonoBehaviour
@@ -10,6 +10,7 @@ public class PauseMenu : MonoBehaviour
 
     [Header("Game Pause Menu Buttons")]
     public Button resumeButton;
+    public Button restartButton;
     public Button menuButton;
     public Button quitButton;
 
@@ -41,6 +42,7 @@ public class PauseMenu : MonoBehaviour
         ResumeGame();
 
         resumeButton.onClick.AddListener(ResumeGame);
+        restartButton.onClick.AddListener(RestartGame);
         menuButton.onClick.AddListener(LoadMenu);
         quitButton.onClick.AddListener(QuitGame);
 
@@ -55,7 +57,7 @@ public class PauseMenu : MonoBehaviour
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
-        //if (menuInputActionReference.action.started = MenuPressed)
+        //if (Input.GetAction("pauseButton"))
         {
             if (GameIsPaused)
             {
@@ -84,6 +86,11 @@ public class PauseMenu : MonoBehaviour
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0f;  // congela el juego en pausa 
         GameIsPaused = true;
+    }
+
+    public void RestartGame()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     public void LoadMenu()
