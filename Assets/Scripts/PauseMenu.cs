@@ -16,21 +16,6 @@ public class PauseMenu : MonoBehaviour
 
     [SerializeField] public InputAction StartButton = null;
 
-    /*[SerializeField] public InputActionReference menuInputActionReference;
-
-    public void OnEnable()
-    {
-        menuInputActionReference.action.started += MenuPressed;
-        ResumeGame();
-    }
- 
-    public void OnDisable()
-    {
-        menuInputActionReference.action.started -= MenuPressed;
-        PauseGame();
- 
-    }*/
-
     public static bool GameIsPaused = false;
 
     public List<Button> returnButtons;
@@ -60,9 +45,6 @@ public class PauseMenu : MonoBehaviour
     void Update()
     {
         if (StartButton.triggered)
-        //if (Input.GetKeyDown(KeyCode.Escape))
-        //if (Input.GetAction("pauseButton"))
-        //if(Input.GetComponent<Button>().onClick.AddListener(TogglePause);)
         {
             if (GameIsPaused)
             {
