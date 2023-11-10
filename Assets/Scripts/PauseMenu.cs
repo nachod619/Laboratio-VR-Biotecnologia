@@ -14,6 +14,8 @@ public class PauseMenu : MonoBehaviour
     public Button menuButton;
     public Button quitButton;
 
+    [SerializeField] public InputAction StartButton = null;
+
     /*[SerializeField] public InputActionReference menuInputActionReference;
 
     public void OnEnable()
@@ -40,6 +42,7 @@ public class PauseMenu : MonoBehaviour
     void Start()
     {
         ResumeGame();
+        StartButton.Enable();
 
         resumeButton.onClick.AddListener(ResumeGame);
         restartButton.onClick.AddListener(RestartGame);
@@ -56,8 +59,10 @@ public class PauseMenu : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (StartButton.triggered)
+        //if (Input.GetKeyDown(KeyCode.Escape))
         //if (Input.GetAction("pauseButton"))
+        //if(Input.GetComponent<Button>().onClick.AddListener(TogglePause);)
         {
             if (GameIsPaused)
             {
