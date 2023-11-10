@@ -1,0 +1,1938 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+// 0x00000001 System.String VRBuilder.Components.Runtime.Rigs.XRLegacySetup::get_Name()
+extern void XRLegacySetup_get_Name_mF7478B3FDE6C0B26F9DA19D8C68A83247210A8FD (void);
+// 0x00000002 System.String VRBuilder.Components.Runtime.Rigs.XRLegacySetup::get_PrefabName()
+extern void XRLegacySetup_get_PrefabName_mC51A2EA36A553AB55AA8A8410EE2F21056D2DAF3 (void);
+// 0x00000003 System.Boolean VRBuilder.Components.Runtime.Rigs.XRLegacySetup::CanBeUsed()
+extern void XRLegacySetup_CanBeUsed_mFC1F90025E09270C2954BD9DEEE5C3340D6BB2D6 (void);
+// 0x00000004 System.String VRBuilder.Components.Runtime.Rigs.XRLegacySetup::GetSetupTooltip()
+extern void XRLegacySetup_GetSetupTooltip_m40D5CFCB075A9ED75DC19F67621A20C63753FEDA (void);
+// 0x00000005 System.Void VRBuilder.Components.Runtime.Rigs.XRLegacySetup::.ctor()
+extern void XRLegacySetup__ctor_m505DB8ABE771EAE2644E94CD66DDF11C31C9AB39 (void);
+// 0x00000006 System.String VRBuilder.Components.Runtime.Rigs.XRSetup::get_Name()
+extern void XRSetup_get_Name_m3C3B305A3EF9ED7914007B5F39CACA68EA5D8E5B (void);
+// 0x00000007 System.String VRBuilder.Components.Runtime.Rigs.XRSetup::get_PrefabName()
+extern void XRSetup_get_PrefabName_m03CB498D6770009052D253A595483A01B9633265 (void);
+// 0x00000008 System.Boolean VRBuilder.Components.Runtime.Rigs.XRSetup::CanBeUsed()
+extern void XRSetup_CanBeUsed_mD43D0FF4E8D9E3492E79CF7CFABCB91F51114BD0 (void);
+// 0x00000009 System.String VRBuilder.Components.Runtime.Rigs.XRSetup::GetSetupTooltip()
+extern void XRSetup_GetSetupTooltip_m33D70E1C7644D1E71A1B7C0A44AF468AC8075467 (void);
+// 0x0000000A System.Void VRBuilder.Components.Runtime.Rigs.XRSetup::.ctor()
+extern void XRSetup__ctor_m8CF95C4CC4D9A8706478154A35C9F66AD099BE03 (void);
+// 0x0000000B System.Void VRBuilder.Components.Runtime.Rigs.XRSetupBase::.ctor()
+extern void XRSetupBase__ctor_m35723FFF4FC2E8B0F627087EA0ACD0D7D6AF22B2 (void);
+// 0x0000000C System.Boolean VRBuilder.Components.Runtime.Rigs.XRSetupBase::IsEventManagerInScene()
+extern void XRSetupBase_IsEventManagerInScene_m00779D3BA603845E7A43800AD4A6D4BA3E59FCD7 (void);
+// 0x0000000D System.String VRBuilder.Components.Runtime.Rigs.XRSimulatorSetup::get_Name()
+extern void XRSimulatorSetup_get_Name_m8D0580463973BF4E3EC79A74010C74C9DA0F4A52 (void);
+// 0x0000000E System.String VRBuilder.Components.Runtime.Rigs.XRSimulatorSetup::get_PrefabName()
+extern void XRSimulatorSetup_get_PrefabName_m219F22A5D2FC9D4EFB7962F252561154A5A92F5D (void);
+// 0x0000000F System.Boolean VRBuilder.Components.Runtime.Rigs.XRSimulatorSetup::CanBeUsed()
+extern void XRSimulatorSetup_CanBeUsed_m8B514C692555630AF01FAD7389908E50010F3E3B (void);
+// 0x00000010 System.String VRBuilder.Components.Runtime.Rigs.XRSimulatorSetup::GetSetupTooltip()
+extern void XRSimulatorSetup_GetSetupTooltip_m24875F38DB088CBBE11544884568ABF67B3702AE (void);
+// 0x00000011 System.Void VRBuilder.Components.Runtime.Rigs.XRSimulatorSetup::.ctor()
+extern void XRSimulatorSetup__ctor_mFEA544F740FDF41E5105DAA7A1464E3F6AF751AD (void);
+// 0x00000012 System.Void VRBuilder.Core.Properties.TeleportationProperty::add_Teleported(System.EventHandler`1<System.EventArgs>)
+extern void TeleportationProperty_add_Teleported_m155788F25C34F1CD236F00FF5FEF12FE51AFCA8F (void);
+// 0x00000013 System.Void VRBuilder.Core.Properties.TeleportationProperty::remove_Teleported(System.EventHandler`1<System.EventArgs>)
+extern void TeleportationProperty_remove_Teleported_m013328BD1442046DDB0FAB08305DF3E1BB8FC644 (void);
+// 0x00000014 System.Boolean VRBuilder.Core.Properties.TeleportationProperty::get_WasUsedToTeleport()
+extern void TeleportationProperty_get_WasUsedToTeleport_m1F8D11E24D1E9EE5D023FC203554B11CD66CE607 (void);
+// 0x00000015 UnityEngine.Events.UnityEvent`1<VRBuilder.BasicInteraction.Properties.TeleportationPropertyEventArgs> VRBuilder.Core.Properties.TeleportationProperty::get_TeleportEnded()
+extern void TeleportationProperty_get_TeleportEnded_m458CE2CD366F96B3C65F8149471226D0CBDAC7DD (void);
+// 0x00000016 UnityEngine.Events.UnityEvent VRBuilder.Core.Properties.TeleportationProperty::get_OnInitialized()
+extern void TeleportationProperty_get_OnInitialized_m9C58C14BF9DF2E0C6990C63E6D8B962F7813666E (void);
+// 0x00000017 System.Boolean VRBuilder.Core.Properties.TeleportationProperty::get_IsActive()
+extern void TeleportationProperty_get_IsActive_m7260B9ADAF496565433B594C1899BE593CDA5C05 (void);
+// 0x00000018 System.Void VRBuilder.Core.Properties.TeleportationProperty::Awake()
+extern void TeleportationProperty_Awake_m30E9417D9EBF2EEC15526C9A679D444200A1E1A5 (void);
+// 0x00000019 System.Void VRBuilder.Core.Properties.TeleportationProperty::OnEnable()
+extern void TeleportationProperty_OnEnable_m8470765D637015D79DDD0EC05903709EE45EB5E4 (void);
+// 0x0000001A System.Void VRBuilder.Core.Properties.TeleportationProperty::OnDisable()
+extern void TeleportationProperty_OnDisable_m0CFBC50558A78CDF7E9F7BA60BB6351ACA208891 (void);
+// 0x0000001B System.Void VRBuilder.Core.Properties.TeleportationProperty::Initialize()
+extern void TeleportationProperty_Initialize_mC2BFF00ADA830054A35C8CDE5D4A86A86219FA1B (void);
+// 0x0000001C System.Void VRBuilder.Core.Properties.TeleportationProperty::FastForwardTeleport()
+extern void TeleportationProperty_FastForwardTeleport_m81CDC41D5F6A7E445CC24452C46F5FC8B7401E1E (void);
+// 0x0000001D System.Void VRBuilder.Core.Properties.TeleportationProperty::InternalSetLocked(System.Boolean)
+extern void TeleportationProperty_InternalSetLocked_m3D04AC93CC08722E068B42929472712BFED54529 (void);
+// 0x0000001E System.Void VRBuilder.Core.Properties.TeleportationProperty::EmitTeleported(UnityEngine.XR.Interaction.Toolkit.TeleportingEventArgs)
+extern void TeleportationProperty_EmitTeleported_m6C84AAEDC5E7D8DA236EC21605F539E53915D051 (void);
+// 0x0000001F System.Void VRBuilder.Core.Properties.TeleportationProperty::ForceSetTeleported()
+extern void TeleportationProperty_ForceSetTeleported_mD0276868C2FF8268FFFB83A2A44644151540D09A (void);
+// 0x00000020 System.Void VRBuilder.Core.Properties.TeleportationProperty::.ctor()
+extern void TeleportationProperty__ctor_m1F7EF6375D17A519E5ED53591760A786ABA07244 (void);
+// 0x00000021 UnityEngine.GameObject VRBuilder.XRInteraction.ActionBasedControllerManager::get_BaseController()
+extern void ActionBasedControllerManager_get_BaseController_m85BF3B8D3633C7147515F52ACD887B2DBFD3B474 (void);
+// 0x00000022 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::set_BaseController(UnityEngine.GameObject)
+extern void ActionBasedControllerManager_set_BaseController_m473C3A90AFF229181AFCB9BD60C1EF6922798340 (void);
+// 0x00000023 UnityEngine.GameObject VRBuilder.XRInteraction.ActionBasedControllerManager::get_TeleportController()
+extern void ActionBasedControllerManager_get_TeleportController_m08B01F75A090A573205C4DCCFAF8076BAFC8F56F (void);
+// 0x00000024 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::set_TeleportController(UnityEngine.GameObject)
+extern void ActionBasedControllerManager_set_TeleportController_mA7E28D77A263DEA99B861C1FEE4DF408C880A495 (void);
+// 0x00000025 UnityEngine.GameObject VRBuilder.XRInteraction.ActionBasedControllerManager::get_UIController()
+extern void ActionBasedControllerManager_get_UIController_mB3445656342392B7C7107BA21ADB4650EAFDFEB9 (void);
+// 0x00000026 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::set_UIController(UnityEngine.GameObject)
+extern void ActionBasedControllerManager_set_UIController_mDE336259B43AE8692DFA849ABEB07DC634638771 (void);
+// 0x00000027 UnityEngine.InputSystem.InputActionReference VRBuilder.XRInteraction.ActionBasedControllerManager::get_TeleportModeActivate()
+extern void ActionBasedControllerManager_get_TeleportModeActivate_m8BDE6AFE7D65F9FCE87FADD3E4BEA21DE4A313BD (void);
+// 0x00000028 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::set_TeleportModeActivate(UnityEngine.InputSystem.InputActionReference)
+extern void ActionBasedControllerManager_set_TeleportModeActivate_m32C7D01F6723293600FEFD424172B293861CFE55 (void);
+// 0x00000029 UnityEngine.InputSystem.InputActionReference VRBuilder.XRInteraction.ActionBasedControllerManager::get_TeleportModeCancel()
+extern void ActionBasedControllerManager_get_TeleportModeCancel_mFB0E1ECFEB32DBD019378A75C27C19C3B978B37B (void);
+// 0x0000002A System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::set_TeleportModeCancel(UnityEngine.InputSystem.InputActionReference)
+extern void ActionBasedControllerManager_set_TeleportModeCancel_mFAFD595E9ADD2E4F10867A182DD64DF433EFB752 (void);
+// 0x0000002B UnityEngine.InputSystem.InputActionReference VRBuilder.XRInteraction.ActionBasedControllerManager::get_UIModeActivate()
+extern void ActionBasedControllerManager_get_UIModeActivate_mB26AEAFD545F3E1345E5CFAB569908AE2CE64533 (void);
+// 0x0000002C System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::set_UIModeActivate(UnityEngine.InputSystem.InputActionReference)
+extern void ActionBasedControllerManager_set_UIModeActivate_mC9E71E9C9F710FF9300D0747E1A474F8562DAF7F (void);
+// 0x0000002D UnityEngine.InputSystem.InputActionReference VRBuilder.XRInteraction.ActionBasedControllerManager::get_Turn()
+extern void ActionBasedControllerManager_get_Turn_mE71C32F2D13B4FB089A360CD1665E9C466479F28 (void);
+// 0x0000002E System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::set_Turn(UnityEngine.InputSystem.InputActionReference)
+extern void ActionBasedControllerManager_set_Turn_m0AC1D9285CD376F68CAD74FAF7F461E69C84101C (void);
+// 0x0000002F UnityEngine.InputSystem.InputActionReference VRBuilder.XRInteraction.ActionBasedControllerManager::get_Move()
+extern void ActionBasedControllerManager_get_Move_m0C4BD5FEF2BE8715DC68660ACBD6DAD74677C49C (void);
+// 0x00000030 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::set_Move(UnityEngine.InputSystem.InputActionReference)
+extern void ActionBasedControllerManager_set_Move_mA215D335DF8E33B8D253046CBAFA26F37E439700 (void);
+// 0x00000031 UnityEngine.InputSystem.InputActionReference VRBuilder.XRInteraction.ActionBasedControllerManager::get_TranslateAnchor()
+extern void ActionBasedControllerManager_get_TranslateAnchor_m8CD105D7215085C459D7C504B98E5F9F06017951 (void);
+// 0x00000032 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::set_TranslateAnchor(UnityEngine.InputSystem.InputActionReference)
+extern void ActionBasedControllerManager_set_TranslateAnchor_mEBC788FBB3D564D14D1F3AE0A3A45B29A6783765 (void);
+// 0x00000033 UnityEngine.InputSystem.InputActionReference VRBuilder.XRInteraction.ActionBasedControllerManager::get_RotateAnchor()
+extern void ActionBasedControllerManager_get_RotateAnchor_mB76AC3D679B32B9C8A6CC6D5409EF508058885DD (void);
+// 0x00000034 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::set_RotateAnchor(UnityEngine.InputSystem.InputActionReference)
+extern void ActionBasedControllerManager_set_RotateAnchor_m5AA8D4188FBBD41D269E613688CB87F08B7BD22D (void);
+// 0x00000035 VRBuilder.XRInteraction.ActionBasedControllerManager/ControllerState VRBuilder.XRInteraction.ActionBasedControllerManager::get_SelectState()
+extern void ActionBasedControllerManager_get_SelectState_m06D2DC081CFAECB3ECB63B05E6FBC4C0BA45AD5F (void);
+// 0x00000036 VRBuilder.XRInteraction.ActionBasedControllerManager/ControllerState VRBuilder.XRInteraction.ActionBasedControllerManager::get_TeleportState()
+extern void ActionBasedControllerManager_get_TeleportState_m7471A8513243F41E5C41DBC39DAC4656617D82AE (void);
+// 0x00000037 VRBuilder.XRInteraction.ActionBasedControllerManager/ControllerState VRBuilder.XRInteraction.ActionBasedControllerManager::get_InteractState()
+extern void ActionBasedControllerManager_get_InteractState_mD5DAA560C39C32E55EB7CCF8456E4BD7AD54DB4F (void);
+// 0x00000038 VRBuilder.XRInteraction.ActionBasedControllerManager/ControllerState VRBuilder.XRInteraction.ActionBasedControllerManager::get_UIState()
+extern void ActionBasedControllerManager_get_UIState_m71677E749616F354678ED08A44FEBD96E9ED5645 (void);
+// 0x00000039 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::OnEnable()
+extern void ActionBasedControllerManager_OnEnable_m070168D902E49F7D4957AFB9351D221144BFE423 (void);
+// 0x0000003A System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::OnDisable()
+extern void ActionBasedControllerManager_OnDisable_m8AC1067144FAD56817268DCD49C37AEF305B4CB0 (void);
+// 0x0000003B System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::Start()
+extern void ActionBasedControllerManager_Start_m807313172C9A01F81B0B91BB49721072B8BCAD36 (void);
+// 0x0000003C System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::Update()
+extern void ActionBasedControllerManager_Update_m525E0905D62699036DD80724A8C65034145C2DDE (void);
+// 0x0000003D System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::TransitionState(VRBuilder.XRInteraction.ActionBasedControllerManager/ControllerState,VRBuilder.XRInteraction.ActionBasedControllerManager/ControllerState)
+extern void ActionBasedControllerManager_TransitionState_m84801BB559241102056BF6F1466DF6FB3A1B4F84 (void);
+// 0x0000003E System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::FindBaseControllerComponents()
+extern void ActionBasedControllerManager_FindBaseControllerComponents_m3BE981DB807096D6B7BB3E79318D2830E7672A82 (void);
+// 0x0000003F System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::FindTeleportControllerComponents()
+extern void ActionBasedControllerManager_FindTeleportControllerComponents_m288DCC8023D5ED067F6CF12742EEA37826BC07AD (void);
+// 0x00000040 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::FindUIControllerComponents()
+extern void ActionBasedControllerManager_FindUIControllerComponents_mF482F4F08835983E9D379230DE2A9B34F83C1EC4 (void);
+// 0x00000041 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::SetBaseController(System.Boolean)
+extern void ActionBasedControllerManager_SetBaseController_mFA5AD26055EAD0575177AF1C6ABDFD4FEFAEE2CA (void);
+// 0x00000042 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::SetTeleportController(System.Boolean)
+extern void ActionBasedControllerManager_SetTeleportController_m01C403B7517EAB136D17AF572E77FC05A48A6A06 (void);
+// 0x00000043 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::SetUIController(System.Boolean)
+extern void ActionBasedControllerManager_SetUIController_m3A57B701D65DD5F1AF2FC7E7F79FD5AFF8CFBBDA (void);
+// 0x00000044 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::OnEnterSelectState(VRBuilder.XRInteraction.ActionBasedControllerManager/StateID)
+extern void ActionBasedControllerManager_OnEnterSelectState_mD9DCD88CC873E9A02E3D542A3350304280ED571A (void);
+// 0x00000045 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::OnExitSelectState(VRBuilder.XRInteraction.ActionBasedControllerManager/StateID)
+extern void ActionBasedControllerManager_OnExitSelectState_mF2D9E00F3FD58CBB9F8ACDADEA606155B491DAEF (void);
+// 0x00000046 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::OnEnterTeleportState(VRBuilder.XRInteraction.ActionBasedControllerManager/StateID)
+extern void ActionBasedControllerManager_OnEnterTeleportState_m953E1F2CB839820A48B42B51EAE3BA26AF4772AB (void);
+// 0x00000047 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::OnExitTeleportState(VRBuilder.XRInteraction.ActionBasedControllerManager/StateID)
+extern void ActionBasedControllerManager_OnExitTeleportState_m9C161D78E75866A0C2E87C7AEDF64A6421867543 (void);
+// 0x00000048 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::OnEnterInteractState(VRBuilder.XRInteraction.ActionBasedControllerManager/StateID)
+extern void ActionBasedControllerManager_OnEnterInteractState_mBE47C059224BD8DAB7B79EC28775F2135BB01F6E (void);
+// 0x00000049 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::OnExitInteractState(VRBuilder.XRInteraction.ActionBasedControllerManager/StateID)
+extern void ActionBasedControllerManager_OnExitInteractState_m676B6E74C28884FBD0E454E4B34AFC66BCA362B3 (void);
+// 0x0000004A System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::OnEnterUIState(VRBuilder.XRInteraction.ActionBasedControllerManager/StateID)
+extern void ActionBasedControllerManager_OnEnterUIState_m372130EC701917FCCFC2E5AF72705608C25EE61E (void);
+// 0x0000004B System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::OnExitUIState(VRBuilder.XRInteraction.ActionBasedControllerManager/StateID)
+extern void ActionBasedControllerManager_OnExitUIState_mF267044501CA0242B9842FDBE0214EBE3EAFBE64 (void);
+// 0x0000004C System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::OnUpdateSelectState()
+extern void ActionBasedControllerManager_OnUpdateSelectState_m807C7C03F182D5B89593D5B6353DD43D298BFF6A (void);
+// 0x0000004D System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::OnUpdateTeleportState()
+extern void ActionBasedControllerManager_OnUpdateTeleportState_mEF2F75EAA0C67FDEDD2D02C9D52642D897D9A50C (void);
+// 0x0000004E System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::OnUpdateInteractState()
+extern void ActionBasedControllerManager_OnUpdateInteractState_m69E6BCC9E979E5E57142E500490B32B0094E64A3 (void);
+// 0x0000004F System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::OnUpdateUIState()
+extern void ActionBasedControllerManager_OnUpdateUIState_m0330AB6AD9AA975BEE339FD56621C80539BAB65B (void);
+// 0x00000050 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::EnableAction(UnityEngine.InputSystem.InputActionReference)
+extern void ActionBasedControllerManager_EnableAction_mEA6726A6ED7FA786D757472A264AF8228F7CDD85 (void);
+// 0x00000051 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::DisableAction(UnityEngine.InputSystem.InputActionReference)
+extern void ActionBasedControllerManager_DisableAction_m1A7D5E870DF98E5116FAAB7F682CCA532797D28A (void);
+// 0x00000052 System.Boolean VRBuilder.XRInteraction.ActionBasedControllerManager::IsInteractorInteracting()
+extern void ActionBasedControllerManager_IsInteractorInteracting_mADD0E8CF47E198EB0643775C881487D02FABB5FD (void);
+// 0x00000053 UnityEngine.InputSystem.InputAction VRBuilder.XRInteraction.ActionBasedControllerManager::GetInputAction(UnityEngine.InputSystem.InputActionReference)
+extern void ActionBasedControllerManager_GetInputAction_mF407B0603382EEE97A2FF9AC86531E8661672E60 (void);
+// 0x00000054 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager::.ctor()
+extern void ActionBasedControllerManager__ctor_m22756C8824B99E5ED07E257B818CF723E67F5A63 (void);
+// 0x00000055 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager/StateEnterEvent::.ctor()
+extern void StateEnterEvent__ctor_m32685281B9E4FB5B68FEBB5695441A30C893FD77 (void);
+// 0x00000056 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager/StateUpdateEvent::.ctor()
+extern void StateUpdateEvent__ctor_mE22146093D969EE9017DDB6DE5C18B854A1A1555 (void);
+// 0x00000057 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager/StateExitEvent::.ctor()
+extern void StateExitEvent__ctor_m33FDE34DE18EC338BEA22995CFBB1D3102AF3BC5 (void);
+// 0x00000058 System.Boolean VRBuilder.XRInteraction.ActionBasedControllerManager/ControllerState::get_Enabled()
+extern void ControllerState_get_Enabled_m31CF8484B06DCC631D74AB459E66FB4762AB27C1 (void);
+// 0x00000059 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager/ControllerState::set_Enabled(System.Boolean)
+extern void ControllerState_set_Enabled_m785B35802B68AB687ED025388F4833164B12DF46 (void);
+// 0x0000005A VRBuilder.XRInteraction.ActionBasedControllerManager/StateID VRBuilder.XRInteraction.ActionBasedControllerManager/ControllerState::get_ID()
+extern void ControllerState_get_ID_mD3A839155F39CF7C1C82ED68244EE956A3D3102F (void);
+// 0x0000005B System.Void VRBuilder.XRInteraction.ActionBasedControllerManager/ControllerState::set_ID(VRBuilder.XRInteraction.ActionBasedControllerManager/StateID)
+extern void ControllerState_set_ID_m642997604BFC841B693C36368DFFEB65B19FCF29 (void);
+// 0x0000005C VRBuilder.XRInteraction.ActionBasedControllerManager/StateEnterEvent VRBuilder.XRInteraction.ActionBasedControllerManager/ControllerState::get_OnEnter()
+extern void ControllerState_get_OnEnter_m8A9EC0F1714249FC416B25B0A559C6412CF0DB14 (void);
+// 0x0000005D System.Void VRBuilder.XRInteraction.ActionBasedControllerManager/ControllerState::set_OnEnter(VRBuilder.XRInteraction.ActionBasedControllerManager/StateEnterEvent)
+extern void ControllerState_set_OnEnter_m6247DEA06AC3C9E7FC5C5A4D3CB1DB66E32D2F0D (void);
+// 0x0000005E VRBuilder.XRInteraction.ActionBasedControllerManager/StateUpdateEvent VRBuilder.XRInteraction.ActionBasedControllerManager/ControllerState::get_OnUpdate()
+extern void ControllerState_get_OnUpdate_mF1FF96B1E0921FFFCDF275159D7F988C0AC4F132 (void);
+// 0x0000005F System.Void VRBuilder.XRInteraction.ActionBasedControllerManager/ControllerState::set_OnUpdate(VRBuilder.XRInteraction.ActionBasedControllerManager/StateUpdateEvent)
+extern void ControllerState_set_OnUpdate_mB50ADEEBCDFF5490D687C458990961CF953FD967 (void);
+// 0x00000060 VRBuilder.XRInteraction.ActionBasedControllerManager/StateExitEvent VRBuilder.XRInteraction.ActionBasedControllerManager/ControllerState::get_OnExit()
+extern void ControllerState_get_OnExit_m6FFFF19D9C862B2C3DE699082394074853B56A8D (void);
+// 0x00000061 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager/ControllerState::set_OnExit(VRBuilder.XRInteraction.ActionBasedControllerManager/StateExitEvent)
+extern void ControllerState_set_OnExit_m59FC30A7662320D1EEEBE2C159524BD8CCC32A86 (void);
+// 0x00000062 System.Void VRBuilder.XRInteraction.ActionBasedControllerManager/ControllerState::.ctor(VRBuilder.XRInteraction.ActionBasedControllerManager/StateID)
+extern void ControllerState__ctor_m1D23F88F848E185DA4F4DAD4F1FE509A58F3F111 (void);
+// 0x00000063 VRBuilder.XRInteraction.LocomotionSchemeManager/MoveSchemeType VRBuilder.XRInteraction.LocomotionSchemeManager::get_MoveScheme()
+extern void LocomotionSchemeManager_get_MoveScheme_m3FFFD40A3CDF2DDA3583C586F4FBF2433049681E (void);
+// 0x00000064 System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::set_MoveScheme(VRBuilder.XRInteraction.LocomotionSchemeManager/MoveSchemeType)
+extern void LocomotionSchemeManager_set_MoveScheme_m8BFDD1E0DBDC4AE44F93A7D144E9230B9D09D366 (void);
+// 0x00000065 VRBuilder.XRInteraction.LocomotionSchemeManager/TurnStyleType VRBuilder.XRInteraction.LocomotionSchemeManager::get_TurnStyle()
+extern void LocomotionSchemeManager_get_TurnStyle_mC0CAF245D857A759D2759B9C8E29297AE688B49F (void);
+// 0x00000066 System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::set_TurnStyle(VRBuilder.XRInteraction.LocomotionSchemeManager/TurnStyleType)
+extern void LocomotionSchemeManager_set_TurnStyle_m1F388263782BCC6D0AB2FC138B0C4C2D7A84C707 (void);
+// 0x00000067 VRBuilder.XRInteraction.LocomotionSchemeManager/MoveForwardSourceType VRBuilder.XRInteraction.LocomotionSchemeManager::get_MoveForwardSource()
+extern void LocomotionSchemeManager_get_MoveForwardSource_m3C18FB2463E555ACE30E5AB37B78D13B0DFC2793 (void);
+// 0x00000068 System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::set_MoveForwardSource(VRBuilder.XRInteraction.LocomotionSchemeManager/MoveForwardSourceType)
+extern void LocomotionSchemeManager_set_MoveForwardSource_mB2AD6DE71A7D399AE84D433C187C0D2BD48511CC (void);
+// 0x00000069 System.Collections.Generic.List`1<UnityEngine.InputSystem.InputActionAsset> VRBuilder.XRInteraction.LocomotionSchemeManager::get_ActionAssets()
+extern void LocomotionSchemeManager_get_ActionAssets_m9758FDFFF97EF5D3327F9914A1CBB651C8F3A925 (void);
+// 0x0000006A System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::set_ActionAssets(System.Collections.Generic.List`1<UnityEngine.InputSystem.InputActionAsset>)
+extern void LocomotionSchemeManager_set_ActionAssets_m4F4E80ADBAD55F4618E864F6A29A4C4EA01769CB (void);
+// 0x0000006B System.Collections.Generic.List`1<System.String> VRBuilder.XRInteraction.LocomotionSchemeManager::get_ActionMaps()
+extern void LocomotionSchemeManager_get_ActionMaps_m83442D8DDC7AE6A3E041378899CCFCB306BC836A (void);
+// 0x0000006C System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::set_ActionMaps(System.Collections.Generic.List`1<System.String>)
+extern void LocomotionSchemeManager_set_ActionMaps_m368BB03A8F43CD5999A77FC87ACA280E33083CC8 (void);
+// 0x0000006D System.Collections.Generic.List`1<UnityEngine.InputSystem.InputActionReference> VRBuilder.XRInteraction.LocomotionSchemeManager::get_Actions()
+extern void LocomotionSchemeManager_get_Actions_m14D8AAD90F334DF034B975A4FC8F6FE40F24A653 (void);
+// 0x0000006E System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::set_Actions(System.Collections.Generic.List`1<UnityEngine.InputSystem.InputActionReference>)
+extern void LocomotionSchemeManager_set_Actions_mC532896AB27C4505FD58A00B72377C32F7E3C41F (void);
+// 0x0000006F System.String VRBuilder.XRInteraction.LocomotionSchemeManager::get_BaseControlScheme()
+extern void LocomotionSchemeManager_get_BaseControlScheme_mDDE5B0C2B4C377BAC90DACE4A4E74262EBD9686C (void);
+// 0x00000070 System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::set_BaseControlScheme(System.String)
+extern void LocomotionSchemeManager_set_BaseControlScheme_m0D32D429DAD1EDF2C086C98B20F08013B8860989 (void);
+// 0x00000071 System.String VRBuilder.XRInteraction.LocomotionSchemeManager::get_NoncontinuousControlScheme()
+extern void LocomotionSchemeManager_get_NoncontinuousControlScheme_m14D5C073F38A38914ED49EEDA2FEEE7F364D4600 (void);
+// 0x00000072 System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::set_NoncontinuousControlScheme(System.String)
+extern void LocomotionSchemeManager_set_NoncontinuousControlScheme_mE31F2D9E5AE32C5222A252F2ECF3107FAF1C9070 (void);
+// 0x00000073 System.String VRBuilder.XRInteraction.LocomotionSchemeManager::get_ContinuousControlScheme()
+extern void LocomotionSchemeManager_get_ContinuousControlScheme_m0E7A91FEB1952B6376B2923D3AE2E65492D4823A (void);
+// 0x00000074 System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::set_ContinuousControlScheme(System.String)
+extern void LocomotionSchemeManager_set_ContinuousControlScheme_mD1D84399C40F3A29E9F465C2E2DE557520F44EE7 (void);
+// 0x00000075 UnityEngine.XR.Interaction.Toolkit.ContinuousMoveProviderBase VRBuilder.XRInteraction.LocomotionSchemeManager::get_ContinuousMoveProvider()
+extern void LocomotionSchemeManager_get_ContinuousMoveProvider_m157EC9B746EF8B6520D4D8A28572DE804BD13E5E (void);
+// 0x00000076 System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::set_ContinuousMoveProvider(UnityEngine.XR.Interaction.Toolkit.ContinuousMoveProviderBase)
+extern void LocomotionSchemeManager_set_ContinuousMoveProvider_m1B9DDD1382E231E091781849C6789C0382A35BA2 (void);
+// 0x00000077 UnityEngine.XR.Interaction.Toolkit.ContinuousTurnProviderBase VRBuilder.XRInteraction.LocomotionSchemeManager::get_ContinuousTurnProvider()
+extern void LocomotionSchemeManager_get_ContinuousTurnProvider_m2C3CD5CA2FCFE355488D8A920EE7D93042EDC822 (void);
+// 0x00000078 System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::set_ContinuousTurnProvider(UnityEngine.XR.Interaction.Toolkit.ContinuousTurnProviderBase)
+extern void LocomotionSchemeManager_set_ContinuousTurnProvider_m623D9C8DD18E3B8177C9A50D2F2A7946D556880F (void);
+// 0x00000079 UnityEngine.XR.Interaction.Toolkit.SnapTurnProviderBase VRBuilder.XRInteraction.LocomotionSchemeManager::get_SnapTurnProvider()
+extern void LocomotionSchemeManager_get_SnapTurnProvider_mB704C72A3A117E2CCB4FAA1F3A0C6EE55EE9C745 (void);
+// 0x0000007A System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::set_SnapTurnProvider(UnityEngine.XR.Interaction.Toolkit.SnapTurnProviderBase)
+extern void LocomotionSchemeManager_set_SnapTurnProvider_mDB14D5459421DCC545E15FD4EBCD1EE3E467F2E0 (void);
+// 0x0000007B UnityEngine.Transform VRBuilder.XRInteraction.LocomotionSchemeManager::get_HeadForwardSource()
+extern void LocomotionSchemeManager_get_HeadForwardSource_mBFE002B298D23724FFDB94D3B5F4DE6E979B183C (void);
+// 0x0000007C System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::set_HeadForwardSource(UnityEngine.Transform)
+extern void LocomotionSchemeManager_set_HeadForwardSource_m2D2187DB1554E29E03250AC45AD2C9FD2FC25209 (void);
+// 0x0000007D UnityEngine.Transform VRBuilder.XRInteraction.LocomotionSchemeManager::get_LeftHandForwardSource()
+extern void LocomotionSchemeManager_get_LeftHandForwardSource_mB37379ED10C1CF89EB167BC573A46130D50CA4AD (void);
+// 0x0000007E System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::set_LeftHandForwardSource(UnityEngine.Transform)
+extern void LocomotionSchemeManager_set_LeftHandForwardSource_mBE34D2468805C39FF7A698FDAB38B3F294F0D98C (void);
+// 0x0000007F UnityEngine.Transform VRBuilder.XRInteraction.LocomotionSchemeManager::get_RightHandForwardSource()
+extern void LocomotionSchemeManager_get_RightHandForwardSource_m885B6CC396F6429D0BD8FDBCD89C75A08C320A83 (void);
+// 0x00000080 System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::set_RightHandForwardSource(UnityEngine.Transform)
+extern void LocomotionSchemeManager_set_RightHandForwardSource_m7B43285EC76C2CA407E84E9E0338AD7DC07ACFB7 (void);
+// 0x00000081 System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::OnEnable()
+extern void LocomotionSchemeManager_OnEnable_m192FCB17A85863B14829EC4B28192809684997C5 (void);
+// 0x00000082 System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::OnDisable()
+extern void LocomotionSchemeManager_OnDisable_m9C5C477D62F6D817A84030918A6F44C219844EBA (void);
+// 0x00000083 System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::SetMoveScheme(VRBuilder.XRInteraction.LocomotionSchemeManager/MoveSchemeType)
+extern void LocomotionSchemeManager_SetMoveScheme_mA71255F8000A450304514D7AE75502DEFAC085E7 (void);
+// 0x00000084 System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::SetTurnStyle(VRBuilder.XRInteraction.LocomotionSchemeManager/TurnStyleType)
+extern void LocomotionSchemeManager_SetTurnStyle_m9F6DE6DC898CCFF4DA299482828990E8949A8ABA (void);
+// 0x00000085 System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::SetMoveForwardSource(VRBuilder.XRInteraction.LocomotionSchemeManager/MoveForwardSourceType)
+extern void LocomotionSchemeManager_SetMoveForwardSource_m2396FC3C9C6636C16910DCE38EF0E1432CE5BFA5 (void);
+// 0x00000086 System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::SetBindingMasks(System.String)
+extern void LocomotionSchemeManager_SetBindingMasks_m4C8420EAA858691D9E9DB7E6EC6AC67C98CC23B5 (void);
+// 0x00000087 System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::ClearBindingMasks()
+extern void LocomotionSchemeManager_ClearBindingMasks_mEAEBD54A22806977302BF74EF4B72A458C95C2DA (void);
+// 0x00000088 System.Nullable`1<UnityEngine.InputSystem.InputControlScheme> VRBuilder.XRInteraction.LocomotionSchemeManager::FindControlScheme(System.String,UnityEngine.InputSystem.InputActionReference)
+extern void LocomotionSchemeManager_FindControlScheme_m7795B8BC7A28D3258E2E6A8653F93B9D20919068 (void);
+// 0x00000089 System.Nullable`1<UnityEngine.InputSystem.InputControlScheme> VRBuilder.XRInteraction.LocomotionSchemeManager::FindControlScheme(System.String,UnityEngine.InputSystem.InputActionAsset)
+extern void LocomotionSchemeManager_FindControlScheme_m208E573919CD78CA9BF18CC8F6FFBCA210C77FE2 (void);
+// 0x0000008A System.Nullable`1<UnityEngine.InputSystem.InputBinding> VRBuilder.XRInteraction.LocomotionSchemeManager::GetBindingMask(System.Nullable`1<UnityEngine.InputSystem.InputControlScheme>,System.Nullable`1<UnityEngine.InputSystem.InputControlScheme>)
+extern void LocomotionSchemeManager_GetBindingMask_mBC67443670B91192D884CDDF342A6D98942AB835 (void);
+// 0x0000008B System.Void VRBuilder.XRInteraction.LocomotionSchemeManager::.ctor()
+extern void LocomotionSchemeManager__ctor_m285659E92BF8C76962AD2DDB7C1020DBB4756AF9 (void);
+// 0x0000008C UnityEngine.XR.Interaction.Toolkit.InputHelpers/Button VRBuilder.XRInteraction.ControllerManager::get_TeleportButton()
+extern void ControllerManager_get_TeleportButton_mB1D5B9B77EA10A2FD4F3C746BC943E6ECC2CCFC9 (void);
+// 0x0000008D System.Void VRBuilder.XRInteraction.ControllerManager::set_TeleportButton(UnityEngine.XR.Interaction.Toolkit.InputHelpers/Button)
+extern void ControllerManager_set_TeleportButton_m43FD44FCC98F0B436200F5F61385838528FECE29 (void);
+// 0x0000008E UnityEngine.XR.Interaction.Toolkit.InputHelpers/Button VRBuilder.XRInteraction.ControllerManager::get_CancelTeleportButton()
+extern void ControllerManager_get_CancelTeleportButton_m052F95B61205856652C1271FD93028D55E41C305 (void);
+// 0x0000008F System.Void VRBuilder.XRInteraction.ControllerManager::set_CancelTeleportButton(UnityEngine.XR.Interaction.Toolkit.InputHelpers/Button)
+extern void ControllerManager_set_CancelTeleportButton_m271EB480A92DDD6800C28810F70E39A29DD2CC30 (void);
+// 0x00000090 UnityEngine.GameObject VRBuilder.XRInteraction.ControllerManager::get_LeftBaseController()
+extern void ControllerManager_get_LeftBaseController_m3ADF8A02393D25AD72805AD4F15F3609FD8FDA66 (void);
+// 0x00000091 System.Void VRBuilder.XRInteraction.ControllerManager::set_LeftBaseController(UnityEngine.GameObject)
+extern void ControllerManager_set_LeftBaseController_m042D5D70021240962F5D225E8945F9E37A207C4D (void);
+// 0x00000092 UnityEngine.GameObject VRBuilder.XRInteraction.ControllerManager::get_LeftTeleportController()
+extern void ControllerManager_get_LeftTeleportController_m12A32BDC6417F503A6A905086684FD503837F06C (void);
+// 0x00000093 System.Void VRBuilder.XRInteraction.ControllerManager::set_LeftTeleportController(UnityEngine.GameObject)
+extern void ControllerManager_set_LeftTeleportController_mBAC98A7CF04514757BC44F85E00D6CFA744635DC (void);
+// 0x00000094 UnityEngine.GameObject VRBuilder.XRInteraction.ControllerManager::get_RightBaseController()
+extern void ControllerManager_get_RightBaseController_mAFF4DDBAD7EEA5C109A2ADED9677F62F787001AA (void);
+// 0x00000095 System.Void VRBuilder.XRInteraction.ControllerManager::set_RightBaseController(UnityEngine.GameObject)
+extern void ControllerManager_set_RightBaseController_m0AD1B88F0C04B87C9CA16AC5E0DE624FAC23193B (void);
+// 0x00000096 UnityEngine.GameObject VRBuilder.XRInteraction.ControllerManager::get_RightTeleportController()
+extern void ControllerManager_get_RightTeleportController_m0BAAAFDCC24AE516A76DC8FA4BD752147D0192D3 (void);
+// 0x00000097 System.Void VRBuilder.XRInteraction.ControllerManager::set_RightTeleportController(UnityEngine.GameObject)
+extern void ControllerManager_set_RightTeleportController_mE7C14FF852AAD464D8AC652992045FE44C449400 (void);
+// 0x00000098 System.Void VRBuilder.XRInteraction.ControllerManager::OnEnable()
+extern void ControllerManager_OnEnable_m4CF92E1A0839905A14A0F9B93A4EC72C2F84B114 (void);
+// 0x00000099 System.Void VRBuilder.XRInteraction.ControllerManager::OnDisable()
+extern void ControllerManager_OnDisable_m34CE6141241955769FA56E8B8C499C8775C28F24 (void);
+// 0x0000009A System.Void VRBuilder.XRInteraction.ControllerManager::Update()
+extern void ControllerManager_Update_m282C882E763EE5DA8C626A30583E050D98B4E429 (void);
+// 0x0000009B System.Void VRBuilder.XRInteraction.ControllerManager::RegisterDevices(UnityEngine.XR.InputDevice)
+extern void ControllerManager_RegisterDevices_m65326104B0406C42995FEB6799818F552351D70C (void);
+// 0x0000009C System.Void VRBuilder.XRInteraction.ControllerManager::ProcessController(UnityEngine.XR.InputDevice,VRBuilder.XRInteraction.ControllerManager/ControllerState&)
+extern void ControllerManager_ProcessController_m4C3C69DA5EFE8593830A00C25CE81C5B08612E00 (void);
+// 0x0000009D System.Void VRBuilder.XRInteraction.ControllerManager::.ctor()
+extern void ControllerManager__ctor_m36BB66CD1E04D63A0678A24C80D12F70B84AAB49 (void);
+// 0x0000009E System.Void VRBuilder.XRInteraction.ControllerManager/InteractorController::Attach(UnityEngine.GameObject)
+extern void InteractorController_Attach_m09AF2844D60175BF1689AED5EC3B4E87C596322B (void);
+// 0x0000009F System.Void VRBuilder.XRInteraction.ControllerManager/InteractorController::Enter()
+extern void InteractorController_Enter_m45460FBD80006A52B2F07240E4D795702C5D5279 (void);
+// 0x000000A0 System.Void VRBuilder.XRInteraction.ControllerManager/InteractorController::Leave()
+extern void InteractorController_Leave_mCAF65896F537EE89FD33D551A5EC8097F508471D (void);
+// 0x000000A1 System.Boolean VRBuilder.XRInteraction.ControllerManager/InteractorController::IsInteractorInteracting()
+extern void InteractorController_IsInteractorInteracting_mF9FE32B4CBEACD65761F197F951BDA80FEEBCA34 (void);
+// 0x000000A2 System.Void VRBuilder.XRInteraction.ControllerManager/ControllerState::Initialize()
+extern void ControllerState_Initialize_mD59295B788A98EBC734BC92E6475CD17A407902A (void);
+// 0x000000A3 System.Void VRBuilder.XRInteraction.ControllerManager/ControllerState::ClearAll()
+extern void ControllerState_ClearAll_m52A6EC6A596782D907184DB594C81CC96B8AD572 (void);
+// 0x000000A4 System.Void VRBuilder.XRInteraction.ControllerManager/ControllerState::SetGameObject(VRBuilder.XRInteraction.ControllerManager/ControllerStates,UnityEngine.GameObject)
+extern void ControllerState_SetGameObject_mB38AF216BFAB8AC051D3D9C810DA8BE443CB52F8 (void);
+// 0x000000A5 System.Void VRBuilder.XRInteraction.ControllerManager/ControllerState::SetState(VRBuilder.XRInteraction.ControllerManager/ControllerStates)
+extern void ControllerState_SetState_m36D71805C177143372727F89ACA0149BD35AD209 (void);
+// 0x000000A6 System.Boolean VRBuilder.XRInteraction.ControllerManager/ControllerState::IsControllerInteracting(VRBuilder.XRInteraction.ControllerManager/ControllerStates)
+extern void ControllerState_IsControllerInteracting_m14CF817A878FAA70E33C4D59E9D657F8D1A6B362 (void);
+// 0x000000A7 VRBuilder.XRInteraction.InteractableObject VRBuilder.XRInteraction.InteractableHighlighter::get_InteractableObject()
+extern void InteractableHighlighter_get_InteractableObject_m3E8B8F5F3293DFBA1AC82E64BD07EA0E348E1598 (void);
+// 0x000000A8 System.Boolean VRBuilder.XRInteraction.InteractableHighlighter::get_AllowOnTouchHighlight()
+extern void InteractableHighlighter_get_AllowOnTouchHighlight_m8C5BDEAD4A3B41458EE4F95D76DE58D644A4ADD5 (void);
+// 0x000000A9 System.Void VRBuilder.XRInteraction.InteractableHighlighter::set_AllowOnTouchHighlight(System.Boolean)
+extern void InteractableHighlighter_set_AllowOnTouchHighlight_mF77C9F14C6C41A6863005274D060ADF14A2FB15E (void);
+// 0x000000AA System.Boolean VRBuilder.XRInteraction.InteractableHighlighter::get_AllowOnGrabHighlight()
+extern void InteractableHighlighter_get_AllowOnGrabHighlight_m530A2160EAB9D2ED79EA80EB06FCE2076E4EA5F2 (void);
+// 0x000000AB System.Void VRBuilder.XRInteraction.InteractableHighlighter::set_AllowOnGrabHighlight(System.Boolean)
+extern void InteractableHighlighter_set_AllowOnGrabHighlight_m1737B3461A51C2A06B1737B8022C518E229F24FC (void);
+// 0x000000AC System.Boolean VRBuilder.XRInteraction.InteractableHighlighter::get_AllowOnUseHighlight()
+extern void InteractableHighlighter_get_AllowOnUseHighlight_m65CB1F1549E9F4E2CBC8B59F966943F0F93A2850 (void);
+// 0x000000AD System.Void VRBuilder.XRInteraction.InteractableHighlighter::set_AllowOnUseHighlight(System.Boolean)
+extern void InteractableHighlighter_set_AllowOnUseHighlight_m10ED302A9EC59F998779F50F4415E1CED798DBE4 (void);
+// 0x000000AE System.Void VRBuilder.XRInteraction.InteractableHighlighter::Start()
+extern void InteractableHighlighter_Start_m08B4722020F18CDA4CCF8B2D86C713D9226EB96A (void);
+// 0x000000AF System.Void VRBuilder.XRInteraction.InteractableHighlighter::OnEnable()
+extern void InteractableHighlighter_OnEnable_mFF3C972DA1D476CF3D6A0B548C97DDB33D6C4165 (void);
+// 0x000000B0 System.Void VRBuilder.XRInteraction.InteractableHighlighter::OnDisable()
+extern void InteractableHighlighter_OnDisable_m14F67AC52EA405080818C36C203B85FDB2AA89B1 (void);
+// 0x000000B1 System.Void VRBuilder.XRInteraction.InteractableHighlighter::OnValidate()
+extern void InteractableHighlighter_OnValidate_m48BAEC7A08FAE24BB4AFD027153C547C63D18D2E (void);
+// 0x000000B2 System.Void VRBuilder.XRInteraction.InteractableHighlighter::StartHighlighting(System.String,UnityEngine.Material)
+extern void InteractableHighlighter_StartHighlighting_m1F77A8A5787781A7BB26088D5417A29AB951B546 (void);
+// 0x000000B3 System.Void VRBuilder.XRInteraction.InteractableHighlighter::StartHighlighting(System.String,UnityEngine.Color)
+extern void InteractableHighlighter_StartHighlighting_mFA60A13AB3ED95BDE9C379880E923BF5B961C729 (void);
+// 0x000000B4 System.Void VRBuilder.XRInteraction.InteractableHighlighter::StartHighlighting(System.String,UnityEngine.Texture)
+extern void InteractableHighlighter_StartHighlighting_mC020258A7E995F6A0D315347CD0C85EBCC73905E (void);
+// 0x000000B5 System.Void VRBuilder.XRInteraction.InteractableHighlighter::OnHoverEnter(UnityEngine.XR.Interaction.Toolkit.HoverEnterEventArgs)
+extern void InteractableHighlighter_OnHoverEnter_m3AC5B293F4C1C51FD928A6E0DD3ABD4D4BA0EBE5 (void);
+// 0x000000B6 System.Void VRBuilder.XRInteraction.InteractableHighlighter::OnHoverExit(UnityEngine.XR.Interaction.Toolkit.HoverExitEventArgs)
+extern void InteractableHighlighter_OnHoverExit_m6B96E051A51E5ED9CD21D802FE5AD1052EEC524C (void);
+// 0x000000B7 System.Void VRBuilder.XRInteraction.InteractableHighlighter::OnSelectEnter(UnityEngine.XR.Interaction.Toolkit.SelectEnterEventArgs)
+extern void InteractableHighlighter_OnSelectEnter_m25EF14D95B1E20A4CCA9E65ABDE518380F118204 (void);
+// 0x000000B8 System.Void VRBuilder.XRInteraction.InteractableHighlighter::OnSelectExit(UnityEngine.XR.Interaction.Toolkit.SelectExitEventArgs)
+extern void InteractableHighlighter_OnSelectExit_mFD522EF6FCCA646D5CEEEA3ECDCC7CA7485EA22F (void);
+// 0x000000B9 System.Void VRBuilder.XRInteraction.InteractableHighlighter::OnActivateEnter(UnityEngine.XR.Interaction.Toolkit.ActivateEventArgs)
+extern void InteractableHighlighter_OnActivateEnter_mE0757C2700EF0F3686F60E30978F1AF8856FB9A1 (void);
+// 0x000000BA System.Void VRBuilder.XRInteraction.InteractableHighlighter::OnActivateExit(UnityEngine.XR.Interaction.Toolkit.DeactivateEventArgs)
+extern void InteractableHighlighter_OnActivateExit_m760826A63CDE3D6FAD94EB9D6EE7A5DB584EEBF8 (void);
+// 0x000000BB System.Void VRBuilder.XRInteraction.InteractableHighlighter::HighlightHoverAction()
+extern void InteractableHighlighter_HighlightHoverAction_m0D93E783B6F2798B1EEF401AA9A47EA651BA21CA (void);
+// 0x000000BC System.Void VRBuilder.XRInteraction.InteractableHighlighter::HighlightSelectAction()
+extern void InteractableHighlighter_HighlightSelectAction_m7F2281752BC0D70B4A288849BA42F76B71E2CE52 (void);
+// 0x000000BD System.Void VRBuilder.XRInteraction.InteractableHighlighter::HighlightActivateAction()
+extern void InteractableHighlighter_HighlightActivateAction_m14BAD63A98A76F66DF0E7171C2BC272210ED506E (void);
+// 0x000000BE System.Boolean VRBuilder.XRInteraction.InteractableHighlighter::ShouldHighlightTouching()
+extern void InteractableHighlighter_ShouldHighlightTouching_m2C9DF71745676B0CDF9B3B448A6E38FFB218C97D (void);
+// 0x000000BF System.Boolean VRBuilder.XRInteraction.InteractableHighlighter::ShouldHighlightGrabbing()
+extern void InteractableHighlighter_ShouldHighlightGrabbing_m42AE131B574A2777F693048290D3519D7E4E4A6F (void);
+// 0x000000C0 System.Boolean VRBuilder.XRInteraction.InteractableHighlighter::ShouldHighlightUsing()
+extern void InteractableHighlighter_ShouldHighlightUsing_mF1FFB69E36FCBC9B9DD4D109D1DA76A1F6C22CC0 (void);
+// 0x000000C1 System.Void VRBuilder.XRInteraction.InteractableHighlighter::.ctor()
+extern void InteractableHighlighter__ctor_m48D673438400DF01D47995D31898FB7EB4A48BBD (void);
+// 0x000000C2 UnityEngine.Rigidbody VRBuilder.XRInteraction.InteractableObject::get_Rigidbody()
+extern void InteractableObject_get_Rigidbody_m4BAEA3A248C9B78932F80FB2FE2A104B65B31EB5 (void);
+// 0x000000C3 UnityEngine.GameObject VRBuilder.XRInteraction.InteractableObject::get_GameObject()
+extern void InteractableObject_get_GameObject_mB875A7BF24B6B44F27D6333BEE52251A44998EA6 (void);
+// 0x000000C4 System.Void VRBuilder.XRInteraction.InteractableObject::set_IsTouchable(System.Boolean)
+extern void InteractableObject_set_IsTouchable_mF6324A7AE0E53FDE1250671F2E0FD6A42B211B58 (void);
+// 0x000000C5 System.Void VRBuilder.XRInteraction.InteractableObject::set_IsGrabbable(System.Boolean)
+extern void InteractableObject_set_IsGrabbable_mE4D239B09600208AD4B54578CEF603F5F8E6AEFC (void);
+// 0x000000C6 System.Void VRBuilder.XRInteraction.InteractableObject::set_IsUsable(System.Boolean)
+extern void InteractableObject_set_IsUsable_mEDD9A76D2B93B148FD48AAE71E1029AF7CD54E7B (void);
+// 0x000000C7 System.Boolean VRBuilder.XRInteraction.InteractableObject::get_IsActivated()
+extern void InteractableObject_get_IsActivated_m7D6866E858A05517EFBD3A49A15EB82F81D7EFB5 (void);
+// 0x000000C8 System.Void VRBuilder.XRInteraction.InteractableObject::set_IsActivated(System.Boolean)
+extern void InteractableObject_set_IsActivated_m34513BED79A5BE99165D457C116D0E09656A9BC7 (void);
+// 0x000000C9 System.Boolean VRBuilder.XRInteraction.InteractableObject::get_IsInSocket()
+extern void InteractableObject_get_IsInSocket_m4070451BDCF90D025311152BE2D452B0EC67706C (void);
+// 0x000000CA UnityEngine.XR.Interaction.Toolkit.XRSocketInteractor VRBuilder.XRInteraction.InteractableObject::get_SelectingSocket()
+extern void InteractableObject_get_SelectingSocket_m67ACEDB4B4A29F7FDFC925A3963E25B0AECBAC9F (void);
+// 0x000000CB System.Void VRBuilder.XRInteraction.InteractableObject::Awake()
+extern void InteractableObject_Awake_mD4E05039DC50DA71E12F389CF31EF1E89AAC99BE (void);
+// 0x000000CC System.Void VRBuilder.XRInteraction.InteractableObject::Reset()
+extern void InteractableObject_Reset_m2A95416B001D598E7FFFC2711E23E2D1878F27D5 (void);
+// 0x000000CD System.Void VRBuilder.XRInteraction.InteractableObject::OnTriggerEnter(UnityEngine.Collider)
+extern void InteractableObject_OnTriggerEnter_m566242721297C80453CDBBE393AB03A6695B9786 (void);
+// 0x000000CE System.Void VRBuilder.XRInteraction.InteractableObject::OnTriggerExit(UnityEngine.Collider)
+extern void InteractableObject_OnTriggerExit_m5BA0253A5F61D7E171983F817DE26407CEDF23A8 (void);
+// 0x000000CF System.Boolean VRBuilder.XRInteraction.InteractableObject::IsHoverableBy(UnityEngine.XR.Interaction.Toolkit.IXRHoverInteractor)
+extern void InteractableObject_IsHoverableBy_m46E668A9C75DAA0AAC1B722BD91689725AB14A5B (void);
+// 0x000000D0 System.Boolean VRBuilder.XRInteraction.InteractableObject::IsSelectableBy(UnityEngine.XR.Interaction.Toolkit.IXRSelectInteractor)
+extern void InteractableObject_IsSelectableBy_mCE0EF57FD00B89ED7BAA6841F2BC230F994E4F5C (void);
+// 0x000000D1 System.Void VRBuilder.XRInteraction.InteractableObject::ForceStopInteracting()
+extern void InteractableObject_ForceStopInteracting_m93F9C72BC78D72EF532FB45630C794D22F3228C3 (void);
+// 0x000000D2 System.Void VRBuilder.XRInteraction.InteractableObject::ForceUse()
+extern void InteractableObject_ForceUse_m1ACCEC74889096567E144BC0FEAAD73343A61596 (void);
+// 0x000000D3 System.Void VRBuilder.XRInteraction.InteractableObject::ForceSelectEnter(UnityEngine.XR.Interaction.Toolkit.IXRSelectInteractor)
+extern void InteractableObject_ForceSelectEnter_mB6F4CAA736A54998A0FC1A255046DCD092C50DF3 (void);
+// 0x000000D4 System.Void VRBuilder.XRInteraction.InteractableObject::OnSelectEntering(UnityEngine.XR.Interaction.Toolkit.SelectEnterEventArgs)
+extern void InteractableObject_OnSelectEntering_mD07934478359A69088A874FE26C156BA8A1378E8 (void);
+// 0x000000D5 System.Void VRBuilder.XRInteraction.InteractableObject::OnSelectExiting(UnityEngine.XR.Interaction.Toolkit.SelectExitEventArgs)
+extern void InteractableObject_OnSelectExiting_m7065299BE0244A3E9B6FA737E2DBDAC9D1C88CF2 (void);
+// 0x000000D6 System.Void VRBuilder.XRInteraction.InteractableObject::OnActivated(UnityEngine.XR.Interaction.Toolkit.ActivateEventArgs)
+extern void InteractableObject_OnActivated_m6B2A2A5C9970110A18C0CAAA71799D850FAF542B (void);
+// 0x000000D7 System.Void VRBuilder.XRInteraction.InteractableObject::OnActivate(UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor)
+extern void InteractableObject_OnActivate_m1B86309970B4BC100CAEA1234E4BF9FA9E0BE0C3 (void);
+// 0x000000D8 System.Void VRBuilder.XRInteraction.InteractableObject::OnDeactivated(UnityEngine.XR.Interaction.Toolkit.DeactivateEventArgs)
+extern void InteractableObject_OnDeactivated_mD0E4B475F8EC6E5D5AC0F89E6528BEE5F808FA75 (void);
+// 0x000000D9 System.Void VRBuilder.XRInteraction.InteractableObject::OnDeactivate(UnityEngine.XR.Interaction.Toolkit.XRBaseInteractor)
+extern void InteractableObject_OnDeactivate_mA436EC68F70FCAC55729D8452D92004C38F40387 (void);
+// 0x000000DA System.Collections.IEnumerator VRBuilder.XRInteraction.InteractableObject::StopInteractingForOneFrame()
+extern void InteractableObject_StopInteractingForOneFrame_mE36AC46B9840C22781EFE2E5C73866A523333096 (void);
+// 0x000000DB System.Void VRBuilder.XRInteraction.InteractableObject::.ctor()
+extern void InteractableObject__ctor_m8EECEA70459FDE04D457C61060810BE81443238C (void);
+// 0x000000DC System.Void VRBuilder.XRInteraction.InteractableObject/<>c__DisplayClass39_0::.ctor()
+extern void U3CU3Ec__DisplayClass39_0__ctor_mC087B187F248EDB414F8559FC40545A22043335D (void);
+// 0x000000DD System.Boolean VRBuilder.XRInteraction.InteractableObject/<>c__DisplayClass39_0::<StopInteractingForOneFrame>b__0()
+extern void U3CU3Ec__DisplayClass39_0_U3CStopInteractingForOneFrameU3Eb__0_m8277F10D6E40D5995DC2827675CE9AAD2D9E7152 (void);
+// 0x000000DE System.Boolean VRBuilder.XRInteraction.InteractableObject/<>c__DisplayClass39_0::<StopInteractingForOneFrame>b__1(UnityEngine.XR.Interaction.Toolkit.IXRSelectInteractor)
+extern void U3CU3Ec__DisplayClass39_0_U3CStopInteractingForOneFrameU3Eb__1_m8267AB926D9C46E0F860A482755BCD2562EDA33A (void);
+// 0x000000DF System.Void VRBuilder.XRInteraction.InteractableObject/<StopInteractingForOneFrame>d__39::.ctor(System.Int32)
+extern void U3CStopInteractingForOneFrameU3Ed__39__ctor_mEFE0015EFEA68528AE38F5BE9E23ACE23FCE3925 (void);
+// 0x000000E0 System.Void VRBuilder.XRInteraction.InteractableObject/<StopInteractingForOneFrame>d__39::System.IDisposable.Dispose()
+extern void U3CStopInteractingForOneFrameU3Ed__39_System_IDisposable_Dispose_mC22151E2D7B93799121629AA6112BA2B8CD7E0F9 (void);
+// 0x000000E1 System.Boolean VRBuilder.XRInteraction.InteractableObject/<StopInteractingForOneFrame>d__39::MoveNext()
+extern void U3CStopInteractingForOneFrameU3Ed__39_MoveNext_mD62AADB1CB71A4205E52F68378F16B29DEA32C17 (void);
+// 0x000000E2 System.Object VRBuilder.XRInteraction.InteractableObject/<StopInteractingForOneFrame>d__39::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CStopInteractingForOneFrameU3Ed__39_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m79C6BE0EFA96A42EF77BD7F6BE4F07B0F156DB55 (void);
+// 0x000000E3 System.Void VRBuilder.XRInteraction.InteractableObject/<StopInteractingForOneFrame>d__39::System.Collections.IEnumerator.Reset()
+extern void U3CStopInteractingForOneFrameU3Ed__39_System_Collections_IEnumerator_Reset_m7A6E98F2E691510D86419E6F68312D526E4ED52A (void);
+// 0x000000E4 System.Object VRBuilder.XRInteraction.InteractableObject/<StopInteractingForOneFrame>d__39::System.Collections.IEnumerator.get_Current()
+extern void U3CStopInteractingForOneFrameU3Ed__39_System_Collections_IEnumerator_get_Current_m82AD32049A93B016DBEF80971C817C05491B790C (void);
+// 0x000000E5 System.Void VRBuilder.XRInteraction.TeleportationAnchorVRBuilder::OnSelectEntered(UnityEngine.XR.Interaction.Toolkit.SelectEnterEventArgs)
+extern void TeleportationAnchorVRBuilder_OnSelectEntered_m41B809896240BD03E882B505F20114D796D69F60 (void);
+// 0x000000E6 System.Void VRBuilder.XRInteraction.TeleportationAnchorVRBuilder::OnSelectExited(UnityEngine.XR.Interaction.Toolkit.SelectExitEventArgs)
+extern void TeleportationAnchorVRBuilder_OnSelectExited_mBF57DF587DE22C04B97BF860746ACE71FDF45D24 (void);
+// 0x000000E7 System.Void VRBuilder.XRInteraction.TeleportationAnchorVRBuilder::OnActivated(UnityEngine.XR.Interaction.Toolkit.ActivateEventArgs)
+extern void TeleportationAnchorVRBuilder_OnActivated_m187E071EFF8F5D2D9FDFE87CEC5B7BCF4D27EAEB (void);
+// 0x000000E8 System.Void VRBuilder.XRInteraction.TeleportationAnchorVRBuilder::OnDeactivated(UnityEngine.XR.Interaction.Toolkit.DeactivateEventArgs)
+extern void TeleportationAnchorVRBuilder_OnDeactivated_mDCF8B979E8C74E4168934FC745CB380DF686856E (void);
+// 0x000000E9 System.Void VRBuilder.XRInteraction.TeleportationAnchorVRBuilder::CheckTeleportationProvider(UnityEngine.XR.Interaction.Toolkit.IXRInteractor)
+extern void TeleportationAnchorVRBuilder_CheckTeleportationProvider_m8061A0268444D578C54041AF32B0CB0284BE9312 (void);
+// 0x000000EA System.Void VRBuilder.XRInteraction.TeleportationAnchorVRBuilder::.ctor()
+extern void TeleportationAnchorVRBuilder__ctor_m929B15E01F1DD3516EC679D5E101066D237A92C8 (void);
+// 0x000000EB System.Void VRBuilder.XRInteraction.TeleportationAreaVRBuilder::OnHoverEntered(UnityEngine.XR.Interaction.Toolkit.HoverEnterEventArgs)
+extern void TeleportationAreaVRBuilder_OnHoverEntered_m07EAA7FE03ACEF3B7AD575A2E28237ABB1609CF4 (void);
+// 0x000000EC System.Void VRBuilder.XRInteraction.TeleportationAreaVRBuilder::OnSelectEntered(UnityEngine.XR.Interaction.Toolkit.SelectEnterEventArgs)
+extern void TeleportationAreaVRBuilder_OnSelectEntered_mC2717CA8C8370F4F30B33E5D5C7593FCC54820BF (void);
+// 0x000000ED System.Void VRBuilder.XRInteraction.TeleportationAreaVRBuilder::OnSelectExited(UnityEngine.XR.Interaction.Toolkit.SelectExitEventArgs)
+extern void TeleportationAreaVRBuilder_OnSelectExited_mC308EBB321284FF59C02E8A62FDEBDCF1B79AF55 (void);
+// 0x000000EE System.Void VRBuilder.XRInteraction.TeleportationAreaVRBuilder::OnActivated(UnityEngine.XR.Interaction.Toolkit.ActivateEventArgs)
+extern void TeleportationAreaVRBuilder_OnActivated_m39840E020E4FD7CC8193AB4FD06B6CFFB6E6ACAC (void);
+// 0x000000EF System.Void VRBuilder.XRInteraction.TeleportationAreaVRBuilder::OnDeactivated(UnityEngine.XR.Interaction.Toolkit.DeactivateEventArgs)
+extern void TeleportationAreaVRBuilder_OnDeactivated_m8E2A13645B0520347D6F2E129DDB3FA80A7D824F (void);
+// 0x000000F0 System.Void VRBuilder.XRInteraction.TeleportationAreaVRBuilder::CheckTeleportationProvider(UnityEngine.XR.Interaction.Toolkit.IXRInteractor)
+extern void TeleportationAreaVRBuilder_CheckTeleportationProvider_mE5FC47F9D2710FD5864CA49C344098E3A00CBC60 (void);
+// 0x000000F1 System.Void VRBuilder.XRInteraction.TeleportationAreaVRBuilder::.ctor()
+extern void TeleportationAreaVRBuilder__ctor_m6BF3F611866F44902DB144C6D92C2A0FD2ADD0F7 (void);
+// 0x000000F2 System.Boolean VRBuilder.XRInteraction.DirectInteractor::get_PrecisionGrab()
+extern void DirectInteractor_get_PrecisionGrab_mA346FFC06535202CD835F5DF73FA22B0C58653EE (void);
+// 0x000000F3 System.Void VRBuilder.XRInteraction.DirectInteractor::set_PrecisionGrab(System.Boolean)
+extern void DirectInteractor_set_PrecisionGrab_m34B0F54C81AFFBEAE30C1BF5159B541CA59BFFEC (void);
+// 0x000000F4 System.Void VRBuilder.XRInteraction.DirectInteractor::Awake()
+extern void DirectInteractor_Awake_mE8200DCC66A0FDF28F1E1690F1F404456E17327E (void);
+// 0x000000F5 System.Boolean VRBuilder.XRInteraction.DirectInteractor::get_isSelectActive()
+extern void DirectInteractor_get_isSelectActive_m66FF986E18663F849B91B3730BC6D9AAB444B105 (void);
+// 0x000000F6 System.Void VRBuilder.XRInteraction.DirectInteractor::AttemptGrab()
+extern void DirectInteractor_AttemptGrab_m7FEC67B7AFC75FCC006177210F32F0C71FFCD392 (void);
+// 0x000000F7 System.Void VRBuilder.XRInteraction.DirectInteractor::OnSelectEntering(UnityEngine.XR.Interaction.Toolkit.SelectEnterEventArgs)
+extern void DirectInteractor_OnSelectEntering_m988985D646BA64B231A006324B2A29FBE42892BA (void);
+// 0x000000F8 System.Void VRBuilder.XRInteraction.DirectInteractor::OnSelectEntering(UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable)
+extern void DirectInteractor_OnSelectEntering_m48B1CB4DCA97D9B1EB68B7A31A610C7B610BF6BC (void);
+// 0x000000F9 System.Void VRBuilder.XRInteraction.DirectInteractor::OnSelectEnter(UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable)
+extern void DirectInteractor_OnSelectEnter_m3A914651613D570B9D7CC021E1C4D551C04E7D0D (void);
+// 0x000000FA System.Void VRBuilder.XRInteraction.DirectInteractor::OnSelectExiting(UnityEngine.XR.Interaction.Toolkit.SelectExitEventArgs)
+extern void DirectInteractor_OnSelectExiting_m45CFD638D721F5F6664366F0856BB6E6842C380E (void);
+// 0x000000FB System.Void VRBuilder.XRInteraction.DirectInteractor::OnSelectExiting(UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable)
+extern void DirectInteractor_OnSelectExiting_m3C649C02A8D2793CA16C8E6D4E30EBBCD461E2F0 (void);
+// 0x000000FC System.Void VRBuilder.XRInteraction.DirectInteractor::OnSelectExit(UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable)
+extern void DirectInteractor_OnSelectExit_m3F979825CE4C45F1E49382DD6C723BD922140E89 (void);
+// 0x000000FD System.Void VRBuilder.XRInteraction.DirectInteractor::.ctor()
+extern void DirectInteractor__ctor_m69DCD10D654085707E18111C075741AB727908C2 (void);
+// 0x000000FE System.Boolean VRBuilder.XRInteraction.RayInteractor::get_isSelectActive()
+extern void RayInteractor_get_isSelectActive_m3EAEEDDAA26A1DF4438959408038DA2741CD4930 (void);
+// 0x000000FF System.Void VRBuilder.XRInteraction.RayInteractor::AttemptGrab()
+extern void RayInteractor_AttemptGrab_m259803B16D5D777E867936C5C7CA7C739830C9C1 (void);
+// 0x00000100 System.Void VRBuilder.XRInteraction.RayInteractor::.ctor()
+extern void RayInteractor__ctor_m8CC46EE4CED091378244A62A92325537ACEC068A (void);
+// 0x00000101 System.Boolean VRBuilder.XRInteraction.SnapZone::get_ShowHighlightObject()
+extern void SnapZone_get_ShowHighlightObject_m92C828CAC9B8B4E1B3571038D2573BE534D0532B (void);
+// 0x00000102 System.Void VRBuilder.XRInteraction.SnapZone::set_ShowHighlightObject(System.Boolean)
+extern void SnapZone_set_ShowHighlightObject_m94874A192289CC9037576598FB158D5A10552921 (void);
+// 0x00000103 System.Boolean VRBuilder.XRInteraction.SnapZone::get_IsEmpty()
+extern void SnapZone_get_IsEmpty_mDDD57788AE1A005EF432B83C1B975E11C8764E12 (void);
+// 0x00000104 VRBuilder.BasicInteraction.Properties.ISnappableProperty VRBuilder.XRInteraction.SnapZone::get_SnappedObject()
+extern void SnapZone_get_SnappedObject_m9142B2D9C700DDFCE645A9448A1D8B8F6004F006 (void);
+// 0x00000105 UnityEngine.Transform VRBuilder.XRInteraction.SnapZone::get_Anchor()
+extern void SnapZone_get_Anchor_mC6385517FBCAA4DDC381E72B95116F3BA9C3DF54 (void);
+// 0x00000106 UnityEngine.GameObject VRBuilder.XRInteraction.SnapZone::get_ShownHighlightObject()
+extern void SnapZone_get_ShownHighlightObject_mD145B02086A6F2A40F1319AF5D4A1C8B2BCB2B5E (void);
+// 0x00000107 System.Void VRBuilder.XRInteraction.SnapZone::set_ShownHighlightObject(UnityEngine.GameObject)
+extern void SnapZone_set_ShownHighlightObject_m5A593432AAE63983EF8429067F18516D47DFA5E7 (void);
+// 0x00000108 UnityEngine.Material VRBuilder.XRInteraction.SnapZone::get_HighlightMeshMaterial()
+extern void SnapZone_get_HighlightMeshMaterial_m7C20170E81BFE9B505BE0A9179A1B1639BD033C8 (void);
+// 0x00000109 System.Void VRBuilder.XRInteraction.SnapZone::set_HighlightMeshMaterial(UnityEngine.Material)
+extern void SnapZone_set_HighlightMeshMaterial_m3C1745509FABD44C585B07CADC2E5EB4520E59B0 (void);
+// 0x0000010A UnityEngine.Material VRBuilder.XRInteraction.SnapZone::get_ValidationMaterial()
+extern void SnapZone_get_ValidationMaterial_mDA7C298B0F47DC044FC7D9BB38D4EDC75A20C308 (void);
+// 0x0000010B System.Void VRBuilder.XRInteraction.SnapZone::set_ValidationMaterial(UnityEngine.Material)
+extern void SnapZone_set_ValidationMaterial_m47F0753B19498C0F3750EA9C65F443265ABF24A8 (void);
+// 0x0000010C UnityEngine.Material VRBuilder.XRInteraction.SnapZone::get_InvalidMaterial()
+extern void SnapZone_get_InvalidMaterial_m729B1C499C37D7A31D63A196AA5E8ABD780C98A7 (void);
+// 0x0000010D System.Void VRBuilder.XRInteraction.SnapZone::set_InvalidMaterial(UnityEngine.Material)
+extern void SnapZone_set_InvalidMaterial_mFB04F0AE663BF200F2C67619B966CED85211F90E (void);
+// 0x0000010E UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable VRBuilder.XRInteraction.SnapZone::get_ForceUnselectTarget()
+extern void SnapZone_get_ForceUnselectTarget_m859C94B6B156E2349D524B94F45D04475D0560E5 (void);
+// 0x0000010F System.Void VRBuilder.XRInteraction.SnapZone::set_ForceUnselectTarget(UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable)
+extern void SnapZone_set_ForceUnselectTarget_mB8C03CF859B63FEDD539F63F7D9A8D0F9DC7FD28 (void);
+// 0x00000110 UnityEngine.XR.Interaction.Toolkit.IXRSelectInteractable VRBuilder.XRInteraction.SnapZone::get_ForceUnselectInteractable()
+extern void SnapZone_get_ForceUnselectInteractable_mEAB8D3CC7A4419620CB6EF3D4F3D798D588FAE50 (void);
+// 0x00000111 System.Void VRBuilder.XRInteraction.SnapZone::set_ForceUnselectInteractable(UnityEngine.XR.Interaction.Toolkit.IXRSelectInteractable)
+extern void SnapZone_set_ForceUnselectInteractable_m12DC820C4F6CA028B5F98D8B79CA8871C6F5542B (void);
+// 0x00000112 UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable VRBuilder.XRInteraction.SnapZone::get_ForceSelectTarget()
+extern void SnapZone_get_ForceSelectTarget_mBA8C2333BF6D5C87A41125FC1669899AAE94C207 (void);
+// 0x00000113 System.Void VRBuilder.XRInteraction.SnapZone::set_ForceSelectTarget(UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable)
+extern void SnapZone_set_ForceSelectTarget_m39947BE65BF16631C59820640687B32275B6F498 (void);
+// 0x00000114 UnityEngine.XR.Interaction.Toolkit.IXRSelectInteractable VRBuilder.XRInteraction.SnapZone::get_ForceSelectInteractable()
+extern void SnapZone_get_ForceSelectInteractable_mD11A607758AD76C04B5A95ADF7AF56B134FD6501 (void);
+// 0x00000115 System.Void VRBuilder.XRInteraction.SnapZone::set_ForceSelectInteractable(UnityEngine.XR.Interaction.Toolkit.IXRSelectInteractable)
+extern void SnapZone_set_ForceSelectInteractable_m304C062317ADB84473F1E9A627D1D0259947313C (void);
+// 0x00000116 System.Boolean VRBuilder.XRInteraction.SnapZone::get_IsSnapping()
+extern void SnapZone_get_IsSnapping_mD1AC3BB36050F56F74C2CF5928D59BAD3A94D0F6 (void);
+// 0x00000117 System.Boolean VRBuilder.XRInteraction.SnapZone::get_IsUnsnapping()
+extern void SnapZone_get_IsUnsnapping_mC7D3EDEBD228C0DB774EBFD999D805D2E36E3BA9 (void);
+// 0x00000118 UnityEngine.Mesh VRBuilder.XRInteraction.SnapZone::get_PreviewMesh()
+extern void SnapZone_get_PreviewMesh_m943DB94F3D737F44702E858E0F657D727EF8559C (void);
+// 0x00000119 System.Void VRBuilder.XRInteraction.SnapZone::set_PreviewMesh(UnityEngine.Mesh)
+extern void SnapZone_set_PreviewMesh_mE0D5CFB9DABE65CEE3EE471F3513DB1C28AFB38A (void);
+// 0x0000011A System.Void VRBuilder.XRInteraction.SnapZone::Awake()
+extern void SnapZone_Awake_mE9E3CEBA09F9E1AB737F8C1DCF8A3171EFF902D7 (void);
+// 0x0000011B System.Void VRBuilder.XRInteraction.SnapZone::AddHoveredInteractable(UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable)
+extern void SnapZone_AddHoveredInteractable_m69BCEAAE37C3D744BCF57E5B7194E8B611B93B02 (void);
+// 0x0000011C System.Void VRBuilder.XRInteraction.SnapZone::RemoveHoveredInteractable(UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable)
+extern void SnapZone_RemoveHoveredInteractable_m79CB10BDEF21486DA7E00B552477DEE6F281EE78 (void);
+// 0x0000011D System.Void VRBuilder.XRInteraction.SnapZone::OnEnable()
+extern void SnapZone_OnEnable_m303987682A498768DE42C82E74CAAB553DF0A456 (void);
+// 0x0000011E System.Void VRBuilder.XRInteraction.SnapZone::OnDisable()
+extern void SnapZone_OnDisable_m11C57F3D2C8AA5832E643DAA548DC36B900AC1BD (void);
+// 0x0000011F System.Void VRBuilder.XRInteraction.SnapZone::OnAttach(UnityEngine.XR.Interaction.Toolkit.SelectEnterEventArgs)
+extern void SnapZone_OnAttach_m2284E1E434B03F166B8D2783F71097E0AFBC9831 (void);
+// 0x00000120 System.Void VRBuilder.XRInteraction.SnapZone::OnDetach(UnityEngine.XR.Interaction.Toolkit.SelectExitEventArgs)
+extern void SnapZone_OnDetach_m1BDD672047BA99C641FBD0EB06B96CB4B32036D4 (void);
+// 0x00000121 System.Void VRBuilder.XRInteraction.SnapZone::DetachParent()
+extern void SnapZone_DetachParent_m79604B0F70E71C4E24343A544C047EB122096E51 (void);
+// 0x00000122 System.Void VRBuilder.XRInteraction.SnapZone::AttachParent()
+extern void SnapZone_AttachParent_m4C6CFC0F90AAF1D8E197F5D092C50B96DD367701 (void);
+// 0x00000123 System.Void VRBuilder.XRInteraction.SnapZone::OnDrawGizmos()
+extern void SnapZone_OnDrawGizmos_m35B36AB3AD6FF187543278F74DD06B49824D407F (void);
+// 0x00000124 System.Void VRBuilder.XRInteraction.SnapZone::Update()
+extern void SnapZone_Update_m9EB6705B2D6D4E4D92E2CC5A9AD5392FC5FEC80D (void);
+// 0x00000125 System.Void VRBuilder.XRInteraction.SnapZone::UpdateHighlightMeshFilterCache()
+extern void SnapZone_UpdateHighlightMeshFilterCache_mAF4C3ABB8B52F4AFA4A3EE485B48D28E6E50BC65 (void);
+// 0x00000126 System.Void VRBuilder.XRInteraction.SnapZone::ProcessInteractor(UnityEngine.XR.Interaction.Toolkit.XRInteractionUpdateOrder/UpdatePhase)
+extern void SnapZone_ProcessInteractor_m85F8732FFF155D57405C80594C6D5AA0C0A734BB (void);
+// 0x00000127 System.Void VRBuilder.XRInteraction.SnapZone::CheckForReleasedHoverTargets()
+extern void SnapZone_CheckForReleasedHoverTargets_m7F9D3AFD410717023866606F47147F7590C94F44 (void);
+// 0x00000128 System.Void VRBuilder.XRInteraction.SnapZone::ShowHighlight()
+extern void SnapZone_ShowHighlight_m2E55856112E13DC349B38D7780218D1E73B77FE3 (void);
+// 0x00000129 UnityEngine.Material VRBuilder.XRInteraction.SnapZone::CreateFallbackMaterial()
+extern void SnapZone_CreateFallbackMaterial_mC88CFAC6DFEB50E7CA67C6AABD803FA772BCCFF5 (void);
+// 0x0000012A System.Void VRBuilder.XRInteraction.SnapZone::DrawHighlightMesh()
+extern void SnapZone_DrawHighlightMesh_m0F4B9DA44D2A6696879254AA033FA6316DD6F041 (void);
+// 0x0000012B System.Void VRBuilder.XRInteraction.SnapZone::ForceUnselect()
+extern void SnapZone_ForceUnselect_mE372BD4848D33A8AC1645A3BD6EF4EC199B71251 (void);
+// 0x0000012C System.Void VRBuilder.XRInteraction.SnapZone::ForceSelect(UnityEngine.XR.Interaction.Toolkit.IXRSelectInteractable)
+extern void SnapZone_ForceSelect_mFB849A7DCD2589B68DA292DBB4D6A1632B60C168 (void);
+// 0x0000012D System.Boolean VRBuilder.XRInteraction.SnapZone::CanSelect(UnityEngine.XR.Interaction.Toolkit.IXRSelectInteractable)
+extern void SnapZone_CanSelect_mFA346D9EAD239E04F231AC3C4D9EE5238057B76F (void);
+// 0x0000012E System.Boolean VRBuilder.XRInteraction.SnapZone::IsValidSnapTarget(UnityEngine.XR.Interaction.Toolkit.IXRSelectInteractable)
+extern void SnapZone_IsValidSnapTarget_m1E48797EE1B78CA9F0AD089E54632F09C8241AE0 (void);
+// 0x0000012F System.Boolean VRBuilder.XRInteraction.SnapZone::CanSelect(UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable)
+extern void SnapZone_CanSelect_mFCA1A50BE2805DAB06749E94BCC4582F8F89CF07 (void);
+// 0x00000130 System.Boolean VRBuilder.XRInteraction.SnapZone::CanSnap(VRBuilder.BasicInteraction.Properties.ISnappableProperty)
+extern void SnapZone_CanSnap_m8015F9C73711CE091F2816FF3030C1F3582807B9 (void);
+// 0x00000131 System.Boolean VRBuilder.XRInteraction.SnapZone::ForceSnap(VRBuilder.BasicInteraction.Properties.ISnappableProperty)
+extern void SnapZone_ForceSnap_m5D4037B015B200DAD8D31CB3DCBC539F6FCED38A (void);
+// 0x00000132 System.Boolean VRBuilder.XRInteraction.SnapZone::ForceRelease()
+extern void SnapZone_ForceRelease_mA4AF0AA71E3487F9EC72CFB49AB4A95649D14AEF (void);
+// 0x00000133 System.Void VRBuilder.XRInteraction.SnapZone::.ctor()
+extern void SnapZone__ctor_m94F2B33443687EB570A503DF492A0AC3A04534DC (void);
+// 0x00000134 System.Void VRBuilder.XRInteraction.SnapZone/<>c::.cctor()
+extern void U3CU3Ec__cctor_mF8DA2222688437C2823D5CFA4CDA5F605FDF3C99 (void);
+// 0x00000135 System.Void VRBuilder.XRInteraction.SnapZone/<>c::.ctor()
+extern void U3CU3Ec__ctor_m42A6E3791D2C84753B9EC9D080A76EF51CCB71B8 (void);
+// 0x00000136 System.Boolean VRBuilder.XRInteraction.SnapZone/<>c::<Awake>b__56_0(UnityEngine.Collider)
+extern void U3CU3Ec_U3CAwakeU3Eb__56_0_m4D38D27AD1008DBCEEB95EE19541B7CCC6DE6953 (void);
+// 0x00000137 System.Boolean VRBuilder.XRInteraction.SnapZone/<>c::<ProcessInteractor>b__68_0(UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable)
+extern void U3CU3Ec_U3CProcessInteractorU3Eb__68_0_m1BA2EABD1418D983D44A704A5CF63F55427872A1 (void);
+// 0x00000138 System.Void VRBuilder.XRInteraction.SnapZonePreviewDrawer::OnEnable()
+extern void SnapZonePreviewDrawer_OnEnable_mE7B57E34AA10BF5E06BCD903C234C66C1A41BA9D (void);
+// 0x00000139 System.Void VRBuilder.XRInteraction.SnapZonePreviewDrawer::Update()
+extern void SnapZonePreviewDrawer_Update_m79448186C7DDFDEF5D0AEBDD003F16F65C4B8BD8 (void);
+// 0x0000013A System.Void VRBuilder.XRInteraction.SnapZonePreviewDrawer::DestroyPreview()
+extern void SnapZonePreviewDrawer_DestroyPreview_m00E4723874DCE5EB6587FE18F51D3E31726DA97B (void);
+// 0x0000013B System.Void VRBuilder.XRInteraction.SnapZonePreviewDrawer::UpdateMesh()
+extern void SnapZonePreviewDrawer_UpdateMesh_m125C85972A8BB243627FB3383FE083A6457C3542 (void);
+// 0x0000013C System.Void VRBuilder.XRInteraction.SnapZonePreviewDrawer::.ctor()
+extern void SnapZonePreviewDrawer__ctor_mC8FEA97496A474DCAF98B75E2B417CFAD98A8525 (void);
+// 0x0000013D System.Void VRBuilder.XRInteraction.RigManipulationProvider::SetRigPositionAndRotation(UnityEngine.Vector3,UnityEngine.Quaternion)
+extern void RigManipulationProvider_SetRigPositionAndRotation_m5C72D1383CC45E4E9D4692C8D1C896ABFBC658BC (void);
+// 0x0000013E System.Void VRBuilder.XRInteraction.RigManipulationProvider::.ctor()
+extern void RigManipulationProvider__ctor_mB9C7136FE364AAB6A9EC1BBFEC626ABEA93BD4EF (void);
+// 0x0000013F UnityEngine.Quaternion VRBuilder.XRInteraction.XRLocomotionHandler::get_CurrentRotation()
+extern void XRLocomotionHandler_get_CurrentRotation_m29652411EC1905E5B793E36AF2F96A28EC39515F (void);
+// 0x00000140 UnityEngine.Vector3 VRBuilder.XRInteraction.XRLocomotionHandler::get_CurrentPosition()
+extern void XRLocomotionHandler_get_CurrentPosition_mBA2F037C5451E51038A6DD7C533A8B93E5F909C7 (void);
+// 0x00000141 VRBuilder.XRInteraction.RigManipulationProvider VRBuilder.XRInteraction.XRLocomotionHandler::get_RigManipulationProvider()
+extern void XRLocomotionHandler_get_RigManipulationProvider_m05E4574F7077CA33985E48A321B62BB0B0177333 (void);
+// 0x00000142 System.Void VRBuilder.XRInteraction.XRLocomotionHandler::SetPositionAndRotation(UnityEngine.Vector3,UnityEngine.Quaternion)
+extern void XRLocomotionHandler_SetPositionAndRotation_mCD7230E7E36F5B6525725B33E76046DAA5D2F8D9 (void);
+// 0x00000143 System.Void VRBuilder.XRInteraction.XRLocomotionHandler::.ctor()
+extern void XRLocomotionHandler__ctor_mB11997F2C14724C79836E19F470219769900D02B (void);
+// 0x00000144 System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty::add_Grabbed(System.EventHandler`1<System.EventArgs>)
+extern void GrabbableProperty_add_Grabbed_m792AB223E6E4CE216C441EAE117BC0EECE6A3EA2 (void);
+// 0x00000145 System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty::remove_Grabbed(System.EventHandler`1<System.EventArgs>)
+extern void GrabbableProperty_remove_Grabbed_m90559940D5F13F1A7D4CAFBD8474CF8ED9386945 (void);
+// 0x00000146 System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty::add_Ungrabbed(System.EventHandler`1<System.EventArgs>)
+extern void GrabbableProperty_add_Ungrabbed_m31D788AEBFC8B3A25E0AD206C11F8D08B45B2075 (void);
+// 0x00000147 System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty::remove_Ungrabbed(System.EventHandler`1<System.EventArgs>)
+extern void GrabbableProperty_remove_Ungrabbed_m3A9FEE8C437AE7BD043C0C1DB1FF2FA434EE5EC1 (void);
+// 0x00000148 System.Boolean VRBuilder.XRInteraction.Properties.GrabbableProperty::get_IsGrabbed()
+extern void GrabbableProperty_get_IsGrabbed_m3D1DB4589C91D2DDF82734568A86C73580A3BA10 (void);
+// 0x00000149 System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty::set_IsGrabbed(System.Boolean)
+extern void GrabbableProperty_set_IsGrabbed_m3F2EDF999FB537DB10061F528ADF19E171877E66 (void);
+// 0x0000014A VRBuilder.XRInteraction.InteractableObject VRBuilder.XRInteraction.Properties.GrabbableProperty::get_Interactable()
+extern void GrabbableProperty_get_Interactable_m60619E7A7165FDB664194AB24ED8F7D251BC4187 (void);
+// 0x0000014B UnityEngine.Events.UnityEvent`1<VRBuilder.BasicInteraction.Properties.GrabbablePropertyEventArgs> VRBuilder.XRInteraction.Properties.GrabbableProperty::get_GrabStarted()
+extern void GrabbableProperty_get_GrabStarted_mC0CEA5095A7176303C3E8C0EF5B0BD4BB634C524 (void);
+// 0x0000014C UnityEngine.Events.UnityEvent`1<VRBuilder.BasicInteraction.Properties.GrabbablePropertyEventArgs> VRBuilder.XRInteraction.Properties.GrabbableProperty::get_GrabEnded()
+extern void GrabbableProperty_get_GrabEnded_m23DD497FB944109912F19CBA852F597265E78257 (void);
+// 0x0000014D System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty::OnEnable()
+extern void GrabbableProperty_OnEnable_m1B27428D29BFF7559580ACBF2115D1C9379DDEDC (void);
+// 0x0000014E System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty::OnDisable()
+extern void GrabbableProperty_OnDisable_m4025CC748FE5BEE8DE31E4B2352C38886DD66DD3 (void);
+// 0x0000014F System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty::Reset()
+extern void GrabbableProperty_Reset_m54DFDFB61923C91546E9E8508391117E43E9C7C7 (void);
+// 0x00000150 System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty::HandleXRGrabbed(UnityEngine.XR.Interaction.Toolkit.SelectEnterEventArgs)
+extern void GrabbableProperty_HandleXRGrabbed_m61F0B20408670098F4B89189D0C89E81EE74AA0A (void);
+// 0x00000151 System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty::HandleXRUngrabbed(UnityEngine.XR.Interaction.Toolkit.SelectExitEventArgs)
+extern void GrabbableProperty_HandleXRUngrabbed_m1617F1AD9ECE177C3367842D8FDC81F5A5A99D52 (void);
+// 0x00000152 System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty::EmitGrabbed()
+extern void GrabbableProperty_EmitGrabbed_m1E6B6169D8290206474175C11E484BA44CCF0599 (void);
+// 0x00000153 System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty::EmitUngrabbed()
+extern void GrabbableProperty_EmitUngrabbed_mF13E71FD822CE3B1F41867B360EA6B31040A6858 (void);
+// 0x00000154 System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty::InternalSetLocked(System.Boolean)
+extern void GrabbableProperty_InternalSetLocked_mAB47D4BB40D71B64AB27FBC8ECB12A7E7B8721C0 (void);
+// 0x00000155 System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty::FastForwardGrab()
+extern void GrabbableProperty_FastForwardGrab_m4E39912F2EA834687E982DFFD066663882E0BB56 (void);
+// 0x00000156 System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty::FastForwardUngrab()
+extern void GrabbableProperty_FastForwardUngrab_mCCB10F0E74CC31C96B066DD2E70F37867976EE59 (void);
+// 0x00000157 System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty::ForceSetGrabbed(System.Boolean)
+extern void GrabbableProperty_ForceSetGrabbed_m82F5D5A1E7A6BCAE411CBE105992CFDA85BD2944 (void);
+// 0x00000158 System.Collections.IEnumerator VRBuilder.XRInteraction.Properties.GrabbableProperty::UngrabGrabAndRelease()
+extern void GrabbableProperty_UngrabGrabAndRelease_m73411D24D0EFD80FC5FBF524EAD5A4BFB6F83F38 (void);
+// 0x00000159 System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty::.ctor()
+extern void GrabbableProperty__ctor_m4550CD7035E83CF9B0CB6E6431ED495C26F2AF60 (void);
+// 0x0000015A System.Boolean VRBuilder.XRInteraction.Properties.GrabbableProperty::<UngrabGrabAndRelease>b__30_0()
+extern void GrabbableProperty_U3CUngrabGrabAndReleaseU3Eb__30_0_m32FD2FBAE920BEDF119F7CFF82D5AA4B95634269 (void);
+// 0x0000015B System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty/<UngrabGrabAndRelease>d__30::.ctor(System.Int32)
+extern void U3CUngrabGrabAndReleaseU3Ed__30__ctor_m53F5093E1E05E5FD3C6C5D2FFD3521156031F9E2 (void);
+// 0x0000015C System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty/<UngrabGrabAndRelease>d__30::System.IDisposable.Dispose()
+extern void U3CUngrabGrabAndReleaseU3Ed__30_System_IDisposable_Dispose_m3927225A7D516285233CC0F21E3A80B4BEE8E4C9 (void);
+// 0x0000015D System.Boolean VRBuilder.XRInteraction.Properties.GrabbableProperty/<UngrabGrabAndRelease>d__30::MoveNext()
+extern void U3CUngrabGrabAndReleaseU3Ed__30_MoveNext_m4E8DD132EB25683D348BC766CAFC0DA1ECFAC4E7 (void);
+// 0x0000015E System.Object VRBuilder.XRInteraction.Properties.GrabbableProperty/<UngrabGrabAndRelease>d__30::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+extern void U3CUngrabGrabAndReleaseU3Ed__30_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mB66A91C8F25221D505D663BF86809DBBEEACECBE (void);
+// 0x0000015F System.Void VRBuilder.XRInteraction.Properties.GrabbableProperty/<UngrabGrabAndRelease>d__30::System.Collections.IEnumerator.Reset()
+extern void U3CUngrabGrabAndReleaseU3Ed__30_System_Collections_IEnumerator_Reset_m3791C4B099A7E7CBCB2E0D51BF885C43145C39C5 (void);
+// 0x00000160 System.Object VRBuilder.XRInteraction.Properties.GrabbableProperty/<UngrabGrabAndRelease>d__30::System.Collections.IEnumerator.get_Current()
+extern void U3CUngrabGrabAndReleaseU3Ed__30_System_Collections_IEnumerator_get_Current_m29F5B783A38B1FBED2B3FE0F338BA4876334210D (void);
+// 0x00000161 System.Nullable`1<UnityEngine.Color> VRBuilder.XRInteraction.Properties.HighlightProperty::get_CurrentHighlightColor()
+extern void HighlightProperty_get_CurrentHighlightColor_mC44CB7492B079E1C73A5AC93694CCF380B966036 (void);
+// 0x00000162 System.Void VRBuilder.XRInteraction.Properties.HighlightProperty::set_CurrentHighlightColor(System.Nullable`1<UnityEngine.Color>)
+extern void HighlightProperty_set_CurrentHighlightColor_m3FF3F6FA077A9C6C0300243E37C87ECF831A61E7 (void);
+// 0x00000163 VRBuilder.XRInteraction.InteractableHighlighter VRBuilder.XRInteraction.Properties.HighlightProperty::get_Highlighter()
+extern void HighlightProperty_get_Highlighter_m824BAD5E3568F53111B0233DBE4247DE13B4715F (void);
+// 0x00000164 System.Void VRBuilder.XRInteraction.Properties.HighlightProperty::OnEnable()
+extern void HighlightProperty_OnEnable_m0F6D6D302A3D13653694503B344DC214B666610D (void);
+// 0x00000165 System.Void VRBuilder.XRInteraction.Properties.HighlightProperty::Reset()
+extern void HighlightProperty_Reset_m0DD2A5CBE3183EC5370FCE734DD984E9B4865A35 (void);
+// 0x00000166 System.Void VRBuilder.XRInteraction.Properties.HighlightProperty::Initialize()
+extern void HighlightProperty_Initialize_mF1E4F0BDE82F8C8DD501C671D104542B886F4214 (void);
+// 0x00000167 System.Void VRBuilder.XRInteraction.Properties.HighlightProperty::Highlight(UnityEngine.Color)
+extern void HighlightProperty_Highlight_m73755CD5A062AEEF38003F90C0D802B2358BDF79 (void);
+// 0x00000168 System.Void VRBuilder.XRInteraction.Properties.HighlightProperty::Unhighlight()
+extern void HighlightProperty_Unhighlight_m4310DFAC7CF305DA6611CE5DDBE3E5E27AF3DB81 (void);
+// 0x00000169 System.Void VRBuilder.XRInteraction.Properties.HighlightProperty::.ctor()
+extern void HighlightProperty__ctor_mB759363919C80C5A6908324A907F751E5BF3F1FC (void);
+// 0x0000016A System.Void VRBuilder.XRInteraction.Properties.SnappableProperty::add_Snapped(System.EventHandler`1<System.EventArgs>)
+extern void SnappableProperty_add_Snapped_m5ACB1D8BCD059170FF9148AF6A3CF9F0D3855180 (void);
+// 0x0000016B System.Void VRBuilder.XRInteraction.Properties.SnappableProperty::remove_Snapped(System.EventHandler`1<System.EventArgs>)
+extern void SnappableProperty_remove_Snapped_mCB620E09C3A8CD20E6B394C098255A352F802AB4 (void);
+// 0x0000016C System.Void VRBuilder.XRInteraction.Properties.SnappableProperty::add_Unsnapped(System.EventHandler`1<System.EventArgs>)
+extern void SnappableProperty_add_Unsnapped_m6B467FE825ED2FA6530A93E3726A0DCEA67DF45A (void);
+// 0x0000016D System.Void VRBuilder.XRInteraction.Properties.SnappableProperty::remove_Unsnapped(System.EventHandler`1<System.EventArgs>)
+extern void SnappableProperty_remove_Unsnapped_mE840C3B8DADAB88B817081AF5CEB2EE9D2C4F2C3 (void);
+// 0x0000016E UnityEngine.Events.UnityEvent`1<VRBuilder.BasicInteraction.Properties.SnappablePropertyEventArgs> VRBuilder.XRInteraction.Properties.SnappableProperty::get_AttachedToSnapZone()
+extern void SnappableProperty_get_AttachedToSnapZone_mA1259FD5DC9F1F778A45AB1847FBA8A61379302F (void);
+// 0x0000016F UnityEngine.Events.UnityEvent`1<VRBuilder.BasicInteraction.Properties.SnappablePropertyEventArgs> VRBuilder.XRInteraction.Properties.SnappableProperty::get_DetachedFromSnapZone()
+extern void SnappableProperty_get_DetachedFromSnapZone_mDCB0150E1F8AC8AEEF3DCB5C06A2EB3D960B07BA (void);
+// 0x00000170 System.Boolean VRBuilder.XRInteraction.Properties.SnappableProperty::get_IsSnapped()
+extern void SnappableProperty_get_IsSnapped_mBB3940B247634E2E10382CCF156BC782795EBF2C (void);
+// 0x00000171 VRBuilder.BasicInteraction.Properties.ISnapZoneProperty VRBuilder.XRInteraction.Properties.SnappableProperty::get_SnappedZone()
+extern void SnappableProperty_get_SnappedZone_m94C29B6F5A8A15D4EFFE6979B65F3032A576CB7A (void);
+// 0x00000172 System.Void VRBuilder.XRInteraction.Properties.SnappableProperty::set_SnappedZone(VRBuilder.BasicInteraction.Properties.ISnapZoneProperty)
+extern void SnappableProperty_set_SnappedZone_m6109128A7D76BFA63F4075A7103A127771086CDF (void);
+// 0x00000173 System.Boolean VRBuilder.XRInteraction.Properties.SnappableProperty::get_LockObjectOnSnap()
+extern void SnappableProperty_get_LockObjectOnSnap_mC2D4A1447AE7755932C55D9D07E303C093A32301 (void);
+// 0x00000174 System.Void VRBuilder.XRInteraction.Properties.SnappableProperty::set_LockObjectOnSnap(System.Boolean)
+extern void SnappableProperty_set_LockObjectOnSnap_m7D295D68FDE1F0E60E1E04A461F8054889417A7C (void);
+// 0x00000175 UnityEngine.XR.Interaction.Toolkit.XRBaseInteractable VRBuilder.XRInteraction.Properties.SnappableProperty::get_Interactable()
+extern void SnappableProperty_get_Interactable_m413B9E08D0F09AEE5D4825043846659EDFCFF8CC (void);
+// 0x00000176 System.Void VRBuilder.XRInteraction.Properties.SnappableProperty::OnEnable()
+extern void SnappableProperty_OnEnable_mD2B0DD888DC6A0129897D74CB00E90677273BBD1 (void);
+// 0x00000177 System.Void VRBuilder.XRInteraction.Properties.SnappableProperty::OnDisable()
+extern void SnappableProperty_OnDisable_m703F5B14BA07DD3C40178ECBBC89A05537B293F2 (void);
+// 0x00000178 System.Void VRBuilder.XRInteraction.Properties.SnappableProperty::HandleSnappedToDropZone(UnityEngine.XR.Interaction.Toolkit.SelectEnterEventArgs)
+extern void SnappableProperty_HandleSnappedToDropZone_mDA1D793E39E133FE63DDF8C7C7333C598C614408 (void);
+// 0x00000179 System.Void VRBuilder.XRInteraction.Properties.SnappableProperty::HandleUnsnappedFromDropZone(UnityEngine.XR.Interaction.Toolkit.SelectExitEventArgs)
+extern void SnappableProperty_HandleUnsnappedFromDropZone_mA9B7D166354FBAA60865DAEE79765CB19836A576 (void);
+// 0x0000017A System.Void VRBuilder.XRInteraction.Properties.SnappableProperty::InternalSetLocked(System.Boolean)
+extern void SnappableProperty_InternalSetLocked_mEEED02A8F685085BCC6B1DF2DADA04AC7B86BFEB (void);
+// 0x0000017B System.Void VRBuilder.XRInteraction.Properties.SnappableProperty::EmitSnapped(VRBuilder.BasicInteraction.Properties.ISnapZoneProperty)
+extern void SnappableProperty_EmitSnapped_m27645B15588D1719E39DEA558E7FC76C0B40840A (void);
+// 0x0000017C System.Void VRBuilder.XRInteraction.Properties.SnappableProperty::EmitUnsnapped(VRBuilder.BasicInteraction.Properties.ISnapZoneProperty)
+extern void SnappableProperty_EmitUnsnapped_mD662CEC47D80BD79F468BBA3EE0101A8500FDAA1 (void);
+// 0x0000017D System.Void VRBuilder.XRInteraction.Properties.SnappableProperty::FastForwardSnapInto(VRBuilder.BasicInteraction.Properties.ISnapZoneProperty)
+extern void SnappableProperty_FastForwardSnapInto_mDCFD5F86A5B138E970451EDCF0EFBC597F0E71F7 (void);
+// 0x0000017E System.Void VRBuilder.XRInteraction.Properties.SnappableProperty::.ctor()
+extern void SnappableProperty__ctor_mCC0A8BBDF6ABFF8C7FA5A55AD6F091749C96D4E1 (void);
+// 0x0000017F System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::add_ObjectSnapped(System.EventHandler`1<System.EventArgs>)
+extern void SnapZoneProperty_add_ObjectSnapped_m8E1113DAFB880891B2B490D9DA4094E4E0CB6E24 (void);
+// 0x00000180 System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::remove_ObjectSnapped(System.EventHandler`1<System.EventArgs>)
+extern void SnapZoneProperty_remove_ObjectSnapped_m66B21F022FB41F007AD9A405D5F04018A856085F (void);
+// 0x00000181 System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::add_ObjectUnsnapped(System.EventHandler`1<System.EventArgs>)
+extern void SnapZoneProperty_add_ObjectUnsnapped_m45952471F5EB8250A8FF3A1E1BB94F7D8FA18196 (void);
+// 0x00000182 System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::remove_ObjectUnsnapped(System.EventHandler`1<System.EventArgs>)
+extern void SnapZoneProperty_remove_ObjectUnsnapped_m756413DD3BAC94CCADA4FF577C2A3EC9E9F305BD (void);
+// 0x00000183 VRBuilder.Core.Configuration.Modes.ModeParameter`1<System.Boolean> VRBuilder.XRInteraction.Properties.SnapZoneProperty::get_IsShowingHoverMeshes()
+extern void SnapZoneProperty_get_IsShowingHoverMeshes_m462069ABE85B678F79537602676D21DFCB58BF1F (void);
+// 0x00000184 System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::set_IsShowingHoverMeshes(VRBuilder.Core.Configuration.Modes.ModeParameter`1<System.Boolean>)
+extern void SnapZoneProperty_set_IsShowingHoverMeshes_m181B35C040E2D6FA7C827A2985C3E41AC1EB570A (void);
+// 0x00000185 VRBuilder.Core.Configuration.Modes.ModeParameter`1<System.Boolean> VRBuilder.XRInteraction.Properties.SnapZoneProperty::get_IsShowingHighlightObject()
+extern void SnapZoneProperty_get_IsShowingHighlightObject_m5EBB46D276D64773BC8FEFF351EBD9E6085E4F11 (void);
+// 0x00000186 System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::set_IsShowingHighlightObject(VRBuilder.Core.Configuration.Modes.ModeParameter`1<System.Boolean>)
+extern void SnapZoneProperty_set_IsShowingHighlightObject_mB192DA46689C960EEA8AC9BBA4770DBE41391221 (void);
+// 0x00000187 VRBuilder.Core.Configuration.Modes.ModeParameter`1<UnityEngine.Material> VRBuilder.XRInteraction.Properties.SnapZoneProperty::get_HighlightMaterial()
+extern void SnapZoneProperty_get_HighlightMaterial_mA17788CCFFBA80E5A7BE9000547BB3A656F69A37 (void);
+// 0x00000188 System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::set_HighlightMaterial(VRBuilder.Core.Configuration.Modes.ModeParameter`1<UnityEngine.Material>)
+extern void SnapZoneProperty_set_HighlightMaterial_m007A69986E5BD7A3C585BDCE0E5759C1C02F3298 (void);
+// 0x00000189 System.Boolean VRBuilder.XRInteraction.Properties.SnapZoneProperty::get_LockOnUnsnap()
+extern void SnapZoneProperty_get_LockOnUnsnap_mFB533575ADD23497DBFAD9EBB9817C9C9AEB8B1B (void);
+// 0x0000018A System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::set_LockOnUnsnap(System.Boolean)
+extern void SnapZoneProperty_set_LockOnUnsnap_m5D3DF6C3E79CBEBCD76884178291F2725D4D209E (void);
+// 0x0000018B System.Boolean VRBuilder.XRInteraction.Properties.SnapZoneProperty::get_IsObjectSnapped()
+extern void SnapZoneProperty_get_IsObjectSnapped_m9C3C4A3238EC8C89BA7ADB41E11C45A489947D95 (void);
+// 0x0000018C VRBuilder.BasicInteraction.Properties.ISnappableProperty VRBuilder.XRInteraction.Properties.SnapZoneProperty::get_SnappedObject()
+extern void SnapZoneProperty_get_SnappedObject_mFFEDFB147C581BBD5B1B4DD8C10941C4E75041CA (void);
+// 0x0000018D System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::set_SnappedObject(VRBuilder.BasicInteraction.Properties.ISnappableProperty)
+extern void SnapZoneProperty_set_SnappedObject_m20579805F407C7D93331D8E88E1FBBBE68986377 (void);
+// 0x0000018E UnityEngine.GameObject VRBuilder.XRInteraction.Properties.SnapZoneProperty::get_SnapZoneObject()
+extern void SnapZoneProperty_get_SnapZoneObject_m778A95FAC363D81EA6B8C64961B8E28F91AA2EA5 (void);
+// 0x0000018F VRBuilder.XRInteraction.SnapZone VRBuilder.XRInteraction.Properties.SnapZoneProperty::get_SnapZone()
+extern void SnapZoneProperty_get_SnapZone_m6734CBD78CFA262A207BB364086C785ACBBA66AA (void);
+// 0x00000190 UnityEngine.Events.UnityEvent`1<VRBuilder.BasicInteraction.Properties.SnapZonePropertyEventArgs> VRBuilder.XRInteraction.Properties.SnapZoneProperty::get_ObjectAttached()
+extern void SnapZoneProperty_get_ObjectAttached_mC32A94EB0B03282791B479D19D60A197699A66ED (void);
+// 0x00000191 UnityEngine.Events.UnityEvent`1<VRBuilder.BasicInteraction.Properties.SnapZonePropertyEventArgs> VRBuilder.XRInteraction.Properties.SnapZoneProperty::get_ObjectDetached()
+extern void SnapZoneProperty_get_ObjectDetached_m6BD7418E4C501E45D5C5C253CD03DC3275DC434B (void);
+// 0x00000192 System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::OnEnable()
+extern void SnapZoneProperty_OnEnable_m78EA2CE49B73332642A093A2388BC8E5CCDFBB58 (void);
+// 0x00000193 System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::OnDisable()
+extern void SnapZoneProperty_OnDisable_m13DEB18DBA7F6DF3638E789B4C68A910052E8066 (void);
+// 0x00000194 System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::HandleObjectSnapped(UnityEngine.XR.Interaction.Toolkit.SelectEnterEventArgs)
+extern void SnapZoneProperty_HandleObjectSnapped_m95D5E10B083786E55BC7F2A159ECC592D7046F4B (void);
+// 0x00000195 System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::HandleObjectUnsnapped(UnityEngine.XR.Interaction.Toolkit.SelectExitEventArgs)
+extern void SnapZoneProperty_HandleObjectUnsnapped_m53C54FE8E1BA41548F5977BDF0DD3AE9561A8B0A (void);
+// 0x00000196 System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::InitializeModeParameters()
+extern void SnapZoneProperty_InitializeModeParameters_mC5A6F5E89E659627154A7847AA876B14EDD5B317 (void);
+// 0x00000197 System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::Configure(VRBuilder.Core.Configuration.Modes.IMode)
+extern void SnapZoneProperty_Configure_m4879DF09C6B52C6B32FEBFDA308D11F2B861256D (void);
+// 0x00000198 System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::EmitSnapped()
+extern void SnapZoneProperty_EmitSnapped_m29FF7E3E111D90B74DDD196E05BBD07AE2097D3A (void);
+// 0x00000199 System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::EmitUnsnapped()
+extern void SnapZoneProperty_EmitUnsnapped_mF21F29BFD79DF50E64862A27CFDC6785C0827CDC (void);
+// 0x0000019A System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::InternalSetLocked(System.Boolean)
+extern void SnapZoneProperty_InternalSetLocked_m500839D34F255074C73818F4126B010D28B8E9F8 (void);
+// 0x0000019B System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::.ctor()
+extern void SnapZoneProperty__ctor_mDB0A707C81212D9663839BAE078E47DFA2BE245B (void);
+// 0x0000019C System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::<InitializeModeParameters>b__43_0(System.Object,System.EventArgs)
+extern void SnapZoneProperty_U3CInitializeModeParametersU3Eb__43_0_mEDC29FCF603C826EE20F18E7C12B0380575F4AF3 (void);
+// 0x0000019D System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::<InitializeModeParameters>b__43_1(System.Object,System.EventArgs)
+extern void SnapZoneProperty_U3CInitializeModeParametersU3Eb__43_1_mECEF835242B91BBA91F75DE34AE93E9C2F022329 (void);
+// 0x0000019E System.Void VRBuilder.XRInteraction.Properties.SnapZoneProperty::<InitializeModeParameters>b__43_2(System.Object,System.EventArgs)
+extern void SnapZoneProperty_U3CInitializeModeParametersU3Eb__43_2_m2DD2DB944D6B69C2F230A3995D378A9D0B3A1765 (void);
+// 0x0000019F System.Void VRBuilder.XRInteraction.Properties.TouchableProperty::add_Touched(System.EventHandler`1<System.EventArgs>)
+extern void TouchableProperty_add_Touched_mB228DED1F7F6846B82AB7CF284BEC4D3CE841814 (void);
+// 0x000001A0 System.Void VRBuilder.XRInteraction.Properties.TouchableProperty::remove_Touched(System.EventHandler`1<System.EventArgs>)
+extern void TouchableProperty_remove_Touched_mD5ECEA233B19B62F05AB0354C95DA14EBFABFDC3 (void);
+// 0x000001A1 System.Void VRBuilder.XRInteraction.Properties.TouchableProperty::add_Untouched(System.EventHandler`1<System.EventArgs>)
+extern void TouchableProperty_add_Untouched_mAD582A685A1319BFD2BD994D461DCCD7053882FB (void);
+// 0x000001A2 System.Void VRBuilder.XRInteraction.Properties.TouchableProperty::remove_Untouched(System.EventHandler`1<System.EventArgs>)
+extern void TouchableProperty_remove_Untouched_m03D5154BEA136030948306D72124A686738D838D (void);
+// 0x000001A3 System.Boolean VRBuilder.XRInteraction.Properties.TouchableProperty::get_IsBeingTouched()
+extern void TouchableProperty_get_IsBeingTouched_m9C94C661AB44DC264DC93C6B34350C70B7D43C65 (void);
+// 0x000001A4 System.Void VRBuilder.XRInteraction.Properties.TouchableProperty::set_IsBeingTouched(System.Boolean)
+extern void TouchableProperty_set_IsBeingTouched_mAEA91690C566110572E146FE2BAC663E36E1EFF8 (void);
+// 0x000001A5 VRBuilder.XRInteraction.InteractableObject VRBuilder.XRInteraction.Properties.TouchableProperty::get_Interactable()
+extern void TouchableProperty_get_Interactable_m8AC72A2D7C9762FDFFB0726B0776ED0896B79977 (void);
+// 0x000001A6 UnityEngine.Events.UnityEvent`1<VRBuilder.BasicInteraction.Properties.TouchablePropertyEventArgs> VRBuilder.XRInteraction.Properties.TouchableProperty::get_TouchStarted()
+extern void TouchableProperty_get_TouchStarted_mF764CA7CD21A9BA973D1048819690C5090D454BD (void);
+// 0x000001A7 UnityEngine.Events.UnityEvent`1<VRBuilder.BasicInteraction.Properties.TouchablePropertyEventArgs> VRBuilder.XRInteraction.Properties.TouchableProperty::get_TouchEnded()
+extern void TouchableProperty_get_TouchEnded_mFECA568706C9DF0D8FFF90223AB21A730E113B17 (void);
+// 0x000001A8 System.Void VRBuilder.XRInteraction.Properties.TouchableProperty::OnEnable()
+extern void TouchableProperty_OnEnable_mA759A47D3F8771F892D974F43D6402FCDFB60DE6 (void);
+// 0x000001A9 System.Void VRBuilder.XRInteraction.Properties.TouchableProperty::OnDisable()
+extern void TouchableProperty_OnDisable_mBB8611A5A63CCF81B2AB583DFC11162D2AC7FAC2 (void);
+// 0x000001AA System.Void VRBuilder.XRInteraction.Properties.TouchableProperty::Reset()
+extern void TouchableProperty_Reset_m60793A7FF152B702972F1D323888C68C2EA211E9 (void);
+// 0x000001AB System.Void VRBuilder.XRInteraction.Properties.TouchableProperty::HandleXRTouched(UnityEngine.XR.Interaction.Toolkit.HoverEnterEventArgs)
+extern void TouchableProperty_HandleXRTouched_mC89984F00633CFA5524B04DD8A9989A3BB776B4E (void);
+// 0x000001AC System.Void VRBuilder.XRInteraction.Properties.TouchableProperty::HandleXRUntouched(UnityEngine.XR.Interaction.Toolkit.HoverExitEventArgs)
+extern void TouchableProperty_HandleXRUntouched_mCD5A876EE6B0EFFFC9873F79377D8BA3772E5727 (void);
+// 0x000001AD System.Void VRBuilder.XRInteraction.Properties.TouchableProperty::EmitTouched()
+extern void TouchableProperty_EmitTouched_m4BE02E4EF731240B6351591A735940E3C257853F (void);
+// 0x000001AE System.Void VRBuilder.XRInteraction.Properties.TouchableProperty::EmitUntouched()
+extern void TouchableProperty_EmitUntouched_mE97041699E6AA2C09D917A6DF12582E7F3AD9D46 (void);
+// 0x000001AF System.Void VRBuilder.XRInteraction.Properties.TouchableProperty::InternalSetLocked(System.Boolean)
+extern void TouchableProperty_InternalSetLocked_m1EA3B7ABE0E91B2CF1FA635B833EE16271F757C7 (void);
+// 0x000001B0 System.Void VRBuilder.XRInteraction.Properties.TouchableProperty::ForceSetTouched(System.Boolean)
+extern void TouchableProperty_ForceSetTouched_m0D754B922BEA4C19088C1C7378314D85A65BF3CE (void);
+// 0x000001B1 System.Void VRBuilder.XRInteraction.Properties.TouchableProperty::FastForwardTouch()
+extern void TouchableProperty_FastForwardTouch_mCD5E09FCEAAE2DAC5571A38799644FEBA398E51E (void);
+// 0x000001B2 System.Void VRBuilder.XRInteraction.Properties.TouchableProperty::.ctor()
+extern void TouchableProperty__ctor_mFFEE7A090D14FFFF7868792B7D6DEA90D7E90A9D (void);
+// 0x000001B3 System.Void VRBuilder.XRInteraction.Properties.UsableProperty::add_UsageStarted(System.EventHandler`1<System.EventArgs>)
+extern void UsableProperty_add_UsageStarted_mBAE47543647867077515AB92E024C68F466A2630 (void);
+// 0x000001B4 System.Void VRBuilder.XRInteraction.Properties.UsableProperty::remove_UsageStarted(System.EventHandler`1<System.EventArgs>)
+extern void UsableProperty_remove_UsageStarted_mEDD14EA68D1CBDFB06F2BE2FFDD4BEA1F025661B (void);
+// 0x000001B5 System.Void VRBuilder.XRInteraction.Properties.UsableProperty::add_UsageStopped(System.EventHandler`1<System.EventArgs>)
+extern void UsableProperty_add_UsageStopped_m117E625F34AEC4DDD4EE3CE6AA74F7CF48F5189A (void);
+// 0x000001B6 System.Void VRBuilder.XRInteraction.Properties.UsableProperty::remove_UsageStopped(System.EventHandler`1<System.EventArgs>)
+extern void UsableProperty_remove_UsageStopped_mB3AA9A7A8674F6A3D474D4A99C9776FF4A8C8091 (void);
+// 0x000001B7 System.Boolean VRBuilder.XRInteraction.Properties.UsableProperty::get_IsBeingUsed()
+extern void UsableProperty_get_IsBeingUsed_m576ADF7864B7382275FA498044035352E076F49E (void);
+// 0x000001B8 System.Void VRBuilder.XRInteraction.Properties.UsableProperty::set_IsBeingUsed(System.Boolean)
+extern void UsableProperty_set_IsBeingUsed_m189DE5913EB44C625F0431BEF786211EDE7073CD (void);
+// 0x000001B9 VRBuilder.XRInteraction.InteractableObject VRBuilder.XRInteraction.Properties.UsableProperty::get_Interactable()
+extern void UsableProperty_get_Interactable_mBF3C5BD6DF5A8CD2734B1795EA3775B79CABAEA0 (void);
+// 0x000001BA UnityEngine.Events.UnityEvent`1<VRBuilder.BasicInteraction.Properties.UsablePropertyEventArgs> VRBuilder.XRInteraction.Properties.UsableProperty::get_UseStarted()
+extern void UsableProperty_get_UseStarted_mF911037D7832E18CB4160930D3771D1E06FF1E53 (void);
+// 0x000001BB UnityEngine.Events.UnityEvent`1<VRBuilder.BasicInteraction.Properties.UsablePropertyEventArgs> VRBuilder.XRInteraction.Properties.UsableProperty::get_UseEnded()
+extern void UsableProperty_get_UseEnded_m0239179E535268A0F5400ADA0DCF602B791BAED8 (void);
+// 0x000001BC System.Void VRBuilder.XRInteraction.Properties.UsableProperty::OnEnable()
+extern void UsableProperty_OnEnable_m8ED8B5522F37C2A28CB2C023DC334FB209AB5501 (void);
+// 0x000001BD System.Void VRBuilder.XRInteraction.Properties.UsableProperty::OnDisable()
+extern void UsableProperty_OnDisable_mB5D7F624F8D3637D8DAEE56672BA1ADA084BDA09 (void);
+// 0x000001BE System.Void VRBuilder.XRInteraction.Properties.UsableProperty::Reset()
+extern void UsableProperty_Reset_m7166D0722C3E57F080B458E2F85C2F85877E8D9D (void);
+// 0x000001BF System.Void VRBuilder.XRInteraction.Properties.UsableProperty::HandleXRUsageStarted(UnityEngine.XR.Interaction.Toolkit.ActivateEventArgs)
+extern void UsableProperty_HandleXRUsageStarted_mF5CE45FDBED86911AFF786DB67C4A30F837C755A (void);
+// 0x000001C0 System.Void VRBuilder.XRInteraction.Properties.UsableProperty::HandleXRUsageStopped(UnityEngine.XR.Interaction.Toolkit.DeactivateEventArgs)
+extern void UsableProperty_HandleXRUsageStopped_mEE00612356F102620A11E0CBC3C52AFD58D24F31 (void);
+// 0x000001C1 System.Void VRBuilder.XRInteraction.Properties.UsableProperty::EmitUsageStarted()
+extern void UsableProperty_EmitUsageStarted_m5CA5640B4AC16AFCBEB1A7AEB771381303281A23 (void);
+// 0x000001C2 System.Void VRBuilder.XRInteraction.Properties.UsableProperty::EmitUsageStopped()
+extern void UsableProperty_EmitUsageStopped_m3CBFE3E150703281389F7FCF7905EF670C80C20C (void);
+// 0x000001C3 System.Void VRBuilder.XRInteraction.Properties.UsableProperty::InternalSetLocked(System.Boolean)
+extern void UsableProperty_InternalSetLocked_m6953AE092E966876E0F224DBDBEC5BACC5596BE2 (void);
+// 0x000001C4 System.Void VRBuilder.XRInteraction.Properties.UsableProperty::FastForwardUse()
+extern void UsableProperty_FastForwardUse_m386E0CA62691F59C2AE147A8AD57FA906D845FB9 (void);
+// 0x000001C5 System.Void VRBuilder.XRInteraction.Properties.UsableProperty::ForceSetUsed(System.Boolean)
+extern void UsableProperty_ForceSetUsed_m67142BB38BE9D5B1386FC616CD6071925FEBB56B (void);
+// 0x000001C6 System.Void VRBuilder.XRInteraction.Properties.UsableProperty::.ctor()
+extern void UsableProperty__ctor_m57BD60C2B42C1562394DF26496A8512B1D3D2A22 (void);
+// 0x000001C7 System.Boolean VRBuilder.XRInteraction.Animation.HandAnimatorController::get_IsUIMode()
+extern void HandAnimatorController_get_IsUIMode_m41260F9DEF543DF9836451E33CE621C37AF0BB18 (void);
+// 0x000001C8 System.Void VRBuilder.XRInteraction.Animation.HandAnimatorController::set_IsUIMode(System.Boolean)
+extern void HandAnimatorController_set_IsUIMode_m275C70438F38C9F57B8F30491CDEF63C60667F07 (void);
+// 0x000001C9 System.Boolean VRBuilder.XRInteraction.Animation.HandAnimatorController::get_IsTeleportMode()
+extern void HandAnimatorController_get_IsTeleportMode_mB6A17B0674F7547248B5EAA7E4319214EBD38ABA (void);
+// 0x000001CA System.Void VRBuilder.XRInteraction.Animation.HandAnimatorController::set_IsTeleportMode(System.Boolean)
+extern void HandAnimatorController_set_IsTeleportMode_m8E6345A3DDAA7211934D988FF70AD7333ED7EE8B (void);
+// 0x000001CB System.Single VRBuilder.XRInteraction.Animation.HandAnimatorController::get_SelectValue()
+extern void HandAnimatorController_get_SelectValue_m23A9ABF0BED6D921BD84399DC47AE0BAFB540E3D (void);
+// 0x000001CC System.Void VRBuilder.XRInteraction.Animation.HandAnimatorController::set_SelectValue(System.Single)
+extern void HandAnimatorController_set_SelectValue_m3ECD4B1BFC265B34597532AE8E2D5C25B52CF8B0 (void);
+// 0x000001CD System.Single VRBuilder.XRInteraction.Animation.HandAnimatorController::get_ActivateValue()
+extern void HandAnimatorController_get_ActivateValue_m0717CA4C11B4E7A86D7A52C7EA99F3B957D84CE1 (void);
+// 0x000001CE System.Void VRBuilder.XRInteraction.Animation.HandAnimatorController::set_ActivateValue(System.Single)
+extern void HandAnimatorController_set_ActivateValue_mA15FFA20B92BCCEBF14162166FBCBA6E61AA7D08 (void);
+// 0x000001CF System.Void VRBuilder.XRInteraction.Animation.HandAnimatorController::Start()
+extern void HandAnimatorController_Start_mCE1BFC0E9B6477587A7F0A263F215A663CB39745 (void);
+// 0x000001D0 System.Void VRBuilder.XRInteraction.Animation.HandAnimatorController::Update()
+extern void HandAnimatorController_Update_mF061B3E5BB8FC56CBE2E5F62ECEE9325DFAFDD19 (void);
+// 0x000001D1 System.Void VRBuilder.XRInteraction.Animation.HandAnimatorController::.ctor()
+extern void HandAnimatorController__ctor_m021169A54ABBF26A370F05ED89BD115DB6E35244 (void);
+// 0x000001D2 System.String VRBuilder.XRInteraction.Configuration.XRInteractionComponentConfiguration::get_DisplayName()
+extern void XRInteractionComponentConfiguration_get_DisplayName_mF6C562E0054CAEAB92C8E6D1D82AD105ED2F52CE (void);
+// 0x000001D3 System.Boolean VRBuilder.XRInteraction.Configuration.XRInteractionComponentConfiguration::get_IsXRInteractionComponent()
+extern void XRInteractionComponentConfiguration_get_IsXRInteractionComponent_mB8965C14543D783B148DE3E59CFEA6C08FDB6DD5 (void);
+// 0x000001D4 System.String VRBuilder.XRInteraction.Configuration.XRInteractionComponentConfiguration::get_DefaultRigPrefab()
+extern void XRInteractionComponentConfiguration_get_DefaultRigPrefab_mE0D5C66CEAC1A430ABD3F8F128160191CAE544DD (void);
+// 0x000001D5 System.Void VRBuilder.XRInteraction.Configuration.XRInteractionComponentConfiguration::.ctor()
+extern void XRInteractionComponentConfiguration__ctor_m3E6F2FE9757797B7E705153228707A583C09EFFA (void);
+static Il2CppMethodPointer s_methodPointers[469] = 
+{
+	XRLegacySetup_get_Name_mF7478B3FDE6C0B26F9DA19D8C68A83247210A8FD,
+	XRLegacySetup_get_PrefabName_mC51A2EA36A553AB55AA8A8410EE2F21056D2DAF3,
+	XRLegacySetup_CanBeUsed_mFC1F90025E09270C2954BD9DEEE5C3340D6BB2D6,
+	XRLegacySetup_GetSetupTooltip_m40D5CFCB075A9ED75DC19F67621A20C63753FEDA,
+	XRLegacySetup__ctor_m505DB8ABE771EAE2644E94CD66DDF11C31C9AB39,
+	XRSetup_get_Name_m3C3B305A3EF9ED7914007B5F39CACA68EA5D8E5B,
+	XRSetup_get_PrefabName_m03CB498D6770009052D253A595483A01B9633265,
+	XRSetup_CanBeUsed_mD43D0FF4E8D9E3492E79CF7CFABCB91F51114BD0,
+	XRSetup_GetSetupTooltip_m33D70E1C7644D1E71A1B7C0A44AF468AC8075467,
+	XRSetup__ctor_m8CF95C4CC4D9A8706478154A35C9F66AD099BE03,
+	XRSetupBase__ctor_m35723FFF4FC2E8B0F627087EA0ACD0D7D6AF22B2,
+	XRSetupBase_IsEventManagerInScene_m00779D3BA603845E7A43800AD4A6D4BA3E59FCD7,
+	XRSimulatorSetup_get_Name_m8D0580463973BF4E3EC79A74010C74C9DA0F4A52,
+	XRSimulatorSetup_get_PrefabName_m219F22A5D2FC9D4EFB7962F252561154A5A92F5D,
+	XRSimulatorSetup_CanBeUsed_m8B514C692555630AF01FAD7389908E50010F3E3B,
+	XRSimulatorSetup_GetSetupTooltip_m24875F38DB088CBBE11544884568ABF67B3702AE,
+	XRSimulatorSetup__ctor_mFEA544F740FDF41E5105DAA7A1464E3F6AF751AD,
+	TeleportationProperty_add_Teleported_m155788F25C34F1CD236F00FF5FEF12FE51AFCA8F,
+	TeleportationProperty_remove_Teleported_m013328BD1442046DDB0FAB08305DF3E1BB8FC644,
+	TeleportationProperty_get_WasUsedToTeleport_m1F8D11E24D1E9EE5D023FC203554B11CD66CE607,
+	TeleportationProperty_get_TeleportEnded_m458CE2CD366F96B3C65F8149471226D0CBDAC7DD,
+	TeleportationProperty_get_OnInitialized_m9C58C14BF9DF2E0C6990C63E6D8B962F7813666E,
+	TeleportationProperty_get_IsActive_m7260B9ADAF496565433B594C1899BE593CDA5C05,
+	TeleportationProperty_Awake_m30E9417D9EBF2EEC15526C9A679D444200A1E1A5,
+	TeleportationProperty_OnEnable_m8470765D637015D79DDD0EC05903709EE45EB5E4,
+	TeleportationProperty_OnDisable_m0CFBC50558A78CDF7E9F7BA60BB6351ACA208891,
+	TeleportationProperty_Initialize_mC2BFF00ADA830054A35C8CDE5D4A86A86219FA1B,
+	TeleportationProperty_FastForwardTeleport_m81CDC41D5F6A7E445CC24452C46F5FC8B7401E1E,
+	TeleportationProperty_InternalSetLocked_m3D04AC93CC08722E068B42929472712BFED54529,
+	TeleportationProperty_EmitTeleported_m6C84AAEDC5E7D8DA236EC21605F539E53915D051,
+	TeleportationProperty_ForceSetTeleported_mD0276868C2FF8268FFFB83A2A44644151540D09A,
+	TeleportationProperty__ctor_m1F7EF6375D17A519E5ED53591760A786ABA07244,
+	ActionBasedControllerManager_get_BaseController_m85BF3B8D3633C7147515F52ACD887B2DBFD3B474,
+	ActionBasedControllerManager_set_BaseController_m473C3A90AFF229181AFCB9BD60C1EF6922798340,
+	ActionBasedControllerManager_get_TeleportController_m08B01F75A090A573205C4DCCFAF8076BAFC8F56F,
+	ActionBasedControllerManager_set_TeleportController_mA7E28D77A263DEA99B861C1FEE4DF408C880A495,
+	ActionBasedControllerManager_get_UIController_mB3445656342392B7C7107BA21ADB4650EAFDFEB9,
+	ActionBasedControllerManager_set_UIController_mDE336259B43AE8692DFA849ABEB07DC634638771,
+	ActionBasedControllerManager_get_TeleportModeActivate_m8BDE6AFE7D65F9FCE87FADD3E4BEA21DE4A313BD,
+	ActionBasedControllerManager_set_TeleportModeActivate_m32C7D01F6723293600FEFD424172B293861CFE55,
+	ActionBasedControllerManager_get_TeleportModeCancel_mFB0E1ECFEB32DBD019378A75C27C19C3B978B37B,
+	ActionBasedControllerManager_set_TeleportModeCancel_mFAFD595E9ADD2E4F10867A182DD64DF433EFB752,
+	ActionBasedControllerManager_get_UIModeActivate_mB26AEAFD545F3E1345E5CFAB569908AE2CE64533,
+	ActionBasedControllerManager_set_UIModeActivate_mC9E71E9C9F710FF9300D0747E1A474F8562DAF7F,
+	ActionBasedControllerManager_get_Turn_mE71C32F2D13B4FB089A360CD1665E9C466479F28,
+	ActionBasedControllerManager_set_Turn_m0AC1D9285CD376F68CAD74FAF7F461E69C84101C,
+	ActionBasedControllerManager_get_Move_m0C4BD5FEF2BE8715DC68660ACBD6DAD74677C49C,
+	ActionBasedControllerManager_set_Move_mA215D335DF8E33B8D253046CBAFA26F37E439700,
+	ActionBasedControllerManager_get_TranslateAnchor_m8CD105D7215085C459D7C504B98E5F9F06017951,
+	ActionBasedControllerManager_set_TranslateAnchor_mEBC788FBB3D564D14D1F3AE0A3A45B29A6783765,
+	ActionBasedControllerManager_get_RotateAnchor_mB76AC3D679B32B9C8A6CC6D5409EF508058885DD,
+	ActionBasedControllerManager_set_RotateAnchor_m5AA8D4188FBBD41D269E613688CB87F08B7BD22D,
+	ActionBasedControllerManager_get_SelectState_m06D2DC081CFAECB3ECB63B05E6FBC4C0BA45AD5F,
+	ActionBasedControllerManager_get_TeleportState_m7471A8513243F41E5C41DBC39DAC4656617D82AE,
+	ActionBasedControllerManager_get_InteractState_mD5DAA560C39C32E55EB7CCF8456E4BD7AD54DB4F,
+	ActionBasedControllerManager_get_UIState_m71677E749616F354678ED08A44FEBD96E9ED5645,
+	ActionBasedControllerManager_OnEnable_m070168D902E49F7D4957AFB9351D221144BFE423,
+	ActionBasedControllerManager_OnDisable_m8AC1067144FAD56817268DCD49C37AEF305B4CB0,
+	ActionBasedControllerManager_Start_m807313172C9A01F81B0B91BB49721072B8BCAD36,
+	ActionBasedControllerManager_Update_m525E0905D62699036DD80724A8C65034145C2DDE,
+	ActionBasedControllerManager_TransitionState_m84801BB559241102056BF6F1466DF6FB3A1B4F84,
+	ActionBasedControllerManager_FindBaseControllerComponents_m3BE981DB807096D6B7BB3E79318D2830E7672A82,
+	ActionBasedControllerManager_FindTeleportControllerComponents_m288DCC8023D5ED067F6CF12742EEA37826BC07AD,
+	ActionBasedControllerManager_FindUIControllerComponents_mF482F4F08835983E9D379230DE2A9B34F83C1EC4,
+	ActionBasedControllerManager_SetBaseController_mFA5AD26055EAD0575177AF1C6ABDFD4FEFAEE2CA,
+	ActionBasedControllerManager_SetTeleportController_m01C403B7517EAB136D17AF572E77FC05A48A6A06,
+	ActionBasedControllerManager_SetUIController_m3A57B701D65DD5F1AF2FC7E7F79FD5AFF8CFBBDA,
+	ActionBasedControllerManager_OnEnterSelectState_mD9DCD88CC873E9A02E3D542A3350304280ED571A,
+	ActionBasedControllerManager_OnExitSelectState_mF2D9E00F3FD58CBB9F8ACDADEA606155B491DAEF,
+	ActionBasedControllerManager_OnEnterTeleportState_m953E1F2CB839820A48B42B51EAE3BA26AF4772AB,
+	ActionBasedControllerManager_OnExitTeleportState_m9C161D78E75866A0C2E87C7AEDF64A6421867543,
+	ActionBasedControllerManager_OnEnterInteractState_mBE47C059224BD8DAB7B79EC28775F2135BB01F6E,
+	ActionBasedControllerManager_OnExitInteractState_m676B6E74C28884FBD0E454E4B34AFC66BCA362B3,
+	ActionBasedControllerManager_OnEnterUIState_m372130EC701917FCCFC2E5AF72705608C25EE61E,
+	ActionBasedControllerManager_OnExitUIState_mF267044501CA0242B9842FDBE0214EBE3EAFBE64,
+	ActionBasedControllerManager_OnUpdateSelectState_m807C7C03F182D5B89593D5B6353DD43D298BFF6A,
+	ActionBasedControllerManager_OnUpdateTeleportState_mEF2F75EAA0C67FDEDD2D02C9D52642D897D9A50C,
+	ActionBasedControllerManager_OnUpdateInteractState_m69E6BCC9E979E5E57142E500490B32B0094E64A3,
+	ActionBasedControllerManager_OnUpdateUIState_m0330AB6AD9AA975BEE339FD56621C80539BAB65B,
+	ActionBasedControllerManager_EnableAction_mEA6726A6ED7FA786D757472A264AF8228F7CDD85,
+	ActionBasedControllerManager_DisableAction_m1A7D5E870DF98E5116FAAB7F682CCA532797D28A,
+	ActionBasedControllerManager_IsInteractorInteracting_mADD0E8CF47E198EB0643775C881487D02FABB5FD,
+	ActionBasedControllerManager_GetInputAction_mF407B0603382EEE97A2FF9AC86531E8661672E60,
+	ActionBasedControllerManager__ctor_m22756C8824B99E5ED07E257B818CF723E67F5A63,
+	StateEnterEvent__ctor_m32685281B9E4FB5B68FEBB5695441A30C893FD77,
+	StateUpdateEvent__ctor_mE22146093D969EE9017DDB6DE5C18B854A1A1555,
+	StateExitEvent__ctor_m33FDE34DE18EC338BEA22995CFBB1D3102AF3BC5,
+	ControllerState_get_Enabled_m31CF8484B06DCC631D74AB459E66FB4762AB27C1,
+	ControllerState_set_Enabled_m785B35802B68AB687ED025388F4833164B12DF46,
+	ControllerState_get_ID_mD3A839155F39CF7C1C82ED68244EE956A3D3102F,
+	ControllerState_set_ID_m642997604BFC841B693C36368DFFEB65B19FCF29,
+	ControllerState_get_OnEnter_m8A9EC0F1714249FC416B25B0A559C6412CF0DB14,
+	ControllerState_set_OnEnter_m6247DEA06AC3C9E7FC5C5A4D3CB1DB66E32D2F0D,
+	ControllerState_get_OnUpdate_mF1FF96B1E0921FFFCDF275159D7F988C0AC4F132,
+	ControllerState_set_OnUpdate_mB50ADEEBCDFF5490D687C458990961CF953FD967,
+	ControllerState_get_OnExit_m6FFFF19D9C862B2C3DE699082394074853B56A8D,
+	ControllerState_set_OnExit_m59FC30A7662320D1EEEBE2C159524BD8CCC32A86,
+	ControllerState__ctor_m1D23F88F848E185DA4F4DAD4F1FE509A58F3F111,
+	LocomotionSchemeManager_get_MoveScheme_m3FFFD40A3CDF2DDA3583C586F4FBF2433049681E,
+	LocomotionSchemeManager_set_MoveScheme_m8BFDD1E0DBDC4AE44F93A7D144E9230B9D09D366,
+	LocomotionSchemeManager_get_TurnStyle_mC0CAF245D857A759D2759B9C8E29297AE688B49F,
+	LocomotionSchemeManager_set_TurnStyle_m1F388263782BCC6D0AB2FC138B0C4C2D7A84C707,
+	LocomotionSchemeManager_get_MoveForwardSource_m3C18FB2463E555ACE30E5AB37B78D13B0DFC2793,
+	LocomotionSchemeManager_set_MoveForwardSource_mB2AD6DE71A7D399AE84D433C187C0D2BD48511CC,
+	LocomotionSchemeManager_get_ActionAssets_m9758FDFFF97EF5D3327F9914A1CBB651C8F3A925,
+	LocomotionSchemeManager_set_ActionAssets_m4F4E80ADBAD55F4618E864F6A29A4C4EA01769CB,
+	LocomotionSchemeManager_get_ActionMaps_m83442D8DDC7AE6A3E041378899CCFCB306BC836A,
+	LocomotionSchemeManager_set_ActionMaps_m368BB03A8F43CD5999A77FC87ACA280E33083CC8,
+	LocomotionSchemeManager_get_Actions_m14D8AAD90F334DF034B975A4FC8F6FE40F24A653,
+	LocomotionSchemeManager_set_Actions_mC532896AB27C4505FD58A00B72377C32F7E3C41F,
+	LocomotionSchemeManager_get_BaseControlScheme_mDDE5B0C2B4C377BAC90DACE4A4E74262EBD9686C,
+	LocomotionSchemeManager_set_BaseControlScheme_m0D32D429DAD1EDF2C086C98B20F08013B8860989,
+	LocomotionSchemeManager_get_NoncontinuousControlScheme_m14D5C073F38A38914ED49EEDA2FEEE7F364D4600,
+	LocomotionSchemeManager_set_NoncontinuousControlScheme_mE31F2D9E5AE32C5222A252F2ECF3107FAF1C9070,
+	LocomotionSchemeManager_get_ContinuousControlScheme_m0E7A91FEB1952B6376B2923D3AE2E65492D4823A,
+	LocomotionSchemeManager_set_ContinuousControlScheme_mD1D84399C40F3A29E9F465C2E2DE557520F44EE7,
+	LocomotionSchemeManager_get_ContinuousMoveProvider_m157EC9B746EF8B6520D4D8A28572DE804BD13E5E,
+	LocomotionSchemeManager_set_ContinuousMoveProvider_m1B9DDD1382E231E091781849C6789C0382A35BA2,
+	LocomotionSchemeManager_get_ContinuousTurnProvider_m2C3CD5CA2FCFE355488D8A920EE7D93042EDC822,
+	LocomotionSchemeManager_set_ContinuousTurnProvider_m623D9C8DD18E3B8177C9A50D2F2A7946D556880F,
+	LocomotionSchemeManager_get_SnapTurnProvider_mB704C72A3A117E2CCB4FAA1F3A0C6EE55EE9C745,
+	LocomotionSchemeManager_set_SnapTurnProvider_mDB14D5459421DCC545E15FD4EBCD1EE3E467F2E0,
+	LocomotionSchemeManager_get_HeadForwardSource_mBFE002B298D23724FFDB94D3B5F4DE6E979B183C,
+	LocomotionSchemeManager_set_HeadForwardSource_m2D2187DB1554E29E03250AC45AD2C9FD2FC25209,
+	LocomotionSchemeManager_get_LeftHandForwardSource_mB37379ED10C1CF89EB167BC573A46130D50CA4AD,
+	LocomotionSchemeManager_set_LeftHandForwardSource_mBE34D2468805C39FF7A698FDAB38B3F294F0D98C,
+	LocomotionSchemeManager_get_RightHandForwardSource_m885B6CC396F6429D0BD8FDBCD89C75A08C320A83,
+	LocomotionSchemeManager_set_RightHandForwardSource_m7B43285EC76C2CA407E84E9E0338AD7DC07ACFB7,
+	LocomotionSchemeManager_OnEnable_m192FCB17A85863B14829EC4B28192809684997C5,
+	LocomotionSchemeManager_OnDisable_m9C5C477D62F6D817A84030918A6F44C219844EBA,
+	LocomotionSchemeManager_SetMoveScheme_mA71255F8000A450304514D7AE75502DEFAC085E7,
+	LocomotionSchemeManager_SetTurnStyle_m9F6DE6DC898CCFF4DA299482828990E8949A8ABA,
+	LocomotionSchemeManager_SetMoveForwardSource_m2396FC3C9C6636C16910DCE38EF0E1432CE5BFA5,
+	LocomotionSchemeManager_SetBindingMasks_m4C8420EAA858691D9E9DB7E6EC6AC67C98CC23B5,
+	LocomotionSchemeManager_ClearBindingMasks_mEAEBD54A22806977302BF74EF4B72A458C95C2DA,
+	LocomotionSchemeManager_FindControlScheme_m7795B8BC7A28D3258E2E6A8653F93B9D20919068,
+	LocomotionSchemeManager_FindControlScheme_m208E573919CD78CA9BF18CC8F6FFBCA210C77FE2,
+	LocomotionSchemeManager_GetBindingMask_mBC67443670B91192D884CDDF342A6D98942AB835,
+	LocomotionSchemeManager__ctor_m285659E92BF8C76962AD2DDB7C1020DBB4756AF9,
+	ControllerManager_get_TeleportButton_mB1D5B9B77EA10A2FD4F3C746BC943E6ECC2CCFC9,
+	ControllerManager_set_TeleportButton_m43FD44FCC98F0B436200F5F61385838528FECE29,
+	ControllerManager_get_CancelTeleportButton_m052F95B61205856652C1271FD93028D55E41C305,
+	ControllerManager_set_CancelTeleportButton_m271EB480A92DDD6800C28810F70E39A29DD2CC30,
+	ControllerManager_get_LeftBaseController_m3ADF8A02393D25AD72805AD4F15F3609FD8FDA66,
+	ControllerManager_set_LeftBaseController_m042D5D70021240962F5D225E8945F9E37A207C4D,
+	ControllerManager_get_LeftTeleportController_m12A32BDC6417F503A6A905086684FD503837F06C,
+	ControllerManager_set_LeftTeleportController_mBAC98A7CF04514757BC44F85E00D6CFA744635DC,
+	ControllerManager_get_RightBaseController_mAFF4DDBAD7EEA5C109A2ADED9677F62F787001AA,
+	ControllerManager_set_RightBaseController_m0AD1B88F0C04B87C9CA16AC5E0DE624FAC23193B,
+	ControllerManager_get_RightTeleportController_m0BAAAFDCC24AE516A76DC8FA4BD752147D0192D3,
+	ControllerManager_set_RightTeleportController_mE7C14FF852AAD464D8AC652992045FE44C449400,
+	ControllerManager_OnEnable_m4CF92E1A0839905A14A0F9B93A4EC72C2F84B114,
+	ControllerManager_OnDisable_m34CE6141241955769FA56E8B8C499C8775C28F24,
+	ControllerManager_Update_m282C882E763EE5DA8C626A30583E050D98B4E429,
+	ControllerManager_RegisterDevices_m65326104B0406C42995FEB6799818F552351D70C,
+	ControllerManager_ProcessController_m4C3C69DA5EFE8593830A00C25CE81C5B08612E00,
+	ControllerManager__ctor_m36BB66CD1E04D63A0678A24C80D12F70B84AAB49,
+	InteractorController_Attach_m09AF2844D60175BF1689AED5EC3B4E87C596322B,
+	InteractorController_Enter_m45460FBD80006A52B2F07240E4D795702C5D5279,
+	InteractorController_Leave_mCAF65896F537EE89FD33D551A5EC8097F508471D,
+	InteractorController_IsInteractorInteracting_mF9FE32B4CBEACD65761F197F951BDA80FEEBCA34,
+	ControllerState_Initialize_mD59295B788A98EBC734BC92E6475CD17A407902A,
+	ControllerState_ClearAll_m52A6EC6A596782D907184DB594C81CC96B8AD572,
+	ControllerState_SetGameObject_mB38AF216BFAB8AC051D3D9C810DA8BE443CB52F8,
+	ControllerState_SetState_m36D71805C177143372727F89ACA0149BD35AD209,
+	ControllerState_IsControllerInteracting_m14CF817A878FAA70E33C4D59E9D657F8D1A6B362,
+	InteractableHighlighter_get_InteractableObject_m3E8B8F5F3293DFBA1AC82E64BD07EA0E348E1598,
+	InteractableHighlighter_get_AllowOnTouchHighlight_m8C5BDEAD4A3B41458EE4F95D76DE58D644A4ADD5,
+	InteractableHighlighter_set_AllowOnTouchHighlight_mF77C9F14C6C41A6863005274D060ADF14A2FB15E,
+	InteractableHighlighter_get_AllowOnGrabHighlight_m530A2160EAB9D2ED79EA80EB06FCE2076E4EA5F2,
+	InteractableHighlighter_set_AllowOnGrabHighlight_m1737B3461A51C2A06B1737B8022C518E229F24FC,
+	InteractableHighlighter_get_AllowOnUseHighlight_m65CB1F1549E9F4E2CBC8B59F966943F0F93A2850,
+	InteractableHighlighter_set_AllowOnUseHighlight_m10ED302A9EC59F998779F50F4415E1CED798DBE4,
+	InteractableHighlighter_Start_m08B4722020F18CDA4CCF8B2D86C713D9226EB96A,
+	InteractableHighlighter_OnEnable_mFF3C972DA1D476CF3D6A0B548C97DDB33D6C4165,
+	InteractableHighlighter_OnDisable_m14F67AC52EA405080818C36C203B85FDB2AA89B1,
+	InteractableHighlighter_OnValidate_m48BAEC7A08FAE24BB4AFD027153C547C63D18D2E,
+	InteractableHighlighter_StartHighlighting_m1F77A8A5787781A7BB26088D5417A29AB951B546,
+	InteractableHighlighter_StartHighlighting_mFA60A13AB3ED95BDE9C379880E923BF5B961C729,
+	InteractableHighlighter_StartHighlighting_mC020258A7E995F6A0D315347CD0C85EBCC73905E,
+	InteractableHighlighter_OnHoverEnter_m3AC5B293F4C1C51FD928A6E0DD3ABD4D4BA0EBE5,
+	InteractableHighlighter_OnHoverExit_m6B96E051A51E5ED9CD21D802FE5AD1052EEC524C,
+	InteractableHighlighter_OnSelectEnter_m25EF14D95B1E20A4CCA9E65ABDE518380F118204,
+	InteractableHighlighter_OnSelectExit_mFD522EF6FCCA646D5CEEEA3ECDCC7CA7485EA22F,
+	InteractableHighlighter_OnActivateEnter_mE0757C2700EF0F3686F60E30978F1AF8856FB9A1,
+	InteractableHighlighter_OnActivateExit_m760826A63CDE3D6FAD94EB9D6EE7A5DB584EEBF8,
+	InteractableHighlighter_HighlightHoverAction_m0D93E783B6F2798B1EEF401AA9A47EA651BA21CA,
+	InteractableHighlighter_HighlightSelectAction_m7F2281752BC0D70B4A288849BA42F76B71E2CE52,
+	InteractableHighlighter_HighlightActivateAction_m14BAD63A98A76F66DF0E7171C2BC272210ED506E,
+	InteractableHighlighter_ShouldHighlightTouching_m2C9DF71745676B0CDF9B3B448A6E38FFB218C97D,
+	InteractableHighlighter_ShouldHighlightGrabbing_m42AE131B574A2777F693048290D3519D7E4E4A6F,
+	InteractableHighlighter_ShouldHighlightUsing_mF1FFB69E36FCBC9B9DD4D109D1DA76A1F6C22CC0,
+	InteractableHighlighter__ctor_m48D673438400DF01D47995D31898FB7EB4A48BBD,
+	InteractableObject_get_Rigidbody_m4BAEA3A248C9B78932F80FB2FE2A104B65B31EB5,
+	InteractableObject_get_GameObject_mB875A7BF24B6B44F27D6333BEE52251A44998EA6,
+	InteractableObject_set_IsTouchable_mF6324A7AE0E53FDE1250671F2E0FD6A42B211B58,
+	InteractableObject_set_IsGrabbable_mE4D239B09600208AD4B54578CEF603F5F8E6AEFC,
+	InteractableObject_set_IsUsable_mEDD9A76D2B93B148FD48AAE71E1029AF7CD54E7B,
+	InteractableObject_get_IsActivated_m7D6866E858A05517EFBD3A49A15EB82F81D7EFB5,
+	InteractableObject_set_IsActivated_m34513BED79A5BE99165D457C116D0E09656A9BC7,
+	InteractableObject_get_IsInSocket_m4070451BDCF90D025311152BE2D452B0EC67706C,
+	InteractableObject_get_SelectingSocket_m67ACEDB4B4A29F7FDFC925A3963E25B0AECBAC9F,
+	InteractableObject_Awake_mD4E05039DC50DA71E12F389CF31EF1E89AAC99BE,
+	InteractableObject_Reset_m2A95416B001D598E7FFFC2711E23E2D1878F27D5,
+	InteractableObject_OnTriggerEnter_m566242721297C80453CDBBE393AB03A6695B9786,
+	InteractableObject_OnTriggerExit_m5BA0253A5F61D7E171983F817DE26407CEDF23A8,
+	InteractableObject_IsHoverableBy_m46E668A9C75DAA0AAC1B722BD91689725AB14A5B,
+	InteractableObject_IsSelectableBy_mCE0EF57FD00B89ED7BAA6841F2BC230F994E4F5C,
+	InteractableObject_ForceStopInteracting_m93F9C72BC78D72EF532FB45630C794D22F3228C3,
+	InteractableObject_ForceUse_m1ACCEC74889096567E144BC0FEAAD73343A61596,
+	InteractableObject_ForceSelectEnter_mB6F4CAA736A54998A0FC1A255046DCD092C50DF3,
+	InteractableObject_OnSelectEntering_mD07934478359A69088A874FE26C156BA8A1378E8,
+	InteractableObject_OnSelectExiting_m7065299BE0244A3E9B6FA737E2DBDAC9D1C88CF2,
+	InteractableObject_OnActivated_m6B2A2A5C9970110A18C0CAAA71799D850FAF542B,
+	InteractableObject_OnActivate_m1B86309970B4BC100CAEA1234E4BF9FA9E0BE0C3,
+	InteractableObject_OnDeactivated_mD0E4B475F8EC6E5D5AC0F89E6528BEE5F808FA75,
+	InteractableObject_OnDeactivate_mA436EC68F70FCAC55729D8452D92004C38F40387,
+	InteractableObject_StopInteractingForOneFrame_mE36AC46B9840C22781EFE2E5C73866A523333096,
+	InteractableObject__ctor_m8EECEA70459FDE04D457C61060810BE81443238C,
+	U3CU3Ec__DisplayClass39_0__ctor_mC087B187F248EDB414F8559FC40545A22043335D,
+	U3CU3Ec__DisplayClass39_0_U3CStopInteractingForOneFrameU3Eb__0_m8277F10D6E40D5995DC2827675CE9AAD2D9E7152,
+	U3CU3Ec__DisplayClass39_0_U3CStopInteractingForOneFrameU3Eb__1_m8267AB926D9C46E0F860A482755BCD2562EDA33A,
+	U3CStopInteractingForOneFrameU3Ed__39__ctor_mEFE0015EFEA68528AE38F5BE9E23ACE23FCE3925,
+	U3CStopInteractingForOneFrameU3Ed__39_System_IDisposable_Dispose_mC22151E2D7B93799121629AA6112BA2B8CD7E0F9,
+	U3CStopInteractingForOneFrameU3Ed__39_MoveNext_mD62AADB1CB71A4205E52F68378F16B29DEA32C17,
+	U3CStopInteractingForOneFrameU3Ed__39_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m79C6BE0EFA96A42EF77BD7F6BE4F07B0F156DB55,
+	U3CStopInteractingForOneFrameU3Ed__39_System_Collections_IEnumerator_Reset_m7A6E98F2E691510D86419E6F68312D526E4ED52A,
+	U3CStopInteractingForOneFrameU3Ed__39_System_Collections_IEnumerator_get_Current_m82AD32049A93B016DBEF80971C817C05491B790C,
+	TeleportationAnchorVRBuilder_OnSelectEntered_m41B809896240BD03E882B505F20114D796D69F60,
+	TeleportationAnchorVRBuilder_OnSelectExited_mBF57DF587DE22C04B97BF860746ACE71FDF45D24,
+	TeleportationAnchorVRBuilder_OnActivated_m187E071EFF8F5D2D9FDFE87CEC5B7BCF4D27EAEB,
+	TeleportationAnchorVRBuilder_OnDeactivated_mDCF8B979E8C74E4168934FC745CB380DF686856E,
+	TeleportationAnchorVRBuilder_CheckTeleportationProvider_m8061A0268444D578C54041AF32B0CB0284BE9312,
+	TeleportationAnchorVRBuilder__ctor_m929B15E01F1DD3516EC679D5E101066D237A92C8,
+	TeleportationAreaVRBuilder_OnHoverEntered_m07EAA7FE03ACEF3B7AD575A2E28237ABB1609CF4,
+	TeleportationAreaVRBuilder_OnSelectEntered_mC2717CA8C8370F4F30B33E5D5C7593FCC54820BF,
+	TeleportationAreaVRBuilder_OnSelectExited_mC308EBB321284FF59C02E8A62FDEBDCF1B79AF55,
+	TeleportationAreaVRBuilder_OnActivated_m39840E020E4FD7CC8193AB4FD06B6CFFB6E6ACAC,
+	TeleportationAreaVRBuilder_OnDeactivated_m8E2A13645B0520347D6F2E129DDB3FA80A7D824F,
+	TeleportationAreaVRBuilder_CheckTeleportationProvider_mE5FC47F9D2710FD5864CA49C344098E3A00CBC60,
+	TeleportationAreaVRBuilder__ctor_m6BF3F611866F44902DB144C6D92C2A0FD2ADD0F7,
+	DirectInteractor_get_PrecisionGrab_mA346FFC06535202CD835F5DF73FA22B0C58653EE,
+	DirectInteractor_set_PrecisionGrab_m34B0F54C81AFFBEAE30C1BF5159B541CA59BFFEC,
+	DirectInteractor_Awake_mE8200DCC66A0FDF28F1E1690F1F404456E17327E,
+	DirectInteractor_get_isSelectActive_m66FF986E18663F849B91B3730BC6D9AAB444B105,
+	DirectInteractor_AttemptGrab_m7FEC67B7AFC75FCC006177210F32F0C71FFCD392,
+	DirectInteractor_OnSelectEntering_m988985D646BA64B231A006324B2A29FBE42892BA,
+	DirectInteractor_OnSelectEntering_m48B1CB4DCA97D9B1EB68B7A31A610C7B610BF6BC,
+	DirectInteractor_OnSelectEnter_m3A914651613D570B9D7CC021E1C4D551C04E7D0D,
+	DirectInteractor_OnSelectExiting_m45CFD638D721F5F6664366F0856BB6E6842C380E,
+	DirectInteractor_OnSelectExiting_m3C649C02A8D2793CA16C8E6D4E30EBBCD461E2F0,
+	DirectInteractor_OnSelectExit_m3F979825CE4C45F1E49382DD6C723BD922140E89,
+	DirectInteractor__ctor_m69DCD10D654085707E18111C075741AB727908C2,
+	RayInteractor_get_isSelectActive_m3EAEEDDAA26A1DF4438959408038DA2741CD4930,
+	RayInteractor_AttemptGrab_m259803B16D5D777E867936C5C7CA7C739830C9C1,
+	RayInteractor__ctor_m8CC46EE4CED091378244A62A92325537ACEC068A,
+	SnapZone_get_ShowHighlightObject_m92C828CAC9B8B4E1B3571038D2573BE534D0532B,
+	SnapZone_set_ShowHighlightObject_m94874A192289CC9037576598FB158D5A10552921,
+	SnapZone_get_IsEmpty_mDDD57788AE1A005EF432B83C1B975E11C8764E12,
+	SnapZone_get_SnappedObject_m9142B2D9C700DDFCE645A9448A1D8B8F6004F006,
+	SnapZone_get_Anchor_mC6385517FBCAA4DDC381E72B95116F3BA9C3DF54,
+	SnapZone_get_ShownHighlightObject_mD145B02086A6F2A40F1319AF5D4A1C8B2BCB2B5E,
+	SnapZone_set_ShownHighlightObject_m5A593432AAE63983EF8429067F18516D47DFA5E7,
+	SnapZone_get_HighlightMeshMaterial_m7C20170E81BFE9B505BE0A9179A1B1639BD033C8,
+	SnapZone_set_HighlightMeshMaterial_m3C1745509FABD44C585B07CADC2E5EB4520E59B0,
+	SnapZone_get_ValidationMaterial_mDA7C298B0F47DC044FC7D9BB38D4EDC75A20C308,
+	SnapZone_set_ValidationMaterial_m47F0753B19498C0F3750EA9C65F443265ABF24A8,
+	SnapZone_get_InvalidMaterial_m729B1C499C37D7A31D63A196AA5E8ABD780C98A7,
+	SnapZone_set_InvalidMaterial_mFB04F0AE663BF200F2C67619B966CED85211F90E,
+	SnapZone_get_ForceUnselectTarget_m859C94B6B156E2349D524B94F45D04475D0560E5,
+	SnapZone_set_ForceUnselectTarget_mB8C03CF859B63FEDD539F63F7D9A8D0F9DC7FD28,
+	SnapZone_get_ForceUnselectInteractable_mEAB8D3CC7A4419620CB6EF3D4F3D798D588FAE50,
+	SnapZone_set_ForceUnselectInteractable_m12DC820C4F6CA028B5F98D8B79CA8871C6F5542B,
+	SnapZone_get_ForceSelectTarget_mBA8C2333BF6D5C87A41125FC1669899AAE94C207,
+	SnapZone_set_ForceSelectTarget_m39947BE65BF16631C59820640687B32275B6F498,
+	SnapZone_get_ForceSelectInteractable_mD11A607758AD76C04B5A95ADF7AF56B134FD6501,
+	SnapZone_set_ForceSelectInteractable_m304C062317ADB84473F1E9A627D1D0259947313C,
+	SnapZone_get_IsSnapping_mD1AC3BB36050F56F74C2CF5928D59BAD3A94D0F6,
+	SnapZone_get_IsUnsnapping_mC7D3EDEBD228C0DB774EBFD999D805D2E36E3BA9,
+	SnapZone_get_PreviewMesh_m943DB94F3D737F44702E858E0F657D727EF8559C,
+	SnapZone_set_PreviewMesh_mE0D5CFB9DABE65CEE3EE471F3513DB1C28AFB38A,
+	SnapZone_Awake_mE9E3CEBA09F9E1AB737F8C1DCF8A3171EFF902D7,
+	SnapZone_AddHoveredInteractable_m69BCEAAE37C3D744BCF57E5B7194E8B611B93B02,
+	SnapZone_RemoveHoveredInteractable_m79CB10BDEF21486DA7E00B552477DEE6F281EE78,
+	SnapZone_OnEnable_m303987682A498768DE42C82E74CAAB553DF0A456,
+	SnapZone_OnDisable_m11C57F3D2C8AA5832E643DAA548DC36B900AC1BD,
+	SnapZone_OnAttach_m2284E1E434B03F166B8D2783F71097E0AFBC9831,
+	SnapZone_OnDetach_m1BDD672047BA99C641FBD0EB06B96CB4B32036D4,
+	SnapZone_DetachParent_m79604B0F70E71C4E24343A544C047EB122096E51,
+	SnapZone_AttachParent_m4C6CFC0F90AAF1D8E197F5D092C50B96DD367701,
+	SnapZone_OnDrawGizmos_m35B36AB3AD6FF187543278F74DD06B49824D407F,
+	SnapZone_Update_m9EB6705B2D6D4E4D92E2CC5A9AD5392FC5FEC80D,
+	SnapZone_UpdateHighlightMeshFilterCache_mAF4C3ABB8B52F4AFA4A3EE485B48D28E6E50BC65,
+	SnapZone_ProcessInteractor_m85F8732FFF155D57405C80594C6D5AA0C0A734BB,
+	SnapZone_CheckForReleasedHoverTargets_m7F9D3AFD410717023866606F47147F7590C94F44,
+	SnapZone_ShowHighlight_m2E55856112E13DC349B38D7780218D1E73B77FE3,
+	SnapZone_CreateFallbackMaterial_mC88CFAC6DFEB50E7CA67C6AABD803FA772BCCFF5,
+	SnapZone_DrawHighlightMesh_m0F4B9DA44D2A6696879254AA033FA6316DD6F041,
+	SnapZone_ForceUnselect_mE372BD4848D33A8AC1645A3BD6EF4EC199B71251,
+	SnapZone_ForceSelect_mFB849A7DCD2589B68DA292DBB4D6A1632B60C168,
+	SnapZone_CanSelect_mFA346D9EAD239E04F231AC3C4D9EE5238057B76F,
+	SnapZone_IsValidSnapTarget_m1E48797EE1B78CA9F0AD089E54632F09C8241AE0,
+	SnapZone_CanSelect_mFCA1A50BE2805DAB06749E94BCC4582F8F89CF07,
+	SnapZone_CanSnap_m8015F9C73711CE091F2816FF3030C1F3582807B9,
+	SnapZone_ForceSnap_m5D4037B015B200DAD8D31CB3DCBC539F6FCED38A,
+	SnapZone_ForceRelease_mA4AF0AA71E3487F9EC72CFB49AB4A95649D14AEF,
+	SnapZone__ctor_m94F2B33443687EB570A503DF492A0AC3A04534DC,
+	U3CU3Ec__cctor_mF8DA2222688437C2823D5CFA4CDA5F605FDF3C99,
+	U3CU3Ec__ctor_m42A6E3791D2C84753B9EC9D080A76EF51CCB71B8,
+	U3CU3Ec_U3CAwakeU3Eb__56_0_m4D38D27AD1008DBCEEB95EE19541B7CCC6DE6953,
+	U3CU3Ec_U3CProcessInteractorU3Eb__68_0_m1BA2EABD1418D983D44A704A5CF63F55427872A1,
+	SnapZonePreviewDrawer_OnEnable_mE7B57E34AA10BF5E06BCD903C234C66C1A41BA9D,
+	SnapZonePreviewDrawer_Update_m79448186C7DDFDEF5D0AEBDD003F16F65C4B8BD8,
+	SnapZonePreviewDrawer_DestroyPreview_m00E4723874DCE5EB6587FE18F51D3E31726DA97B,
+	SnapZonePreviewDrawer_UpdateMesh_m125C85972A8BB243627FB3383FE083A6457C3542,
+	SnapZonePreviewDrawer__ctor_mC8FEA97496A474DCAF98B75E2B417CFAD98A8525,
+	RigManipulationProvider_SetRigPositionAndRotation_m5C72D1383CC45E4E9D4692C8D1C896ABFBC658BC,
+	RigManipulationProvider__ctor_mB9C7136FE364AAB6A9EC1BBFEC626ABEA93BD4EF,
+	XRLocomotionHandler_get_CurrentRotation_m29652411EC1905E5B793E36AF2F96A28EC39515F,
+	XRLocomotionHandler_get_CurrentPosition_mBA2F037C5451E51038A6DD7C533A8B93E5F909C7,
+	XRLocomotionHandler_get_RigManipulationProvider_m05E4574F7077CA33985E48A321B62BB0B0177333,
+	XRLocomotionHandler_SetPositionAndRotation_mCD7230E7E36F5B6525725B33E76046DAA5D2F8D9,
+	XRLocomotionHandler__ctor_mB11997F2C14724C79836E19F470219769900D02B,
+	GrabbableProperty_add_Grabbed_m792AB223E6E4CE216C441EAE117BC0EECE6A3EA2,
+	GrabbableProperty_remove_Grabbed_m90559940D5F13F1A7D4CAFBD8474CF8ED9386945,
+	GrabbableProperty_add_Ungrabbed_m31D788AEBFC8B3A25E0AD206C11F8D08B45B2075,
+	GrabbableProperty_remove_Ungrabbed_m3A9FEE8C437AE7BD043C0C1DB1FF2FA434EE5EC1,
+	GrabbableProperty_get_IsGrabbed_m3D1DB4589C91D2DDF82734568A86C73580A3BA10,
+	GrabbableProperty_set_IsGrabbed_m3F2EDF999FB537DB10061F528ADF19E171877E66,
+	GrabbableProperty_get_Interactable_m60619E7A7165FDB664194AB24ED8F7D251BC4187,
+	GrabbableProperty_get_GrabStarted_mC0CEA5095A7176303C3E8C0EF5B0BD4BB634C524,
+	GrabbableProperty_get_GrabEnded_m23DD497FB944109912F19CBA852F597265E78257,
+	GrabbableProperty_OnEnable_m1B27428D29BFF7559580ACBF2115D1C9379DDEDC,
+	GrabbableProperty_OnDisable_m4025CC748FE5BEE8DE31E4B2352C38886DD66DD3,
+	GrabbableProperty_Reset_m54DFDFB61923C91546E9E8508391117E43E9C7C7,
+	GrabbableProperty_HandleXRGrabbed_m61F0B20408670098F4B89189D0C89E81EE74AA0A,
+	GrabbableProperty_HandleXRUngrabbed_m1617F1AD9ECE177C3367842D8FDC81F5A5A99D52,
+	GrabbableProperty_EmitGrabbed_m1E6B6169D8290206474175C11E484BA44CCF0599,
+	GrabbableProperty_EmitUngrabbed_mF13E71FD822CE3B1F41867B360EA6B31040A6858,
+	GrabbableProperty_InternalSetLocked_mAB47D4BB40D71B64AB27FBC8ECB12A7E7B8721C0,
+	GrabbableProperty_FastForwardGrab_m4E39912F2EA834687E982DFFD066663882E0BB56,
+	GrabbableProperty_FastForwardUngrab_mCCB10F0E74CC31C96B066DD2E70F37867976EE59,
+	GrabbableProperty_ForceSetGrabbed_m82F5D5A1E7A6BCAE411CBE105992CFDA85BD2944,
+	GrabbableProperty_UngrabGrabAndRelease_m73411D24D0EFD80FC5FBF524EAD5A4BFB6F83F38,
+	GrabbableProperty__ctor_m4550CD7035E83CF9B0CB6E6431ED495C26F2AF60,
+	GrabbableProperty_U3CUngrabGrabAndReleaseU3Eb__30_0_m32FD2FBAE920BEDF119F7CFF82D5AA4B95634269,
+	U3CUngrabGrabAndReleaseU3Ed__30__ctor_m53F5093E1E05E5FD3C6C5D2FFD3521156031F9E2,
+	U3CUngrabGrabAndReleaseU3Ed__30_System_IDisposable_Dispose_m3927225A7D516285233CC0F21E3A80B4BEE8E4C9,
+	U3CUngrabGrabAndReleaseU3Ed__30_MoveNext_m4E8DD132EB25683D348BC766CAFC0DA1ECFAC4E7,
+	U3CUngrabGrabAndReleaseU3Ed__30_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mB66A91C8F25221D505D663BF86809DBBEEACECBE,
+	U3CUngrabGrabAndReleaseU3Ed__30_System_Collections_IEnumerator_Reset_m3791C4B099A7E7CBCB2E0D51BF885C43145C39C5,
+	U3CUngrabGrabAndReleaseU3Ed__30_System_Collections_IEnumerator_get_Current_m29F5B783A38B1FBED2B3FE0F338BA4876334210D,
+	HighlightProperty_get_CurrentHighlightColor_mC44CB7492B079E1C73A5AC93694CCF380B966036,
+	HighlightProperty_set_CurrentHighlightColor_m3FF3F6FA077A9C6C0300243E37C87ECF831A61E7,
+	HighlightProperty_get_Highlighter_m824BAD5E3568F53111B0233DBE4247DE13B4715F,
+	HighlightProperty_OnEnable_m0F6D6D302A3D13653694503B344DC214B666610D,
+	HighlightProperty_Reset_m0DD2A5CBE3183EC5370FCE734DD984E9B4865A35,
+	HighlightProperty_Initialize_mF1E4F0BDE82F8C8DD501C671D104542B886F4214,
+	HighlightProperty_Highlight_m73755CD5A062AEEF38003F90C0D802B2358BDF79,
+	HighlightProperty_Unhighlight_m4310DFAC7CF305DA6611CE5DDBE3E5E27AF3DB81,
+	HighlightProperty__ctor_mB759363919C80C5A6908324A907F751E5BF3F1FC,
+	SnappableProperty_add_Snapped_m5ACB1D8BCD059170FF9148AF6A3CF9F0D3855180,
+	SnappableProperty_remove_Snapped_mCB620E09C3A8CD20E6B394C098255A352F802AB4,
+	SnappableProperty_add_Unsnapped_m6B467FE825ED2FA6530A93E3726A0DCEA67DF45A,
+	SnappableProperty_remove_Unsnapped_mE840C3B8DADAB88B817081AF5CEB2EE9D2C4F2C3,
+	SnappableProperty_get_AttachedToSnapZone_mA1259FD5DC9F1F778A45AB1847FBA8A61379302F,
+	SnappableProperty_get_DetachedFromSnapZone_mDCB0150E1F8AC8AEEF3DCB5C06A2EB3D960B07BA,
+	SnappableProperty_get_IsSnapped_mBB3940B247634E2E10382CCF156BC782795EBF2C,
+	SnappableProperty_get_SnappedZone_m94C29B6F5A8A15D4EFFE6979B65F3032A576CB7A,
+	SnappableProperty_set_SnappedZone_m6109128A7D76BFA63F4075A7103A127771086CDF,
+	SnappableProperty_get_LockObjectOnSnap_mC2D4A1447AE7755932C55D9D07E303C093A32301,
+	SnappableProperty_set_LockObjectOnSnap_m7D295D68FDE1F0E60E1E04A461F8054889417A7C,
+	SnappableProperty_get_Interactable_m413B9E08D0F09AEE5D4825043846659EDFCFF8CC,
+	SnappableProperty_OnEnable_mD2B0DD888DC6A0129897D74CB00E90677273BBD1,
+	SnappableProperty_OnDisable_m703F5B14BA07DD3C40178ECBBC89A05537B293F2,
+	SnappableProperty_HandleSnappedToDropZone_mDA1D793E39E133FE63DDF8C7C7333C598C614408,
+	SnappableProperty_HandleUnsnappedFromDropZone_mA9B7D166354FBAA60865DAEE79765CB19836A576,
+	SnappableProperty_InternalSetLocked_mEEED02A8F685085BCC6B1DF2DADA04AC7B86BFEB,
+	SnappableProperty_EmitSnapped_m27645B15588D1719E39DEA558E7FC76C0B40840A,
+	SnappableProperty_EmitUnsnapped_mD662CEC47D80BD79F468BBA3EE0101A8500FDAA1,
+	SnappableProperty_FastForwardSnapInto_mDCFD5F86A5B138E970451EDCF0EFBC597F0E71F7,
+	SnappableProperty__ctor_mCC0A8BBDF6ABFF8C7FA5A55AD6F091749C96D4E1,
+	SnapZoneProperty_add_ObjectSnapped_m8E1113DAFB880891B2B490D9DA4094E4E0CB6E24,
+	SnapZoneProperty_remove_ObjectSnapped_m66B21F022FB41F007AD9A405D5F04018A856085F,
+	SnapZoneProperty_add_ObjectUnsnapped_m45952471F5EB8250A8FF3A1E1BB94F7D8FA18196,
+	SnapZoneProperty_remove_ObjectUnsnapped_m756413DD3BAC94CCADA4FF577C2A3EC9E9F305BD,
+	SnapZoneProperty_get_IsShowingHoverMeshes_m462069ABE85B678F79537602676D21DFCB58BF1F,
+	SnapZoneProperty_set_IsShowingHoverMeshes_m181B35C040E2D6FA7C827A2985C3E41AC1EB570A,
+	SnapZoneProperty_get_IsShowingHighlightObject_m5EBB46D276D64773BC8FEFF351EBD9E6085E4F11,
+	SnapZoneProperty_set_IsShowingHighlightObject_mB192DA46689C960EEA8AC9BBA4770DBE41391221,
+	SnapZoneProperty_get_HighlightMaterial_mA17788CCFFBA80E5A7BE9000547BB3A656F69A37,
+	SnapZoneProperty_set_HighlightMaterial_m007A69986E5BD7A3C585BDCE0E5759C1C02F3298,
+	SnapZoneProperty_get_LockOnUnsnap_mFB533575ADD23497DBFAD9EBB9817C9C9AEB8B1B,
+	SnapZoneProperty_set_LockOnUnsnap_m5D3DF6C3E79CBEBCD76884178291F2725D4D209E,
+	SnapZoneProperty_get_IsObjectSnapped_m9C3C4A3238EC8C89BA7ADB41E11C45A489947D95,
+	SnapZoneProperty_get_SnappedObject_mFFEDFB147C581BBD5B1B4DD8C10941C4E75041CA,
+	SnapZoneProperty_set_SnappedObject_m20579805F407C7D93331D8E88E1FBBBE68986377,
+	SnapZoneProperty_get_SnapZoneObject_m778A95FAC363D81EA6B8C64961B8E28F91AA2EA5,
+	SnapZoneProperty_get_SnapZone_m6734CBD78CFA262A207BB364086C785ACBBA66AA,
+	SnapZoneProperty_get_ObjectAttached_mC32A94EB0B03282791B479D19D60A197699A66ED,
+	SnapZoneProperty_get_ObjectDetached_m6BD7418E4C501E45D5C5C253CD03DC3275DC434B,
+	SnapZoneProperty_OnEnable_m78EA2CE49B73332642A093A2388BC8E5CCDFBB58,
+	SnapZoneProperty_OnDisable_m13DEB18DBA7F6DF3638E789B4C68A910052E8066,
+	SnapZoneProperty_HandleObjectSnapped_m95D5E10B083786E55BC7F2A159ECC592D7046F4B,
+	SnapZoneProperty_HandleObjectUnsnapped_m53C54FE8E1BA41548F5977BDF0DD3AE9561A8B0A,
+	SnapZoneProperty_InitializeModeParameters_mC5A6F5E89E659627154A7847AA876B14EDD5B317,
+	SnapZoneProperty_Configure_m4879DF09C6B52C6B32FEBFDA308D11F2B861256D,
+	SnapZoneProperty_EmitSnapped_m29FF7E3E111D90B74DDD196E05BBD07AE2097D3A,
+	SnapZoneProperty_EmitUnsnapped_mF21F29BFD79DF50E64862A27CFDC6785C0827CDC,
+	SnapZoneProperty_InternalSetLocked_m500839D34F255074C73818F4126B010D28B8E9F8,
+	SnapZoneProperty__ctor_mDB0A707C81212D9663839BAE078E47DFA2BE245B,
+	SnapZoneProperty_U3CInitializeModeParametersU3Eb__43_0_mEDC29FCF603C826EE20F18E7C12B0380575F4AF3,
+	SnapZoneProperty_U3CInitializeModeParametersU3Eb__43_1_mECEF835242B91BBA91F75DE34AE93E9C2F022329,
+	SnapZoneProperty_U3CInitializeModeParametersU3Eb__43_2_m2DD2DB944D6B69C2F230A3995D378A9D0B3A1765,
+	TouchableProperty_add_Touched_mB228DED1F7F6846B82AB7CF284BEC4D3CE841814,
+	TouchableProperty_remove_Touched_mD5ECEA233B19B62F05AB0354C95DA14EBFABFDC3,
+	TouchableProperty_add_Untouched_mAD582A685A1319BFD2BD994D461DCCD7053882FB,
+	TouchableProperty_remove_Untouched_m03D5154BEA136030948306D72124A686738D838D,
+	TouchableProperty_get_IsBeingTouched_m9C94C661AB44DC264DC93C6B34350C70B7D43C65,
+	TouchableProperty_set_IsBeingTouched_mAEA91690C566110572E146FE2BAC663E36E1EFF8,
+	TouchableProperty_get_Interactable_m8AC72A2D7C9762FDFFB0726B0776ED0896B79977,
+	TouchableProperty_get_TouchStarted_mF764CA7CD21A9BA973D1048819690C5090D454BD,
+	TouchableProperty_get_TouchEnded_mFECA568706C9DF0D8FFF90223AB21A730E113B17,
+	TouchableProperty_OnEnable_mA759A47D3F8771F892D974F43D6402FCDFB60DE6,
+	TouchableProperty_OnDisable_mBB8611A5A63CCF81B2AB583DFC11162D2AC7FAC2,
+	TouchableProperty_Reset_m60793A7FF152B702972F1D323888C68C2EA211E9,
+	TouchableProperty_HandleXRTouched_mC89984F00633CFA5524B04DD8A9989A3BB776B4E,
+	TouchableProperty_HandleXRUntouched_mCD5A876EE6B0EFFFC9873F79377D8BA3772E5727,
+	TouchableProperty_EmitTouched_m4BE02E4EF731240B6351591A735940E3C257853F,
+	TouchableProperty_EmitUntouched_mE97041699E6AA2C09D917A6DF12582E7F3AD9D46,
+	TouchableProperty_InternalSetLocked_m1EA3B7ABE0E91B2CF1FA635B833EE16271F757C7,
+	TouchableProperty_ForceSetTouched_m0D754B922BEA4C19088C1C7378314D85A65BF3CE,
+	TouchableProperty_FastForwardTouch_mCD5E09FCEAAE2DAC5571A38799644FEBA398E51E,
+	TouchableProperty__ctor_mFFEE7A090D14FFFF7868792B7D6DEA90D7E90A9D,
+	UsableProperty_add_UsageStarted_mBAE47543647867077515AB92E024C68F466A2630,
+	UsableProperty_remove_UsageStarted_mEDD14EA68D1CBDFB06F2BE2FFDD4BEA1F025661B,
+	UsableProperty_add_UsageStopped_m117E625F34AEC4DDD4EE3CE6AA74F7CF48F5189A,
+	UsableProperty_remove_UsageStopped_mB3AA9A7A8674F6A3D474D4A99C9776FF4A8C8091,
+	UsableProperty_get_IsBeingUsed_m576ADF7864B7382275FA498044035352E076F49E,
+	UsableProperty_set_IsBeingUsed_m189DE5913EB44C625F0431BEF786211EDE7073CD,
+	UsableProperty_get_Interactable_mBF3C5BD6DF5A8CD2734B1795EA3775B79CABAEA0,
+	UsableProperty_get_UseStarted_mF911037D7832E18CB4160930D3771D1E06FF1E53,
+	UsableProperty_get_UseEnded_m0239179E535268A0F5400ADA0DCF602B791BAED8,
+	UsableProperty_OnEnable_m8ED8B5522F37C2A28CB2C023DC334FB209AB5501,
+	UsableProperty_OnDisable_mB5D7F624F8D3637D8DAEE56672BA1ADA084BDA09,
+	UsableProperty_Reset_m7166D0722C3E57F080B458E2F85C2F85877E8D9D,
+	UsableProperty_HandleXRUsageStarted_mF5CE45FDBED86911AFF786DB67C4A30F837C755A,
+	UsableProperty_HandleXRUsageStopped_mEE00612356F102620A11E0CBC3C52AFD58D24F31,
+	UsableProperty_EmitUsageStarted_m5CA5640B4AC16AFCBEB1A7AEB771381303281A23,
+	UsableProperty_EmitUsageStopped_m3CBFE3E150703281389F7FCF7905EF670C80C20C,
+	UsableProperty_InternalSetLocked_m6953AE092E966876E0F224DBDBEC5BACC5596BE2,
+	UsableProperty_FastForwardUse_m386E0CA62691F59C2AE147A8AD57FA906D845FB9,
+	UsableProperty_ForceSetUsed_m67142BB38BE9D5B1386FC616CD6071925FEBB56B,
+	UsableProperty__ctor_m57BD60C2B42C1562394DF26496A8512B1D3D2A22,
+	HandAnimatorController_get_IsUIMode_m41260F9DEF543DF9836451E33CE621C37AF0BB18,
+	HandAnimatorController_set_IsUIMode_m275C70438F38C9F57B8F30491CDEF63C60667F07,
+	HandAnimatorController_get_IsTeleportMode_mB6A17B0674F7547248B5EAA7E4319214EBD38ABA,
+	HandAnimatorController_set_IsTeleportMode_m8E6345A3DDAA7211934D988FF70AD7333ED7EE8B,
+	HandAnimatorController_get_SelectValue_m23A9ABF0BED6D921BD84399DC47AE0BAFB540E3D,
+	HandAnimatorController_set_SelectValue_m3ECD4B1BFC265B34597532AE8E2D5C25B52CF8B0,
+	HandAnimatorController_get_ActivateValue_m0717CA4C11B4E7A86D7A52C7EA99F3B957D84CE1,
+	HandAnimatorController_set_ActivateValue_mA15FFA20B92BCCEBF14162166FBCBA6E61AA7D08,
+	HandAnimatorController_Start_mCE1BFC0E9B6477587A7F0A263F215A663CB39745,
+	HandAnimatorController_Update_mF061B3E5BB8FC56CBE2E5F62ECEE9325DFAFDD19,
+	HandAnimatorController__ctor_m021169A54ABBF26A370F05ED89BD115DB6E35244,
+	XRInteractionComponentConfiguration_get_DisplayName_mF6C562E0054CAEAB92C8E6D1D82AD105ED2F52CE,
+	XRInteractionComponentConfiguration_get_IsXRInteractionComponent_mB8965C14543D783B148DE3E59CFEA6C08FDB6DD5,
+	XRInteractionComponentConfiguration_get_DefaultRigPrefab_mE0D5C66CEAC1A430ABD3F8F128160191CAE544DD,
+	XRInteractionComponentConfiguration__ctor_m3E6F2FE9757797B7E705153228707A583C09EFFA,
+};
+extern void InteractorController_Attach_m09AF2844D60175BF1689AED5EC3B4E87C596322B_AdjustorThunk (void);
+extern void InteractorController_Enter_m45460FBD80006A52B2F07240E4D795702C5D5279_AdjustorThunk (void);
+extern void InteractorController_Leave_mCAF65896F537EE89FD33D551A5EC8097F508471D_AdjustorThunk (void);
+extern void InteractorController_IsInteractorInteracting_mF9FE32B4CBEACD65761F197F951BDA80FEEBCA34_AdjustorThunk (void);
+extern void ControllerState_Initialize_mD59295B788A98EBC734BC92E6475CD17A407902A_AdjustorThunk (void);
+extern void ControllerState_ClearAll_m52A6EC6A596782D907184DB594C81CC96B8AD572_AdjustorThunk (void);
+extern void ControllerState_SetGameObject_mB38AF216BFAB8AC051D3D9C810DA8BE443CB52F8_AdjustorThunk (void);
+extern void ControllerState_SetState_m36D71805C177143372727F89ACA0149BD35AD209_AdjustorThunk (void);
+extern void ControllerState_IsControllerInteracting_m14CF817A878FAA70E33C4D59E9D657F8D1A6B362_AdjustorThunk (void);
+static Il2CppTokenAdjustorThunkPair s_adjustorThunks[9] = 
+{
+	{ 0x0600009E, InteractorController_Attach_m09AF2844D60175BF1689AED5EC3B4E87C596322B_AdjustorThunk },
+	{ 0x0600009F, InteractorController_Enter_m45460FBD80006A52B2F07240E4D795702C5D5279_AdjustorThunk },
+	{ 0x060000A0, InteractorController_Leave_mCAF65896F537EE89FD33D551A5EC8097F508471D_AdjustorThunk },
+	{ 0x060000A1, InteractorController_IsInteractorInteracting_mF9FE32B4CBEACD65761F197F951BDA80FEEBCA34_AdjustorThunk },
+	{ 0x060000A2, ControllerState_Initialize_mD59295B788A98EBC734BC92E6475CD17A407902A_AdjustorThunk },
+	{ 0x060000A3, ControllerState_ClearAll_m52A6EC6A596782D907184DB594C81CC96B8AD572_AdjustorThunk },
+	{ 0x060000A4, ControllerState_SetGameObject_mB38AF216BFAB8AC051D3D9C810DA8BE443CB52F8_AdjustorThunk },
+	{ 0x060000A5, ControllerState_SetState_m36D71805C177143372727F89ACA0149BD35AD209_AdjustorThunk },
+	{ 0x060000A6, ControllerState_IsControllerInteracting_m14CF817A878FAA70E33C4D59E9D657F8D1A6B362_AdjustorThunk },
+};
+static const int32_t s_InvokerIndices[469] = 
+{
+	9405,
+	9405,
+	9276,
+	9405,
+	9572,
+	9405,
+	9405,
+	9276,
+	9405,
+	9572,
+	9572,
+	9276,
+	9405,
+	9405,
+	9276,
+	9405,
+	9572,
+	7613,
+	7613,
+	9276,
+	9405,
+	9405,
+	9276,
+	9572,
+	9572,
+	9572,
+	9572,
+	9572,
+	7488,
+	7613,
+	9572,
+	9572,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	9405,
+	9405,
+	9405,
+	9572,
+	9572,
+	9572,
+	9572,
+	4315,
+	9572,
+	9572,
+	9572,
+	7488,
+	7488,
+	7488,
+	7575,
+	7575,
+	7575,
+	7575,
+	7575,
+	7575,
+	7575,
+	7575,
+	9572,
+	9572,
+	9572,
+	9572,
+	7613,
+	7613,
+	9276,
+	6784,
+	9572,
+	9572,
+	9572,
+	9572,
+	9276,
+	7488,
+	9363,
+	7575,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	7575,
+	9363,
+	7575,
+	9363,
+	7575,
+	9363,
+	7575,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9572,
+	9572,
+	7575,
+	7575,
+	7575,
+	7613,
+	9572,
+	2530,
+	2530,
+	12666,
+	9572,
+	9363,
+	7575,
+	9363,
+	7575,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9572,
+	9572,
+	9572,
+	7565,
+	3616,
+	9572,
+	7613,
+	9572,
+	9572,
+	9276,
+	9572,
+	9572,
+	3949,
+	7575,
+	5437,
+	9405,
+	9276,
+	7488,
+	9276,
+	7488,
+	9276,
+	7488,
+	9572,
+	9572,
+	9572,
+	9572,
+	4315,
+	4297,
+	4315,
+	7613,
+	7613,
+	7613,
+	7613,
+	7613,
+	7613,
+	9572,
+	9572,
+	9572,
+	9276,
+	9276,
+	9276,
+	9572,
+	9405,
+	9405,
+	7488,
+	7488,
+	7488,
+	9276,
+	7488,
+	9276,
+	9405,
+	9572,
+	9572,
+	7613,
+	7613,
+	5476,
+	5476,
+	9572,
+	9572,
+	7613,
+	7613,
+	7613,
+	7613,
+	7613,
+	7613,
+	7613,
+	9405,
+	9572,
+	9572,
+	9276,
+	5476,
+	7575,
+	9572,
+	9276,
+	9405,
+	9572,
+	9405,
+	7613,
+	7613,
+	7613,
+	7613,
+	7613,
+	9572,
+	7613,
+	7613,
+	7613,
+	7613,
+	7613,
+	7613,
+	9572,
+	9276,
+	7488,
+	9572,
+	9276,
+	9572,
+	7613,
+	7613,
+	7613,
+	7613,
+	7613,
+	7613,
+	9572,
+	9276,
+	9572,
+	9572,
+	9276,
+	7488,
+	9276,
+	9405,
+	9405,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9276,
+	9276,
+	9405,
+	7613,
+	9572,
+	7613,
+	7613,
+	9572,
+	9572,
+	7613,
+	7613,
+	9572,
+	9572,
+	9572,
+	9572,
+	9572,
+	7575,
+	9572,
+	9572,
+	9405,
+	9572,
+	9572,
+	7613,
+	5476,
+	5476,
+	5476,
+	5476,
+	5476,
+	9276,
+	9572,
+	16269,
+	9572,
+	5476,
+	5476,
+	9572,
+	9572,
+	9572,
+	9572,
+	9572,
+	4427,
+	9572,
+	9429,
+	9562,
+	9405,
+	4427,
+	9572,
+	7613,
+	7613,
+	7613,
+	7613,
+	9276,
+	7488,
+	9405,
+	9405,
+	9405,
+	9572,
+	9572,
+	9572,
+	7613,
+	7613,
+	9572,
+	9572,
+	7488,
+	9572,
+	9572,
+	7488,
+	9405,
+	9572,
+	9276,
+	7575,
+	9572,
+	9276,
+	9405,
+	9572,
+	9405,
+	9113,
+	7356,
+	9405,
+	9572,
+	9572,
+	9572,
+	7491,
+	9572,
+	9572,
+	7613,
+	7613,
+	7613,
+	7613,
+	9405,
+	9405,
+	9276,
+	9405,
+	7613,
+	9276,
+	7488,
+	9405,
+	9572,
+	9572,
+	7613,
+	7613,
+	7488,
+	7613,
+	7613,
+	7613,
+	9572,
+	7613,
+	7613,
+	7613,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9405,
+	7613,
+	9276,
+	7488,
+	9276,
+	9405,
+	7613,
+	9405,
+	9405,
+	9405,
+	9405,
+	9572,
+	9572,
+	7613,
+	7613,
+	9572,
+	7613,
+	9572,
+	9572,
+	7488,
+	9572,
+	4315,
+	4315,
+	4315,
+	7613,
+	7613,
+	7613,
+	7613,
+	9276,
+	7488,
+	9405,
+	9405,
+	9405,
+	9572,
+	9572,
+	9572,
+	7613,
+	7613,
+	9572,
+	9572,
+	7488,
+	7488,
+	9572,
+	9572,
+	7613,
+	7613,
+	7613,
+	7613,
+	9276,
+	7488,
+	9405,
+	9405,
+	9405,
+	9572,
+	9572,
+	9572,
+	7613,
+	7613,
+	9572,
+	9572,
+	7488,
+	9572,
+	7488,
+	9572,
+	9276,
+	7488,
+	9276,
+	7488,
+	9475,
+	7678,
+	9475,
+	7678,
+	9572,
+	9572,
+	9572,
+	9405,
+	9276,
+	9405,
+	9572,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_VRBuilder_XRInteraction_CodeGenModule;
+const Il2CppCodeGenModule g_VRBuilder_XRInteraction_CodeGenModule = 
+{
+	"VRBuilder.XRInteraction.dll",
+	469,
+	s_methodPointers,
+	9,
+	s_adjustorThunks,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL, // module initializer,
+	NULL,
+	NULL,
+	NULL,
+};
