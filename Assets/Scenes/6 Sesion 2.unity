@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.3361022, g: 0.46542206, b: 0.6189225, a: 1}
+  m_IndirectSpecularColor: {r: 0.78640896, g: 0.87175417, b: 0.9531239, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -4140,7 +4140,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 581937867}
-  - component: {fileID: 581937868}
   m_Layer: 0
   m_Name: InfoReticuloendo
   m_TagString: Untagged
@@ -4164,19 +4163,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &581937868
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 581937866}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e153ada5cd29c0f4ea235d89090a1268, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  longText: 
 --- !u!1 &590058454
 GameObject:
   m_ObjectHideFlags: 0
@@ -6650,7 +6636,6 @@ GameObject:
   - component: {fileID: 787934122}
   - component: {fileID: 787934125}
   - component: {fileID: 787934126}
-  - component: {fileID: 787934127}
   m_Layer: 5
   m_Name: 1
   m_TagString: Untagged
@@ -6723,7 +6708,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 581937868}
+      - m_Target: {fileID: 1300351686}
         m_TargetAssemblyTypeName: Info, Assembly-CSharp
         m_MethodName: reButton1
         m_Mode: 1
@@ -6782,7 +6767,7 @@ BoxCollider:
   m_GameObject: {fileID: 787934120}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Size: {x: 0.2, y: 0.2, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
@@ -6805,24 +6790,6 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RaycastTriggerInteraction: 1
---- !u!114 &787934127
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 787934120}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6df61a9a13528fd4f9365c233cb23bfb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_RaycastTriggerInteraction: 1
-  m_EventMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_MaxRayIntersections: 10
-  m_EventCamera: {fileID: 1300351685}
 --- !u!1 &791954161
 GameObject:
   m_ObjectHideFlags: 0
@@ -7302,7 +7269,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 581937868}
+      - m_Target: {fileID: 1300351686}
         m_TargetAssemblyTypeName: Info, Assembly-CSharp
         m_MethodName: reButton2
         m_Mode: 1
