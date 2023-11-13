@@ -223,8 +223,6 @@ struct ColorUsageAttribute_t3386946122DAB4AE3AD314081B423B40ADFDFFC4;
 struct CompareInfo_t1B1A6AC3486B570C76ABA52149C9BD4CD82F9E57;
 // UnityEngine.Component
 struct Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3;
-// UnityEngine.ContextMenu
-struct ContextMenu_tAD34D12FC1C28194486FB5BF28B5954D0814E8EF;
 // UnityEngine.Coroutine
 struct Coroutine_t85EA685566A254C23F3FD77AB5BDFFFF8799596B;
 // UnityEngine.CreateAssetMenuAttribute
@@ -1340,12 +1338,6 @@ struct Color32_t73C5004937BF5BB8AD55323D51AAA40A898EF48B
 // UnityEngine.ContextMenu
 struct ContextMenu_tAD34D12FC1C28194486FB5BF28B5954D0814E8EF  : public Attribute_tFDA8EFEFB0711976D22474794576DAF28F7440AA
 {
-	// System.String UnityEngine.ContextMenu::menuItem
-	String_t* ___menuItem_0;
-	// System.Boolean UnityEngine.ContextMenu::validate
-	bool ___validate_1;
-	// System.Int32 UnityEngine.ContextMenu::priority
-	int32_t ___priority_2;
 };
 
 // UnityEngine.CreateAssetMenuAttribute
@@ -4706,10 +4698,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Exception__ctor_m9B2BD92CD68916245A75109
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Exception_set_HResult_m010A171183E240EBF4F7611E924B533FAB2E471F_inline (Exception_t* __this, int32_t ___0_value, const RuntimeMethod* method) ;
 // System.Void System.Exception::.ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Exception__ctor_m412D5FC4D69035738F1DB88FD771ABD6B0E9E120 (Exception_t* __this, SerializationInfo_t3C47F63E24BEB9FCE2DC6309E027F238DC5C5E37* ___0_info, StreamingContext_t56760522A751890146EE45F82F866B55B7E33677 ___1_context, const RuntimeMethod* method) ;
-// System.Void UnityEngine.ContextMenu::.ctor(System.String,System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ContextMenu__ctor_m963C5D6E8ECB19D41754EF3626E0707EC6812D02 (ContextMenu_tAD34D12FC1C28194486FB5BF28B5954D0814E8EF* __this, String_t* ___0_itemName, bool ___1_isValidateFunction, const RuntimeMethod* method) ;
-// System.Void UnityEngine.ContextMenu::.ctor(System.String,System.Boolean,System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ContextMenu__ctor_m22CF01682EFB1927001E394DC4F378E4F6E131CF (ContextMenu_tAD34D12FC1C28194486FB5BF28B5954D0814E8EF* __this, String_t* ___0_itemName, bool ___1_isValidateFunction, int32_t ___2_priority, const RuntimeMethod* method) ;
 // System.Boolean UnityEngine.MonoBehaviour::Internal_IsInvokingAll(UnityEngine.MonoBehaviour)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool MonoBehaviour_Internal_IsInvokingAll_mCA9B8812ED7656429C2298F272AC1F654C40C3DA (MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71* ___0_self, const RuntimeMethod* method) ;
 // System.Void UnityEngine.MonoBehaviour::Internal_CancelInvokeAll(UnityEngine.MonoBehaviour)
@@ -9662,16 +9650,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Time_get_fixedDeltaTime_m43136893D00AF5
 	static Time_get_fixedDeltaTime_m43136893D00AF5D5FE80AD05609558F6E2381381_ftn _il2cpp_icall_func;
 	if (!_il2cpp_icall_func)
 	_il2cpp_icall_func = (Time_get_fixedDeltaTime_m43136893D00AF5D5FE80AD05609558F6E2381381_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Time::get_fixedDeltaTime()");
-	float icallRetVal = _il2cpp_icall_func();
-	return icallRetVal;
-}
-// System.Single UnityEngine.Time::get_maximumDeltaTime()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Time_get_maximumDeltaTime_m0C12CC936444852BD2E15B2531DDC238BA115B7C (const RuntimeMethod* method) 
-{
-	typedef float (*Time_get_maximumDeltaTime_m0C12CC936444852BD2E15B2531DDC238BA115B7C_ftn) ();
-	static Time_get_maximumDeltaTime_m0C12CC936444852BD2E15B2531DDC238BA115B7C_ftn _il2cpp_icall_func;
-	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (Time_get_maximumDeltaTime_m0C12CC936444852BD2E15B2531DDC238BA115B7C_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Time::get_maximumDeltaTime()");
 	float icallRetVal = _il2cpp_icall_func();
 	return icallRetVal;
 }
@@ -15026,40 +15004,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CreateAssetMenuAttribute__ctor_mE29F1B8C
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// System.Void UnityEngine.ContextMenu::.ctor(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ContextMenu__ctor_mCD05AD13A40676709620DD7D4A1A8DC787CE1351 (ContextMenu_tAD34D12FC1C28194486FB5BF28B5954D0814E8EF* __this, String_t* ___0_itemName, const RuntimeMethod* method) 
-{
-	{
-		String_t* L_0 = ___0_itemName;
-		ContextMenu__ctor_m963C5D6E8ECB19D41754EF3626E0707EC6812D02(__this, L_0, (bool)0, NULL);
-		return;
-	}
-}
-// System.Void UnityEngine.ContextMenu::.ctor(System.String,System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ContextMenu__ctor_m963C5D6E8ECB19D41754EF3626E0707EC6812D02 (ContextMenu_tAD34D12FC1C28194486FB5BF28B5954D0814E8EF* __this, String_t* ___0_itemName, bool ___1_isValidateFunction, const RuntimeMethod* method) 
-{
-	{
-		String_t* L_0 = ___0_itemName;
-		bool L_1 = ___1_isValidateFunction;
-		ContextMenu__ctor_m22CF01682EFB1927001E394DC4F378E4F6E131CF(__this, L_0, L_1, ((int32_t)1000000), NULL);
-		return;
-	}
-}
-// System.Void UnityEngine.ContextMenu::.ctor(System.String,System.Boolean,System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ContextMenu__ctor_m22CF01682EFB1927001E394DC4F378E4F6E131CF (ContextMenu_tAD34D12FC1C28194486FB5BF28B5954D0814E8EF* __this, String_t* ___0_itemName, bool ___1_isValidateFunction, int32_t ___2_priority, const RuntimeMethod* method) 
-{
-	{
-		Attribute__ctor_m79ED1BF1EE36D1E417BA89A0D9F91F8AAD8D19E2(__this, NULL);
-		String_t* L_0 = ___0_itemName;
-		__this->___menuItem_0 = L_0;
-		Il2CppCodeGenWriteBarrier((void**)(&__this->___menuItem_0), (void*)L_0);
-		bool L_1 = ___1_isValidateFunction;
-		__this->___validate_1 = L_1;
-		int32_t L_2 = ___2_priority;
-		__this->___priority_2 = L_2;
-		return;
-	}
-}
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif

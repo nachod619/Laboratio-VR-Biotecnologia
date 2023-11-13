@@ -9,6 +9,8 @@ public class GameStartMenu : MonoBehaviour
     public GameObject mainMenu;
     public GameObject options;
     public GameObject about;
+    public GameObject start;
+    public GameObject start3; 
 
     [Header("Main Menu Buttons")]
     public Button startButton;
@@ -26,9 +28,9 @@ public class GameStartMenu : MonoBehaviour
         EnableMainMenu();
 
         //Hook events
-        startButton.onClick.AddListener(StartGame);
+        startButton.onClick.AddListener(Enablestart);
         startButton2.onClick.AddListener(StartGame2);
-        startButton3.onClick.AddListener(StartGame3);
+        startButton3.onClick.AddListener(Enablestart);
         optionButton.onClick.AddListener(EnableOption);
         aboutButton.onClick.AddListener(EnableAbout);
         quitButton.onClick.AddListener(QuitGame);
@@ -53,7 +55,7 @@ public class GameStartMenu : MonoBehaviour
     public void StartGame2()
     {
         HideAll();
-        SceneTransitionManager.singleton.GoToSceneAsync(2);
+        SceneTransitionManager.singleton.GoToSceneAsync(4);
     }
 
     public void StartGame3()
@@ -67,6 +69,7 @@ public class GameStartMenu : MonoBehaviour
         mainMenu.SetActive(false);
         options.SetActive(false);
         about.SetActive(false);
+        start.SetActive(false);
     }
 
     public void EnableMainMenu()
@@ -74,17 +77,28 @@ public class GameStartMenu : MonoBehaviour
         mainMenu.SetActive(true);
         options.SetActive(false);
         about.SetActive(false);
+        start.SetActive(false);
     }
     public void EnableOption()
     {
         mainMenu.SetActive(false);
         options.SetActive(true);
         about.SetActive(false);
+        start.SetActive(false);
     }
     public void EnableAbout()
     {
         mainMenu.SetActive(false);
         options.SetActive(false);
         about.SetActive(true);
+        start.SetActive(false);
+    }
+    public void Enablestart()
+    {
+        mainMenu.SetActive(false);
+        options.SetActive(false);
+        about.SetActive(false);
+        start.SetActive(true);
+        
     }
 }

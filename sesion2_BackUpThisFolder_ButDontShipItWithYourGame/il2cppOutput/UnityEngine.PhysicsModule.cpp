@@ -670,16 +670,6 @@ struct CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A  : public C
 {
 };
 
-// UnityEngine.ConfigurableJoint
-struct ConfigurableJoint_t8B33AB5A6B8D52493F14C4B8DBDF78A1C94ECB77  : public Joint_tB2C5499F976EBB1EA1C11A80E1BD9F5E2EE4D682
-{
-};
-
-// UnityEngine.FixedJoint
-struct FixedJoint_tA10A077292A86BA2A2AB3542E3441610055F806E  : public Joint_tB2C5499F976EBB1EA1C11A80E1BD9F5E2EE4D682
-{
-};
-
 // UnityEngine.HingeJoint
 struct HingeJoint_t70A95A9F77881D06B0A7BE99B7B16EA40332D2D7  : public Joint_tB2C5499F976EBB1EA1C11A80E1BD9F5E2EE4D682
 {
@@ -692,11 +682,6 @@ struct MeshCollider_tB525E4DDE383252364ED0BDD32CF2B53914EE455  : public Collider
 
 // UnityEngine.SphereCollider
 struct SphereCollider_tBA111C542CE97F6873DE742757213D6265C7D275  : public Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76
-{
-};
-
-// UnityEngine.SpringJoint
-struct SpringJoint_t0DDC4B5817F02316DD25FDB34CB5ADF462E1AA09  : public Joint_tB2C5499F976EBB1EA1C11A80E1BD9F5E2EE4D682
 {
 };
 
@@ -910,14 +895,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 
 // UnityEngine.CharacterController
 
-// UnityEngine.ConfigurableJoint
-
-// UnityEngine.ConfigurableJoint
-
-// UnityEngine.FixedJoint
-
-// UnityEngine.FixedJoint
-
 // UnityEngine.HingeJoint
 
 // UnityEngine.HingeJoint
@@ -929,10 +906,6 @@ struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
 // UnityEngine.SphereCollider
 
 // UnityEngine.SphereCollider
-
-// UnityEngine.SpringJoint
-
-// UnityEngine.SpringJoint
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
@@ -3657,30 +3630,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HingeJoint_set_limits_Injected_mF946129A
 	_il2cpp_icall_func = (HingeJoint_set_limits_Injected_mF946129ADB63E27A95D9F71B5FFC54A0341AE78E_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.HingeJoint::set_limits_Injected(UnityEngine.JointLimits&)");
 	_il2cpp_icall_func(__this, ___0_value);
 }
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif

@@ -1295,10 +1295,9 @@ IL2CPP_EXTERN_C const RuntimeMethod* GameObject_TryGetComponent_TisRigidbody_t26
 IL2CPP_EXTERN_C const RuntimeMethod* GameStartMenu_EnableAbout_m3003E41079633A80F2D26EDCCCB756CF111AFFC9_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* GameStartMenu_EnableMainMenu_m0F641569C367648C4791930AA43DB5F841E2AC86_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* GameStartMenu_EnableOption_m24769C70B08FBF471741F4DE0B6976F7676007FE_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* GameStartMenu_Enablestart_m899ABDC24D990887FCF5945F890CE302A39A5E31_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* GameStartMenu_QuitGame_m3D5307B708EC2CD0307697A0F68A6300B2E03658_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* GameStartMenu_StartGame2_m048F2AD8E679355999037AA8CB5041CD78C2B289_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* GameStartMenu_StartGame3_m6258AB4B03DFB20190680CE96A1FDA297F472900_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* GameStartMenu_StartGame_m6AF94533EBB1B057DC7AC4E1E3223A168F7C5840_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* HashSet_1_Add_m899003BF81A20D05B1D48080CB373E701BA64652_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* HashSet_1_Add_mFA65768161AFFCF3635EDD51B9D5A27E1ECC3E53_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* HashSet_1_Clear_mF0CABB610E919699A22FB06A7ADCD78290884647_RuntimeMethod_var;
@@ -5596,20 +5595,24 @@ struct GameStartMenu_t23BB77115683C779B5E7B5C262DFD8A7AFC7B52C  : public MonoBeh
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___options_5;
 	// UnityEngine.GameObject GameStartMenu::about
 	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___about_6;
+	// UnityEngine.GameObject GameStartMenu::start
+	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___start_7;
+	// UnityEngine.GameObject GameStartMenu::start3
+	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___start3_8;
 	// UnityEngine.UI.Button GameStartMenu::startButton
-	Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ___startButton_7;
+	Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ___startButton_9;
 	// UnityEngine.UI.Button GameStartMenu::startButton2
-	Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ___startButton2_8;
+	Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ___startButton2_10;
 	// UnityEngine.UI.Button GameStartMenu::startButton3
-	Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ___startButton3_9;
+	Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ___startButton3_11;
 	// UnityEngine.UI.Button GameStartMenu::optionButton
-	Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ___optionButton_10;
+	Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ___optionButton_12;
 	// UnityEngine.UI.Button GameStartMenu::aboutButton
-	Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ___aboutButton_11;
+	Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ___aboutButton_13;
 	// UnityEngine.UI.Button GameStartMenu::quitButton
-	Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ___quitButton_12;
+	Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* ___quitButton_14;
 	// System.Collections.Generic.List`1<UnityEngine.UI.Button> GameStartMenu::returnButtons
-	List_1_tCB5B3B0C70F6DFB6B059BB2C65DC77B101849444* ___returnButtons_13;
+	List_1_tCB5B3B0C70F6DFB6B059BB2C65DC77B101849444* ___returnButtons_15;
 };
 
 // UnityEngine.XR.Content.Rendering.InteractableVisualsController
@@ -13371,10 +13374,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameStartMenu_Start_m95C9FA359664E84E933
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameStartMenu_EnableAbout_m3003E41079633A80F2D26EDCCCB756CF111AFFC9_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameStartMenu_EnableMainMenu_m0F641569C367648C4791930AA43DB5F841E2AC86_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameStartMenu_EnableOption_m24769C70B08FBF471741F4DE0B6976F7676007FE_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameStartMenu_Enablestart_m899ABDC24D990887FCF5945F890CE302A39A5E31_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameStartMenu_QuitGame_m3D5307B708EC2CD0307697A0F68A6300B2E03658_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameStartMenu_StartGame2_m048F2AD8E679355999037AA8CB5041CD78C2B289_RuntimeMethod_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameStartMenu_StartGame3_m6258AB4B03DFB20190680CE96A1FDA297F472900_RuntimeMethod_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameStartMenu_StartGame_m6AF94533EBB1B057DC7AC4E1E3223A168F7C5840_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1_GetEnumerator_mDECEA5FEDCE61794B52EBA15F4ECED64BAE19F95_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
@@ -13384,18 +13386,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameStartMenu_Start_m95C9FA359664E84E933
 	{
 		// EnableMainMenu();
 		GameStartMenu_EnableMainMenu_m0F641569C367648C4791930AA43DB5F841E2AC86(__this, NULL);
-		// startButton.onClick.AddListener(StartGame);
-		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_0 = __this->___startButton_7;
+		// startButton.onClick.AddListener(Enablestart);
+		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_0 = __this->___startButton_9;
 		NullCheck(L_0);
 		ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C* L_1;
 		L_1 = Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C_inline(L_0, NULL);
 		UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7* L_2 = (UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7*)il2cpp_codegen_object_new(UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7_il2cpp_TypeInfo_var);
 		NullCheck(L_2);
-		UnityAction__ctor_mC53E20D6B66E0D5688CD81B88DBB34F5A58B7131(L_2, __this, (intptr_t)((void*)GameStartMenu_StartGame_m6AF94533EBB1B057DC7AC4E1E3223A168F7C5840_RuntimeMethod_var), NULL);
+		UnityAction__ctor_mC53E20D6B66E0D5688CD81B88DBB34F5A58B7131(L_2, __this, (intptr_t)((void*)GameStartMenu_Enablestart_m899ABDC24D990887FCF5945F890CE302A39A5E31_RuntimeMethod_var), NULL);
 		NullCheck(L_1);
 		UnityEvent_AddListener_m8AA4287C16628486B41DA41CA5E7A856A706D302(L_1, L_2, NULL);
 		// startButton2.onClick.AddListener(StartGame2);
-		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_3 = __this->___startButton2_8;
+		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_3 = __this->___startButton2_10;
 		NullCheck(L_3);
 		ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C* L_4;
 		L_4 = Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C_inline(L_3, NULL);
@@ -13404,18 +13406,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameStartMenu_Start_m95C9FA359664E84E933
 		UnityAction__ctor_mC53E20D6B66E0D5688CD81B88DBB34F5A58B7131(L_5, __this, (intptr_t)((void*)GameStartMenu_StartGame2_m048F2AD8E679355999037AA8CB5041CD78C2B289_RuntimeMethod_var), NULL);
 		NullCheck(L_4);
 		UnityEvent_AddListener_m8AA4287C16628486B41DA41CA5E7A856A706D302(L_4, L_5, NULL);
-		// startButton3.onClick.AddListener(StartGame3);
-		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_6 = __this->___startButton3_9;
+		// startButton3.onClick.AddListener(Enablestart);
+		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_6 = __this->___startButton3_11;
 		NullCheck(L_6);
 		ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C* L_7;
 		L_7 = Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C_inline(L_6, NULL);
 		UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7* L_8 = (UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7*)il2cpp_codegen_object_new(UnityAction_t11A1F3B953B365C072A5DCC32677EE1796A962A7_il2cpp_TypeInfo_var);
 		NullCheck(L_8);
-		UnityAction__ctor_mC53E20D6B66E0D5688CD81B88DBB34F5A58B7131(L_8, __this, (intptr_t)((void*)GameStartMenu_StartGame3_m6258AB4B03DFB20190680CE96A1FDA297F472900_RuntimeMethod_var), NULL);
+		UnityAction__ctor_mC53E20D6B66E0D5688CD81B88DBB34F5A58B7131(L_8, __this, (intptr_t)((void*)GameStartMenu_Enablestart_m899ABDC24D990887FCF5945F890CE302A39A5E31_RuntimeMethod_var), NULL);
 		NullCheck(L_7);
 		UnityEvent_AddListener_m8AA4287C16628486B41DA41CA5E7A856A706D302(L_7, L_8, NULL);
 		// optionButton.onClick.AddListener(EnableOption);
-		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_9 = __this->___optionButton_10;
+		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_9 = __this->___optionButton_12;
 		NullCheck(L_9);
 		ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C* L_10;
 		L_10 = Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C_inline(L_9, NULL);
@@ -13425,7 +13427,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameStartMenu_Start_m95C9FA359664E84E933
 		NullCheck(L_10);
 		UnityEvent_AddListener_m8AA4287C16628486B41DA41CA5E7A856A706D302(L_10, L_11, NULL);
 		// aboutButton.onClick.AddListener(EnableAbout);
-		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_12 = __this->___aboutButton_11;
+		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_12 = __this->___aboutButton_13;
 		NullCheck(L_12);
 		ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C* L_13;
 		L_13 = Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C_inline(L_12, NULL);
@@ -13435,7 +13437,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameStartMenu_Start_m95C9FA359664E84E933
 		NullCheck(L_13);
 		UnityEvent_AddListener_m8AA4287C16628486B41DA41CA5E7A856A706D302(L_13, L_14, NULL);
 		// quitButton.onClick.AddListener(QuitGame);
-		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_15 = __this->___quitButton_12;
+		Button_t6786514A57F7AFDEE5431112FEA0CAB24F5AE098* L_15 = __this->___quitButton_14;
 		NullCheck(L_15);
 		ButtonClickedEvent_t8EA72E90B3BD1392FB3B3EF167D5121C23569E4C* L_16;
 		L_16 = Button_get_onClick_m701712A7F7F000CC80D517C4510697E15722C35C_inline(L_15, NULL);
@@ -13445,7 +13447,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameStartMenu_Start_m95C9FA359664E84E933
 		NullCheck(L_16);
 		UnityEvent_AddListener_m8AA4287C16628486B41DA41CA5E7A856A706D302(L_16, L_17, NULL);
 		// foreach (var item in returnButtons)
-		List_1_tCB5B3B0C70F6DFB6B059BB2C65DC77B101849444* L_18 = __this->___returnButtons_13;
+		List_1_tCB5B3B0C70F6DFB6B059BB2C65DC77B101849444* L_18 = __this->___returnButtons_15;
 		NullCheck(L_18);
 		Enumerator_t5335AC095F03CC8AE427E31013F4DDE02B8A8A05 L_19;
 		L_19 = List_1_GetEnumerator_mDECEA5FEDCE61794B52EBA15F4ECED64BAE19F95(L_18, List_1_GetEnumerator_mDECEA5FEDCE61794B52EBA15F4ECED64BAE19F95_RuntimeMethod_var);
@@ -13551,10 +13553,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameStartMenu_StartGame2_m048F2AD8E67935
 	{
 		// HideAll();
 		GameStartMenu_HideAll_m9F7E660431E60C0463AC8110324D320E7383FA71(__this, NULL);
-		// SceneTransitionManager.singleton.GoToSceneAsync(2);
+		// SceneTransitionManager.singleton.GoToSceneAsync(4);
 		SceneTransitionManager_tD01F6613CD559F2FDC031F89912659FB201F5011* L_0 = ((SceneTransitionManager_tD01F6613CD559F2FDC031F89912659FB201F5011_StaticFields*)il2cpp_codegen_static_fields_for(SceneTransitionManager_tD01F6613CD559F2FDC031F89912659FB201F5011_il2cpp_TypeInfo_var))->___singleton_5;
 		NullCheck(L_0);
-		SceneTransitionManager_GoToSceneAsync_m61A85B5FBB3CEB46B63CCEB245F0D5D9EF7AAD12(L_0, 2, NULL);
+		SceneTransitionManager_GoToSceneAsync_m61A85B5FBB3CEB46B63CCEB245F0D5D9EF7AAD12(L_0, 4, NULL);
 		// }
 		return;
 	}
@@ -13595,6 +13597,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameStartMenu_HideAll_m9F7E660431E60C046
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2 = __this->___about_6;
 		NullCheck(L_2);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_2, (bool)0, NULL);
+		// start.SetActive(false);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_3 = __this->___start_7;
+		NullCheck(L_3);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_3, (bool)0, NULL);
 		// }
 		return;
 	}
@@ -13615,6 +13621,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameStartMenu_EnableMainMenu_m0F641569C3
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2 = __this->___about_6;
 		NullCheck(L_2);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_2, (bool)0, NULL);
+		// start.SetActive(false);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_3 = __this->___start_7;
+		NullCheck(L_3);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_3, (bool)0, NULL);
 		// }
 		return;
 	}
@@ -13635,6 +13645,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameStartMenu_EnableOption_m24769C70B08F
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2 = __this->___about_6;
 		NullCheck(L_2);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_2, (bool)0, NULL);
+		// start.SetActive(false);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_3 = __this->___start_7;
+		NullCheck(L_3);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_3, (bool)0, NULL);
 		// }
 		return;
 	}
@@ -13655,6 +13669,34 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameStartMenu_EnableAbout_m3003E41079633
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2 = __this->___about_6;
 		NullCheck(L_2);
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_2, (bool)1, NULL);
+		// start.SetActive(false);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_3 = __this->___start_7;
+		NullCheck(L_3);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_3, (bool)0, NULL);
+		// }
+		return;
+	}
+}
+// System.Void GameStartMenu::Enablestart()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameStartMenu_Enablestart_m899ABDC24D990887FCF5945F890CE302A39A5E31 (GameStartMenu_t23BB77115683C779B5E7B5C262DFD8A7AFC7B52C* __this, const RuntimeMethod* method) 
+{
+	{
+		// mainMenu.SetActive(false);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_0 = __this->___mainMenu_4;
+		NullCheck(L_0);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_0, (bool)0, NULL);
+		// options.SetActive(false);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1 = __this->___options_5;
+		NullCheck(L_1);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_1, (bool)0, NULL);
+		// about.SetActive(false);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_2 = __this->___about_6;
+		NullCheck(L_2);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_2, (bool)0, NULL);
+		// start.SetActive(true);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_3 = __this->___start_7;
+		NullCheck(L_3);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_3, (bool)1, NULL);
 		// }
 		return;
 	}

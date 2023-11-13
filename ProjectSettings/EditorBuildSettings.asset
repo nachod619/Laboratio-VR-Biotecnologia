@@ -8,16 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/1 Start Scene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/2 Game Scene.unity
     guid: eccb2bc76074b2849b626b75e749890d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/3 Laberinto.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
-    path: Assets/Scenes/4 Celulas.unity
-    guid: 7f169f5b3be56d64daf4d9c34a51449a
-  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/Scenes/5 Sesion 1.unity
     guid: 90176b5b5b7f10a4fa9b5d04a77b589a
   - enabled: 1

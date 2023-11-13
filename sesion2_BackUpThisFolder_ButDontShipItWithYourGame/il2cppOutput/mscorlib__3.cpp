@@ -3147,8 +3147,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR NumberFormatInfo_t8E26808B202927FEBF9064FCFEE
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* Number_FormatDouble_m8200155FEB88CCDD03BF9C683156C0986AA5EFB0 (double ___0_value, String_t* ___1_format, NumberFormatInfo_t8E26808B202927FEBF9064FCFEEA4D6E076E6472* ___2_info, const RuntimeMethod* method) ;
 // System.String System.Double::ToString()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* Double_ToString_m7499A5D792419537DCB9470A3675CEF5117DE339 (double* __this, const RuntimeMethod* method) ;
-// System.String System.Double::ToString(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* Double_ToString_m70EC76E1DAD7E8B5B47AF9292189BF3711B24B75 (double* __this, String_t* ___0_format, const RuntimeMethod* method) ;
 // System.Globalization.NumberFormatInfo System.Globalization.NumberFormatInfo::GetInstance(System.IFormatProvider)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR NumberFormatInfo_t8E26808B202927FEBF9064FCFEEA4D6E076E6472* NumberFormatInfo_GetInstance_m705987E5E7D3E5EC5C5DD2D088FBC9BCBA0FC31F (RuntimeObject* ___0_formatProvider, const RuntimeMethod* method) ;
 // System.String System.Double::ToString(System.IFormatProvider)
@@ -10535,35 +10533,6 @@ IL2CPP_EXTERN_C  String_t* Double_ToString_m7499A5D792419537DCB9470A3675CEF5117D
 	_thisAdjusted = reinterpret_cast<double*>(__this + _offset);
 	String_t* _returnValue;
 	_returnValue = Double_ToString_m7499A5D792419537DCB9470A3675CEF5117DE339(_thisAdjusted, method);
-	return _returnValue;
-}
-// System.String System.Double::ToString(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* Double_ToString_m70EC76E1DAD7E8B5B47AF9292189BF3711B24B75 (double* __this, String_t* ___0_format, const RuntimeMethod* method) 
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Number_tA71F95D4B9F046BDA97EFA91BC6517925969650A_il2cpp_TypeInfo_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		double L_0 = *((double*)__this);
-		String_t* L_1 = ___0_format;
-		NumberFormatInfo_t8E26808B202927FEBF9064FCFEEA4D6E076E6472* L_2;
-		L_2 = NumberFormatInfo_get_CurrentInfo_m121C9878F777AD81289C7B2BF589293E509FD9B4(NULL);
-		il2cpp_codegen_runtime_class_init_inline(Number_tA71F95D4B9F046BDA97EFA91BC6517925969650A_il2cpp_TypeInfo_var);
-		String_t* L_3;
-		L_3 = Number_FormatDouble_m8200155FEB88CCDD03BF9C683156C0986AA5EFB0(L_0, L_1, L_2, NULL);
-		return L_3;
-	}
-}
-IL2CPP_EXTERN_C  String_t* Double_ToString_m70EC76E1DAD7E8B5B47AF9292189BF3711B24B75_AdjustorThunk (RuntimeObject* __this, String_t* ___0_format, const RuntimeMethod* method)
-{
-	double* _thisAdjusted;
-	int32_t _offset = 1;
-	_thisAdjusted = reinterpret_cast<double*>(__this + _offset);
-	String_t* _returnValue;
-	_returnValue = Double_ToString_m70EC76E1DAD7E8B5B47AF9292189BF3711B24B75(_thisAdjusted, ___0_format, method);
 	return _returnValue;
 }
 // System.String System.Double::ToString(System.IFormatProvider)
