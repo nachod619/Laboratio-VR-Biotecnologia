@@ -9,8 +9,7 @@ public class GameStartMenu : MonoBehaviour
     public GameObject mainMenu;
     public GameObject options;
     public GameObject about;
-    public GameObject start;
-    public GameObject start3; 
+    public GameObject start; 
 
     [Header("Main Menu Buttons")]
     public Button startButton;
@@ -55,7 +54,7 @@ public class GameStartMenu : MonoBehaviour
     public void StartGame2()
     {
         HideAll();
-        SceneTransitionManager.singleton.GoToSceneAsync(4);
+        SceneTransitionManager.singleton.GoToSceneAsync(1);
     }
 
     public void StartGame3()
@@ -99,6 +98,5 @@ public class GameStartMenu : MonoBehaviour
         options.SetActive(false);
         about.SetActive(false);
         start.SetActive(true);
-        
     }
 }
