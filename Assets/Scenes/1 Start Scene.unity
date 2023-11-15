@@ -3480,7 +3480,6 @@ MonoBehaviour:
   options: {fileID: 96565793}
   about: {fileID: 79910497}
   start: {fileID: 739011062}
-  start3: {fileID: 739011062}
   startButton: {fileID: 448256129}
   startButton2: {fileID: 1871421005}
   startButton3: {fileID: 1249644116}
@@ -5793,9 +5792,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 3bd0d2e0ba140fd4892130ed9c597236, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.155
+  m_Volume: 0.105
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -5839,7 +5838,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0
+      value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
