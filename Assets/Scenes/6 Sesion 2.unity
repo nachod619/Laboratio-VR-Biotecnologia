@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.33658242, g: 0.46590596, b: 0.61978316, a: 1}
+  m_IndirectSpecularColor: {r: 0.33560464, g: 0.46486577, b: 0.6182141, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -11319,7 +11319,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 812572698}
   m_LocalRotation: {x: -0.5, y: -0.5, z: 0.5, w: 0.5}
-  m_LocalPosition: {x: 0, y: 0, z: -0.9882}
+  m_LocalPosition: {x: 0, y: 0, z: -1.044}
   m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -11329,7 +11329,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: -180, y: 90, z: -90}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: -1.1164}
+  m_AnchoredPosition: {x: -0.989, y: -1.116}
   m_SizeDelta: {x: 12.5289, y: 8.1536}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &812572700
@@ -25165,7 +25165,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1855253102
 Transform:
   m_ObjectHideFlags: 0
@@ -27712,7 +27712,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_System: {fileID: 1996157737}
-  m_TurnSpeed: 50
+  m_TurnSpeed: 60
   m_LeftHandTurnAction:
     m_UseReference: 0
     m_Action:
@@ -27781,7 +27781,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_System: {fileID: 1996157737}
   m_TurnAmount: 1
-  m_DebounceTime: 0.001
+  m_DebounceTime: 0.0001
   m_EnableTurnLeftRight: 1
   m_EnableTurnAround: 0
   m_DelayTime: 0
@@ -28551,7 +28551,6 @@ GameObject:
   - component: {fileID: 2062871932}
   - component: {fileID: 2062871936}
   - component: {fileID: 2062871938}
-  - component: {fileID: 2062871937}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -28712,21 +28711,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Panel: {fileID: 712528378}
---- !u!114 &2062871937
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2062871930}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
-  m_EffectDistance: {x: 4, y: -4}
-  m_UseGraphicAlpha: 1
 --- !u!114 &2062871938
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30044,7 +30028,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6824472182102296184}
-  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  m_LocalRotation: {x: -0, y: 0.8897794, z: -0, w: 0.45639095}
   m_LocalPosition: {x: 30.298, y: 0.259, z: 35.526}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 1
@@ -30054,7 +30038,7 @@ Transform:
   - {fileID: 362951141}
   m_Father: {fileID: 0}
   m_RootOrder: 7
-  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 125.691, z: 0}
 --- !u!4 &6231087003289972763
 Transform:
   m_ObjectHideFlags: 0

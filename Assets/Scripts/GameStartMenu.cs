@@ -29,7 +29,7 @@ public class GameStartMenu : MonoBehaviour
         //Hook events
         startButton.onClick.AddListener(Enablestart);
         startButton2.onClick.AddListener(StartGame2);
-        startButton3.onClick.AddListener(Enablestart);
+        startButton3.onClick.AddListener(StartGame3);
         optionButton.onClick.AddListener(EnableOption);
         aboutButton.onClick.AddListener(EnableAbout);
         quitButton.onClick.AddListener(QuitGame);
@@ -60,7 +60,7 @@ public class GameStartMenu : MonoBehaviour
     public void StartGame3()
     {
         HideAll();
-        SceneTransitionManager.singleton.GoToSceneAsync(3);
+        SceneTransitionManager.singleton.GoToSceneAsync(2);
     }
 
     public void HideAll()
