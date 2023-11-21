@@ -2112,2441 +2112,2405 @@ extern void U3CU3Ec_U3CFetchStreamingAssetsFilesAtU3Eb__6_0_mA652A72D1860A68E6B0
 extern void U3CU3Ec__DisplayClass5_0__ctor_mC44216424EF1760A8EB649EE94C0A8FBBAF5A1C4 (void);
 // 0x000004AB System.Boolean VRBuilder.Core.IO.AndroidFileSystem/<>c__DisplayClass5_0::<ReadAllText>b__0(System.IO.Compression.ZipArchiveEntry)
 extern void U3CU3Ec__DisplayClass5_0_U3CReadAllTextU3Eb__0_m61C1DE34244B361806110CC70C12A90B64108028 (void);
-// 0x000004AC System.Void VRBuilder.Core.IO.AndroidFileSystem/<ReadAllText>d__5::.ctor()
-extern void U3CReadAllTextU3Ed__5__ctor_m80631320C3643445A58510481392D93F030B0890 (void);
-// 0x000004AD System.Void VRBuilder.Core.IO.AndroidFileSystem/<ReadAllText>d__5::MoveNext()
+// 0x000004AC System.Void VRBuilder.Core.IO.AndroidFileSystem/<ReadAllText>d__5::MoveNext()
 extern void U3CReadAllTextU3Ed__5_MoveNext_mE25051CF28A5B1517EC72B5B52A8862CFB7A8B89 (void);
-// 0x000004AE System.Void VRBuilder.Core.IO.AndroidFileSystem/<ReadAllText>d__5::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+// 0x000004AD System.Void VRBuilder.Core.IO.AndroidFileSystem/<ReadAllText>d__5::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 extern void U3CReadAllTextU3Ed__5_SetStateMachine_mCD5DE22975FADB37603D5EFFB2D9C7F21D02574A (void);
-// 0x000004AF System.Void VRBuilder.Core.IO.AndroidFileSystem/<>c__DisplayClass6_0::.ctor()
+// 0x000004AE System.Void VRBuilder.Core.IO.AndroidFileSystem/<>c__DisplayClass6_0::.ctor()
 extern void U3CU3Ec__DisplayClass6_0__ctor_m795BD1E02CBAEAE73BCDD9381B358C38FBCD0619 (void);
-// 0x000004B0 System.Boolean VRBuilder.Core.IO.AndroidFileSystem/<>c__DisplayClass6_0::<FetchStreamingAssetsFilesAt>b__1(System.String)
+// 0x000004AF System.Boolean VRBuilder.Core.IO.AndroidFileSystem/<>c__DisplayClass6_0::<FetchStreamingAssetsFilesAt>b__1(System.String)
 extern void U3CU3Ec__DisplayClass6_0_U3CFetchStreamingAssetsFilesAtU3Eb__1_m2CDA4A9E998C8DD171ADD9FF11255298710AB9C6 (void);
-// 0x000004B1 System.Void VRBuilder.Core.IO.AndroidFileSystem/<>c__DisplayClass7_0::.ctor()
+// 0x000004B0 System.Void VRBuilder.Core.IO.AndroidFileSystem/<>c__DisplayClass7_0::.ctor()
 extern void U3CU3Ec__DisplayClass7_0__ctor_m3A790523ED37EEC1400D9520F6F8DDA1BD939CAB (void);
-// 0x000004B2 System.Boolean VRBuilder.Core.IO.AndroidFileSystem/<>c__DisplayClass7_0::<ReadFromStreamingAssets>b__0(System.IO.Compression.ZipArchiveEntry)
+// 0x000004B1 System.Boolean VRBuilder.Core.IO.AndroidFileSystem/<>c__DisplayClass7_0::<ReadFromStreamingAssets>b__0(System.IO.Compression.ZipArchiveEntry)
 extern void U3CU3Ec__DisplayClass7_0_U3CReadFromStreamingAssetsU3Eb__0_mA15CF6C35FF4E073341963B6477A7AF880D24B68 (void);
-// 0x000004B3 System.Void VRBuilder.Core.IO.AndroidFileSystem/<ReadFromStreamingAssets>d__7::.ctor()
-extern void U3CReadFromStreamingAssetsU3Ed__7__ctor_mBE4849DE8A7DA183F770A076B6C149C4B3BB73ED (void);
-// 0x000004B4 System.Void VRBuilder.Core.IO.AndroidFileSystem/<ReadFromStreamingAssets>d__7::MoveNext()
+// 0x000004B2 System.Void VRBuilder.Core.IO.AndroidFileSystem/<ReadFromStreamingAssets>d__7::MoveNext()
 extern void U3CReadFromStreamingAssetsU3Ed__7_MoveNext_mE8135F0F848D2CC6AC64C2D95A23DD05ADF97466 (void);
-// 0x000004B5 System.Void VRBuilder.Core.IO.AndroidFileSystem/<ReadFromStreamingAssets>d__7::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+// 0x000004B3 System.Void VRBuilder.Core.IO.AndroidFileSystem/<ReadFromStreamingAssets>d__7::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 extern void U3CReadFromStreamingAssetsU3Ed__7_SetStateMachine_mF9CA99305010A4D0D4350A17A8456E60E584837F (void);
-// 0x000004B6 System.Void VRBuilder.Core.IO.AndroidFileSystem/<>c__DisplayClass8_0::.ctor()
+// 0x000004B4 System.Void VRBuilder.Core.IO.AndroidFileSystem/<>c__DisplayClass8_0::.ctor()
 extern void U3CU3Ec__DisplayClass8_0__ctor_m500251B0CE1D0921FC0C740C2BBF6167ECBDC995 (void);
-// 0x000004B7 System.Boolean VRBuilder.Core.IO.AndroidFileSystem/<>c__DisplayClass8_0::<FileExistsInStreamingAssets>b__0(System.String)
+// 0x000004B5 System.Boolean VRBuilder.Core.IO.AndroidFileSystem/<>c__DisplayClass8_0::<FileExistsInStreamingAssets>b__0(System.String)
 extern void U3CU3Ec__DisplayClass8_0_U3CFileExistsInStreamingAssetsU3Eb__0_mAB4EA714F5EAA3F615B7C1ECD2E7770DF2278EC9 (void);
-// 0x000004B8 System.Void VRBuilder.Core.IO.AndroidFileSystem/<FileExistsInStreamingAssets>d__8::.ctor()
-extern void U3CFileExistsInStreamingAssetsU3Ed__8__ctor_mD4B6B0DF5CEA94C358378F7F7DCBFBF6E502C691 (void);
-// 0x000004B9 System.Void VRBuilder.Core.IO.AndroidFileSystem/<FileExistsInStreamingAssets>d__8::MoveNext()
+// 0x000004B6 System.Void VRBuilder.Core.IO.AndroidFileSystem/<FileExistsInStreamingAssets>d__8::MoveNext()
 extern void U3CFileExistsInStreamingAssetsU3Ed__8_MoveNext_mC42180C575E932A08B682CDCF4C0BB20795CCE63 (void);
-// 0x000004BA System.Void VRBuilder.Core.IO.AndroidFileSystem/<FileExistsInStreamingAssets>d__8::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+// 0x000004B7 System.Void VRBuilder.Core.IO.AndroidFileSystem/<FileExistsInStreamingAssets>d__8::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 extern void U3CFileExistsInStreamingAssetsU3Ed__8_SetStateMachine_m95E6F4556B5661C48941B0839BFA48C219A9E7BB (void);
-// 0x000004BB System.Void VRBuilder.Core.IO.DefaultFileSystem::.ctor(System.String,System.String)
+// 0x000004B8 System.Void VRBuilder.Core.IO.DefaultFileSystem::.ctor(System.String,System.String)
 extern void DefaultFileSystem__ctor_m856D6BAC99E8C80F26E750F93C1239F4FA8EE742 (void);
-// 0x000004BC System.Threading.Tasks.Task`1<System.Byte[]> VRBuilder.Core.IO.DefaultFileSystem::Read(System.String)
+// 0x000004B9 System.Threading.Tasks.Task`1<System.Byte[]> VRBuilder.Core.IO.DefaultFileSystem::Read(System.String)
 extern void DefaultFileSystem_Read_mC649DC0E10FBC07E0165A2B8C6DA73FE83FD886E (void);
-// 0x000004BD System.Threading.Tasks.Task`1<System.String> VRBuilder.Core.IO.DefaultFileSystem::ReadAllText(System.String)
+// 0x000004BA System.Threading.Tasks.Task`1<System.String> VRBuilder.Core.IO.DefaultFileSystem::ReadAllText(System.String)
 extern void DefaultFileSystem_ReadAllText_mD99EB401B03AF4B06D29C2FE719A16996092391D (void);
-// 0x000004BE System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.Core.IO.DefaultFileSystem::Write(System.String,System.Byte[])
+// 0x000004BB System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.Core.IO.DefaultFileSystem::Write(System.String,System.Byte[])
 extern void DefaultFileSystem_Write_m29948B6DFEF527BA8708B29910848D1CD56E3953 (void);
-// 0x000004BF System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.Core.IO.DefaultFileSystem::Exists(System.String)
+// 0x000004BC System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.Core.IO.DefaultFileSystem::Exists(System.String)
 extern void DefaultFileSystem_Exists_m6D0A7BC23FB7A7691F0A25DAA8077D1CF12FF331 (void);
-// 0x000004C0 System.Collections.Generic.IEnumerable`1<System.String> VRBuilder.Core.IO.DefaultFileSystem::FetchStreamingAssetsFilesAt(System.String,System.String)
+// 0x000004BD System.Collections.Generic.IEnumerable`1<System.String> VRBuilder.Core.IO.DefaultFileSystem::FetchStreamingAssetsFilesAt(System.String,System.String)
 extern void DefaultFileSystem_FetchStreamingAssetsFilesAt_m64A2DFBC835015986C93970FEF5A6F56B43D3320 (void);
-// 0x000004C1 System.Threading.Tasks.Task`1<System.Byte[]> VRBuilder.Core.IO.DefaultFileSystem::ReadFromStreamingAssets(System.String)
+// 0x000004BE System.Threading.Tasks.Task`1<System.Byte[]> VRBuilder.Core.IO.DefaultFileSystem::ReadFromStreamingAssets(System.String)
 extern void DefaultFileSystem_ReadFromStreamingAssets_m0718D3E87527DA7C4B1208EC51AB1ABD309731C8 (void);
-// 0x000004C2 System.Threading.Tasks.Task`1<System.Byte[]> VRBuilder.Core.IO.DefaultFileSystem::ReadFromPersistentData(System.String)
+// 0x000004BF System.Threading.Tasks.Task`1<System.Byte[]> VRBuilder.Core.IO.DefaultFileSystem::ReadFromPersistentData(System.String)
 extern void DefaultFileSystem_ReadFromPersistentData_m3425E49842E8D0BA8C13F5DD3412CD045F910E7D (void);
-// 0x000004C3 System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.Core.IO.DefaultFileSystem::FileExistsInStreamingAssets(System.String)
+// 0x000004C0 System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.Core.IO.DefaultFileSystem::FileExistsInStreamingAssets(System.String)
 extern void DefaultFileSystem_FileExistsInStreamingAssets_mECD36F4523C8A335A443AD1BC9EAC05841B4A0B5 (void);
-// 0x000004C4 System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.Core.IO.DefaultFileSystem::FileExistsInPersistentData(System.String)
+// 0x000004C1 System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.Core.IO.DefaultFileSystem::FileExistsInPersistentData(System.String)
 extern void DefaultFileSystem_FileExistsInPersistentData_mCD3B0360BA01B1B29C0B49A1ECF5F6A48AD75129 (void);
-// 0x000004C5 System.String VRBuilder.Core.IO.DefaultFileSystem::BuildPersistentDataPath(System.String)
+// 0x000004C2 System.String VRBuilder.Core.IO.DefaultFileSystem::BuildPersistentDataPath(System.String)
 extern void DefaultFileSystem_BuildPersistentDataPath_m0CBCAC285DFBCB1BA069ABAD5BCF9C6D13C4DC74 (void);
-// 0x000004C6 System.String VRBuilder.Core.IO.DefaultFileSystem::NormalizePath(System.String)
+// 0x000004C3 System.String VRBuilder.Core.IO.DefaultFileSystem::NormalizePath(System.String)
 extern void DefaultFileSystem_NormalizePath_m6185496E0C5A343F3534E07358D186A8A8EA243A (void);
-// 0x000004C7 System.Void VRBuilder.Core.IO.DefaultFileSystem/<Read>d__3::.ctor()
-extern void U3CReadU3Ed__3__ctor_mB4959D5CE1101BC7C6481C631BB04218BC5CAAD6 (void);
-// 0x000004C8 System.Void VRBuilder.Core.IO.DefaultFileSystem/<Read>d__3::MoveNext()
+// 0x000004C4 System.Void VRBuilder.Core.IO.DefaultFileSystem/<Read>d__3::MoveNext()
 extern void U3CReadU3Ed__3_MoveNext_mD8BFEC73F8415113D23C08B09A118B580AED865B (void);
-// 0x000004C9 System.Void VRBuilder.Core.IO.DefaultFileSystem/<Read>d__3::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+// 0x000004C5 System.Void VRBuilder.Core.IO.DefaultFileSystem/<Read>d__3::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 extern void U3CReadU3Ed__3_SetStateMachine_m716A186FD0E3AC7343C34F771D36651B5099A0D8 (void);
-// 0x000004CA System.Void VRBuilder.Core.IO.DefaultFileSystem/<ReadAllText>d__4::.ctor()
-extern void U3CReadAllTextU3Ed__4__ctor_m2B6AD060B3422FFA8A624A3F933DFB48BBD7773F (void);
-// 0x000004CB System.Void VRBuilder.Core.IO.DefaultFileSystem/<ReadAllText>d__4::MoveNext()
+// 0x000004C6 System.Void VRBuilder.Core.IO.DefaultFileSystem/<ReadAllText>d__4::MoveNext()
 extern void U3CReadAllTextU3Ed__4_MoveNext_m7D144F32DBB84D808DD88CC5F38EF1440F0501CA (void);
-// 0x000004CC System.Void VRBuilder.Core.IO.DefaultFileSystem/<ReadAllText>d__4::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+// 0x000004C7 System.Void VRBuilder.Core.IO.DefaultFileSystem/<ReadAllText>d__4::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 extern void U3CReadAllTextU3Ed__4_SetStateMachine_mFEAF844E512D24AE79EEB39B47508BD9918A3A41 (void);
-// 0x000004CD System.Void VRBuilder.Core.IO.DefaultFileSystem/<Write>d__5::.ctor()
-extern void U3CWriteU3Ed__5__ctor_mCB2D018449D189074E643B84CB86131550A640AB (void);
-// 0x000004CE System.Void VRBuilder.Core.IO.DefaultFileSystem/<Write>d__5::MoveNext()
+// 0x000004C8 System.Void VRBuilder.Core.IO.DefaultFileSystem/<Write>d__5::MoveNext()
 extern void U3CWriteU3Ed__5_MoveNext_m90D18A18FC94035095FFBDE41E3016FB6D28033E (void);
-// 0x000004CF System.Void VRBuilder.Core.IO.DefaultFileSystem/<Write>d__5::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+// 0x000004C9 System.Void VRBuilder.Core.IO.DefaultFileSystem/<Write>d__5::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 extern void U3CWriteU3Ed__5_SetStateMachine_mB8AACB414B435F081120ED5197A20C3517C76C29 (void);
-// 0x000004D0 System.Void VRBuilder.Core.IO.DefaultFileSystem/<Exists>d__6::.ctor()
-extern void U3CExistsU3Ed__6__ctor_m741C6589A0ED2AB40F80D3C80DF57ED3D64C9EA7 (void);
-// 0x000004D1 System.Void VRBuilder.Core.IO.DefaultFileSystem/<Exists>d__6::MoveNext()
+// 0x000004CA System.Void VRBuilder.Core.IO.DefaultFileSystem/<Exists>d__6::MoveNext()
 extern void U3CExistsU3Ed__6_MoveNext_m17C6F67CB449411BEB330FCE0FC0921ADD351435 (void);
-// 0x000004D2 System.Void VRBuilder.Core.IO.DefaultFileSystem/<Exists>d__6::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+// 0x000004CB System.Void VRBuilder.Core.IO.DefaultFileSystem/<Exists>d__6::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 extern void U3CExistsU3Ed__6_SetStateMachine_mABA9E405038DCBB2704C391BFECE915C56EACD9B (void);
-// 0x000004D3 System.Void VRBuilder.Core.IO.DefaultFileSystem/<ReadFromStreamingAssets>d__8::.ctor()
-extern void U3CReadFromStreamingAssetsU3Ed__8__ctor_m3D3E07B71107F7166182F78DA3DE0A1091E1C6CC (void);
-// 0x000004D4 System.Void VRBuilder.Core.IO.DefaultFileSystem/<ReadFromStreamingAssets>d__8::MoveNext()
+// 0x000004CC System.Void VRBuilder.Core.IO.DefaultFileSystem/<ReadFromStreamingAssets>d__8::MoveNext()
 extern void U3CReadFromStreamingAssetsU3Ed__8_MoveNext_mA9C07630BEA845E2EDA51C37E8D3C23721AED017 (void);
-// 0x000004D5 System.Void VRBuilder.Core.IO.DefaultFileSystem/<ReadFromStreamingAssets>d__8::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+// 0x000004CD System.Void VRBuilder.Core.IO.DefaultFileSystem/<ReadFromStreamingAssets>d__8::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 extern void U3CReadFromStreamingAssetsU3Ed__8_SetStateMachine_m837E4375D9E89C90DAECA355690D0B219EE6B6DD (void);
-// 0x000004D6 System.Void VRBuilder.Core.IO.DefaultFileSystem/<ReadFromPersistentData>d__9::.ctor()
-extern void U3CReadFromPersistentDataU3Ed__9__ctor_m718FA817D586C7052D6A94DF28E8E1946927A2DE (void);
-// 0x000004D7 System.Void VRBuilder.Core.IO.DefaultFileSystem/<ReadFromPersistentData>d__9::MoveNext()
+// 0x000004CE System.Void VRBuilder.Core.IO.DefaultFileSystem/<ReadFromPersistentData>d__9::MoveNext()
 extern void U3CReadFromPersistentDataU3Ed__9_MoveNext_m1C8844FFFB0ED36E7D1C4176D8AD48C8A5DC00D5 (void);
-// 0x000004D8 System.Void VRBuilder.Core.IO.DefaultFileSystem/<ReadFromPersistentData>d__9::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+// 0x000004CF System.Void VRBuilder.Core.IO.DefaultFileSystem/<ReadFromPersistentData>d__9::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 extern void U3CReadFromPersistentDataU3Ed__9_SetStateMachine_m1EDA53CAED1472724700E06BCF242DECD2FF6AC3 (void);
-// 0x000004D9 System.Void VRBuilder.Core.IO.DefaultFileSystem/<FileExistsInStreamingAssets>d__10::.ctor()
-extern void U3CFileExistsInStreamingAssetsU3Ed__10__ctor_m4CFCB137F5978848A04F40B4A04D9C7387B6D2C9 (void);
-// 0x000004DA System.Void VRBuilder.Core.IO.DefaultFileSystem/<FileExistsInStreamingAssets>d__10::MoveNext()
+// 0x000004D0 System.Void VRBuilder.Core.IO.DefaultFileSystem/<FileExistsInStreamingAssets>d__10::MoveNext()
 extern void U3CFileExistsInStreamingAssetsU3Ed__10_MoveNext_m4AADF1B9DED2579D5476F4BC544BBB87D02E4D0B (void);
-// 0x000004DB System.Void VRBuilder.Core.IO.DefaultFileSystem/<FileExistsInStreamingAssets>d__10::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+// 0x000004D1 System.Void VRBuilder.Core.IO.DefaultFileSystem/<FileExistsInStreamingAssets>d__10::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 extern void U3CFileExistsInStreamingAssetsU3Ed__10_SetStateMachine_mFF5B3CAEA9FCDD98830BA5C60CF1E5361F85F825 (void);
-// 0x000004DC System.Void VRBuilder.Core.IO.DefaultFileSystem/<FileExistsInPersistentData>d__11::.ctor()
-extern void U3CFileExistsInPersistentDataU3Ed__11__ctor_m3732F460C1EADFA6B758958DAC859F891CA8A76A (void);
-// 0x000004DD System.Void VRBuilder.Core.IO.DefaultFileSystem/<FileExistsInPersistentData>d__11::MoveNext()
+// 0x000004D2 System.Void VRBuilder.Core.IO.DefaultFileSystem/<FileExistsInPersistentData>d__11::MoveNext()
 extern void U3CFileExistsInPersistentDataU3Ed__11_MoveNext_m50A79D2DA511805A5EA68C04A71E5D33D5C43596 (void);
-// 0x000004DE System.Void VRBuilder.Core.IO.DefaultFileSystem/<FileExistsInPersistentData>d__11::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+// 0x000004D3 System.Void VRBuilder.Core.IO.DefaultFileSystem/<FileExistsInPersistentData>d__11::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 extern void U3CFileExistsInPersistentDataU3Ed__11_SetStateMachine_m97AE5B1BA611BB3747A6A5ABB0A61E8F4B2DB07F (void);
-// 0x000004DF System.Void VRBuilder.Core.IO.FileManager::Initialize()
+// 0x000004D4 System.Void VRBuilder.Core.IO.FileManager::Initialize()
 extern void FileManager_Initialize_mFC88EFBDB0397BCB932541D34F3F4EFE06AE2FC3 (void);
-// 0x000004E0 System.Threading.Tasks.Task`1<System.Byte[]> VRBuilder.Core.IO.FileManager::Read(System.String)
+// 0x000004D5 System.Threading.Tasks.Task`1<System.Byte[]> VRBuilder.Core.IO.FileManager::Read(System.String)
 extern void FileManager_Read_mBD428D42D4F59B5B24F136E661FC2D0DABFEAFE4 (void);
-// 0x000004E1 System.Threading.Tasks.Task`1<System.String> VRBuilder.Core.IO.FileManager::ReadAllText(System.String)
+// 0x000004D6 System.Threading.Tasks.Task`1<System.String> VRBuilder.Core.IO.FileManager::ReadAllText(System.String)
 extern void FileManager_ReadAllText_mEAFEC2A102C3915FDAAC33D027664B8061B13C2E (void);
-// 0x000004E2 System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.Core.IO.FileManager::Write(System.String,System.Byte[])
+// 0x000004D7 System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.Core.IO.FileManager::Write(System.String,System.Byte[])
 extern void FileManager_Write_mBA119092F6CACEDA1D2A582930EE355300C6FE1B (void);
-// 0x000004E3 System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.Core.IO.FileManager::Exists(System.String)
+// 0x000004D8 System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.Core.IO.FileManager::Exists(System.String)
 extern void FileManager_Exists_mDB38A5A7D420462E082A4F6883A437E97CA873D7 (void);
-// 0x000004E4 System.Collections.Generic.IEnumerable`1<System.String> VRBuilder.Core.IO.FileManager::FetchStreamingAssetsFilesAt(System.String,System.String)
+// 0x000004D9 System.Collections.Generic.IEnumerable`1<System.String> VRBuilder.Core.IO.FileManager::FetchStreamingAssetsFilesAt(System.String,System.String)
 extern void FileManager_FetchStreamingAssetsFilesAt_m7A6E11D79C4D68A989195E695849498788D5D9DE (void);
-// 0x000004E5 VRBuilder.Core.IO.IPlatformFileSystem VRBuilder.Core.IO.FileManager::CreatePlatformFileSystem()
+// 0x000004DA VRBuilder.Core.IO.IPlatformFileSystem VRBuilder.Core.IO.FileManager::CreatePlatformFileSystem()
 extern void FileManager_CreatePlatformFileSystem_mD224B7DD8F014AD9F4B9D4583BE6C8BF89532AAE (void);
-// 0x000004E6 System.Void VRBuilder.Core.IO.FileManager/<Read>d__2::.ctor()
-extern void U3CReadU3Ed__2__ctor_m1B6865C10266BC267C6394835FC9E243D772DD8E (void);
-// 0x000004E7 System.Void VRBuilder.Core.IO.FileManager/<Read>d__2::MoveNext()
+// 0x000004DB System.Void VRBuilder.Core.IO.FileManager/<Read>d__2::MoveNext()
 extern void U3CReadU3Ed__2_MoveNext_mBA7F025832DA4AF94115BEB3BBDD1A0495777ECB (void);
-// 0x000004E8 System.Void VRBuilder.Core.IO.FileManager/<Read>d__2::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+// 0x000004DC System.Void VRBuilder.Core.IO.FileManager/<Read>d__2::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 extern void U3CReadU3Ed__2_SetStateMachine_mD41522D5A9B6D2E98804681EB6D82E6FF552F01D (void);
-// 0x000004E9 System.Void VRBuilder.Core.IO.FileManager/<ReadAllText>d__3::.ctor()
-extern void U3CReadAllTextU3Ed__3__ctor_mC9DA5A8F54F6CA0BAAB8790A28E736EBEA58F6A6 (void);
-// 0x000004EA System.Void VRBuilder.Core.IO.FileManager/<ReadAllText>d__3::MoveNext()
+// 0x000004DD System.Void VRBuilder.Core.IO.FileManager/<ReadAllText>d__3::MoveNext()
 extern void U3CReadAllTextU3Ed__3_MoveNext_m7EBD71245B2575E0A50EE628483873B3A875185F (void);
-// 0x000004EB System.Void VRBuilder.Core.IO.FileManager/<ReadAllText>d__3::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+// 0x000004DE System.Void VRBuilder.Core.IO.FileManager/<ReadAllText>d__3::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 extern void U3CReadAllTextU3Ed__3_SetStateMachine_mF0CCEA695E73142B00CB79AA6174D102410D9408 (void);
-// 0x000004EC System.Void VRBuilder.Core.IO.FileManager/<Write>d__4::.ctor()
-extern void U3CWriteU3Ed__4__ctor_m1674BE1F7A2BD5F6AB7A8AB3439817347636894F (void);
-// 0x000004ED System.Void VRBuilder.Core.IO.FileManager/<Write>d__4::MoveNext()
+// 0x000004DF System.Void VRBuilder.Core.IO.FileManager/<Write>d__4::MoveNext()
 extern void U3CWriteU3Ed__4_MoveNext_m3D1CA54C68BFD4EB0D9D47CF1F73D315A41801AF (void);
-// 0x000004EE System.Void VRBuilder.Core.IO.FileManager/<Write>d__4::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+// 0x000004E0 System.Void VRBuilder.Core.IO.FileManager/<Write>d__4::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 extern void U3CWriteU3Ed__4_SetStateMachine_mC770DB2E82E4B36228E8F5EFBF6382AEDC28F67B (void);
-// 0x000004EF System.Void VRBuilder.Core.IO.FileManager/<Exists>d__5::.ctor()
-extern void U3CExistsU3Ed__5__ctor_m831355AEB6A0462A6E462D5083E169B3153151E0 (void);
-// 0x000004F0 System.Void VRBuilder.Core.IO.FileManager/<Exists>d__5::MoveNext()
+// 0x000004E1 System.Void VRBuilder.Core.IO.FileManager/<Exists>d__5::MoveNext()
 extern void U3CExistsU3Ed__5_MoveNext_mC2A9BCF20200A7F359A63B0547302052E1BB29E5 (void);
-// 0x000004F1 System.Void VRBuilder.Core.IO.FileManager/<Exists>d__5::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+// 0x000004E2 System.Void VRBuilder.Core.IO.FileManager/<Exists>d__5::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 extern void U3CExistsU3Ed__5_SetStateMachine_m1B76C20B1664C289EDBE1359F2F38D37F816355F (void);
-// 0x000004F2 System.Threading.Tasks.Task`1<System.Byte[]> VRBuilder.Core.IO.IPlatformFileSystem::Read(System.String)
-// 0x000004F3 System.Threading.Tasks.Task`1<System.String> VRBuilder.Core.IO.IPlatformFileSystem::ReadAllText(System.String)
-// 0x000004F4 System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.Core.IO.IPlatformFileSystem::Write(System.String,System.Byte[])
-// 0x000004F5 System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.Core.IO.IPlatformFileSystem::Exists(System.String)
-// 0x000004F6 System.Collections.Generic.IEnumerable`1<System.String> VRBuilder.Core.IO.IPlatformFileSystem::FetchStreamingAssetsFilesAt(System.String,System.String)
-// 0x000004F7 System.String VRBuilder.Core.IO.IProcessAssetManifest::get_AssetStrategyTypeName()
-// 0x000004F8 System.Void VRBuilder.Core.IO.IProcessAssetManifest::set_AssetStrategyTypeName(System.String)
-// 0x000004F9 System.String VRBuilder.Core.IO.IProcessAssetManifest::get_ProcessFileName()
-// 0x000004FA System.Void VRBuilder.Core.IO.IProcessAssetManifest::set_ProcessFileName(System.String)
-// 0x000004FB System.Collections.Generic.IEnumerable`1<System.String> VRBuilder.Core.IO.IProcessAssetManifest::get_AdditionalFileNames()
-// 0x000004FC System.Void VRBuilder.Core.IO.IProcessAssetManifest::set_AdditionalFileNames(System.Collections.Generic.IEnumerable`1<System.String>)
-// 0x000004FD System.Boolean VRBuilder.Core.IO.IProcessAssetStrategy::get_CreateManifest()
-// 0x000004FE System.Collections.Generic.IDictionary`2<System.String,System.Byte[]> VRBuilder.Core.IO.IProcessAssetStrategy::CreateSerializedProcessAssets(VRBuilder.Core.IProcess,VRBuilder.Core.Serialization.IProcessSerializer)
-// 0x000004FF VRBuilder.Core.IProcess VRBuilder.Core.IO.IProcessAssetStrategy::GetProcessFromSerializedData(System.Byte[],System.Collections.Generic.IEnumerable`1<System.Byte[]>,VRBuilder.Core.Serialization.IProcessSerializer)
-// 0x00000500 System.String VRBuilder.Core.IO.ProcessAssetManifest::get_AssetStrategyTypeName()
+// 0x000004E3 System.Threading.Tasks.Task`1<System.Byte[]> VRBuilder.Core.IO.IPlatformFileSystem::Read(System.String)
+// 0x000004E4 System.Threading.Tasks.Task`1<System.String> VRBuilder.Core.IO.IPlatformFileSystem::ReadAllText(System.String)
+// 0x000004E5 System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.Core.IO.IPlatformFileSystem::Write(System.String,System.Byte[])
+// 0x000004E6 System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.Core.IO.IPlatformFileSystem::Exists(System.String)
+// 0x000004E7 System.Collections.Generic.IEnumerable`1<System.String> VRBuilder.Core.IO.IPlatformFileSystem::FetchStreamingAssetsFilesAt(System.String,System.String)
+// 0x000004E8 System.String VRBuilder.Core.IO.IProcessAssetManifest::get_AssetStrategyTypeName()
+// 0x000004E9 System.Void VRBuilder.Core.IO.IProcessAssetManifest::set_AssetStrategyTypeName(System.String)
+// 0x000004EA System.String VRBuilder.Core.IO.IProcessAssetManifest::get_ProcessFileName()
+// 0x000004EB System.Void VRBuilder.Core.IO.IProcessAssetManifest::set_ProcessFileName(System.String)
+// 0x000004EC System.Collections.Generic.IEnumerable`1<System.String> VRBuilder.Core.IO.IProcessAssetManifest::get_AdditionalFileNames()
+// 0x000004ED System.Void VRBuilder.Core.IO.IProcessAssetManifest::set_AdditionalFileNames(System.Collections.Generic.IEnumerable`1<System.String>)
+// 0x000004EE System.Boolean VRBuilder.Core.IO.IProcessAssetStrategy::get_CreateManifest()
+// 0x000004EF System.Collections.Generic.IDictionary`2<System.String,System.Byte[]> VRBuilder.Core.IO.IProcessAssetStrategy::CreateSerializedProcessAssets(VRBuilder.Core.IProcess,VRBuilder.Core.Serialization.IProcessSerializer)
+// 0x000004F0 VRBuilder.Core.IProcess VRBuilder.Core.IO.IProcessAssetStrategy::GetProcessFromSerializedData(System.Byte[],System.Collections.Generic.IEnumerable`1<System.Byte[]>,VRBuilder.Core.Serialization.IProcessSerializer)
+// 0x000004F1 System.String VRBuilder.Core.IO.ProcessAssetManifest::get_AssetStrategyTypeName()
 extern void ProcessAssetManifest_get_AssetStrategyTypeName_mD36E1529C4F41D461E3F8D89B9D4B9A4958841B4 (void);
-// 0x00000501 System.Void VRBuilder.Core.IO.ProcessAssetManifest::set_AssetStrategyTypeName(System.String)
+// 0x000004F2 System.Void VRBuilder.Core.IO.ProcessAssetManifest::set_AssetStrategyTypeName(System.String)
 extern void ProcessAssetManifest_set_AssetStrategyTypeName_m0F55DA44ECC1D52054EF63FC050DE49B477F31AA (void);
-// 0x00000502 System.String VRBuilder.Core.IO.ProcessAssetManifest::get_ProcessFileName()
+// 0x000004F3 System.String VRBuilder.Core.IO.ProcessAssetManifest::get_ProcessFileName()
 extern void ProcessAssetManifest_get_ProcessFileName_m42782BE13FC039BA7CFD7F25B5118C9E94DE6107 (void);
-// 0x00000503 System.Void VRBuilder.Core.IO.ProcessAssetManifest::set_ProcessFileName(System.String)
+// 0x000004F4 System.Void VRBuilder.Core.IO.ProcessAssetManifest::set_ProcessFileName(System.String)
 extern void ProcessAssetManifest_set_ProcessFileName_m6F50543CDF48DD024DC944B0F18CDDEA4D2C7C98 (void);
-// 0x00000504 System.Collections.Generic.IEnumerable`1<System.String> VRBuilder.Core.IO.ProcessAssetManifest::get_AdditionalFileNames()
+// 0x000004F5 System.Collections.Generic.IEnumerable`1<System.String> VRBuilder.Core.IO.ProcessAssetManifest::get_AdditionalFileNames()
 extern void ProcessAssetManifest_get_AdditionalFileNames_m2623B04EF10CF1905DEE83A242A346D94DC8DB2A (void);
-// 0x00000505 System.Void VRBuilder.Core.IO.ProcessAssetManifest::set_AdditionalFileNames(System.Collections.Generic.IEnumerable`1<System.String>)
+// 0x000004F6 System.Void VRBuilder.Core.IO.ProcessAssetManifest::set_AdditionalFileNames(System.Collections.Generic.IEnumerable`1<System.String>)
 extern void ProcessAssetManifest_set_AdditionalFileNames_m6280556535FB4A4995E02AF58112966064A8BBAB (void);
-// 0x00000506 System.Void VRBuilder.Core.IO.ProcessAssetManifest::.ctor()
+// 0x000004F7 System.Void VRBuilder.Core.IO.ProcessAssetManifest::.ctor()
 extern void ProcessAssetManifest__ctor_m92DEEECD6AFADFB7DD14D5A9111A5F902E1F4CEE (void);
-// 0x00000507 System.Boolean VRBuilder.Core.IO.SingleFileProcessAssetStrategy::get_CreateManifest()
+// 0x000004F8 System.Boolean VRBuilder.Core.IO.SingleFileProcessAssetStrategy::get_CreateManifest()
 extern void SingleFileProcessAssetStrategy_get_CreateManifest_m3DFB4D34FA41C0EE3D67E5C983F0B5CABF094820 (void);
-// 0x00000508 System.Collections.Generic.IDictionary`2<System.String,System.Byte[]> VRBuilder.Core.IO.SingleFileProcessAssetStrategy::CreateSerializedProcessAssets(VRBuilder.Core.IProcess,VRBuilder.Core.Serialization.IProcessSerializer)
+// 0x000004F9 System.Collections.Generic.IDictionary`2<System.String,System.Byte[]> VRBuilder.Core.IO.SingleFileProcessAssetStrategy::CreateSerializedProcessAssets(VRBuilder.Core.IProcess,VRBuilder.Core.Serialization.IProcessSerializer)
 extern void SingleFileProcessAssetStrategy_CreateSerializedProcessAssets_m38BC4025E840A951FFF3BEDB7BE3C030C6D54DB5 (void);
-// 0x00000509 VRBuilder.Core.IProcess VRBuilder.Core.IO.SingleFileProcessAssetStrategy::GetProcessFromSerializedData(System.Byte[],System.Collections.Generic.IEnumerable`1<System.Byte[]>,VRBuilder.Core.Serialization.IProcessSerializer)
+// 0x000004FA VRBuilder.Core.IProcess VRBuilder.Core.IO.SingleFileProcessAssetStrategy::GetProcessFromSerializedData(System.Byte[],System.Collections.Generic.IEnumerable`1<System.Byte[]>,VRBuilder.Core.Serialization.IProcessSerializer)
 extern void SingleFileProcessAssetStrategy_GetProcessFromSerializedData_mC8CC0110C106A85EF2336E1DFB91A907AF6F9395 (void);
-// 0x0000050A System.Void VRBuilder.Core.IO.SingleFileProcessAssetStrategy::.ctor()
+// 0x000004FB System.Void VRBuilder.Core.IO.SingleFileProcessAssetStrategy::.ctor()
 extern void SingleFileProcessAssetStrategy__ctor_m8E32F833B89EC234B2E1D4C8182C8AFEAF1F71CD (void);
-// 0x0000050B System.Boolean VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy::get_CreateManifest()
+// 0x000004FC System.Boolean VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy::get_CreateManifest()
 extern void SplitChaptersProcessAssetStrategy_get_CreateManifest_m7409A4904393181DCC76961D91B1CA7FB263DA5F (void);
-// 0x0000050C System.Collections.Generic.IDictionary`2<System.String,System.Byte[]> VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy::CreateSerializedProcessAssets(VRBuilder.Core.IProcess,VRBuilder.Core.Serialization.IProcessSerializer)
+// 0x000004FD System.Collections.Generic.IDictionary`2<System.String,System.Byte[]> VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy::CreateSerializedProcessAssets(VRBuilder.Core.IProcess,VRBuilder.Core.Serialization.IProcessSerializer)
 extern void SplitChaptersProcessAssetStrategy_CreateSerializedProcessAssets_m4D312E8B5367407C2F55C556A567854932F07F5B (void);
-// 0x0000050D VRBuilder.Core.IProcess VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy::GetProcessFromSerializedData(System.Byte[],System.Collections.Generic.IEnumerable`1<System.Byte[]>,VRBuilder.Core.Serialization.IProcessSerializer)
+// 0x000004FE VRBuilder.Core.IProcess VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy::GetProcessFromSerializedData(System.Byte[],System.Collections.Generic.IEnumerable`1<System.Byte[]>,VRBuilder.Core.Serialization.IProcessSerializer)
 extern void SplitChaptersProcessAssetStrategy_GetProcessFromSerializedData_m2547090FBF4651274478CD554CA7C6A6FD78D6E4 (void);
-// 0x0000050E System.Void VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy::.ctor()
+// 0x000004FF System.Void VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy::.ctor()
 extern void SplitChaptersProcessAssetStrategy__ctor_m044062D16052D04790AED32E26C8F18A995E4EE9 (void);
-// 0x0000050F System.Void VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/ChapterRef::.ctor()
+// 0x00000500 System.Void VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/ChapterRef::.ctor()
 extern void ChapterRef__ctor_m25E7B98BDB7B7BEC3E6AC92C232DBCF1CE24C9CD (void);
-// 0x00000510 System.Void VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/ChapterRef::.ctor(VRBuilder.Core.IChapter)
+// 0x00000501 System.Void VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/ChapterRef::.ctor(VRBuilder.Core.IChapter)
 extern void ChapterRef__ctor_m30236EB03015F88FCA349FE2127E12BF24A183B6 (void);
-// 0x00000511 VRBuilder.Core.ChapterMetadata VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/ChapterRef::get_ChapterMetadata()
+// 0x00000502 VRBuilder.Core.ChapterMetadata VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/ChapterRef::get_ChapterMetadata()
 extern void ChapterRef_get_ChapterMetadata_mD5FC20FC1030383297E1A21D4056296CEBE4C96F (void);
-// 0x00000512 System.Void VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/ChapterRef::set_ChapterMetadata(VRBuilder.Core.ChapterMetadata)
+// 0x00000503 System.Void VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/ChapterRef::set_ChapterMetadata(VRBuilder.Core.ChapterMetadata)
 extern void ChapterRef_set_ChapterMetadata_m23014C44915DA211DABB28CC12B27FE3476CD07E (void);
-// 0x00000513 VRBuilder.Core.IChapterData VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/ChapterRef::VRBuilder.Core.IDataOwner<VRBuilder.Core.IChapterData>.get_Data()
+// 0x00000504 VRBuilder.Core.IChapterData VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/ChapterRef::VRBuilder.Core.IDataOwner<VRBuilder.Core.IChapterData>.get_Data()
 extern void ChapterRef_VRBuilder_Core_IDataOwnerU3CVRBuilder_Core_IChapterDataU3E_get_Data_mDECDC278968C08CC0C7452D40A57240CC988DD71 (void);
-// 0x00000514 VRBuilder.Core.IChapter VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/ChapterRef::Clone()
+// 0x00000505 VRBuilder.Core.IChapter VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/ChapterRef::Clone()
 extern void ChapterRef_Clone_m48A1676CC7BACAF6F11AAC99AB9813A9BCC105C9 (void);
-// 0x00000515 System.Void VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/<>c::.cctor()
+// 0x00000506 System.Void VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/<>c::.cctor()
 extern void U3CU3Ec__cctor_m14C6101BCB34AD98187827B277C526A913251D30 (void);
-// 0x00000516 System.Void VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/<>c::.ctor()
+// 0x00000507 System.Void VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/<>c::.ctor()
 extern void U3CU3Ec__ctor_m4331DCFE0226D26F5A8703EE951102DC59631FB6 (void);
-// 0x00000517 VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/ChapterRef VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/<>c::<CreateSerializedProcessAssets>b__2_0(VRBuilder.Core.IChapter)
+// 0x00000508 VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/ChapterRef VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/<>c::<CreateSerializedProcessAssets>b__2_0(VRBuilder.Core.IChapter)
 extern void U3CU3Ec_U3CCreateSerializedProcessAssetsU3Eb__2_0_mF5875F86307AABE9B611E2B835F75CD310C19C5A (void);
-// 0x00000518 System.Void VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/<>c__DisplayClass3_0::.ctor()
+// 0x00000509 System.Void VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/<>c__DisplayClass3_0::.ctor()
 extern void U3CU3Ec__DisplayClass3_0__ctor_m7D1D9892A394B78B27959ACAFDF92A5E185720D1 (void);
-// 0x00000519 VRBuilder.Core.IChapter VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/<>c__DisplayClass3_0::<GetProcessFromSerializedData>b__0(System.Byte[])
+// 0x0000050A VRBuilder.Core.IChapter VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/<>c__DisplayClass3_0::<GetProcessFromSerializedData>b__0(System.Byte[])
 extern void U3CU3Ec__DisplayClass3_0_U3CGetProcessFromSerializedDataU3Eb__0_m96A89071F1556C17EF292369B293D080574FF18A (void);
-// 0x0000051A System.Void VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/<>c__DisplayClass3_1::.ctor()
+// 0x0000050B System.Void VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/<>c__DisplayClass3_1::.ctor()
 extern void U3CU3Ec__DisplayClass3_1__ctor_mF7BFAC01C5C6B30E18C301053AC2098C90BB98A8 (void);
-// 0x0000051B System.Boolean VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/<>c__DisplayClass3_1::<GetProcessFromSerializedData>b__1(VRBuilder.Core.IChapter)
+// 0x0000050C System.Boolean VRBuilder.Core.IO.SplitChaptersProcessAssetStrategy/<>c__DisplayClass3_1::<GetProcessFromSerializedData>b__1(VRBuilder.Core.IChapter)
 extern void U3CU3Ec__DisplayClass3_1_U3CGetProcessFromSerializedDataU3Eb__1_m96825A866404F0B4D572E4AFA495FB1F6BB35EC7 (void);
-// 0x0000051C System.Void VRBuilder.Core.Input.DefaultInputController::Focus(VRBuilder.Core.Input.IInputFocus)
+// 0x0000050D System.Void VRBuilder.Core.Input.DefaultInputController::Focus(VRBuilder.Core.Input.IInputFocus)
 extern void DefaultInputController_Focus_m118AEE20D3565DE4A49AF4433CA958EB3CE018F9 (void);
-// 0x0000051D System.Void VRBuilder.Core.Input.DefaultInputController::ReleaseFocus()
+// 0x0000050E System.Void VRBuilder.Core.Input.DefaultInputController::ReleaseFocus()
 extern void DefaultInputController_ReleaseFocus_mF6F359B96F55F94E5DEF0E1F5C7512D0C92365E6 (void);
-// 0x0000051E System.Void VRBuilder.Core.Input.DefaultInputController::OnEnable()
+// 0x0000050F System.Void VRBuilder.Core.Input.DefaultInputController::OnEnable()
 extern void DefaultInputController_OnEnable_mBB9617A62A4EC69C5884B77FCBB2E528E617B17F (void);
-// 0x0000051F System.Void VRBuilder.Core.Input.DefaultInputController::OnDisable()
+// 0x00000510 System.Void VRBuilder.Core.Input.DefaultInputController::OnDisable()
 extern void DefaultInputController_OnDisable_mF73A6BEAC27A803CE3ABDB989CE9E9C115299DCE (void);
-// 0x00000520 System.Void VRBuilder.Core.Input.DefaultInputController::OnActionTriggered(UnityEngine.InputSystem.InputAction/CallbackContext)
+// 0x00000511 System.Void VRBuilder.Core.Input.DefaultInputController::OnActionTriggered(UnityEngine.InputSystem.InputAction/CallbackContext)
 extern void DefaultInputController_OnActionTriggered_mF70ABD66574B70F73FDCEB6BBF50E2A9BD8EC579 (void);
-// 0x00000521 System.Void VRBuilder.Core.Input.DefaultInputController::Setup()
+// 0x00000512 System.Void VRBuilder.Core.Input.DefaultInputController::Setup()
 extern void DefaultInputController_Setup_mD51A1281181B797C5D5516D8E8DD38BA08CD9974 (void);
-// 0x00000522 System.Void VRBuilder.Core.Input.DefaultInputController::.ctor()
+// 0x00000513 System.Void VRBuilder.Core.Input.DefaultInputController::.ctor()
 extern void DefaultInputController__ctor_m228E7633859AFA5341A52FFDC8AC5CDA196B479C (void);
-// 0x00000523 System.Int32 VRBuilder.Core.Input.IInputActionListener::get_Priority()
-// 0x00000524 System.Boolean VRBuilder.Core.Input.IInputActionListener::get_IgnoreFocus()
-// 0x00000525 System.String VRBuilder.Core.Input.IInputFocus::get_ActionMapName()
-// 0x00000526 System.Boolean VRBuilder.Core.Input.IInputFocus::get_CanBeFocused()
-// 0x00000527 System.Void VRBuilder.Core.Input.IInputFocus::OnFocus()
-// 0x00000528 System.Void VRBuilder.Core.Input.IInputFocus::OnReleaseFocus()
-// 0x00000529 System.Int32 VRBuilder.Core.Input.InputActionListener::get_Priority()
+// 0x00000514 System.Int32 VRBuilder.Core.Input.IInputActionListener::get_Priority()
+// 0x00000515 System.Boolean VRBuilder.Core.Input.IInputActionListener::get_IgnoreFocus()
+// 0x00000516 System.String VRBuilder.Core.Input.IInputFocus::get_ActionMapName()
+// 0x00000517 System.Boolean VRBuilder.Core.Input.IInputFocus::get_CanBeFocused()
+// 0x00000518 System.Void VRBuilder.Core.Input.IInputFocus::OnFocus()
+// 0x00000519 System.Void VRBuilder.Core.Input.IInputFocus::OnReleaseFocus()
+// 0x0000051A System.Int32 VRBuilder.Core.Input.InputActionListener::get_Priority()
 extern void InputActionListener_get_Priority_m5BD1496B9C545B7A92230E56C7D28CC15B5177E0 (void);
-// 0x0000052A System.Boolean VRBuilder.Core.Input.InputActionListener::get_IgnoreFocus()
+// 0x0000051B System.Boolean VRBuilder.Core.Input.InputActionListener::get_IgnoreFocus()
 extern void InputActionListener_get_IgnoreFocus_m3A1CA016698F87378D1BA1E3A6AA387EB5FD1DC2 (void);
-// 0x0000052B System.Void VRBuilder.Core.Input.InputActionListener::RegisterInputEvent(System.Action`1<VRBuilder.Core.Input.InputController/InputEventArgs>)
+// 0x0000051C System.Void VRBuilder.Core.Input.InputActionListener::RegisterInputEvent(System.Action`1<VRBuilder.Core.Input.InputController/InputEventArgs>)
 extern void InputActionListener_RegisterInputEvent_m81D964ECE1E1F2FCEF5126F18A69EA7CC688EAD7 (void);
-// 0x0000052C System.Void VRBuilder.Core.Input.InputActionListener::UnregisterInputEvent(System.Action`1<VRBuilder.Core.Input.InputController/InputEventArgs>)
+// 0x0000051D System.Void VRBuilder.Core.Input.InputActionListener::UnregisterInputEvent(System.Action`1<VRBuilder.Core.Input.InputController/InputEventArgs>)
 extern void InputActionListener_UnregisterInputEvent_m89395A4AE421DE9515B3CEA889A744E74D6A381E (void);
-// 0x0000052D System.Void VRBuilder.Core.Input.InputActionListener::.ctor()
+// 0x0000051E System.Void VRBuilder.Core.Input.InputActionListener::.ctor()
 extern void InputActionListener__ctor_m072EA50CC343D4A814B1CDD65C4D1CE3D5758651 (void);
-// 0x0000052E VRBuilder.Core.Input.IInputFocus VRBuilder.Core.Input.InputController::get_CurrentInputFocus()
+// 0x0000051F VRBuilder.Core.Input.IInputFocus VRBuilder.Core.Input.InputController::get_CurrentInputFocus()
 extern void InputController_get_CurrentInputFocus_mC7E7582736F02B3A881C3803AA0C960946C28EC4 (void);
-// 0x0000052F System.Void VRBuilder.Core.Input.InputController::set_CurrentInputFocus(VRBuilder.Core.Input.IInputFocus)
+// 0x00000520 System.Void VRBuilder.Core.Input.InputController::set_CurrentInputFocus(VRBuilder.Core.Input.IInputFocus)
 extern void InputController_set_CurrentInputFocus_mC9F615C84C92D214CBF3AF2B0CD14F7489C4E227 (void);
-// 0x00000530 System.Collections.Generic.Dictionary`2<System.String,System.Collections.Generic.List`1<VRBuilder.Core.Input.InputController/ListenerInfo>> VRBuilder.Core.Input.InputController::get_ListenerDictionary()
+// 0x00000521 System.Collections.Generic.Dictionary`2<System.String,System.Collections.Generic.List`1<VRBuilder.Core.Input.InputController/ListenerInfo>> VRBuilder.Core.Input.InputController::get_ListenerDictionary()
 extern void InputController_get_ListenerDictionary_mFDFA0A3A38BCF26C8FEE30F7B89DD2313AC23579 (void);
-// 0x00000531 System.Void VRBuilder.Core.Input.InputController::RegisterEvent(VRBuilder.Core.Input.IInputActionListener,System.Action`1<VRBuilder.Core.Input.InputController/InputEventArgs>)
+// 0x00000522 System.Void VRBuilder.Core.Input.InputController::RegisterEvent(VRBuilder.Core.Input.IInputActionListener,System.Action`1<VRBuilder.Core.Input.InputController/InputEventArgs>)
 extern void InputController_RegisterEvent_m21DDDD228BEABDCF94F998572055FB5E2EC88601 (void);
-// 0x00000532 System.Void VRBuilder.Core.Input.InputController::UnregisterEvent(VRBuilder.Core.Input.IInputActionListener,System.Action`1<VRBuilder.Core.Input.InputController/InputEventArgs>)
+// 0x00000523 System.Void VRBuilder.Core.Input.InputController::UnregisterEvent(VRBuilder.Core.Input.IInputActionListener,System.Action`1<VRBuilder.Core.Input.InputController/InputEventArgs>)
 extern void InputController_UnregisterEvent_mE1E7EC0F24F087A5C143B3D0EF57DC7F55C36ABB (void);
-// 0x00000533 System.Void VRBuilder.Core.Input.InputController::Focus(VRBuilder.Core.Input.IInputFocus)
-// 0x00000534 System.Void VRBuilder.Core.Input.InputController::ReleaseFocus()
-// 0x00000535 System.Void VRBuilder.Core.Input.InputController::Awake()
+// 0x00000524 System.Void VRBuilder.Core.Input.InputController::Focus(VRBuilder.Core.Input.IInputFocus)
+// 0x00000525 System.Void VRBuilder.Core.Input.InputController::ReleaseFocus()
+// 0x00000526 System.Void VRBuilder.Core.Input.InputController::Awake()
 extern void InputController_Awake_m7A7006F46C8EEB6CED863B02F55547F09F1E6E22 (void);
-// 0x00000536 System.Void VRBuilder.Core.Input.InputController::Reset()
+// 0x00000527 System.Void VRBuilder.Core.Input.InputController::Reset()
 extern void InputController_Reset_m159730C8D7644BB152863F38ACB3FF1E96D13E13 (void);
-// 0x00000537 System.Void VRBuilder.Core.Input.InputController::Setup()
-// 0x00000538 System.Void VRBuilder.Core.Input.InputController::.ctor()
+// 0x00000528 System.Void VRBuilder.Core.Input.InputController::Setup()
+// 0x00000529 System.Void VRBuilder.Core.Input.InputController::.ctor()
 extern void InputController__ctor_mFBB875E34CCC57F9B0F6DC30E23F76DEE1A5177D (void);
-// 0x00000539 System.Void VRBuilder.Core.Input.InputController/InputEventArgs::.ctor(System.Object)
+// 0x0000052A System.Void VRBuilder.Core.Input.InputController/InputEventArgs::.ctor(System.Object)
 extern void InputEventArgs__ctor_m8C5F696FE1BEF7F2E1F916DA4C14F218720E2D62 (void);
-// 0x0000053A System.Void VRBuilder.Core.Input.InputController/InputFocusEventArgs::.ctor(VRBuilder.Core.Input.IInputFocus)
+// 0x0000052B System.Void VRBuilder.Core.Input.InputController/InputFocusEventArgs::.ctor(VRBuilder.Core.Input.IInputFocus)
 extern void InputFocusEventArgs__ctor_m578046ED223DF1AA5A2937BCF5D111179D8AEF6B (void);
-// 0x0000053B System.Void VRBuilder.Core.Input.InputController/ListenerInfo::.ctor(VRBuilder.Core.Input.IInputActionListener,System.Action`1<VRBuilder.Core.Input.InputController/InputEventArgs>)
+// 0x0000052C System.Void VRBuilder.Core.Input.InputController/ListenerInfo::.ctor(VRBuilder.Core.Input.IInputActionListener,System.Action`1<VRBuilder.Core.Input.InputController/InputEventArgs>)
 extern void ListenerInfo__ctor_mF81F5F11C3E86439057F55A57EF769656E645421 (void);
-// 0x0000053C System.Void VRBuilder.Core.Input.InputController/<>c::.cctor()
+// 0x0000052D System.Void VRBuilder.Core.Input.InputController/<>c::.cctor()
 extern void U3CU3Ec__cctor_m32D3367ADB2C14B8185FC39C0A51E7E5224006B7 (void);
-// 0x0000053D System.Void VRBuilder.Core.Input.InputController/<>c::.ctor()
+// 0x0000052E System.Void VRBuilder.Core.Input.InputController/<>c::.ctor()
 extern void U3CU3Ec__ctor_m29C29B48F473E237EB63FDE7E6533AB0D97F437B (void);
-// 0x0000053E System.Int32 VRBuilder.Core.Input.InputController/<>c::<RegisterEvent>b__12_0(VRBuilder.Core.Input.InputController/ListenerInfo,VRBuilder.Core.Input.InputController/ListenerInfo)
+// 0x0000052F System.Int32 VRBuilder.Core.Input.InputController/<>c::<RegisterEvent>b__12_0(VRBuilder.Core.Input.InputController/ListenerInfo,VRBuilder.Core.Input.InputController/ListenerInfo)
 extern void U3CU3Ec_U3CRegisterEventU3Eb__12_0_m268EBAEF80F5424B62A6511C6FC967F5F8A2AE11 (void);
-// 0x0000053F System.Void VRBuilder.Core.Input.InputController/<>c__DisplayClass13_0::.ctor()
+// 0x00000530 System.Void VRBuilder.Core.Input.InputController/<>c__DisplayClass13_0::.ctor()
 extern void U3CU3Ec__DisplayClass13_0__ctor_m00A6D1EFE6310BC58B88D5C6D63540CF67E38E47 (void);
-// 0x00000540 System.Boolean VRBuilder.Core.Input.InputController/<>c__DisplayClass13_0::<UnregisterEvent>b__0(VRBuilder.Core.Input.InputController/ListenerInfo)
+// 0x00000531 System.Boolean VRBuilder.Core.Input.InputController/<>c__DisplayClass13_0::<UnregisterEvent>b__0(VRBuilder.Core.Input.InputController/ListenerInfo)
 extern void U3CU3Ec__DisplayClass13_0_U3CUnregisterEventU3Eb__0_mBF107C4B534D48DC5B655047B2F023986C1E5BF4 (void);
-// 0x00000541 System.Void VRBuilder.Core.Exceptions.AlreadyRegisteredException::.ctor(VRBuilder.Core.SceneObjects.ISceneObject)
+// 0x00000532 System.Void VRBuilder.Core.Exceptions.AlreadyRegisteredException::.ctor(VRBuilder.Core.SceneObjects.ISceneObject)
 extern void AlreadyRegisteredException__ctor_m4ADC63584A6A3D75C0800F04E78A09A44D7A0B78 (void);
-// 0x00000542 System.Void VRBuilder.Core.Exceptions.InvalidStateException::.ctor(System.String)
+// 0x00000533 System.Void VRBuilder.Core.Exceptions.InvalidStateException::.ctor(System.String)
 extern void InvalidStateException__ctor_mBED079074C303A8368BA8E27BF8F20BBA90B037A (void);
-// 0x00000543 System.Void VRBuilder.Core.Exceptions.MissingEntityException::.ctor(System.String)
+// 0x00000534 System.Void VRBuilder.Core.Exceptions.MissingEntityException::.ctor(System.String)
 extern void MissingEntityException__ctor_m98D450F0671B1A507A758D56A2B40E3A5D37C68E (void);
-// 0x00000544 System.Void VRBuilder.Core.Exceptions.MissingModeException::.ctor()
+// 0x00000535 System.Void VRBuilder.Core.Exceptions.MissingModeException::.ctor()
 extern void MissingModeException__ctor_m8B0F0AE18ACDDB695B482342BA77941A21734170 (void);
-// 0x00000545 System.Void VRBuilder.Core.Exceptions.MissingModeException::.ctor(System.String)
+// 0x00000536 System.Void VRBuilder.Core.Exceptions.MissingModeException::.ctor(System.String)
 extern void MissingModeException__ctor_mE11D480AAD467B985BC3A9211AD3F11287705465 (void);
-// 0x00000546 System.Void VRBuilder.Core.Exceptions.MissingModeException::.ctor(System.String,System.Exception)
+// 0x00000537 System.Void VRBuilder.Core.Exceptions.MissingModeException::.ctor(System.String,System.Exception)
 extern void MissingModeException__ctor_m1975BE8C830F9156704670E44C00BE4A25932384 (void);
-// 0x00000547 System.Void VRBuilder.Core.Exceptions.NameNotUniqueException::.ctor(VRBuilder.Core.SceneObjects.ISceneObject)
+// 0x00000538 System.Void VRBuilder.Core.Exceptions.NameNotUniqueException::.ctor(VRBuilder.Core.SceneObjects.ISceneObject)
 extern void NameNotUniqueException__ctor_m81765F92C557A96137D8706682CB95CE2DC4C165 (void);
-// 0x00000548 System.Void VRBuilder.Core.Exceptions.ProcessException::.ctor()
+// 0x00000539 System.Void VRBuilder.Core.Exceptions.ProcessException::.ctor()
 extern void ProcessException__ctor_mF5A6CE56C3F7DD6CFFDC6B6D6D7B8FE5802F228F (void);
-// 0x00000549 System.Void VRBuilder.Core.Exceptions.ProcessException::.ctor(System.String)
+// 0x0000053A System.Void VRBuilder.Core.Exceptions.ProcessException::.ctor(System.String)
 extern void ProcessException__ctor_m3AB3D6C7F86BF5AF14EF96B8271A2BF2F071C750 (void);
-// 0x0000054A System.Void VRBuilder.Core.Exceptions.ProcessException::.ctor(System.String,System.Exception)
+// 0x0000053B System.Void VRBuilder.Core.Exceptions.ProcessException::.ctor(System.String,System.Exception)
 extern void ProcessException__ctor_m3F767236DC310F0EFA9E8A651D120BCE7B207ACE (void);
-// 0x0000054B System.Void VRBuilder.Core.Exceptions.PropertyNotFoundException::.ctor(System.String)
+// 0x0000053C System.Void VRBuilder.Core.Exceptions.PropertyNotFoundException::.ctor(System.String)
 extern void PropertyNotFoundException__ctor_m5C19F54F1F60A81D2AF132CD6CC90CCEB6C7979D (void);
-// 0x0000054C System.Void VRBuilder.Core.Exceptions.PropertyNotFoundException::.ctor(VRBuilder.Core.SceneObjects.ISceneObject,System.Type)
+// 0x0000053D System.Void VRBuilder.Core.Exceptions.PropertyNotFoundException::.ctor(VRBuilder.Core.SceneObjects.ISceneObject,System.Type)
 extern void PropertyNotFoundException__ctor_mB452E3B951A21DAE98CC6EBC1D02A9C6F5B1320F (void);
-// 0x0000054D VRBuilder.Core.Metadata VRBuilder.Core.EntityOwners.EntityCollectionData`1::get_Metadata()
-// 0x0000054E System.Void VRBuilder.Core.EntityOwners.EntityCollectionData`1::set_Metadata(VRBuilder.Core.Metadata)
-// 0x0000054F System.Collections.Generic.IEnumerable`1<TEntity> VRBuilder.Core.EntityOwners.EntityCollectionData`1::GetChildren()
-// 0x00000550 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.IEntity> VRBuilder.Core.EntityOwners.EntityCollectionData`1::VRBuilder.Core.EntityOwners.IEntityCollectionData.GetChildren()
-// 0x00000551 System.Void VRBuilder.Core.EntityOwners.EntityCollectionData`1::.ctor()
-// 0x00000552 System.Collections.Generic.IEnumerable`1<TEntity> VRBuilder.Core.EntityOwners.IEntityCollectionData`1::GetChildren()
-// 0x00000553 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.IEntity> VRBuilder.Core.EntityOwners.IEntityCollectionData::GetChildren()
-// 0x00000554 System.Void VRBuilder.Core.EntityOwners.FoldedLifeCycleConfigurator`1::.ctor(VRBuilder.Core.EntityOwners.IEntitySequenceData`1<TEntity>)
-// 0x00000555 System.Void VRBuilder.Core.EntityOwners.FoldedLifeCycleConfigurator`1::Configure(VRBuilder.Core.Configuration.Modes.IMode,VRBuilder.Core.Stage)
-// 0x00000556 System.Void VRBuilder.Core.EntityOwners.ParallelConfigurator`1::.ctor(VRBuilder.Core.EntityOwners.IEntityCollectionDataWithMode`1<TEntity>)
-// 0x00000557 System.Void VRBuilder.Core.EntityOwners.ParallelConfigurator`1::Configure(VRBuilder.Core.Configuration.Modes.IMode,VRBuilder.Core.Stage)
-// 0x00000558 System.Void VRBuilder.Core.EntityOwners.EntityIteratingProcess`2::.ctor(TEntitySequenceDataWithMode)
-// 0x00000559 System.Void VRBuilder.Core.EntityOwners.EntityIteratingProcess`2::Start()
-// 0x0000055A System.Collections.IEnumerator VRBuilder.Core.EntityOwners.EntityIteratingProcess`2::Update()
-// 0x0000055B System.Void VRBuilder.Core.EntityOwners.EntityIteratingProcess`2::End()
-// 0x0000055C System.Void VRBuilder.Core.EntityOwners.EntityIteratingProcess`2::FastForward()
-// 0x0000055D System.Boolean VRBuilder.Core.EntityOwners.EntityIteratingProcess`2::ShouldActivateCurrent()
-// 0x0000055E System.Boolean VRBuilder.Core.EntityOwners.EntityIteratingProcess`2::ShouldDeactivateCurrent()
-// 0x0000055F System.Boolean VRBuilder.Core.EntityOwners.EntityIteratingProcess`2::TryNext(TEntity&)
-// 0x00000560 System.Void VRBuilder.Core.EntityOwners.EntityIteratingProcess`2/<Update>d__2::.ctor(System.Int32)
-// 0x00000561 System.Void VRBuilder.Core.EntityOwners.EntityIteratingProcess`2/<Update>d__2::System.IDisposable.Dispose()
-// 0x00000562 System.Boolean VRBuilder.Core.EntityOwners.EntityIteratingProcess`2/<Update>d__2::MoveNext()
-// 0x00000563 System.Object VRBuilder.Core.EntityOwners.EntityIteratingProcess`2/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
-// 0x00000564 System.Void VRBuilder.Core.EntityOwners.EntityIteratingProcess`2/<Update>d__2::System.Collections.IEnumerator.Reset()
-// 0x00000565 System.Object VRBuilder.Core.EntityOwners.EntityIteratingProcess`2/<Update>d__2::System.Collections.IEnumerator.get_Current()
-// 0x00000566 TEntity VRBuilder.Core.EntityOwners.IEntityNonLinearSequenceDataWithMode`1::get_OverrideNext()
-// 0x00000567 System.Void VRBuilder.Core.EntityOwners.IEntityNonLinearSequenceDataWithMode`1::set_OverrideNext(TEntity)
-// 0x00000568 TEntity VRBuilder.Core.EntityOwners.IEntitySequenceData`1::get_Current()
-// 0x00000569 System.Void VRBuilder.Core.EntityOwners.IEntitySequenceData`1::set_Current(TEntity)
-// 0x0000056A System.Void VRBuilder.Core.EntityOwners.SequenceConfigurator`1::.ctor(VRBuilder.Core.EntityOwners.IEntitySequenceData`1<TEntity>)
-// 0x0000056B System.Void VRBuilder.Core.EntityOwners.SequenceConfigurator`1::Configure(VRBuilder.Core.Configuration.Modes.IMode,VRBuilder.Core.Stage)
-// 0x0000056C System.Void VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1::Start()
-// 0x0000056D System.Collections.IEnumerator VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1::Update()
-// 0x0000056E System.Void VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1::End()
-// 0x0000056F System.Void VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1::FastForward()
-// 0x00000570 System.Void VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1::.ctor(VRBuilder.Core.EntityOwners.IEntitySequenceData`1<TEntity>)
-// 0x00000571 System.Void VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1/<Update>d__1::.ctor(System.Int32)
-// 0x00000572 System.Void VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1/<Update>d__1::System.IDisposable.Dispose()
-// 0x00000573 System.Boolean VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1/<Update>d__1::MoveNext()
-// 0x00000574 System.Object VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1/<Update>d__1::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
-// 0x00000575 System.Void VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1/<Update>d__1::System.Collections.IEnumerator.Reset()
-// 0x00000576 System.Object VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1/<Update>d__1::System.Collections.IEnumerator.get_Current()
-// 0x00000577 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1::.ctor(TCollectionData)
-// 0x00000578 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1::Start()
-// 0x00000579 System.Collections.IEnumerator VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1::Update()
-// 0x0000057A System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1::End()
-// 0x0000057B System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1::FastForward()
-// 0x0000057C System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1::<Start>b__1_0(VRBuilder.Core.IEntity)
-// 0x0000057D System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<>c::.cctor()
-// 0x0000057E System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<>c::.ctor()
-// 0x0000057F System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<>c::<Update>b__2_0(VRBuilder.Core.IEntity)
-// 0x00000580 System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<>c::<FastForward>b__4_0(VRBuilder.Core.IEntity)
-// 0x00000581 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<Update>d__2::.ctor(System.Int32)
-// 0x00000582 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<Update>d__2::System.IDisposable.Dispose()
-// 0x00000583 System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<Update>d__2::MoveNext()
-// 0x00000584 System.Object VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
-// 0x00000585 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<Update>d__2::System.Collections.IEnumerator.Reset()
-// 0x00000586 System.Object VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<Update>d__2::System.Collections.IEnumerator.get_Current()
-// 0x00000587 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1::.ctor(TCollectionData)
-// 0x00000588 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1::Start()
-// 0x00000589 System.Collections.IEnumerator VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1::Update()
-// 0x0000058A System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1::End()
-// 0x0000058B System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1::FastForward()
-// 0x0000058C System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1/<Update>d__2::.ctor(System.Int32)
-// 0x0000058D System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1/<Update>d__2::System.IDisposable.Dispose()
-// 0x0000058E System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1/<Update>d__2::MoveNext()
-// 0x0000058F System.Object VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
-// 0x00000590 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1/<Update>d__2::System.Collections.IEnumerator.Reset()
-// 0x00000591 System.Object VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1/<Update>d__2::System.Collections.IEnumerator.get_Current()
-// 0x00000592 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1/<>c::.cctor()
-// 0x00000593 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1/<>c::.ctor()
-// 0x00000594 System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1/<>c::<FastForward>b__4_0(VRBuilder.Core.IEntity)
-// 0x00000595 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1::.ctor(TCollectionData)
-// 0x00000596 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1::Start()
-// 0x00000597 System.Collections.IEnumerator VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1::Update()
-// 0x00000598 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1::End()
-// 0x00000599 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1::FastForward()
-// 0x0000059A System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1::<Start>b__1_0(VRBuilder.Core.IEntity)
-// 0x0000059B System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<>c::.cctor()
-// 0x0000059C System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<>c::.ctor()
-// 0x0000059D System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<>c::<Update>b__2_0(VRBuilder.Core.IEntity)
-// 0x0000059E System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<>c::<End>b__3_0(VRBuilder.Core.IEntity)
-// 0x0000059F System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<Update>d__2::.ctor(System.Int32)
-// 0x000005A0 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<Update>d__2::System.IDisposable.Dispose()
-// 0x000005A1 System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<Update>d__2::MoveNext()
-// 0x000005A2 System.Object VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
-// 0x000005A3 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<Update>d__2::System.Collections.IEnumerator.Reset()
-// 0x000005A4 System.Object VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<Update>d__2::System.Collections.IEnumerator.get_Current()
-// 0x000005A5 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.IEntity> VRBuilder.Core.EntityOwners.ParallelEntityCollection.Process`1::GetBlockingChildren(VRBuilder.Core.EntityOwners.IEntityCollectionData,VRBuilder.Core.Configuration.Modes.IMode)
-// 0x000005A6 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.Process`1::.ctor(TData)
-// 0x000005A7 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.Process`1/<>c__DisplayClass0_0::.ctor()
-// 0x000005A8 System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.Process`1/<>c__DisplayClass0_0::<GetBlockingChildren>b__0(VRBuilder.Core.IEntity)
-// 0x000005A9 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.Process`1/<>c::.cctor()
-// 0x000005AA System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.Process`1/<>c::.ctor()
-// 0x000005AB System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.Process`1/<>c::<GetBlockingChildren>b__0_1(VRBuilder.Core.IEntity)
-// 0x000005AC System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1::.ctor(VRBuilder.Core.EntityOwners.IEntitySequenceDataWithMode`1<TEntity>)
-// 0x000005AD System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1::Start()
-// 0x000005AE System.Collections.IEnumerator VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1::Update()
-// 0x000005AF System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1::End()
-// 0x000005B0 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1::FastForward()
-// 0x000005B1 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1/<Update>d__3::.ctor(System.Int32)
-// 0x000005B2 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1/<Update>d__3::System.IDisposable.Dispose()
-// 0x000005B3 System.Boolean VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1/<Update>d__3::MoveNext()
-// 0x000005B4 System.Object VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1/<Update>d__3::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
-// 0x000005B5 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1/<Update>d__3::System.Collections.IEnumerator.Reset()
-// 0x000005B6 System.Object VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1/<Update>d__3::System.Collections.IEnumerator.get_Current()
-// 0x000005B7 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1::.ctor(VRBuilder.Core.EntityOwners.IEntitySequenceDataWithMode`1<TEntity>)
-// 0x000005B8 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1::Start()
-// 0x000005B9 System.Collections.IEnumerator VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1::Update()
-// 0x000005BA System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1::End()
-// 0x000005BB System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1::FastForward()
-// 0x000005BC System.Boolean VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1::<Update>b__2_1(TEntity)
-// 0x000005BD System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1/<>c::.cctor()
-// 0x000005BE System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1/<>c::.ctor()
-// 0x000005BF System.Boolean VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1/<>c::<Update>b__2_0(TEntity)
-// 0x000005C0 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1/<Update>d__2::.ctor(System.Int32)
-// 0x000005C1 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1/<Update>d__2::System.IDisposable.Dispose()
-// 0x000005C2 System.Boolean VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1/<Update>d__2::MoveNext()
-// 0x000005C3 System.Object VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
-// 0x000005C4 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1/<Update>d__2::System.Collections.IEnumerator.Reset()
-// 0x000005C5 System.Object VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1/<Update>d__2::System.Collections.IEnumerator.get_Current()
-// 0x000005C6 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1::.ctor(VRBuilder.Core.EntityOwners.IEntitySequenceDataWithMode`1<TEntity>)
-// 0x000005C7 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1::Start()
-// 0x000005C8 System.Collections.IEnumerator VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1::Update()
-// 0x000005C9 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1::End()
-// 0x000005CA System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1::FastForward()
-// 0x000005CB System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1/<Update>d__3::.ctor(System.Int32)
-// 0x000005CC System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1/<Update>d__3::System.IDisposable.Dispose()
-// 0x000005CD System.Boolean VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1/<Update>d__3::MoveNext()
-// 0x000005CE System.Object VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1/<Update>d__3::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
-// 0x000005CF System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1/<Update>d__3::System.Collections.IEnumerator.Reset()
-// 0x000005D0 System.Object VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1/<Update>d__3::System.Collections.IEnumerator.get_Current()
-// 0x000005D1 System.String VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_ManifestFileName()
+// 0x0000053E VRBuilder.Core.Metadata VRBuilder.Core.EntityOwners.EntityCollectionData`1::get_Metadata()
+// 0x0000053F System.Void VRBuilder.Core.EntityOwners.EntityCollectionData`1::set_Metadata(VRBuilder.Core.Metadata)
+// 0x00000540 System.Collections.Generic.IEnumerable`1<TEntity> VRBuilder.Core.EntityOwners.EntityCollectionData`1::GetChildren()
+// 0x00000541 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.IEntity> VRBuilder.Core.EntityOwners.EntityCollectionData`1::VRBuilder.Core.EntityOwners.IEntityCollectionData.GetChildren()
+// 0x00000542 System.Void VRBuilder.Core.EntityOwners.EntityCollectionData`1::.ctor()
+// 0x00000543 System.Collections.Generic.IEnumerable`1<TEntity> VRBuilder.Core.EntityOwners.IEntityCollectionData`1::GetChildren()
+// 0x00000544 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.IEntity> VRBuilder.Core.EntityOwners.IEntityCollectionData::GetChildren()
+// 0x00000545 System.Void VRBuilder.Core.EntityOwners.FoldedLifeCycleConfigurator`1::.ctor(VRBuilder.Core.EntityOwners.IEntitySequenceData`1<TEntity>)
+// 0x00000546 System.Void VRBuilder.Core.EntityOwners.FoldedLifeCycleConfigurator`1::Configure(VRBuilder.Core.Configuration.Modes.IMode,VRBuilder.Core.Stage)
+// 0x00000547 System.Void VRBuilder.Core.EntityOwners.ParallelConfigurator`1::.ctor(VRBuilder.Core.EntityOwners.IEntityCollectionDataWithMode`1<TEntity>)
+// 0x00000548 System.Void VRBuilder.Core.EntityOwners.ParallelConfigurator`1::Configure(VRBuilder.Core.Configuration.Modes.IMode,VRBuilder.Core.Stage)
+// 0x00000549 System.Void VRBuilder.Core.EntityOwners.EntityIteratingProcess`2::.ctor(TEntitySequenceDataWithMode)
+// 0x0000054A System.Void VRBuilder.Core.EntityOwners.EntityIteratingProcess`2::Start()
+// 0x0000054B System.Collections.IEnumerator VRBuilder.Core.EntityOwners.EntityIteratingProcess`2::Update()
+// 0x0000054C System.Void VRBuilder.Core.EntityOwners.EntityIteratingProcess`2::End()
+// 0x0000054D System.Void VRBuilder.Core.EntityOwners.EntityIteratingProcess`2::FastForward()
+// 0x0000054E System.Boolean VRBuilder.Core.EntityOwners.EntityIteratingProcess`2::ShouldActivateCurrent()
+// 0x0000054F System.Boolean VRBuilder.Core.EntityOwners.EntityIteratingProcess`2::ShouldDeactivateCurrent()
+// 0x00000550 System.Boolean VRBuilder.Core.EntityOwners.EntityIteratingProcess`2::TryNext(TEntity&)
+// 0x00000551 System.Void VRBuilder.Core.EntityOwners.EntityIteratingProcess`2/<Update>d__2::.ctor(System.Int32)
+// 0x00000552 System.Void VRBuilder.Core.EntityOwners.EntityIteratingProcess`2/<Update>d__2::System.IDisposable.Dispose()
+// 0x00000553 System.Boolean VRBuilder.Core.EntityOwners.EntityIteratingProcess`2/<Update>d__2::MoveNext()
+// 0x00000554 System.Object VRBuilder.Core.EntityOwners.EntityIteratingProcess`2/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x00000555 System.Void VRBuilder.Core.EntityOwners.EntityIteratingProcess`2/<Update>d__2::System.Collections.IEnumerator.Reset()
+// 0x00000556 System.Object VRBuilder.Core.EntityOwners.EntityIteratingProcess`2/<Update>d__2::System.Collections.IEnumerator.get_Current()
+// 0x00000557 TEntity VRBuilder.Core.EntityOwners.IEntityNonLinearSequenceDataWithMode`1::get_OverrideNext()
+// 0x00000558 System.Void VRBuilder.Core.EntityOwners.IEntityNonLinearSequenceDataWithMode`1::set_OverrideNext(TEntity)
+// 0x00000559 TEntity VRBuilder.Core.EntityOwners.IEntitySequenceData`1::get_Current()
+// 0x0000055A System.Void VRBuilder.Core.EntityOwners.IEntitySequenceData`1::set_Current(TEntity)
+// 0x0000055B System.Void VRBuilder.Core.EntityOwners.SequenceConfigurator`1::.ctor(VRBuilder.Core.EntityOwners.IEntitySequenceData`1<TEntity>)
+// 0x0000055C System.Void VRBuilder.Core.EntityOwners.SequenceConfigurator`1::Configure(VRBuilder.Core.Configuration.Modes.IMode,VRBuilder.Core.Stage)
+// 0x0000055D System.Void VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1::Start()
+// 0x0000055E System.Collections.IEnumerator VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1::Update()
+// 0x0000055F System.Void VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1::End()
+// 0x00000560 System.Void VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1::FastForward()
+// 0x00000561 System.Void VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1::.ctor(VRBuilder.Core.EntityOwners.IEntitySequenceData`1<TEntity>)
+// 0x00000562 System.Void VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1/<Update>d__1::.ctor(System.Int32)
+// 0x00000563 System.Void VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1/<Update>d__1::System.IDisposable.Dispose()
+// 0x00000564 System.Boolean VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1/<Update>d__1::MoveNext()
+// 0x00000565 System.Object VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1/<Update>d__1::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x00000566 System.Void VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1/<Update>d__1::System.Collections.IEnumerator.Reset()
+// 0x00000567 System.Object VRBuilder.Core.EntityOwners.StopEntityIteratingProcess`1/<Update>d__1::System.Collections.IEnumerator.get_Current()
+// 0x00000568 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1::.ctor(TCollectionData)
+// 0x00000569 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1::Start()
+// 0x0000056A System.Collections.IEnumerator VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1::Update()
+// 0x0000056B System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1::End()
+// 0x0000056C System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1::FastForward()
+// 0x0000056D System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1::<Start>b__1_0(VRBuilder.Core.IEntity)
+// 0x0000056E System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<>c::.cctor()
+// 0x0000056F System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<>c::.ctor()
+// 0x00000570 System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<>c::<Update>b__2_0(VRBuilder.Core.IEntity)
+// 0x00000571 System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<>c::<FastForward>b__4_0(VRBuilder.Core.IEntity)
+// 0x00000572 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<Update>d__2::.ctor(System.Int32)
+// 0x00000573 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<Update>d__2::System.IDisposable.Dispose()
+// 0x00000574 System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<Update>d__2::MoveNext()
+// 0x00000575 System.Object VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x00000576 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<Update>d__2::System.Collections.IEnumerator.Reset()
+// 0x00000577 System.Object VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActivatingProcess`1/<Update>d__2::System.Collections.IEnumerator.get_Current()
+// 0x00000578 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1::.ctor(TCollectionData)
+// 0x00000579 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1::Start()
+// 0x0000057A System.Collections.IEnumerator VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1::Update()
+// 0x0000057B System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1::End()
+// 0x0000057C System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1::FastForward()
+// 0x0000057D System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1/<Update>d__2::.ctor(System.Int32)
+// 0x0000057E System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1/<Update>d__2::System.IDisposable.Dispose()
+// 0x0000057F System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1/<Update>d__2::MoveNext()
+// 0x00000580 System.Object VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x00000581 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1/<Update>d__2::System.Collections.IEnumerator.Reset()
+// 0x00000582 System.Object VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1/<Update>d__2::System.Collections.IEnumerator.get_Current()
+// 0x00000583 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1/<>c::.cctor()
+// 0x00000584 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1/<>c::.ctor()
+// 0x00000585 System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelActiveProcess`1/<>c::<FastForward>b__4_0(VRBuilder.Core.IEntity)
+// 0x00000586 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1::.ctor(TCollectionData)
+// 0x00000587 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1::Start()
+// 0x00000588 System.Collections.IEnumerator VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1::Update()
+// 0x00000589 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1::End()
+// 0x0000058A System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1::FastForward()
+// 0x0000058B System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1::<Start>b__1_0(VRBuilder.Core.IEntity)
+// 0x0000058C System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<>c::.cctor()
+// 0x0000058D System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<>c::.ctor()
+// 0x0000058E System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<>c::<Update>b__2_0(VRBuilder.Core.IEntity)
+// 0x0000058F System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<>c::<End>b__3_0(VRBuilder.Core.IEntity)
+// 0x00000590 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<Update>d__2::.ctor(System.Int32)
+// 0x00000591 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<Update>d__2::System.IDisposable.Dispose()
+// 0x00000592 System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<Update>d__2::MoveNext()
+// 0x00000593 System.Object VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x00000594 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<Update>d__2::System.Collections.IEnumerator.Reset()
+// 0x00000595 System.Object VRBuilder.Core.EntityOwners.ParallelEntityCollection.ParallelDeactivatingProcess`1/<Update>d__2::System.Collections.IEnumerator.get_Current()
+// 0x00000596 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.IEntity> VRBuilder.Core.EntityOwners.ParallelEntityCollection.Process`1::GetBlockingChildren(VRBuilder.Core.EntityOwners.IEntityCollectionData,VRBuilder.Core.Configuration.Modes.IMode)
+// 0x00000597 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.Process`1::.ctor(TData)
+// 0x00000598 System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.Process`1/<>c__DisplayClass0_0::.ctor()
+// 0x00000599 System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.Process`1/<>c__DisplayClass0_0::<GetBlockingChildren>b__0(VRBuilder.Core.IEntity)
+// 0x0000059A System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.Process`1/<>c::.cctor()
+// 0x0000059B System.Void VRBuilder.Core.EntityOwners.ParallelEntityCollection.Process`1/<>c::.ctor()
+// 0x0000059C System.Boolean VRBuilder.Core.EntityOwners.ParallelEntityCollection.Process`1/<>c::<GetBlockingChildren>b__0_1(VRBuilder.Core.IEntity)
+// 0x0000059D System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1::.ctor(VRBuilder.Core.EntityOwners.IEntitySequenceDataWithMode`1<TEntity>)
+// 0x0000059E System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1::Start()
+// 0x0000059F System.Collections.IEnumerator VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1::Update()
+// 0x000005A0 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1::End()
+// 0x000005A1 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1::FastForward()
+// 0x000005A2 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1/<Update>d__3::.ctor(System.Int32)
+// 0x000005A3 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1/<Update>d__3::System.IDisposable.Dispose()
+// 0x000005A4 System.Boolean VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1/<Update>d__3::MoveNext()
+// 0x000005A5 System.Object VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1/<Update>d__3::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x000005A6 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1/<Update>d__3::System.Collections.IEnumerator.Reset()
+// 0x000005A7 System.Object VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActivatingProcess`1/<Update>d__3::System.Collections.IEnumerator.get_Current()
+// 0x000005A8 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1::.ctor(VRBuilder.Core.EntityOwners.IEntitySequenceDataWithMode`1<TEntity>)
+// 0x000005A9 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1::Start()
+// 0x000005AA System.Collections.IEnumerator VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1::Update()
+// 0x000005AB System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1::End()
+// 0x000005AC System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1::FastForward()
+// 0x000005AD System.Boolean VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1::<Update>b__2_1(TEntity)
+// 0x000005AE System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1/<>c::.cctor()
+// 0x000005AF System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1/<>c::.ctor()
+// 0x000005B0 System.Boolean VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1/<>c::<Update>b__2_0(TEntity)
+// 0x000005B1 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1/<Update>d__2::.ctor(System.Int32)
+// 0x000005B2 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1/<Update>d__2::System.IDisposable.Dispose()
+// 0x000005B3 System.Boolean VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1/<Update>d__2::MoveNext()
+// 0x000005B4 System.Object VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x000005B5 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1/<Update>d__2::System.Collections.IEnumerator.Reset()
+// 0x000005B6 System.Object VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedActiveProcess`1/<Update>d__2::System.Collections.IEnumerator.get_Current()
+// 0x000005B7 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1::.ctor(VRBuilder.Core.EntityOwners.IEntitySequenceDataWithMode`1<TEntity>)
+// 0x000005B8 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1::Start()
+// 0x000005B9 System.Collections.IEnumerator VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1::Update()
+// 0x000005BA System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1::End()
+// 0x000005BB System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1::FastForward()
+// 0x000005BC System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1/<Update>d__3::.ctor(System.Int32)
+// 0x000005BD System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1/<Update>d__3::System.IDisposable.Dispose()
+// 0x000005BE System.Boolean VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1/<Update>d__3::MoveNext()
+// 0x000005BF System.Object VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1/<Update>d__3::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x000005C0 System.Void VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1/<Update>d__3::System.Collections.IEnumerator.Reset()
+// 0x000005C1 System.Object VRBuilder.Core.EntityOwners.FoldedEntityCollection.FoldedDeactivatingProcess`1/<Update>d__3::System.Collections.IEnumerator.get_Current()
+// 0x000005C2 System.String VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_ManifestFileName()
 extern void BaseRuntimeConfiguration_get_ManifestFileName_mE1FE4986FB49EB4413511CCF7695BEE44B6BF962 (void);
-// 0x000005D2 VRBuilder.Core.SceneObjects.ISceneObjectRegistry VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_SceneObjectRegistry()
+// 0x000005C3 VRBuilder.Core.SceneObjects.ISceneObjectRegistry VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_SceneObjectRegistry()
 extern void BaseRuntimeConfiguration_get_SceneObjectRegistry_m6808AC20640F674EDBDC97E9B5DC7786A763C11A (void);
-// 0x000005D3 VRBuilder.Core.Serialization.IProcessSerializer VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_Serializer()
+// 0x000005C4 VRBuilder.Core.Serialization.IProcessSerializer VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_Serializer()
 extern void BaseRuntimeConfiguration_get_Serializer_m082DFB5164A7C742D3A3A9CBD5C2748AA1139D80 (void);
-// 0x000005D4 System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration::set_Serializer(VRBuilder.Core.Serialization.IProcessSerializer)
+// 0x000005C5 System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration::set_Serializer(VRBuilder.Core.Serialization.IProcessSerializer)
 extern void BaseRuntimeConfiguration_set_Serializer_m179A745B9CF42861EA4BDA4590A2989177EF4598 (void);
-// 0x000005D5 System.String VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_DefaultInputActionAssetPath()
+// 0x000005C6 System.String VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_DefaultInputActionAssetPath()
 extern void BaseRuntimeConfiguration_get_DefaultInputActionAssetPath_mFF8F75085A1859880DC659DE4A52217E61397625 (void);
-// 0x000005D6 System.String VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_CustomInputActionAssetPath()
+// 0x000005C7 System.String VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_CustomInputActionAssetPath()
 extern void BaseRuntimeConfiguration_get_CustomInputActionAssetPath_m2E81452A03AB53B0A99377EBDF15060DD2200174 (void);
-// 0x000005D7 UnityEngine.InputSystem.InputActionAsset VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_CurrentInputActionAsset()
+// 0x000005C8 UnityEngine.InputSystem.InputActionAsset VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_CurrentInputActionAsset()
 extern void BaseRuntimeConfiguration_get_CurrentInputActionAsset_mAA1324A22BC0717A6EB1D78F51228E9F68A68BE8 (void);
-// 0x000005D8 System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration::set_CurrentInputActionAsset(UnityEngine.InputSystem.InputActionAsset)
+// 0x000005C9 System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration::set_CurrentInputActionAsset(UnityEngine.InputSystem.InputActionAsset)
 extern void BaseRuntimeConfiguration_set_CurrentInputActionAsset_mDA2DCA6F9BC16F5255611478FE934D8FE0C96A34 (void);
-// 0x000005D9 VRBuilder.Core.Configuration.Modes.IModeHandler VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_Modes()
+// 0x000005CA VRBuilder.Core.Configuration.Modes.IModeHandler VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_Modes()
 extern void BaseRuntimeConfiguration_get_Modes_mDD676E4914D78F89FFE0816ED9CB5BF56C5EFDAC (void);
-// 0x000005DA System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration::set_Modes(VRBuilder.Core.Configuration.Modes.IModeHandler)
+// 0x000005CB System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration::set_Modes(VRBuilder.Core.Configuration.Modes.IModeHandler)
 extern void BaseRuntimeConfiguration_set_Modes_m2A857B0F9E73F6918354375AEC3E487C0C99BBBA (void);
-// 0x000005DB VRBuilder.Core.SceneObjects.ProcessSceneObject VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_User()
-// 0x000005DC UnityEngine.AudioSource VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_InstructionPlayer()
-// 0x000005DD VRBuilder.Core.RestrictiveEnvironment.StepLockHandlingStrategy VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_StepLockHandling()
+// 0x000005CC VRBuilder.Core.SceneObjects.ProcessSceneObject VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_User()
+// 0x000005CD UnityEngine.AudioSource VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_InstructionPlayer()
+// 0x000005CE VRBuilder.Core.RestrictiveEnvironment.StepLockHandlingStrategy VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_StepLockHandling()
 extern void BaseRuntimeConfiguration_get_StepLockHandling_mFC2CB751B9BA80D9C8694F6D84A9EFD59BDBA4C0 (void);
-// 0x000005DE System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration::set_StepLockHandling(VRBuilder.Core.RestrictiveEnvironment.StepLockHandlingStrategy)
+// 0x000005CF System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration::set_StepLockHandling(VRBuilder.Core.RestrictiveEnvironment.StepLockHandlingStrategy)
 extern void BaseRuntimeConfiguration_set_StepLockHandling_m563023A6B7C4B38882A7BD38AC9185A537C24739 (void);
-// 0x000005DF System.Collections.Generic.IEnumerable`1<VRBuilder.Core.Properties.UserSceneObject> VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_Users()
-// 0x000005E0 VRBuilder.Core.Configuration.IProcessAudioPlayer VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_ProcessAudioPlayer()
-// 0x000005E1 VRBuilder.Core.Configuration.ISceneObjectManager VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_SceneObjectManager()
-// 0x000005E2 VRBuilder.Core.Configuration.ISceneConfiguration VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_SceneConfiguration()
+// 0x000005D0 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.Properties.UserSceneObject> VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_Users()
+// 0x000005D1 VRBuilder.Core.Configuration.IProcessAudioPlayer VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_ProcessAudioPlayer()
+// 0x000005D2 VRBuilder.Core.Configuration.ISceneObjectManager VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_SceneObjectManager()
+// 0x000005D3 VRBuilder.Core.Configuration.ISceneConfiguration VRBuilder.Core.Configuration.BaseRuntimeConfiguration::get_SceneConfiguration()
 extern void BaseRuntimeConfiguration_get_SceneConfiguration_mCF45FD95603DB1999344F7BF63CBAA9B446858D3 (void);
-// 0x000005E3 System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration::.ctor()
+// 0x000005D4 System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration::.ctor()
 extern void BaseRuntimeConfiguration__ctor_m4A61D9A9000B5ACA04EFAB2BA097E7B19CFAF1A1 (void);
-// 0x000005E4 System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration::.ctor(VRBuilder.Core.RestrictiveEnvironment.StepLockHandlingStrategy)
+// 0x000005D5 System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration::.ctor(VRBuilder.Core.RestrictiveEnvironment.StepLockHandlingStrategy)
 extern void BaseRuntimeConfiguration__ctor_m379AD7CDFB2F4101C27AF22EE737EF6C7BDE42E4 (void);
-// 0x000005E5 System.Threading.Tasks.Task`1<VRBuilder.Core.IProcess> VRBuilder.Core.Configuration.BaseRuntimeConfiguration::LoadProcess(System.String)
+// 0x000005D6 System.Threading.Tasks.Task`1<VRBuilder.Core.IProcess> VRBuilder.Core.Configuration.BaseRuntimeConfiguration::LoadProcess(System.String)
 extern void BaseRuntimeConfiguration_LoadProcess_m263974E6C1F63CA8DE379BA092A1CA6AECC278DF (void);
-// 0x000005E6 System.Threading.Tasks.Task`1<System.Collections.Generic.List`1<System.Byte[]>> VRBuilder.Core.Configuration.BaseRuntimeConfiguration::GetAdditionalProcessData(System.String,VRBuilder.Core.IO.IProcessAssetManifest)
+// 0x000005D7 System.Threading.Tasks.Task`1<System.Collections.Generic.List`1<System.Byte[]>> VRBuilder.Core.Configuration.BaseRuntimeConfiguration::GetAdditionalProcessData(System.String,VRBuilder.Core.IO.IProcessAssetManifest)
 extern void BaseRuntimeConfiguration_GetAdditionalProcessData_mED408DC92C15C77D2CC63252853509954AE61A57 (void);
-// 0x000005E7 System.Threading.Tasks.Task`1<VRBuilder.Core.IO.IProcessAssetManifest> VRBuilder.Core.Configuration.BaseRuntimeConfiguration::FetchManifest(System.String,System.String)
+// 0x000005D8 System.Threading.Tasks.Task`1<VRBuilder.Core.IO.IProcessAssetManifest> VRBuilder.Core.Configuration.BaseRuntimeConfiguration::FetchManifest(System.String,System.String)
 extern void BaseRuntimeConfiguration_FetchManifest_m9FAFAF31F1232817B10C0905E4CCF9FB85209D8A (void);
-// 0x000005E8 System.String VRBuilder.Core.Configuration.BaseRuntimeConfiguration::GetProcessNameFromPath(System.String)
+// 0x000005D9 System.String VRBuilder.Core.Configuration.BaseRuntimeConfiguration::GetProcessNameFromPath(System.String)
 extern void BaseRuntimeConfiguration_GetProcessNameFromPath_mFCCFA0EBF872B4E755D344B163947F91671CF96A (void);
-// 0x000005E9 System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<>c__DisplayClass42_0::.ctor()
+// 0x000005DA System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<>c__DisplayClass42_0::.ctor()
 extern void U3CU3Ec__DisplayClass42_0__ctor_mE6F149FF8D226C6B559B8472320B89321B179F96 (void);
-// 0x000005EA System.Boolean VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<>c__DisplayClass42_0::<LoadProcess>b__0(System.Type)
+// 0x000005DB System.Boolean VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<>c__DisplayClass42_0::<LoadProcess>b__0(System.Type)
 extern void U3CU3Ec__DisplayClass42_0_U3CLoadProcessU3Eb__0_mC3BD9472235D618ACBEE7E58F4AA28DC533457D1 (void);
-// 0x000005EB System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<LoadProcess>d__42::.ctor()
-extern void U3CLoadProcessU3Ed__42__ctor_mFBCDE83DCB25D08CCBD2E5839C75325F59C8A583 (void);
-// 0x000005EC System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<LoadProcess>d__42::MoveNext()
+// 0x000005DC System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<LoadProcess>d__42::MoveNext()
 extern void U3CLoadProcessU3Ed__42_MoveNext_m251DA203003516186EAE6122523639DF9AFCA225 (void);
-// 0x000005ED System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<LoadProcess>d__42::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+// 0x000005DD System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<LoadProcess>d__42::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 extern void U3CLoadProcessU3Ed__42_SetStateMachine_m02CDA52414264AD1EF1CCACF47CBD777F0429E87 (void);
-// 0x000005EE System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<GetAdditionalProcessData>d__43::.ctor()
-extern void U3CGetAdditionalProcessDataU3Ed__43__ctor_mC90C47A7939BA53F8A1C574EC58D9F34C85956CF (void);
-// 0x000005EF System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<GetAdditionalProcessData>d__43::MoveNext()
+// 0x000005DE System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<GetAdditionalProcessData>d__43::MoveNext()
 extern void U3CGetAdditionalProcessDataU3Ed__43_MoveNext_m21091EC8B74DD4834B2106D24FDA91D58447940A (void);
-// 0x000005F0 System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<GetAdditionalProcessData>d__43::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+// 0x000005DF System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<GetAdditionalProcessData>d__43::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 extern void U3CGetAdditionalProcessDataU3Ed__43_SetStateMachine_m3B56E858CF180BCCF7EF06AC2681CF3B326B5704 (void);
-// 0x000005F1 System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<FetchManifest>d__44::.ctor()
-extern void U3CFetchManifestU3Ed__44__ctor_m5AF4910A4BCDEF24AFAADB5631DB208D27B09688 (void);
-// 0x000005F2 System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<FetchManifest>d__44::MoveNext()
+// 0x000005E0 System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<FetchManifest>d__44::MoveNext()
 extern void U3CFetchManifestU3Ed__44_MoveNext_m04C898CAE6E8C6CA2D3D1C22548566856FCF6877 (void);
-// 0x000005F3 System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<FetchManifest>d__44::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
+// 0x000005E1 System.Void VRBuilder.Core.Configuration.BaseRuntimeConfiguration/<FetchManifest>d__44::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 extern void U3CFetchManifestU3Ed__44_SetStateMachine_mA4CAA5D86799D11A1EBE4F1DE510A16EC2753D3F (void);
-// 0x000005F4 System.Void VRBuilder.Core.Configuration.DefaultRuntimeConfiguration::.ctor()
+// 0x000005E2 System.Void VRBuilder.Core.Configuration.DefaultRuntimeConfiguration::.ctor()
 extern void DefaultRuntimeConfiguration__ctor_mA1DC2608CD3582EF1614BF3808BE88748449A945 (void);
-// 0x000005F5 VRBuilder.Core.SceneObjects.ProcessSceneObject VRBuilder.Core.Configuration.DefaultRuntimeConfiguration::get_User()
+// 0x000005E3 VRBuilder.Core.SceneObjects.ProcessSceneObject VRBuilder.Core.Configuration.DefaultRuntimeConfiguration::get_User()
 extern void DefaultRuntimeConfiguration_get_User_m569884E10E62F890F00474601C86995F215D8165 (void);
-// 0x000005F6 UnityEngine.AudioSource VRBuilder.Core.Configuration.DefaultRuntimeConfiguration::get_InstructionPlayer()
+// 0x000005E4 UnityEngine.AudioSource VRBuilder.Core.Configuration.DefaultRuntimeConfiguration::get_InstructionPlayer()
 extern void DefaultRuntimeConfiguration_get_InstructionPlayer_m4FDE9B957E2DAEE2FCFA9A58FEFB8490B6E2AD02 (void);
-// 0x000005F7 VRBuilder.Core.Configuration.IProcessAudioPlayer VRBuilder.Core.Configuration.DefaultRuntimeConfiguration::get_ProcessAudioPlayer()
+// 0x000005E5 VRBuilder.Core.Configuration.IProcessAudioPlayer VRBuilder.Core.Configuration.DefaultRuntimeConfiguration::get_ProcessAudioPlayer()
 extern void DefaultRuntimeConfiguration_get_ProcessAudioPlayer_mABEF3B4FE005E330B8741FB8E16CBF38E0950B24 (void);
-// 0x000005F8 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.Properties.UserSceneObject> VRBuilder.Core.Configuration.DefaultRuntimeConfiguration::get_Users()
+// 0x000005E6 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.Properties.UserSceneObject> VRBuilder.Core.Configuration.DefaultRuntimeConfiguration::get_Users()
 extern void DefaultRuntimeConfiguration_get_Users_m5EBB84C4CD2D59113FE938D73404E214456F263B (void);
-// 0x000005F9 VRBuilder.Core.Configuration.ISceneObjectManager VRBuilder.Core.Configuration.DefaultRuntimeConfiguration::get_SceneObjectManager()
+// 0x000005E7 VRBuilder.Core.Configuration.ISceneObjectManager VRBuilder.Core.Configuration.DefaultRuntimeConfiguration::get_SceneObjectManager()
 extern void DefaultRuntimeConfiguration_get_SceneObjectManager_m289E2C490D396194231B5FC21842A2BE1B19D385 (void);
-// 0x000005FA System.Void VRBuilder.Core.Configuration.DefaultRuntimeConfiguration::.cctor()
+// 0x000005E8 System.Void VRBuilder.Core.Configuration.DefaultRuntimeConfiguration::.cctor()
 extern void DefaultRuntimeConfiguration__cctor_m6DE1E6F96A6CB51A0706010959631B22E067B14A (void);
-// 0x000005FB System.Void VRBuilder.Core.Configuration.DefaultSceneObjectManager::SetSceneObjectActive(VRBuilder.Core.SceneObjects.ISceneObject,System.Boolean)
+// 0x000005E9 System.Void VRBuilder.Core.Configuration.DefaultSceneObjectManager::SetSceneObjectActive(VRBuilder.Core.SceneObjects.ISceneObject,System.Boolean)
 extern void DefaultSceneObjectManager_SetSceneObjectActive_mEA473516D3061890768125B2F9F095E03F43FD00 (void);
-// 0x000005FC System.Void VRBuilder.Core.Configuration.DefaultSceneObjectManager::SetComponentActive(VRBuilder.Core.SceneObjects.ISceneObject,System.String,System.Boolean)
+// 0x000005EA System.Void VRBuilder.Core.Configuration.DefaultSceneObjectManager::SetComponentActive(VRBuilder.Core.SceneObjects.ISceneObject,System.String,System.Boolean)
 extern void DefaultSceneObjectManager_SetComponentActive_m9FD3717599EE411AF4B285C419CF2AD2AFB27FC3 (void);
-// 0x000005FD UnityEngine.GameObject VRBuilder.Core.Configuration.DefaultSceneObjectManager::InstantiatePrefab(UnityEngine.GameObject,UnityEngine.Vector3,UnityEngine.Quaternion)
+// 0x000005EB UnityEngine.GameObject VRBuilder.Core.Configuration.DefaultSceneObjectManager::InstantiatePrefab(UnityEngine.GameObject,UnityEngine.Vector3,UnityEngine.Quaternion)
 extern void DefaultSceneObjectManager_InstantiatePrefab_mE38001DEEAEB9EC451538BAE87248BA639B4377C (void);
-// 0x000005FE System.Void VRBuilder.Core.Configuration.DefaultSceneObjectManager::RequestAuthority(VRBuilder.Core.SceneObjects.ISceneObject)
+// 0x000005EC System.Void VRBuilder.Core.Configuration.DefaultSceneObjectManager::RequestAuthority(VRBuilder.Core.SceneObjects.ISceneObject)
 extern void DefaultSceneObjectManager_RequestAuthority_mCF25468D0FC5ADC580D9C624DD498BCFE9B70FC9 (void);
-// 0x000005FF System.Void VRBuilder.Core.Configuration.DefaultSceneObjectManager::.ctor()
+// 0x000005ED System.Void VRBuilder.Core.Configuration.DefaultSceneObjectManager::.ctor()
 extern void DefaultSceneObjectManager__ctor_m0F7EB09147FFACDB8CDE3751B1DFA85870B4BEBD (void);
-// 0x00000600 System.Void VRBuilder.Core.Configuration.DefaultSceneObjectManager/<>c__DisplayClass1_0::.ctor()
+// 0x000005EE System.Void VRBuilder.Core.Configuration.DefaultSceneObjectManager/<>c__DisplayClass1_0::.ctor()
 extern void U3CU3Ec__DisplayClass1_0__ctor_mC148FE1E6C2E935BF18476E0489301FF99A62ED7 (void);
-// 0x00000601 System.Boolean VRBuilder.Core.Configuration.DefaultSceneObjectManager/<>c__DisplayClass1_0::<SetComponentActive>b__0(UnityEngine.Component)
+// 0x000005EF System.Boolean VRBuilder.Core.Configuration.DefaultSceneObjectManager/<>c__DisplayClass1_0::<SetComponentActive>b__0(UnityEngine.Component)
 extern void U3CU3Ec__DisplayClass1_0_U3CSetComponentActiveU3Eb__0_m5F0F9E9DCDC0FAA9C8457A5F96CF902DD865545C (void);
-// 0x00000602 System.String VRBuilder.Core.Configuration.IInteractionComponentConfiguration::get_DisplayName()
-// 0x00000603 System.Boolean VRBuilder.Core.Configuration.IInteractionComponentConfiguration::get_IsXRInteractionComponent()
-// 0x00000604 System.String VRBuilder.Core.Configuration.IInteractionComponentConfiguration::get_DefaultRigPrefab()
-// 0x00000605 UnityEngine.AudioSource VRBuilder.Core.Configuration.IProcessAudioPlayer::get_FallbackAudioSource()
-// 0x00000606 System.Boolean VRBuilder.Core.Configuration.IProcessAudioPlayer::get_IsPlaying()
-// 0x00000607 System.Void VRBuilder.Core.Configuration.IProcessAudioPlayer::PlayAudio(VRBuilder.Core.Audio.IAudioData,System.Single,System.Single)
-// 0x00000608 System.Void VRBuilder.Core.Configuration.IProcessAudioPlayer::Stop()
-// 0x00000609 System.Void VRBuilder.Core.Configuration.IProcessAudioPlayer::Reset()
-// 0x0000060A VRBuilder.Core.SceneObjects.ISceneObjectRegistry VRBuilder.Core.Configuration.IRuntimeConfiguration::get_SceneObjectRegistry()
-// 0x0000060B VRBuilder.Core.Serialization.IProcessSerializer VRBuilder.Core.Configuration.IRuntimeConfiguration::get_Serializer()
-// 0x0000060C System.Void VRBuilder.Core.Configuration.IRuntimeConfiguration::set_Serializer(VRBuilder.Core.Serialization.IProcessSerializer)
-// 0x0000060D VRBuilder.Core.Configuration.Modes.IModeHandler VRBuilder.Core.Configuration.IRuntimeConfiguration::get_Modes()
-// 0x0000060E VRBuilder.Core.SceneObjects.ProcessSceneObject VRBuilder.Core.Configuration.IRuntimeConfiguration::get_User()
-// 0x0000060F System.Collections.Generic.IEnumerable`1<VRBuilder.Core.Properties.UserSceneObject> VRBuilder.Core.Configuration.IRuntimeConfiguration::get_Users()
-// 0x00000610 UnityEngine.AudioSource VRBuilder.Core.Configuration.IRuntimeConfiguration::get_InstructionPlayer()
-// 0x00000611 VRBuilder.Core.Configuration.IProcessAudioPlayer VRBuilder.Core.Configuration.IRuntimeConfiguration::get_ProcessAudioPlayer()
-// 0x00000612 VRBuilder.Core.Configuration.ISceneObjectManager VRBuilder.Core.Configuration.IRuntimeConfiguration::get_SceneObjectManager()
-// 0x00000613 VRBuilder.Core.Configuration.ISceneConfiguration VRBuilder.Core.Configuration.IRuntimeConfiguration::get_SceneConfiguration()
-// 0x00000614 System.Threading.Tasks.Task`1<VRBuilder.Core.IProcess> VRBuilder.Core.Configuration.IRuntimeConfiguration::LoadProcess(System.String)
-// 0x00000615 System.Collections.Generic.IEnumerable`1<System.String> VRBuilder.Core.Configuration.ISceneConfiguration::get_ExtensionAssembliesWhitelist()
-// 0x00000616 System.String VRBuilder.Core.Configuration.ISceneConfiguration::get_DefaultConfettiPrefab()
-// 0x00000617 System.Void VRBuilder.Core.Configuration.ISceneObjectManager::SetSceneObjectActive(VRBuilder.Core.SceneObjects.ISceneObject,System.Boolean)
-// 0x00000618 System.Void VRBuilder.Core.Configuration.ISceneObjectManager::SetComponentActive(VRBuilder.Core.SceneObjects.ISceneObject,System.String,System.Boolean)
-// 0x00000619 UnityEngine.GameObject VRBuilder.Core.Configuration.ISceneObjectManager::InstantiatePrefab(UnityEngine.GameObject,UnityEngine.Vector3,UnityEngine.Quaternion)
-// 0x0000061A System.Void VRBuilder.Core.Configuration.ISceneObjectManager::RequestAuthority(VRBuilder.Core.SceneObjects.ISceneObject)
-// 0x0000061B System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::add_ModeChanged(System.EventHandler`1<VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs>)
+// 0x000005F0 System.String VRBuilder.Core.Configuration.IInteractionComponentConfiguration::get_DisplayName()
+// 0x000005F1 System.Boolean VRBuilder.Core.Configuration.IInteractionComponentConfiguration::get_IsXRInteractionComponent()
+// 0x000005F2 System.String VRBuilder.Core.Configuration.IInteractionComponentConfiguration::get_DefaultRigPrefab()
+// 0x000005F3 UnityEngine.AudioSource VRBuilder.Core.Configuration.IProcessAudioPlayer::get_FallbackAudioSource()
+// 0x000005F4 System.Boolean VRBuilder.Core.Configuration.IProcessAudioPlayer::get_IsPlaying()
+// 0x000005F5 System.Void VRBuilder.Core.Configuration.IProcessAudioPlayer::PlayAudio(VRBuilder.Core.Audio.IAudioData,System.Single,System.Single)
+// 0x000005F6 System.Void VRBuilder.Core.Configuration.IProcessAudioPlayer::Stop()
+// 0x000005F7 System.Void VRBuilder.Core.Configuration.IProcessAudioPlayer::Reset()
+// 0x000005F8 VRBuilder.Core.SceneObjects.ISceneObjectRegistry VRBuilder.Core.Configuration.IRuntimeConfiguration::get_SceneObjectRegistry()
+// 0x000005F9 VRBuilder.Core.Serialization.IProcessSerializer VRBuilder.Core.Configuration.IRuntimeConfiguration::get_Serializer()
+// 0x000005FA System.Void VRBuilder.Core.Configuration.IRuntimeConfiguration::set_Serializer(VRBuilder.Core.Serialization.IProcessSerializer)
+// 0x000005FB VRBuilder.Core.Configuration.Modes.IModeHandler VRBuilder.Core.Configuration.IRuntimeConfiguration::get_Modes()
+// 0x000005FC VRBuilder.Core.SceneObjects.ProcessSceneObject VRBuilder.Core.Configuration.IRuntimeConfiguration::get_User()
+// 0x000005FD System.Collections.Generic.IEnumerable`1<VRBuilder.Core.Properties.UserSceneObject> VRBuilder.Core.Configuration.IRuntimeConfiguration::get_Users()
+// 0x000005FE UnityEngine.AudioSource VRBuilder.Core.Configuration.IRuntimeConfiguration::get_InstructionPlayer()
+// 0x000005FF VRBuilder.Core.Configuration.IProcessAudioPlayer VRBuilder.Core.Configuration.IRuntimeConfiguration::get_ProcessAudioPlayer()
+// 0x00000600 VRBuilder.Core.Configuration.ISceneObjectManager VRBuilder.Core.Configuration.IRuntimeConfiguration::get_SceneObjectManager()
+// 0x00000601 VRBuilder.Core.Configuration.ISceneConfiguration VRBuilder.Core.Configuration.IRuntimeConfiguration::get_SceneConfiguration()
+// 0x00000602 System.Threading.Tasks.Task`1<VRBuilder.Core.IProcess> VRBuilder.Core.Configuration.IRuntimeConfiguration::LoadProcess(System.String)
+// 0x00000603 System.Collections.Generic.IEnumerable`1<System.String> VRBuilder.Core.Configuration.ISceneConfiguration::get_ExtensionAssembliesWhitelist()
+// 0x00000604 System.String VRBuilder.Core.Configuration.ISceneConfiguration::get_DefaultConfettiPrefab()
+// 0x00000605 System.Void VRBuilder.Core.Configuration.ISceneObjectManager::SetSceneObjectActive(VRBuilder.Core.SceneObjects.ISceneObject,System.Boolean)
+// 0x00000606 System.Void VRBuilder.Core.Configuration.ISceneObjectManager::SetComponentActive(VRBuilder.Core.SceneObjects.ISceneObject,System.String,System.Boolean)
+// 0x00000607 UnityEngine.GameObject VRBuilder.Core.Configuration.ISceneObjectManager::InstantiatePrefab(UnityEngine.GameObject,UnityEngine.Vector3,UnityEngine.Quaternion)
+// 0x00000608 System.Void VRBuilder.Core.Configuration.ISceneObjectManager::RequestAuthority(VRBuilder.Core.SceneObjects.ISceneObject)
+// 0x00000609 System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::add_ModeChanged(System.EventHandler`1<VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs>)
 extern void RuntimeConfigurator_add_ModeChanged_mD06CF323C88792AD990DDF65571F9E16BDFE1676 (void);
-// 0x0000061C System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::remove_ModeChanged(System.EventHandler`1<VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs>)
+// 0x0000060A System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::remove_ModeChanged(System.EventHandler`1<VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs>)
 extern void RuntimeConfigurator_remove_ModeChanged_m801B4BC1D6F4D0D9F91D4EE84D17A7EAF0C96036 (void);
-// 0x0000061D System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::add_RuntimeConfigurationChanged(System.EventHandler`1<System.EventArgs>)
+// 0x0000060B System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::add_RuntimeConfigurationChanged(System.EventHandler`1<System.EventArgs>)
 extern void RuntimeConfigurator_add_RuntimeConfigurationChanged_mA1A5626EAD8F765C32B40017751AB4207E27B331 (void);
-// 0x0000061E System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::remove_RuntimeConfigurationChanged(System.EventHandler`1<System.EventArgs>)
+// 0x0000060C System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::remove_RuntimeConfigurationChanged(System.EventHandler`1<System.EventArgs>)
 extern void RuntimeConfigurator_remove_RuntimeConfigurationChanged_m84ECBFF07DCF201F8505A6DEB91B1BDF9F62F7BB (void);
-// 0x0000061F VRBuilder.Core.Configuration.RuntimeConfigurator VRBuilder.Core.Configuration.RuntimeConfigurator::LookUpForGameObject()
+// 0x0000060D VRBuilder.Core.Configuration.RuntimeConfigurator VRBuilder.Core.Configuration.RuntimeConfigurator::LookUpForGameObject()
 extern void RuntimeConfigurator_LookUpForGameObject_m53004B2147D73768CEE47864FEE82166FE6C4B6B (void);
-// 0x00000620 System.Boolean VRBuilder.Core.Configuration.RuntimeConfigurator::get_Exists()
+// 0x0000060E System.Boolean VRBuilder.Core.Configuration.RuntimeConfigurator::get_Exists()
 extern void RuntimeConfigurator_get_Exists_mD79FA8A974413A8EC030001E5B5BE446E254FF21 (void);
-// 0x00000621 VRBuilder.Core.Configuration.BaseRuntimeConfiguration VRBuilder.Core.Configuration.RuntimeConfigurator::get_Configuration()
+// 0x0000060F VRBuilder.Core.Configuration.BaseRuntimeConfiguration VRBuilder.Core.Configuration.RuntimeConfigurator::get_Configuration()
 extern void RuntimeConfigurator_get_Configuration_m240115A530335A9A799EB54CE92C9DDC15A00F10 (void);
-// 0x00000622 System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::set_Configuration(VRBuilder.Core.Configuration.BaseRuntimeConfiguration)
+// 0x00000610 System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::set_Configuration(VRBuilder.Core.Configuration.BaseRuntimeConfiguration)
 extern void RuntimeConfigurator_set_Configuration_m291CA371AB8AB854DD942E1902701A8A9824554A (void);
-// 0x00000623 VRBuilder.Core.Configuration.RuntimeConfigurator VRBuilder.Core.Configuration.RuntimeConfigurator::get_Instance()
+// 0x00000611 VRBuilder.Core.Configuration.RuntimeConfigurator VRBuilder.Core.Configuration.RuntimeConfigurator::get_Instance()
 extern void RuntimeConfigurator_get_Instance_mC3FA36748ECEDB3A40DB0AD952E29C5E775E1FE3 (void);
-// 0x00000624 System.String VRBuilder.Core.Configuration.RuntimeConfigurator::GetRuntimeConfigurationName()
+// 0x00000612 System.String VRBuilder.Core.Configuration.RuntimeConfigurator::GetRuntimeConfigurationName()
 extern void RuntimeConfigurator_GetRuntimeConfigurationName_m107DD840551DEAF256A6CBBB5DF778D607209FD7 (void);
-// 0x00000625 System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::SetRuntimeConfigurationName(System.String)
+// 0x00000613 System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::SetRuntimeConfigurationName(System.String)
 extern void RuntimeConfigurator_SetRuntimeConfigurationName_m6CAB96518CE354A43B5CC7C9866BA45C69DE9639 (void);
-// 0x00000626 System.String VRBuilder.Core.Configuration.RuntimeConfigurator::GetSelectedProcess()
+// 0x00000614 System.String VRBuilder.Core.Configuration.RuntimeConfigurator::GetSelectedProcess()
 extern void RuntimeConfigurator_GetSelectedProcess_mE51077DE443493C902081FECE2D290374F82F36E (void);
-// 0x00000627 System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::SetSelectedProcess(System.String)
+// 0x00000615 System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::SetSelectedProcess(System.String)
 extern void RuntimeConfigurator_SetSelectedProcess_m527345C2AB0FFB1E009D7585EA3F33B365210AA1 (void);
-// 0x00000628 System.String VRBuilder.Core.Configuration.RuntimeConfigurator::GetProcessStringLocalizationTable()
+// 0x00000616 System.String VRBuilder.Core.Configuration.RuntimeConfigurator::GetProcessStringLocalizationTable()
 extern void RuntimeConfigurator_GetProcessStringLocalizationTable_m8A37F97B43EC884BC788FD6283937665E8C8329D (void);
-// 0x00000629 System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::Awake()
+// 0x00000617 System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::Awake()
 extern void RuntimeConfigurator_Awake_mF0A6F098CC8DAD84139B4F22816402DD13B23476 (void);
-// 0x0000062A System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::OnDestroy()
+// 0x00000618 System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::OnDestroy()
 extern void RuntimeConfigurator_OnDestroy_mE84DE8AA022CAE23106B2BB09FA95AF5E8514C14 (void);
-// 0x0000062B System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::EmitModeChanged()
+// 0x00000619 System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::EmitModeChanged()
 extern void RuntimeConfigurator_EmitModeChanged_m209C446B27D00EC82F5265B32F61ED0ED480BB31 (void);
-// 0x0000062C System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::EmitRuntimeConfigurationChanged()
+// 0x0000061A System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::EmitRuntimeConfigurationChanged()
 extern void RuntimeConfigurator_EmitRuntimeConfigurationChanged_m57428E9DC34D1A6B80985512EE9AADAF4FCD0861 (void);
-// 0x0000062D System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::HandleRuntimeConfigurationChanged(System.Object,System.EventArgs)
+// 0x0000061B System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::HandleRuntimeConfigurationChanged(System.Object,System.EventArgs)
 extern void RuntimeConfigurator_HandleRuntimeConfigurationChanged_mB2B994078B92E2E3E328C9CD54B75AF1E9FA4B33 (void);
-// 0x0000062E System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::RuntimeConfigurationModeChanged(System.Object,VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs)
+// 0x0000061C System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::RuntimeConfigurationModeChanged(System.Object,VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs)
 extern void RuntimeConfigurator_RuntimeConfigurationModeChanged_m6BFFF52F02BDB7FA1A7A4B34235FD88B70F259D7 (void);
-// 0x0000062F System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::.ctor()
+// 0x0000061D System.Void VRBuilder.Core.Configuration.RuntimeConfigurator::.ctor()
 extern void RuntimeConfigurator__ctor_mDB787AD570FFD5C4866AA9427B1558716CD7CF51 (void);
-// 0x00000630 System.Void VRBuilder.Core.Configuration.RuntimeConfigWrapper::.ctor(VRBuilder.Core.Configuration.IRuntimeConfiguration)
+// 0x0000061E System.Void VRBuilder.Core.Configuration.RuntimeConfigWrapper::.ctor(VRBuilder.Core.Configuration.IRuntimeConfiguration)
 extern void RuntimeConfigWrapper__ctor_m95BC7D6AC6429AD68DEBE28B39654BCFD11E2C8E (void);
-// 0x00000631 VRBuilder.Core.SceneObjects.ProcessSceneObject VRBuilder.Core.Configuration.RuntimeConfigWrapper::get_User()
+// 0x0000061F VRBuilder.Core.SceneObjects.ProcessSceneObject VRBuilder.Core.Configuration.RuntimeConfigWrapper::get_User()
 extern void RuntimeConfigWrapper_get_User_m7ABC8B15E26E1EBA47020683FA6A7CE00FDDCF17 (void);
-// 0x00000632 UnityEngine.AudioSource VRBuilder.Core.Configuration.RuntimeConfigWrapper::get_InstructionPlayer()
+// 0x00000620 UnityEngine.AudioSource VRBuilder.Core.Configuration.RuntimeConfigWrapper::get_InstructionPlayer()
 extern void RuntimeConfigWrapper_get_InstructionPlayer_m745C5A3702A02DCE817F0D11BF8A2C7C5F3EA3E1 (void);
-// 0x00000633 VRBuilder.Core.SceneObjects.ISceneObjectRegistry VRBuilder.Core.Configuration.RuntimeConfigWrapper::get_SceneObjectRegistry()
+// 0x00000621 VRBuilder.Core.SceneObjects.ISceneObjectRegistry VRBuilder.Core.Configuration.RuntimeConfigWrapper::get_SceneObjectRegistry()
 extern void RuntimeConfigWrapper_get_SceneObjectRegistry_m62486B6077E8187061D732BB4ECA76E03BAAA278 (void);
-// 0x00000634 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.Properties.UserSceneObject> VRBuilder.Core.Configuration.RuntimeConfigWrapper::get_Users()
+// 0x00000622 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.Properties.UserSceneObject> VRBuilder.Core.Configuration.RuntimeConfigWrapper::get_Users()
 extern void RuntimeConfigWrapper_get_Users_mA87626983A1989E619B21510BDFBE57B1C2A6943 (void);
-// 0x00000635 VRBuilder.Core.Configuration.IProcessAudioPlayer VRBuilder.Core.Configuration.RuntimeConfigWrapper::get_ProcessAudioPlayer()
+// 0x00000623 VRBuilder.Core.Configuration.IProcessAudioPlayer VRBuilder.Core.Configuration.RuntimeConfigWrapper::get_ProcessAudioPlayer()
 extern void RuntimeConfigWrapper_get_ProcessAudioPlayer_mF5993D4734638EC9E49238820D44B0AAF9066ACC (void);
-// 0x00000636 VRBuilder.Core.Configuration.ISceneObjectManager VRBuilder.Core.Configuration.RuntimeConfigWrapper::get_SceneObjectManager()
+// 0x00000624 VRBuilder.Core.Configuration.ISceneObjectManager VRBuilder.Core.Configuration.RuntimeConfigWrapper::get_SceneObjectManager()
 extern void RuntimeConfigWrapper_get_SceneObjectManager_m547BFA1DAC95E52B0D5305326B3FA7B110083D56 (void);
-// 0x00000637 VRBuilder.Core.Configuration.ISceneConfiguration VRBuilder.Core.Configuration.RuntimeConfigWrapper::get_SceneConfiguration()
+// 0x00000625 VRBuilder.Core.Configuration.ISceneConfiguration VRBuilder.Core.Configuration.RuntimeConfigWrapper::get_SceneConfiguration()
 extern void RuntimeConfigWrapper_get_SceneConfiguration_mF2A5C92F9F00531A506FBE6C644CD5E8CBA4BA11 (void);
-// 0x00000638 System.Threading.Tasks.Task`1<VRBuilder.Core.IProcess> VRBuilder.Core.Configuration.RuntimeConfigWrapper::LoadProcess(System.String)
+// 0x00000626 System.Threading.Tasks.Task`1<VRBuilder.Core.IProcess> VRBuilder.Core.Configuration.RuntimeConfigWrapper::LoadProcess(System.String)
 extern void RuntimeConfigWrapper_LoadProcess_mA38FC9370E1F2F94225DE6069957B75805A713C5 (void);
-// 0x00000639 System.Collections.Generic.IEnumerable`1<System.String> VRBuilder.Core.Configuration.SceneConfiguration::get_ExtensionAssembliesWhitelist()
+// 0x00000627 System.Collections.Generic.IEnumerable`1<System.String> VRBuilder.Core.Configuration.SceneConfiguration::get_ExtensionAssembliesWhitelist()
 extern void SceneConfiguration_get_ExtensionAssembliesWhitelist_mDDD995441C43440CA157E2071A812F4E630B60E7 (void);
-// 0x0000063A System.String VRBuilder.Core.Configuration.SceneConfiguration::get_DefaultConfettiPrefab()
+// 0x00000628 System.String VRBuilder.Core.Configuration.SceneConfiguration::get_DefaultConfettiPrefab()
 extern void SceneConfiguration_get_DefaultConfettiPrefab_mA00677916968E0DC5BF7103C73127728DBD75CFC (void);
-// 0x0000063B System.Void VRBuilder.Core.Configuration.SceneConfiguration::set_DefaultConfettiPrefab(System.String)
+// 0x00000629 System.Void VRBuilder.Core.Configuration.SceneConfiguration::set_DefaultConfettiPrefab(System.String)
 extern void SceneConfiguration_set_DefaultConfettiPrefab_m63638526B07A40919BC551064F84844CB11EB7AD (void);
-// 0x0000063C System.Void VRBuilder.Core.Configuration.SceneConfiguration::AddWhitelistAssemblies(System.Collections.Generic.IEnumerable`1<System.String>)
+// 0x0000062A System.Void VRBuilder.Core.Configuration.SceneConfiguration::AddWhitelistAssemblies(System.Collections.Generic.IEnumerable`1<System.String>)
 extern void SceneConfiguration_AddWhitelistAssemblies_mF6EC43F7E9BAF728874536B487B5C28D36353554 (void);
-// 0x0000063D System.Void VRBuilder.Core.Configuration.SceneConfiguration::.ctor()
+// 0x0000062B System.Void VRBuilder.Core.Configuration.SceneConfiguration::.ctor()
 extern void SceneConfiguration__ctor_m2C6119D771890C4719E4420E99EC6A98AC378C52 (void);
-// 0x0000063E System.Void VRBuilder.Core.Configuration.Modes.BaseModeHandler::add_ModeChanged(System.EventHandler`1<VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs>)
+// 0x0000062C System.Void VRBuilder.Core.Configuration.Modes.BaseModeHandler::add_ModeChanged(System.EventHandler`1<VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs>)
 extern void BaseModeHandler_add_ModeChanged_m44773A0B77E47CDB2A9E89018F4487888F69F0F0 (void);
-// 0x0000063F System.Void VRBuilder.Core.Configuration.Modes.BaseModeHandler::remove_ModeChanged(System.EventHandler`1<VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs>)
+// 0x0000062D System.Void VRBuilder.Core.Configuration.Modes.BaseModeHandler::remove_ModeChanged(System.EventHandler`1<VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs>)
 extern void BaseModeHandler_remove_ModeChanged_m885FCA2D071CFDB1B59DE55173ACC35FC9E5ED21 (void);
-// 0x00000640 System.Int32 VRBuilder.Core.Configuration.Modes.BaseModeHandler::get_CurrentModeIndex()
+// 0x0000062E System.Int32 VRBuilder.Core.Configuration.Modes.BaseModeHandler::get_CurrentModeIndex()
 extern void BaseModeHandler_get_CurrentModeIndex_m475393276E568869E8CA1F095B59E903F0BB2906 (void);
-// 0x00000641 System.Void VRBuilder.Core.Configuration.Modes.BaseModeHandler::set_CurrentModeIndex(System.Int32)
+// 0x0000062F System.Void VRBuilder.Core.Configuration.Modes.BaseModeHandler::set_CurrentModeIndex(System.Int32)
 extern void BaseModeHandler_set_CurrentModeIndex_m3BBD543A0A9F4AB48125B0F2FD3EBFDC138DE8E8 (void);
-// 0x00000642 VRBuilder.Core.Configuration.Modes.IMode VRBuilder.Core.Configuration.Modes.BaseModeHandler::get_CurrentMode()
+// 0x00000630 VRBuilder.Core.Configuration.Modes.IMode VRBuilder.Core.Configuration.Modes.BaseModeHandler::get_CurrentMode()
 extern void BaseModeHandler_get_CurrentMode_mAA4EC8E109BD42ABE1E621883024F2042DADCFC7 (void);
-// 0x00000643 System.Collections.ObjectModel.ReadOnlyCollection`1<VRBuilder.Core.Configuration.Modes.IMode> VRBuilder.Core.Configuration.Modes.BaseModeHandler::get_AvailableModes()
+// 0x00000631 System.Collections.ObjectModel.ReadOnlyCollection`1<VRBuilder.Core.Configuration.Modes.IMode> VRBuilder.Core.Configuration.Modes.BaseModeHandler::get_AvailableModes()
 extern void BaseModeHandler_get_AvailableModes_m58DD71E03676A33670CE36DB4A893E5BB3809DA4 (void);
-// 0x00000644 System.Void VRBuilder.Core.Configuration.Modes.BaseModeHandler::.ctor(System.Collections.Generic.List`1<VRBuilder.Core.Configuration.Modes.IMode>,System.Int32)
+// 0x00000632 System.Void VRBuilder.Core.Configuration.Modes.BaseModeHandler::.ctor(System.Collections.Generic.List`1<VRBuilder.Core.Configuration.Modes.IMode>,System.Int32)
 extern void BaseModeHandler__ctor_mF4E3600B43A45C6E824AD6CF94789A483EA60796 (void);
-// 0x00000645 System.Void VRBuilder.Core.Configuration.Modes.BaseModeHandler::SetMode(System.Int32)
+// 0x00000633 System.Void VRBuilder.Core.Configuration.Modes.BaseModeHandler::SetMode(System.Int32)
 extern void BaseModeHandler_SetMode_mD7E62330AA246D970DCE9F54086C0EA1D84229B9 (void);
-// 0x00000646 System.Void VRBuilder.Core.Configuration.Modes.BaseModeHandler::SetMode(VRBuilder.Core.Configuration.Modes.IMode)
+// 0x00000634 System.Void VRBuilder.Core.Configuration.Modes.BaseModeHandler::SetMode(VRBuilder.Core.Configuration.Modes.IMode)
 extern void BaseModeHandler_SetMode_m2553DB65813D0F4911DD0C971138AB2F470F0BC4 (void);
-// 0x00000647 System.Boolean VRBuilder.Core.Configuration.Modes.BlacklistTypeRule`1::IsQualifiedByPredicate(System.Type)
-// 0x00000648 System.Void VRBuilder.Core.Configuration.Modes.BlacklistTypeRule`1::.ctor()
-// 0x00000649 System.Void VRBuilder.Core.Configuration.Modes.IConfigurator::Configure(VRBuilder.Core.Configuration.Modes.IMode,VRBuilder.Core.Stage)
-// 0x0000064A System.String VRBuilder.Core.Configuration.Modes.IMode::get_Name()
-// 0x0000064B System.Boolean VRBuilder.Core.Configuration.Modes.IMode::CheckIfSkipped()
-// 0x0000064C System.Boolean VRBuilder.Core.Configuration.Modes.IMode::CheckIfSkipped(System.Type)
-// 0x0000064D T VRBuilder.Core.Configuration.Modes.IMode::GetParameter(System.String)
-// 0x0000064E System.Boolean VRBuilder.Core.Configuration.Modes.IMode::ContainsParameter(System.String)
-// 0x0000064F VRBuilder.Core.Configuration.Modes.IMode VRBuilder.Core.Configuration.Modes.IModeData::get_Mode()
-// 0x00000650 System.Void VRBuilder.Core.Configuration.Modes.IModeData::set_Mode(VRBuilder.Core.Configuration.Modes.IMode)
-// 0x00000651 System.Void VRBuilder.Core.Configuration.Modes.IModeHandler::add_ModeChanged(System.EventHandler`1<VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs>)
-// 0x00000652 System.Void VRBuilder.Core.Configuration.Modes.IModeHandler::remove_ModeChanged(System.EventHandler`1<VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs>)
-// 0x00000653 System.Collections.ObjectModel.ReadOnlyCollection`1<VRBuilder.Core.Configuration.Modes.IMode> VRBuilder.Core.Configuration.Modes.IModeHandler::get_AvailableModes()
-// 0x00000654 System.Int32 VRBuilder.Core.Configuration.Modes.IModeHandler::get_CurrentModeIndex()
-// 0x00000655 VRBuilder.Core.Configuration.Modes.IMode VRBuilder.Core.Configuration.Modes.IModeHandler::get_CurrentMode()
-// 0x00000656 System.Void VRBuilder.Core.Configuration.Modes.IModeHandler::SetMode(System.Int32)
-// 0x00000657 System.Void VRBuilder.Core.Configuration.Modes.IModeHandler::SetMode(VRBuilder.Core.Configuration.Modes.IMode)
-// 0x00000658 System.Boolean VRBuilder.Core.Configuration.Modes.IRule`1::IsQualifiedBy(T)
-// 0x00000659 System.Collections.Generic.HashSet`1<System.Type> VRBuilder.Core.Configuration.Modes.ListTypeRule`2::get_StoredTypes()
-// 0x0000065A TRecursive VRBuilder.Core.Configuration.Modes.ListTypeRule`2::Add()
-// 0x0000065B TRecursive VRBuilder.Core.Configuration.Modes.ListTypeRule`2::Clone()
-// 0x0000065C System.Void VRBuilder.Core.Configuration.Modes.ListTypeRule`2::.ctor()
-// 0x0000065D System.String VRBuilder.Core.Configuration.Modes.Mode::get_Name()
+// 0x00000635 System.Boolean VRBuilder.Core.Configuration.Modes.BlacklistTypeRule`1::IsQualifiedByPredicate(System.Type)
+// 0x00000636 System.Void VRBuilder.Core.Configuration.Modes.BlacklistTypeRule`1::.ctor()
+// 0x00000637 System.Void VRBuilder.Core.Configuration.Modes.IConfigurator::Configure(VRBuilder.Core.Configuration.Modes.IMode,VRBuilder.Core.Stage)
+// 0x00000638 System.String VRBuilder.Core.Configuration.Modes.IMode::get_Name()
+// 0x00000639 System.Boolean VRBuilder.Core.Configuration.Modes.IMode::CheckIfSkipped()
+// 0x0000063A System.Boolean VRBuilder.Core.Configuration.Modes.IMode::CheckIfSkipped(System.Type)
+// 0x0000063B T VRBuilder.Core.Configuration.Modes.IMode::GetParameter(System.String)
+// 0x0000063C System.Boolean VRBuilder.Core.Configuration.Modes.IMode::ContainsParameter(System.String)
+// 0x0000063D VRBuilder.Core.Configuration.Modes.IMode VRBuilder.Core.Configuration.Modes.IModeData::get_Mode()
+// 0x0000063E System.Void VRBuilder.Core.Configuration.Modes.IModeData::set_Mode(VRBuilder.Core.Configuration.Modes.IMode)
+// 0x0000063F System.Void VRBuilder.Core.Configuration.Modes.IModeHandler::add_ModeChanged(System.EventHandler`1<VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs>)
+// 0x00000640 System.Void VRBuilder.Core.Configuration.Modes.IModeHandler::remove_ModeChanged(System.EventHandler`1<VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs>)
+// 0x00000641 System.Collections.ObjectModel.ReadOnlyCollection`1<VRBuilder.Core.Configuration.Modes.IMode> VRBuilder.Core.Configuration.Modes.IModeHandler::get_AvailableModes()
+// 0x00000642 System.Int32 VRBuilder.Core.Configuration.Modes.IModeHandler::get_CurrentModeIndex()
+// 0x00000643 VRBuilder.Core.Configuration.Modes.IMode VRBuilder.Core.Configuration.Modes.IModeHandler::get_CurrentMode()
+// 0x00000644 System.Void VRBuilder.Core.Configuration.Modes.IModeHandler::SetMode(System.Int32)
+// 0x00000645 System.Void VRBuilder.Core.Configuration.Modes.IModeHandler::SetMode(VRBuilder.Core.Configuration.Modes.IMode)
+// 0x00000646 System.Boolean VRBuilder.Core.Configuration.Modes.IRule`1::IsQualifiedBy(T)
+// 0x00000647 System.Collections.Generic.HashSet`1<System.Type> VRBuilder.Core.Configuration.Modes.ListTypeRule`2::get_StoredTypes()
+// 0x00000648 TRecursive VRBuilder.Core.Configuration.Modes.ListTypeRule`2::Add()
+// 0x00000649 TRecursive VRBuilder.Core.Configuration.Modes.ListTypeRule`2::Clone()
+// 0x0000064A System.Void VRBuilder.Core.Configuration.Modes.ListTypeRule`2::.ctor()
+// 0x0000064B System.String VRBuilder.Core.Configuration.Modes.Mode::get_Name()
 extern void Mode_get_Name_m1330E387339A8E9F4C2B56D2E2FB7C748361DB8C (void);
-// 0x0000065E System.Void VRBuilder.Core.Configuration.Modes.Mode::set_Name(System.String)
+// 0x0000064C System.Void VRBuilder.Core.Configuration.Modes.Mode::set_Name(System.String)
 extern void Mode_set_Name_m11F1EB5A351B54416CE606AFD2975ABFAD4CBCDE (void);
-// 0x0000065F System.Void VRBuilder.Core.Configuration.Modes.Mode::.ctor(System.String,VRBuilder.Core.Configuration.Modes.TypeRule`1<VRBuilder.Core.Configuration.Modes.IOptional>,System.Collections.Generic.Dictionary`2<System.String,System.Object>)
+// 0x0000064D System.Void VRBuilder.Core.Configuration.Modes.Mode::.ctor(System.String,VRBuilder.Core.Configuration.Modes.TypeRule`1<VRBuilder.Core.Configuration.Modes.IOptional>,System.Collections.Generic.Dictionary`2<System.String,System.Object>)
 extern void Mode__ctor_m6BEB3345AA97A74BEEC34E27DB5CFBA482E4E825 (void);
-// 0x00000660 System.Boolean VRBuilder.Core.Configuration.Modes.Mode::CheckIfSkipped()
-// 0x00000661 System.Boolean VRBuilder.Core.Configuration.Modes.Mode::CheckIfSkipped(System.Type)
+// 0x0000064E System.Boolean VRBuilder.Core.Configuration.Modes.Mode::CheckIfSkipped()
+// 0x0000064F System.Boolean VRBuilder.Core.Configuration.Modes.Mode::CheckIfSkipped(System.Type)
 extern void Mode_CheckIfSkipped_m72C4B3BE0DA7D7EAD9A03690BEA7A1AF3DF97DC7 (void);
-// 0x00000662 TValue VRBuilder.Core.Configuration.Modes.Mode::GetParameter(System.String)
-// 0x00000663 System.Boolean VRBuilder.Core.Configuration.Modes.Mode::ContainsParameter(System.String)
-// 0x00000664 System.Void VRBuilder.Core.Configuration.Modes.Mode/<>c::.cctor()
+// 0x00000650 TValue VRBuilder.Core.Configuration.Modes.Mode::GetParameter(System.String)
+// 0x00000651 System.Boolean VRBuilder.Core.Configuration.Modes.Mode::ContainsParameter(System.String)
+// 0x00000652 System.Void VRBuilder.Core.Configuration.Modes.Mode/<>c::.cctor()
 extern void U3CU3Ec__cctor_mE3043297E90E84947B165879693EF8CC46F950A0 (void);
-// 0x00000665 System.Void VRBuilder.Core.Configuration.Modes.Mode/<>c::.ctor()
+// 0x00000653 System.Void VRBuilder.Core.Configuration.Modes.Mode/<>c::.ctor()
 extern void U3CU3Ec__ctor_mA88D9B5588AEC393B572C55C0250B7EB8DCB6D8B (void);
-// 0x00000666 System.String VRBuilder.Core.Configuration.Modes.Mode/<>c::<.ctor>b__6_0(System.Collections.Generic.KeyValuePair`2<System.String,System.Object>)
+// 0x00000654 System.String VRBuilder.Core.Configuration.Modes.Mode/<>c::<.ctor>b__6_0(System.Collections.Generic.KeyValuePair`2<System.String,System.Object>)
 extern void U3CU3Ec_U3C_ctorU3Eb__6_0_m06001D737BFB3CA4160A82E539C822D71EAD9BE4 (void);
-// 0x00000667 System.Object VRBuilder.Core.Configuration.Modes.Mode/<>c::<.ctor>b__6_1(System.Collections.Generic.KeyValuePair`2<System.String,System.Object>)
+// 0x00000655 System.Object VRBuilder.Core.Configuration.Modes.Mode/<>c::<.ctor>b__6_1(System.Collections.Generic.KeyValuePair`2<System.String,System.Object>)
 extern void U3CU3Ec_U3C_ctorU3Eb__6_1_mB025C552CBA9B7123D91B1E146A77E4B23D83ED5 (void);
-// 0x00000668 VRBuilder.Core.Configuration.Modes.IMode VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs::get_Mode()
+// 0x00000656 VRBuilder.Core.Configuration.Modes.IMode VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs::get_Mode()
 extern void ModeChangedEventArgs_get_Mode_mCD28C7C222FFFD6EDC00564952AA462F20B10F05 (void);
-// 0x00000669 System.Void VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs::set_Mode(VRBuilder.Core.Configuration.Modes.IMode)
+// 0x00000657 System.Void VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs::set_Mode(VRBuilder.Core.Configuration.Modes.IMode)
 extern void ModeChangedEventArgs_set_Mode_m9DF7BD482BA67154EA31A1D94C4990B2F766A2AA (void);
-// 0x0000066A System.Void VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs::.ctor(VRBuilder.Core.Configuration.Modes.IMode)
+// 0x00000658 System.Void VRBuilder.Core.Configuration.Modes.ModeChangedEventArgs::.ctor(VRBuilder.Core.Configuration.Modes.IMode)
 extern void ModeChangedEventArgs__ctor_m001C66BF15F28579430D5730303C311947FB3E2C (void);
-// 0x0000066B System.Boolean VRBuilder.Core.Configuration.Modes.ModeParameter`1::get_IsModified()
-// 0x0000066C System.Void VRBuilder.Core.Configuration.Modes.ModeParameter`1::set_IsModified(System.Boolean)
-// 0x0000066D T VRBuilder.Core.Configuration.Modes.ModeParameter`1::get_Value()
-// 0x0000066E System.Void VRBuilder.Core.Configuration.Modes.ModeParameter`1::set_Value(T)
-// 0x0000066F System.Void VRBuilder.Core.Configuration.Modes.ModeParameter`1::.ctor(System.String,T)
-// 0x00000670 System.Void VRBuilder.Core.Configuration.Modes.ModeParameter`1::Configure(VRBuilder.Core.Configuration.Modes.IMode)
-// 0x00000671 System.Void VRBuilder.Core.Configuration.Modes.ModeParameter`1::Reset()
-// 0x00000672 System.Void VRBuilder.Core.Configuration.Modes.ModeParameter`1::EmitParameterModified()
-// 0x00000673 System.Boolean VRBuilder.Core.Configuration.Modes.TypeRule`1::IsQualifiedBy()
-// 0x00000674 System.Boolean VRBuilder.Core.Configuration.Modes.TypeRule`1::IsQualifiedBy(System.Type)
-// 0x00000675 System.Boolean VRBuilder.Core.Configuration.Modes.TypeRule`1::IsQualifiedByPredicate(System.Type)
-// 0x00000676 System.Void VRBuilder.Core.Configuration.Modes.TypeRule`1::.ctor()
-// 0x00000677 System.Boolean VRBuilder.Core.Configuration.Modes.WhitelistTypeRule`1::IsQualifiedByPredicate(System.Type)
-// 0x00000678 System.Void VRBuilder.Core.Configuration.Modes.WhitelistTypeRule`1::.ctor()
-// 0x00000679 System.Object VRBuilder.Core.Attributes.DeletableAttribute::GetDefaultMetadata(System.Reflection.MemberInfo)
+// 0x00000659 System.Boolean VRBuilder.Core.Configuration.Modes.ModeParameter`1::get_IsModified()
+// 0x0000065A System.Void VRBuilder.Core.Configuration.Modes.ModeParameter`1::set_IsModified(System.Boolean)
+// 0x0000065B T VRBuilder.Core.Configuration.Modes.ModeParameter`1::get_Value()
+// 0x0000065C System.Void VRBuilder.Core.Configuration.Modes.ModeParameter`1::set_Value(T)
+// 0x0000065D System.Void VRBuilder.Core.Configuration.Modes.ModeParameter`1::.ctor(System.String,T)
+// 0x0000065E System.Void VRBuilder.Core.Configuration.Modes.ModeParameter`1::Configure(VRBuilder.Core.Configuration.Modes.IMode)
+// 0x0000065F System.Void VRBuilder.Core.Configuration.Modes.ModeParameter`1::Reset()
+// 0x00000660 System.Void VRBuilder.Core.Configuration.Modes.ModeParameter`1::EmitParameterModified()
+// 0x00000661 System.Boolean VRBuilder.Core.Configuration.Modes.TypeRule`1::IsQualifiedBy()
+// 0x00000662 System.Boolean VRBuilder.Core.Configuration.Modes.TypeRule`1::IsQualifiedBy(System.Type)
+// 0x00000663 System.Boolean VRBuilder.Core.Configuration.Modes.TypeRule`1::IsQualifiedByPredicate(System.Type)
+// 0x00000664 System.Void VRBuilder.Core.Configuration.Modes.TypeRule`1::.ctor()
+// 0x00000665 System.Boolean VRBuilder.Core.Configuration.Modes.WhitelistTypeRule`1::IsQualifiedByPredicate(System.Type)
+// 0x00000666 System.Void VRBuilder.Core.Configuration.Modes.WhitelistTypeRule`1::.ctor()
+// 0x00000667 System.Object VRBuilder.Core.Attributes.DeletableAttribute::GetDefaultMetadata(System.Reflection.MemberInfo)
 extern void DeletableAttribute_GetDefaultMetadata_mE5DB959911B5B30B1F0EEB5127D891B5D94C0A4B (void);
-// 0x0000067A System.Boolean VRBuilder.Core.Attributes.DeletableAttribute::IsMetadataValid(System.Object)
+// 0x00000668 System.Boolean VRBuilder.Core.Attributes.DeletableAttribute::IsMetadataValid(System.Object)
 extern void DeletableAttribute_IsMetadataValid_mD0E2580808490BDC82BBC071983AE8623B1B3956 (void);
-// 0x0000067B System.Void VRBuilder.Core.Attributes.DeletableAttribute::.ctor()
+// 0x00000669 System.Void VRBuilder.Core.Attributes.DeletableAttribute::.ctor()
 extern void DeletableAttribute__ctor_mF07608BF31A327D6DF878AF492F84B1CDDBE8395 (void);
-// 0x0000067C System.String VRBuilder.Core.Attributes.DisplayNameAttribute::get_Name()
+// 0x0000066A System.String VRBuilder.Core.Attributes.DisplayNameAttribute::get_Name()
 extern void DisplayNameAttribute_get_Name_mF3D4BCD1428A0CEA6D9144DB537DE7248A3F23F1 (void);
-// 0x0000067D System.Void VRBuilder.Core.Attributes.DisplayNameAttribute::set_Name(System.String)
+// 0x0000066B System.Void VRBuilder.Core.Attributes.DisplayNameAttribute::set_Name(System.String)
 extern void DisplayNameAttribute_set_Name_m33AD213643102B844975C94C79C2E4DB28BB55D2 (void);
-// 0x0000067E System.Void VRBuilder.Core.Attributes.DisplayNameAttribute::.ctor(System.String)
+// 0x0000066C System.Void VRBuilder.Core.Attributes.DisplayNameAttribute::.ctor(System.String)
 extern void DisplayNameAttribute__ctor_m72127260DA92AB9EFA59E1697426D21343520166 (void);
-// 0x0000067F System.Int32 VRBuilder.Core.Attributes.DrawingPriorityAttribute::get_Priority()
+// 0x0000066D System.Int32 VRBuilder.Core.Attributes.DrawingPriorityAttribute::get_Priority()
 extern void DrawingPriorityAttribute_get_Priority_m19341E27C5A54CC0E3F43BA3181D00041B7B5A52 (void);
-// 0x00000680 System.Void VRBuilder.Core.Attributes.DrawingPriorityAttribute::set_Priority(System.Int32)
+// 0x0000066E System.Void VRBuilder.Core.Attributes.DrawingPriorityAttribute::set_Priority(System.Int32)
 extern void DrawingPriorityAttribute_set_Priority_mC0D1855D95E597546F7BE32A364BBE036EF1D9FF (void);
-// 0x00000681 System.Void VRBuilder.Core.Attributes.DrawingPriorityAttribute::.ctor(System.Int32)
+// 0x0000066F System.Void VRBuilder.Core.Attributes.DrawingPriorityAttribute::.ctor(System.Int32)
 extern void DrawingPriorityAttribute__ctor_mC19983F93D32C35E5D05DD2E63AB24F0AB00B7A1 (void);
-// 0x00000682 System.Object VRBuilder.Core.Attributes.DrawIsBlockingToggleAttribute::GetDefaultMetadata(System.Reflection.MemberInfo)
+// 0x00000670 System.Object VRBuilder.Core.Attributes.DrawIsBlockingToggleAttribute::GetDefaultMetadata(System.Reflection.MemberInfo)
 extern void DrawIsBlockingToggleAttribute_GetDefaultMetadata_m7016028723214A0C1A5ED38851680F73872976CE (void);
-// 0x00000683 System.Boolean VRBuilder.Core.Attributes.DrawIsBlockingToggleAttribute::IsMetadataValid(System.Object)
+// 0x00000671 System.Boolean VRBuilder.Core.Attributes.DrawIsBlockingToggleAttribute::IsMetadataValid(System.Object)
 extern void DrawIsBlockingToggleAttribute_IsMetadataValid_m48E1AB2466FCE741DAA9AF87F9B37A9B3818104E (void);
-// 0x00000684 System.Void VRBuilder.Core.Attributes.DrawIsBlockingToggleAttribute::.ctor()
+// 0x00000672 System.Void VRBuilder.Core.Attributes.DrawIsBlockingToggleAttribute::.ctor()
 extern void DrawIsBlockingToggleAttribute__ctor_m4B43A63649104C7D5D3F84533D8521E275EABA23 (void);
-// 0x00000685 System.Type VRBuilder.Core.Attributes.ExtendableListAttribute::get_DeclaredElementType()
+// 0x00000673 System.Type VRBuilder.Core.Attributes.ExtendableListAttribute::get_DeclaredElementType()
 extern void ExtendableListAttribute_get_DeclaredElementType_m995F56DA6BBC983728EA6C9D7A86F2AA92E8D36A (void);
-// 0x00000686 System.Void VRBuilder.Core.Attributes.ExtendableListAttribute::set_DeclaredElementType(System.Type)
+// 0x00000674 System.Void VRBuilder.Core.Attributes.ExtendableListAttribute::set_DeclaredElementType(System.Type)
 extern void ExtendableListAttribute_set_DeclaredElementType_mE38167CF5E9AD682D32C51CB7DB0A58A5CF91C97 (void);
-// 0x00000687 System.Object VRBuilder.Core.Attributes.ExtendableListAttribute::GetDefaultMetadata(System.Reflection.MemberInfo)
+// 0x00000675 System.Object VRBuilder.Core.Attributes.ExtendableListAttribute::GetDefaultMetadata(System.Reflection.MemberInfo)
 extern void ExtendableListAttribute_GetDefaultMetadata_mFCE713869031827DE784E1BD815944F2752A9D4F (void);
-// 0x00000688 System.Boolean VRBuilder.Core.Attributes.ExtendableListAttribute::IsMetadataValid(System.Object)
+// 0x00000676 System.Boolean VRBuilder.Core.Attributes.ExtendableListAttribute::IsMetadataValid(System.Object)
 extern void ExtendableListAttribute_IsMetadataValid_m24F7BA85294FF99FFC5A5795A899D33F1BB2BADF (void);
-// 0x00000689 System.Void VRBuilder.Core.Attributes.ExtendableListAttribute::.ctor()
+// 0x00000677 System.Void VRBuilder.Core.Attributes.ExtendableListAttribute::.ctor()
 extern void ExtendableListAttribute__ctor_mD62681215864E80051341166EF5CABE6501A588B (void);
-// 0x0000068A System.Type VRBuilder.Core.Attributes.ExtendableListAttribute/SerializedTypeWrapper::get_Type()
+// 0x00000678 System.Type VRBuilder.Core.Attributes.ExtendableListAttribute/SerializedTypeWrapper::get_Type()
 extern void SerializedTypeWrapper_get_Type_m7140A9D2F26CBA3F4D54F04A0AFDC011E252D7DD (void);
-// 0x0000068B System.Void VRBuilder.Core.Attributes.ExtendableListAttribute/SerializedTypeWrapper::set_Type(System.Type)
+// 0x00000679 System.Void VRBuilder.Core.Attributes.ExtendableListAttribute/SerializedTypeWrapper::set_Type(System.Type)
 extern void SerializedTypeWrapper_set_Type_m8BD9656C1B97E636CD0220433AD0178D696C2EE9 (void);
-// 0x0000068C System.Void VRBuilder.Core.Attributes.ExtendableListAttribute/SerializedTypeWrapper::.ctor()
+// 0x0000067A System.Void VRBuilder.Core.Attributes.ExtendableListAttribute/SerializedTypeWrapper::.ctor()
 extern void SerializedTypeWrapper__ctor_m07E90AB36350E6EAAE036EFCF0BDC44FCAEA911C (void);
-// 0x0000068D System.Object VRBuilder.Core.Attributes.FoldableAttribute::GetDefaultMetadata(System.Reflection.MemberInfo)
+// 0x0000067B System.Object VRBuilder.Core.Attributes.FoldableAttribute::GetDefaultMetadata(System.Reflection.MemberInfo)
 extern void FoldableAttribute_GetDefaultMetadata_m50D80EB23D9AEC5DD50C819E87013D7F75B60A55 (void);
-// 0x0000068E System.Boolean VRBuilder.Core.Attributes.FoldableAttribute::IsMetadataValid(System.Object)
+// 0x0000067C System.Boolean VRBuilder.Core.Attributes.FoldableAttribute::IsMetadataValid(System.Object)
 extern void FoldableAttribute_IsMetadataValid_m9BB066B109BFD12AA762ADF483A075ED13BBFB1C (void);
-// 0x0000068F System.Void VRBuilder.Core.Attributes.FoldableAttribute::.ctor()
+// 0x0000067D System.Void VRBuilder.Core.Attributes.FoldableAttribute::.ctor()
 extern void FoldableAttribute__ctor_mF0824E99D1E9076B3661D46304931FE11F2AEBA2 (void);
-// 0x00000690 System.Object VRBuilder.Core.Attributes.HelpAttribute::GetDefaultMetadata(System.Reflection.MemberInfo)
+// 0x0000067E System.Object VRBuilder.Core.Attributes.HelpAttribute::GetDefaultMetadata(System.Reflection.MemberInfo)
 extern void HelpAttribute_GetDefaultMetadata_mDFB9BEA262186021C479559B0B28521D2B07DBC8 (void);
-// 0x00000691 System.Boolean VRBuilder.Core.Attributes.HelpAttribute::IsMetadataValid(System.Object)
+// 0x0000067F System.Boolean VRBuilder.Core.Attributes.HelpAttribute::IsMetadataValid(System.Object)
 extern void HelpAttribute_IsMetadataValid_mE3047BD317E45590DC52FD88AB834EDE70AE1782 (void);
-// 0x00000692 System.Void VRBuilder.Core.Attributes.HelpAttribute::.ctor()
+// 0x00000680 System.Void VRBuilder.Core.Attributes.HelpAttribute::.ctor()
 extern void HelpAttribute__ctor_mE677857467372D701285FEBDB173B53ED457F82D (void);
-// 0x00000693 System.String VRBuilder.Core.Attributes.HelpLinkAttribute::get_HelpLink()
+// 0x00000681 System.String VRBuilder.Core.Attributes.HelpLinkAttribute::get_HelpLink()
 extern void HelpLinkAttribute_get_HelpLink_m196A0F1BDE3448AE40CBF1F574E5D2E02A030965 (void);
-// 0x00000694 System.Void VRBuilder.Core.Attributes.HelpLinkAttribute::set_HelpLink(System.String)
+// 0x00000682 System.Void VRBuilder.Core.Attributes.HelpLinkAttribute::set_HelpLink(System.String)
 extern void HelpLinkAttribute_set_HelpLink_m5771EBBE5888E88151DB113ADD4D5ADA67197D56 (void);
-// 0x00000695 System.Void VRBuilder.Core.Attributes.HelpLinkAttribute::.ctor(System.String)
+// 0x00000683 System.Void VRBuilder.Core.Attributes.HelpLinkAttribute::.ctor(System.String)
 extern void HelpLinkAttribute__ctor_m56890C67622BA4097A3CBF54ED439AB047C63A70 (void);
-// 0x00000696 System.Void VRBuilder.Core.Attributes.HideInProcessInspectorAttribute::.ctor()
+// 0x00000684 System.Void VRBuilder.Core.Attributes.HideInProcessInspectorAttribute::.ctor()
 extern void HideInProcessInspectorAttribute__ctor_m4F8DBAE5ABD64B94F414621214F786859537875C (void);
-// 0x00000697 System.Void VRBuilder.Core.Attributes.KeepPopulatedAttribute::.ctor(System.Type)
+// 0x00000685 System.Void VRBuilder.Core.Attributes.KeepPopulatedAttribute::.ctor(System.Type)
 extern void KeepPopulatedAttribute__ctor_m69611429C85743C2531D24AC71FBBE5DBDAF59E9 (void);
-// 0x00000698 System.Object VRBuilder.Core.Attributes.KeepPopulatedAttribute::GetDefaultMetadata(System.Reflection.MemberInfo)
+// 0x00000686 System.Object VRBuilder.Core.Attributes.KeepPopulatedAttribute::GetDefaultMetadata(System.Reflection.MemberInfo)
 extern void KeepPopulatedAttribute_GetDefaultMetadata_mBB3817C47A08C9A12552277C80B9E38185A0CF95 (void);
-// 0x00000699 System.Boolean VRBuilder.Core.Attributes.KeepPopulatedAttribute::IsMetadataValid(System.Object)
+// 0x00000687 System.Boolean VRBuilder.Core.Attributes.KeepPopulatedAttribute::IsMetadataValid(System.Object)
 extern void KeepPopulatedAttribute_IsMetadataValid_m1BC8FA228A143C7585073EB65CD21D3443BD2F94 (void);
-// 0x0000069A System.Void VRBuilder.Core.Attributes.ListOfAttribute::.ctor(System.Type[])
+// 0x00000688 System.Void VRBuilder.Core.Attributes.ListOfAttribute::.ctor(System.Type[])
 extern void ListOfAttribute__ctor_m824306BC47B4A649C2DB8477A373ACFF65D432B9 (void);
-// 0x0000069B System.Object VRBuilder.Core.Attributes.ListOfAttribute::GetDefaultMetadata(System.Reflection.MemberInfo)
+// 0x00000689 System.Object VRBuilder.Core.Attributes.ListOfAttribute::GetDefaultMetadata(System.Reflection.MemberInfo)
 extern void ListOfAttribute_GetDefaultMetadata_m093CD8FCDBBC17E116DC529A954C7D87EE640207 (void);
-// 0x0000069C System.Boolean VRBuilder.Core.Attributes.ListOfAttribute::IsMetadataValid(System.Object)
+// 0x0000068A System.Boolean VRBuilder.Core.Attributes.ListOfAttribute::IsMetadataValid(System.Object)
 extern void ListOfAttribute_IsMetadataValid_m71B92BB767F261C27E0090018DBAEDDC0EAA3BE0 (void);
-// 0x0000069D System.Boolean VRBuilder.Core.Attributes.ListOfAttribute::AreSetsTheSame(System.Collections.Generic.IEnumerable`1<T>,System.Collections.Generic.IEnumerable`1<T>,System.Func`2<T,System.IComparable>)
-// 0x0000069E System.Collections.Generic.List`1<VRBuilder.Core.Attributes.MetadataAttribute> VRBuilder.Core.Attributes.ListOfAttribute/Metadata::get_ChildAttributes()
+// 0x0000068B System.Boolean VRBuilder.Core.Attributes.ListOfAttribute::AreSetsTheSame(System.Collections.Generic.IEnumerable`1<T>,System.Collections.Generic.IEnumerable`1<T>,System.Func`2<T,System.IComparable>)
+// 0x0000068C System.Collections.Generic.List`1<VRBuilder.Core.Attributes.MetadataAttribute> VRBuilder.Core.Attributes.ListOfAttribute/Metadata::get_ChildAttributes()
 extern void Metadata_get_ChildAttributes_m5C720230505312FB4E624C728628916CBA77704F (void);
-// 0x0000069F System.Void VRBuilder.Core.Attributes.ListOfAttribute/Metadata::set_ChildAttributes(System.Collections.Generic.List`1<VRBuilder.Core.Attributes.MetadataAttribute>)
+// 0x0000068D System.Void VRBuilder.Core.Attributes.ListOfAttribute/Metadata::set_ChildAttributes(System.Collections.Generic.List`1<VRBuilder.Core.Attributes.MetadataAttribute>)
 extern void Metadata_set_ChildAttributes_m8DF66BFA9F6BF987BF31FDB6273D5C5D305FBE4A (void);
-// 0x000006A0 System.Collections.Generic.List`1<System.Collections.Generic.Dictionary`2<System.String,System.Object>> VRBuilder.Core.Attributes.ListOfAttribute/Metadata::get_ChildMetadata()
+// 0x0000068E System.Collections.Generic.List`1<System.Collections.Generic.Dictionary`2<System.String,System.Object>> VRBuilder.Core.Attributes.ListOfAttribute/Metadata::get_ChildMetadata()
 extern void Metadata_get_ChildMetadata_mA46D05269C3E20D031C447E65E68FCF166E32C7F (void);
-// 0x000006A1 System.Void VRBuilder.Core.Attributes.ListOfAttribute/Metadata::set_ChildMetadata(System.Collections.Generic.List`1<System.Collections.Generic.Dictionary`2<System.String,System.Object>>)
+// 0x0000068F System.Void VRBuilder.Core.Attributes.ListOfAttribute/Metadata::set_ChildMetadata(System.Collections.Generic.List`1<System.Collections.Generic.Dictionary`2<System.String,System.Object>>)
 extern void Metadata_set_ChildMetadata_m04AECD63370C99175E079500D97D74DEDB1F77EC (void);
-// 0x000006A2 System.Void VRBuilder.Core.Attributes.ListOfAttribute/Metadata::.ctor()
+// 0x00000690 System.Void VRBuilder.Core.Attributes.ListOfAttribute/Metadata::.ctor()
 extern void Metadata__ctor_m8CCEE16F0E2D6E30F7ED7258F43E69EFDF52A3EE (void);
-// 0x000006A3 System.Void VRBuilder.Core.Attributes.ListOfAttribute/<>c::.cctor()
+// 0x00000691 System.Void VRBuilder.Core.Attributes.ListOfAttribute/<>c::.cctor()
 extern void U3CU3Ec__cctor_m9F6526F3442ADB90A47AF78C8D98D84BF6781719 (void);
-// 0x000006A4 System.Void VRBuilder.Core.Attributes.ListOfAttribute/<>c::.ctor()
+// 0x00000692 System.Void VRBuilder.Core.Attributes.ListOfAttribute/<>c::.ctor()
 extern void U3CU3Ec__ctor_m706DEA023AAF24FCDA5DC8807E21FE29D878E234 (void);
-// 0x000006A5 System.Boolean VRBuilder.Core.Attributes.ListOfAttribute/<>c::<.ctor>b__2_0(System.Type)
+// 0x00000693 System.Boolean VRBuilder.Core.Attributes.ListOfAttribute/<>c::<.ctor>b__2_0(System.Type)
 extern void U3CU3Ec_U3C_ctorU3Eb__2_0_m88982CDE756A26836E73F6165B2D36373BA72EB1 (void);
-// 0x000006A6 System.Boolean VRBuilder.Core.Attributes.ListOfAttribute/<>c::<.ctor>b__2_1(System.Type)
+// 0x00000694 System.Boolean VRBuilder.Core.Attributes.ListOfAttribute/<>c::<.ctor>b__2_1(System.Type)
 extern void U3CU3Ec_U3C_ctorU3Eb__2_1_m5FD5495E987F06F0D66B9B0F71B13CFCF0506B85 (void);
-// 0x000006A7 System.Boolean VRBuilder.Core.Attributes.ListOfAttribute/<>c::<.ctor>b__2_2(System.Type)
+// 0x00000695 System.Boolean VRBuilder.Core.Attributes.ListOfAttribute/<>c::<.ctor>b__2_2(System.Type)
 extern void U3CU3Ec_U3C_ctorU3Eb__2_2_mCD606BB744886C22E9C0F82E8162A62C905D2A5E (void);
-// 0x000006A8 System.IComparable VRBuilder.Core.Attributes.ListOfAttribute/<>c::<IsMetadataValid>b__4_0(VRBuilder.Core.Attributes.MetadataAttribute)
+// 0x00000696 System.IComparable VRBuilder.Core.Attributes.ListOfAttribute/<>c::<IsMetadataValid>b__4_0(VRBuilder.Core.Attributes.MetadataAttribute)
 extern void U3CU3Ec_U3CIsMetadataValidU3Eb__4_0_mA732483EF01C68C6A65AF23C5FD6DB592E133901 (void);
-// 0x000006A9 System.Void VRBuilder.Core.Attributes.ListOfAttribute/<>c__DisplayClass4_0::.ctor()
+// 0x00000697 System.Void VRBuilder.Core.Attributes.ListOfAttribute/<>c__DisplayClass4_0::.ctor()
 extern void U3CU3Ec__DisplayClass4_0__ctor_mA5F0A8F80C708F334BFD70FC8CDB2CC34226095A (void);
-// 0x000006AA System.Boolean VRBuilder.Core.Attributes.ListOfAttribute/<>c__DisplayClass4_0::<IsMetadataValid>b__1(VRBuilder.Core.Attributes.MetadataAttribute)
+// 0x00000698 System.Boolean VRBuilder.Core.Attributes.ListOfAttribute/<>c__DisplayClass4_0::<IsMetadataValid>b__1(VRBuilder.Core.Attributes.MetadataAttribute)
 extern void U3CU3Ec__DisplayClass4_0_U3CIsMetadataValidU3Eb__1_m5D3168A887D2EDD49839C94BB0CD2081A3EC941E (void);
-// 0x000006AB System.String VRBuilder.Core.Attributes.MetadataAttribute::get_Name()
+// 0x00000699 System.String VRBuilder.Core.Attributes.MetadataAttribute::get_Name()
 extern void MetadataAttribute_get_Name_m1166A96022CF1F82A14480574B74A6E88111EC0D (void);
-// 0x000006AC System.Object VRBuilder.Core.Attributes.MetadataAttribute::GetDefaultMetadata(System.Reflection.MemberInfo)
-// 0x000006AD System.Boolean VRBuilder.Core.Attributes.MetadataAttribute::IsMetadataValid(System.Object)
-// 0x000006AE System.Void VRBuilder.Core.Attributes.MetadataAttribute::.ctor()
+// 0x0000069A System.Object VRBuilder.Core.Attributes.MetadataAttribute::GetDefaultMetadata(System.Reflection.MemberInfo)
+// 0x0000069B System.Boolean VRBuilder.Core.Attributes.MetadataAttribute::IsMetadataValid(System.Object)
+// 0x0000069C System.Void VRBuilder.Core.Attributes.MetadataAttribute::.ctor()
 extern void MetadataAttribute__ctor_mC96269104E153AC769D5891D07C661F81C620B9A (void);
-// 0x000006AF System.Void VRBuilder.Core.Attributes.ReorderableListOfAttribute::.ctor(System.Type[])
+// 0x0000069D System.Void VRBuilder.Core.Attributes.ReorderableListOfAttribute::.ctor(System.Type[])
 extern void ReorderableListOfAttribute__ctor_mD4DA509A92E19E4B737E94501D99ED7DAED68BEB (void);
-// 0x000006B0 System.Object VRBuilder.Core.Attributes.SeparatedAttribute::GetDefaultMetadata(System.Reflection.MemberInfo)
+// 0x0000069E System.Object VRBuilder.Core.Attributes.SeparatedAttribute::GetDefaultMetadata(System.Reflection.MemberInfo)
 extern void SeparatedAttribute_GetDefaultMetadata_m6C321AB66D384CD45A083A265AA139FC4529E3C0 (void);
-// 0x000006B1 System.Boolean VRBuilder.Core.Attributes.SeparatedAttribute::IsMetadataValid(System.Object)
+// 0x0000069F System.Boolean VRBuilder.Core.Attributes.SeparatedAttribute::IsMetadataValid(System.Object)
 extern void SeparatedAttribute_IsMetadataValid_m2ED27AE95E92F88937C66F5D43C594076F6090EF (void);
-// 0x000006B2 System.Void VRBuilder.Core.Attributes.SeparatedAttribute::.ctor()
+// 0x000006A0 System.Void VRBuilder.Core.Attributes.SeparatedAttribute::.ctor()
 extern void SeparatedAttribute__ctor_m58080B4568B6DE709AD91A7C027AD29D0F33418E (void);
-// 0x000006B3 System.String VRBuilder.Core.Attributes.DisplayTooltipAttribute::get_Tooltip()
+// 0x000006A1 System.String VRBuilder.Core.Attributes.DisplayTooltipAttribute::get_Tooltip()
 extern void DisplayTooltipAttribute_get_Tooltip_m1768AA985E41AA4AADDA932ABB71B05945D30E6A (void);
-// 0x000006B4 System.Void VRBuilder.Core.Attributes.DisplayTooltipAttribute::set_Tooltip(System.String)
+// 0x000006A2 System.Void VRBuilder.Core.Attributes.DisplayTooltipAttribute::set_Tooltip(System.String)
 extern void DisplayTooltipAttribute_set_Tooltip_m36069C855DF1E5ACFB5CA643A799985BC319B0E5 (void);
-// 0x000006B5 System.Void VRBuilder.Core.Attributes.DisplayTooltipAttribute::.ctor(System.String)
+// 0x000006A3 System.Void VRBuilder.Core.Attributes.DisplayTooltipAttribute::.ctor(System.String)
 extern void DisplayTooltipAttribute__ctor_mCEA296766915CBA60C5C85468111131EF72F984A (void);
-// 0x000006B6 System.String VRBuilder.Core.Attributes.UsesSpecificProcessDrawerAttribute::get_DrawerType()
+// 0x000006A4 System.String VRBuilder.Core.Attributes.UsesSpecificProcessDrawerAttribute::get_DrawerType()
 extern void UsesSpecificProcessDrawerAttribute_get_DrawerType_m758CFDED3C985041F342D824AD483EEE509F50A6 (void);
-// 0x000006B7 System.Void VRBuilder.Core.Attributes.UsesSpecificProcessDrawerAttribute::set_DrawerType(System.String)
+// 0x000006A5 System.Void VRBuilder.Core.Attributes.UsesSpecificProcessDrawerAttribute::set_DrawerType(System.String)
 extern void UsesSpecificProcessDrawerAttribute_set_DrawerType_mE1FCFA3810DEF89213E3AB8F9872B7C14DEFE464 (void);
-// 0x000006B8 System.Void VRBuilder.Core.Attributes.UsesSpecificProcessDrawerAttribute::.ctor(System.String)
+// 0x000006A6 System.Void VRBuilder.Core.Attributes.UsesSpecificProcessDrawerAttribute::.ctor(System.String)
 extern void UsesSpecificProcessDrawerAttribute__ctor_mAB042A117E2B5659955CD00030820E27EB8A0084 (void);
-// 0x000006B9 System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty::add_EnteredTrigger(System.EventHandler`1<VRBuilder.Core.Properties.ColliderWithTriggerProperty/ColliderWithTriggerEventArgs>)
+// 0x000006A7 System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty::add_EnteredTrigger(System.EventHandler`1<VRBuilder.Core.Properties.ColliderWithTriggerProperty/ColliderWithTriggerEventArgs>)
 extern void ColliderWithTriggerProperty_add_EnteredTrigger_m924BF837281CFCE431F980650209486DA3735E8F (void);
-// 0x000006BA System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty::remove_EnteredTrigger(System.EventHandler`1<VRBuilder.Core.Properties.ColliderWithTriggerProperty/ColliderWithTriggerEventArgs>)
+// 0x000006A8 System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty::remove_EnteredTrigger(System.EventHandler`1<VRBuilder.Core.Properties.ColliderWithTriggerProperty/ColliderWithTriggerEventArgs>)
 extern void ColliderWithTriggerProperty_remove_EnteredTrigger_mC2836FA3880FF61813D80ED8F6D1DEB0006CA809 (void);
-// 0x000006BB System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty::add_ExitedTrigger(System.EventHandler`1<VRBuilder.Core.Properties.ColliderWithTriggerProperty/ColliderWithTriggerEventArgs>)
+// 0x000006A9 System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty::add_ExitedTrigger(System.EventHandler`1<VRBuilder.Core.Properties.ColliderWithTriggerProperty/ColliderWithTriggerEventArgs>)
 extern void ColliderWithTriggerProperty_add_ExitedTrigger_m9BB833C26D2DC780615E2A34FBF1B27357D140C7 (void);
-// 0x000006BC System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty::remove_ExitedTrigger(System.EventHandler`1<VRBuilder.Core.Properties.ColliderWithTriggerProperty/ColliderWithTriggerEventArgs>)
+// 0x000006AA System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty::remove_ExitedTrigger(System.EventHandler`1<VRBuilder.Core.Properties.ColliderWithTriggerProperty/ColliderWithTriggerEventArgs>)
 extern void ColliderWithTriggerProperty_remove_ExitedTrigger_m569630A29864A6B0968F8174AED6EAC6908F60F1 (void);
-// 0x000006BD System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty::OnEnable()
+// 0x000006AB System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty::OnEnable()
 extern void ColliderWithTriggerProperty_OnEnable_m6C151DC7E6BF6FAAB7BA510F4C0985DCCC93B931 (void);
-// 0x000006BE System.Boolean VRBuilder.Core.Properties.ColliderWithTriggerProperty::CheckIfObjectHasTriggerCollider()
+// 0x000006AC System.Boolean VRBuilder.Core.Properties.ColliderWithTriggerProperty::CheckIfObjectHasTriggerCollider()
 extern void ColliderWithTriggerProperty_CheckIfObjectHasTriggerCollider_mE7503E15F9D046ABC0DA0A59903B7AE102683AB3 (void);
-// 0x000006BF System.Boolean VRBuilder.Core.Properties.ColliderWithTriggerProperty::IsTransformInsideTrigger(UnityEngine.Transform)
+// 0x000006AD System.Boolean VRBuilder.Core.Properties.ColliderWithTriggerProperty::IsTransformInsideTrigger(UnityEngine.Transform)
 extern void ColliderWithTriggerProperty_IsTransformInsideTrigger_mC939559F193D22B854B20CA43425CD866FB371B1 (void);
-// 0x000006C0 System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty::OnTriggerEnter(UnityEngine.Collider)
+// 0x000006AE System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty::OnTriggerEnter(UnityEngine.Collider)
 extern void ColliderWithTriggerProperty_OnTriggerEnter_m1502E32A4131762CE1590876485FC33CE93638C4 (void);
-// 0x000006C1 System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty::OnTriggerExit(UnityEngine.Collider)
+// 0x000006AF System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty::OnTriggerExit(UnityEngine.Collider)
 extern void ColliderWithTriggerProperty_OnTriggerExit_m511FBFC397FECB38713FC4D2C374E5FB93961362 (void);
-// 0x000006C2 System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty::FastForwardEnter(VRBuilder.Core.SceneObjects.ISceneObject)
+// 0x000006B0 System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty::FastForwardEnter(VRBuilder.Core.SceneObjects.ISceneObject)
 extern void ColliderWithTriggerProperty_FastForwardEnter_mF420AA3E71ED6C17062C00816C98A5EB2ED0E2E2 (void);
-// 0x000006C3 System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty::.ctor()
+// 0x000006B1 System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty::.ctor()
 extern void ColliderWithTriggerProperty__ctor_mD86F00E16132F8C1CF764AD71CB8535598DA5E38 (void);
-// 0x000006C4 System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty/ColliderWithTriggerEventArgs::.ctor(UnityEngine.GameObject)
+// 0x000006B2 System.Void VRBuilder.Core.Properties.ColliderWithTriggerProperty/ColliderWithTriggerEventArgs::.ctor(UnityEngine.GameObject)
 extern void ColliderWithTriggerEventArgs__ctor_m7E51FB33064E4FAB09ACDF3725B21F9645C479C6 (void);
-// 0x000006C5 UnityEngine.Events.UnityEvent`1<System.Boolean> VRBuilder.Core.Properties.BooleanDataProperty::get_OnValueChanged()
+// 0x000006B3 UnityEngine.Events.UnityEvent`1<System.Boolean> VRBuilder.Core.Properties.BooleanDataProperty::get_OnValueChanged()
 extern void BooleanDataProperty_get_OnValueChanged_m41DC076450E49708632193C599C2A89ED6E0FAA0 (void);
-// 0x000006C6 UnityEngine.Events.UnityEvent VRBuilder.Core.Properties.BooleanDataProperty::get_OnValueReset()
+// 0x000006B4 UnityEngine.Events.UnityEvent VRBuilder.Core.Properties.BooleanDataProperty::get_OnValueReset()
 extern void BooleanDataProperty_get_OnValueReset_mCDE46A2D33CDC54CBC4E4670D288D0B98BA6CAE2 (void);
-// 0x000006C7 System.Boolean VRBuilder.Core.Properties.BooleanDataProperty::get_DefaultValue()
+// 0x000006B5 System.Boolean VRBuilder.Core.Properties.BooleanDataProperty::get_DefaultValue()
 extern void BooleanDataProperty_get_DefaultValue_m44504AD420C7CDD1D96F95DF61BE9587F6ADFD94 (void);
-// 0x000006C8 System.Void VRBuilder.Core.Properties.BooleanDataProperty::InvertValue()
+// 0x000006B6 System.Void VRBuilder.Core.Properties.BooleanDataProperty::InvertValue()
 extern void BooleanDataProperty_InvertValue_m50BA083DE567076C6D8D92797DC480D37465D514 (void);
-// 0x000006C9 System.Void VRBuilder.Core.Properties.BooleanDataProperty::.ctor()
+// 0x000006B7 System.Void VRBuilder.Core.Properties.BooleanDataProperty::.ctor()
 extern void BooleanDataProperty__ctor_m85E1B21F3A1E1799C85AAC17EF18DB70CF00100A (void);
-// 0x000006CA T VRBuilder.Core.Properties.DataProperty`1::get_DefaultValue()
-// 0x000006CB System.Void VRBuilder.Core.Properties.DataProperty`1::add_ValueChanged(System.EventHandler`1<System.EventArgs>)
-// 0x000006CC System.Void VRBuilder.Core.Properties.DataProperty`1::remove_ValueChanged(System.EventHandler`1<System.EventArgs>)
-// 0x000006CD System.Void VRBuilder.Core.Properties.DataProperty`1::add_ValueReset(System.EventHandler`1<System.EventArgs>)
-// 0x000006CE System.Void VRBuilder.Core.Properties.DataProperty`1::remove_ValueReset(System.EventHandler`1<System.EventArgs>)
-// 0x000006CF UnityEngine.Events.UnityEvent`1<T> VRBuilder.Core.Properties.DataProperty`1::get_OnValueChanged()
-// 0x000006D0 UnityEngine.Events.UnityEvent VRBuilder.Core.Properties.DataProperty`1::get_OnValueReset()
-// 0x000006D1 System.Void VRBuilder.Core.Properties.DataProperty`1::Awake()
-// 0x000006D2 T VRBuilder.Core.Properties.DataProperty`1::GetValue()
-// 0x000006D3 System.Void VRBuilder.Core.Properties.DataProperty`1::ResetValue()
-// 0x000006D4 System.Void VRBuilder.Core.Properties.DataProperty`1::SetValue(T)
-// 0x000006D5 System.String VRBuilder.Core.Properties.DataProperty`1::ValueToString(T)
-// 0x000006D6 System.Void VRBuilder.Core.Properties.DataProperty`1::.ctor()
-// 0x000006D7 UnityEngine.Events.UnityEvent`1<T> VRBuilder.Core.Properties.IDataProperty`1::get_OnValueChanged()
-// 0x000006D8 T VRBuilder.Core.Properties.IDataProperty`1::GetValue()
-// 0x000006D9 System.Void VRBuilder.Core.Properties.IDataProperty`1::SetValue(T)
-// 0x000006DA System.Void VRBuilder.Core.Properties.IDataPropertyBase::add_ValueChanged(System.EventHandler`1<System.EventArgs>)
-// 0x000006DB System.Void VRBuilder.Core.Properties.IDataPropertyBase::remove_ValueChanged(System.EventHandler`1<System.EventArgs>)
-// 0x000006DC System.Void VRBuilder.Core.Properties.IDataPropertyBase::add_ValueReset(System.EventHandler`1<System.EventArgs>)
-// 0x000006DD System.Void VRBuilder.Core.Properties.IDataPropertyBase::remove_ValueReset(System.EventHandler`1<System.EventArgs>)
-// 0x000006DE UnityEngine.Events.UnityEvent VRBuilder.Core.Properties.IDataPropertyBase::get_OnValueReset()
-// 0x000006DF System.Void VRBuilder.Core.Properties.IDataPropertyBase::ResetValue()
-// 0x000006E0 UnityEngine.Events.UnityEvent`1<System.Single> VRBuilder.Core.Properties.NumberDataProperty::get_OnValueChanged()
+// 0x000006B8 T VRBuilder.Core.Properties.DataProperty`1::get_DefaultValue()
+// 0x000006B9 System.Void VRBuilder.Core.Properties.DataProperty`1::add_ValueChanged(System.EventHandler`1<System.EventArgs>)
+// 0x000006BA System.Void VRBuilder.Core.Properties.DataProperty`1::remove_ValueChanged(System.EventHandler`1<System.EventArgs>)
+// 0x000006BB System.Void VRBuilder.Core.Properties.DataProperty`1::add_ValueReset(System.EventHandler`1<System.EventArgs>)
+// 0x000006BC System.Void VRBuilder.Core.Properties.DataProperty`1::remove_ValueReset(System.EventHandler`1<System.EventArgs>)
+// 0x000006BD UnityEngine.Events.UnityEvent`1<T> VRBuilder.Core.Properties.DataProperty`1::get_OnValueChanged()
+// 0x000006BE UnityEngine.Events.UnityEvent VRBuilder.Core.Properties.DataProperty`1::get_OnValueReset()
+// 0x000006BF System.Void VRBuilder.Core.Properties.DataProperty`1::Awake()
+// 0x000006C0 T VRBuilder.Core.Properties.DataProperty`1::GetValue()
+// 0x000006C1 System.Void VRBuilder.Core.Properties.DataProperty`1::ResetValue()
+// 0x000006C2 System.Void VRBuilder.Core.Properties.DataProperty`1::SetValue(T)
+// 0x000006C3 System.String VRBuilder.Core.Properties.DataProperty`1::ValueToString(T)
+// 0x000006C4 System.Void VRBuilder.Core.Properties.DataProperty`1::.ctor()
+// 0x000006C5 UnityEngine.Events.UnityEvent`1<T> VRBuilder.Core.Properties.IDataProperty`1::get_OnValueChanged()
+// 0x000006C6 T VRBuilder.Core.Properties.IDataProperty`1::GetValue()
+// 0x000006C7 System.Void VRBuilder.Core.Properties.IDataProperty`1::SetValue(T)
+// 0x000006C8 System.Void VRBuilder.Core.Properties.IDataPropertyBase::add_ValueChanged(System.EventHandler`1<System.EventArgs>)
+// 0x000006C9 System.Void VRBuilder.Core.Properties.IDataPropertyBase::remove_ValueChanged(System.EventHandler`1<System.EventArgs>)
+// 0x000006CA System.Void VRBuilder.Core.Properties.IDataPropertyBase::add_ValueReset(System.EventHandler`1<System.EventArgs>)
+// 0x000006CB System.Void VRBuilder.Core.Properties.IDataPropertyBase::remove_ValueReset(System.EventHandler`1<System.EventArgs>)
+// 0x000006CC UnityEngine.Events.UnityEvent VRBuilder.Core.Properties.IDataPropertyBase::get_OnValueReset()
+// 0x000006CD System.Void VRBuilder.Core.Properties.IDataPropertyBase::ResetValue()
+// 0x000006CE UnityEngine.Events.UnityEvent`1<System.Single> VRBuilder.Core.Properties.NumberDataProperty::get_OnValueChanged()
 extern void NumberDataProperty_get_OnValueChanged_mDEA78F0595C0248724E5780156E7B2180F5D8192 (void);
-// 0x000006E1 UnityEngine.Events.UnityEvent VRBuilder.Core.Properties.NumberDataProperty::get_OnValueReset()
+// 0x000006CF UnityEngine.Events.UnityEvent VRBuilder.Core.Properties.NumberDataProperty::get_OnValueReset()
 extern void NumberDataProperty_get_OnValueReset_m0206F50B7998188FA14FFE6E2EB17A833E7128E4 (void);
-// 0x000006E2 System.Single VRBuilder.Core.Properties.NumberDataProperty::get_DefaultValue()
+// 0x000006D0 System.Single VRBuilder.Core.Properties.NumberDataProperty::get_DefaultValue()
 extern void NumberDataProperty_get_DefaultValue_m13521601357416A301FA344F040FE454A4C24DD2 (void);
-// 0x000006E3 System.Void VRBuilder.Core.Properties.NumberDataProperty::IncreaseValue(System.Single)
+// 0x000006D1 System.Void VRBuilder.Core.Properties.NumberDataProperty::IncreaseValue(System.Single)
 extern void NumberDataProperty_IncreaseValue_m87A2B2088D211D8DC930B4BE0C2D6AFA0CF83D5A (void);
-// 0x000006E4 System.Void VRBuilder.Core.Properties.NumberDataProperty::.ctor()
+// 0x000006D2 System.Void VRBuilder.Core.Properties.NumberDataProperty::.ctor()
 extern void NumberDataProperty__ctor_m81FC6C3EBCFB261831489C89D2616304B5565E01 (void);
-// 0x000006E5 UnityEngine.Events.UnityEvent`1<System.String> VRBuilder.Core.Properties.TextDataProperty::get_OnValueChanged()
+// 0x000006D3 UnityEngine.Events.UnityEvent`1<System.String> VRBuilder.Core.Properties.TextDataProperty::get_OnValueChanged()
 extern void TextDataProperty_get_OnValueChanged_m5BB51F5B94841E155E77C2CFB982CF78655FE655 (void);
-// 0x000006E6 UnityEngine.Events.UnityEvent VRBuilder.Core.Properties.TextDataProperty::get_OnValueReset()
+// 0x000006D4 UnityEngine.Events.UnityEvent VRBuilder.Core.Properties.TextDataProperty::get_OnValueReset()
 extern void TextDataProperty_get_OnValueReset_mCAC8D6A82B80D82C0AED9B4A5209C298A3D32224 (void);
-// 0x000006E7 System.String VRBuilder.Core.Properties.TextDataProperty::get_DefaultValue()
+// 0x000006D5 System.String VRBuilder.Core.Properties.TextDataProperty::get_DefaultValue()
 extern void TextDataProperty_get_DefaultValue_mA63100E0285A84A913AE8FB1329A22D916085FC1 (void);
-// 0x000006E8 System.Void VRBuilder.Core.Properties.TextDataProperty::.ctor()
+// 0x000006D6 System.Void VRBuilder.Core.Properties.TextDataProperty::.ctor()
 extern void TextDataProperty__ctor_m97847E40DD95910CED5470215D71D6CB17F48C63 (void);
-// 0x000006E9 System.Void VRBuilder.Core.Properties.BaseHighlightProperty::add_Highlighted(System.EventHandler`1<System.EventArgs>)
+// 0x000006D7 System.Void VRBuilder.Core.Properties.BaseHighlightProperty::add_Highlighted(System.EventHandler`1<System.EventArgs>)
 extern void BaseHighlightProperty_add_Highlighted_m1264A515957116C1835710310331F0B21E725046 (void);
-// 0x000006EA System.Void VRBuilder.Core.Properties.BaseHighlightProperty::remove_Highlighted(System.EventHandler`1<System.EventArgs>)
+// 0x000006D8 System.Void VRBuilder.Core.Properties.BaseHighlightProperty::remove_Highlighted(System.EventHandler`1<System.EventArgs>)
 extern void BaseHighlightProperty_remove_Highlighted_m0094D6AC597D9D2DDFCF6DC1BA08FB96B1AE6F4A (void);
-// 0x000006EB System.Void VRBuilder.Core.Properties.BaseHighlightProperty::add_Unhighlighted(System.EventHandler`1<System.EventArgs>)
+// 0x000006D9 System.Void VRBuilder.Core.Properties.BaseHighlightProperty::add_Unhighlighted(System.EventHandler`1<System.EventArgs>)
 extern void BaseHighlightProperty_add_Unhighlighted_m6B2B3C4F15EEDB7DA21F88EDDA5C01FA0449942D (void);
-// 0x000006EC System.Void VRBuilder.Core.Properties.BaseHighlightProperty::remove_Unhighlighted(System.EventHandler`1<System.EventArgs>)
+// 0x000006DA System.Void VRBuilder.Core.Properties.BaseHighlightProperty::remove_Unhighlighted(System.EventHandler`1<System.EventArgs>)
 extern void BaseHighlightProperty_remove_Unhighlighted_m4FE025B1E8C621247F41A4FF80DFA3B4DF7DE409 (void);
-// 0x000006ED System.Boolean VRBuilder.Core.Properties.BaseHighlightProperty::get_IsHighlighted()
+// 0x000006DB System.Boolean VRBuilder.Core.Properties.BaseHighlightProperty::get_IsHighlighted()
 extern void BaseHighlightProperty_get_IsHighlighted_mBB5135E4CB3580F75B7B0D667FE435D2F247A282 (void);
-// 0x000006EE System.Void VRBuilder.Core.Properties.BaseHighlightProperty::set_IsHighlighted(System.Boolean)
+// 0x000006DC System.Void VRBuilder.Core.Properties.BaseHighlightProperty::set_IsHighlighted(System.Boolean)
 extern void BaseHighlightProperty_set_IsHighlighted_m9BE7F426FDF0CBE31E526FDD32CE2AF6663F13F7 (void);
-// 0x000006EF UnityEngine.Events.UnityEvent`1<VRBuilder.Core.Properties.HighlightPropertyEventArgs> VRBuilder.Core.Properties.BaseHighlightProperty::get_HighlightStarted()
+// 0x000006DD UnityEngine.Events.UnityEvent`1<VRBuilder.Core.Properties.HighlightPropertyEventArgs> VRBuilder.Core.Properties.BaseHighlightProperty::get_HighlightStarted()
 extern void BaseHighlightProperty_get_HighlightStarted_mBB1AB0030FB40B506C9F9DB0312E65311DC41E98 (void);
-// 0x000006F0 UnityEngine.Events.UnityEvent`1<VRBuilder.Core.Properties.HighlightPropertyEventArgs> VRBuilder.Core.Properties.BaseHighlightProperty::get_HighlightEnded()
+// 0x000006DE UnityEngine.Events.UnityEvent`1<VRBuilder.Core.Properties.HighlightPropertyEventArgs> VRBuilder.Core.Properties.BaseHighlightProperty::get_HighlightEnded()
 extern void BaseHighlightProperty_get_HighlightEnded_mD5C3C0464A2AAF22CE3F5FBFC680E819F735C790 (void);
-// 0x000006F1 System.Void VRBuilder.Core.Properties.BaseHighlightProperty::Highlight(UnityEngine.Color)
-// 0x000006F2 System.Void VRBuilder.Core.Properties.BaseHighlightProperty::Unhighlight()
-// 0x000006F3 System.Void VRBuilder.Core.Properties.BaseHighlightProperty::EmitHighlightEvent(VRBuilder.Core.Properties.HighlightPropertyEventArgs)
+// 0x000006DF System.Void VRBuilder.Core.Properties.BaseHighlightProperty::Highlight(UnityEngine.Color)
+// 0x000006E0 System.Void VRBuilder.Core.Properties.BaseHighlightProperty::Unhighlight()
+// 0x000006E1 System.Void VRBuilder.Core.Properties.BaseHighlightProperty::EmitHighlightEvent(VRBuilder.Core.Properties.HighlightPropertyEventArgs)
 extern void BaseHighlightProperty_EmitHighlightEvent_m7611F384A85FCDCA89641FCFCC5ED04FCD9E978F (void);
-// 0x000006F4 System.Void VRBuilder.Core.Properties.BaseHighlightProperty::EmitUnhighlightEvent(VRBuilder.Core.Properties.HighlightPropertyEventArgs)
+// 0x000006E2 System.Void VRBuilder.Core.Properties.BaseHighlightProperty::EmitUnhighlightEvent(VRBuilder.Core.Properties.HighlightPropertyEventArgs)
 extern void BaseHighlightProperty_EmitUnhighlightEvent_m718ED0519047163D48AB6DF78225389A16555C67 (void);
-// 0x000006F5 System.Void VRBuilder.Core.Properties.BaseHighlightProperty::.ctor()
+// 0x000006E3 System.Void VRBuilder.Core.Properties.BaseHighlightProperty::.ctor()
 extern void BaseHighlightProperty__ctor_m6C725E6928A26F9B91DE04DDE52E7EBD8D54AB42 (void);
-// 0x000006F6 System.Void VRBuilder.Core.Properties.BaseHighlightProperty/HighlightEventArgs::.ctor()
+// 0x000006E4 System.Void VRBuilder.Core.Properties.BaseHighlightProperty/HighlightEventArgs::.ctor()
 extern void HighlightEventArgs__ctor_m791F836849CF5249EAEF1D5664F674A4EA8B96F9 (void);
-// 0x000006F7 System.Void VRBuilder.Core.Properties.EnableHighlightProperty::Highlight(UnityEngine.Color)
+// 0x000006E5 System.Void VRBuilder.Core.Properties.EnableHighlightProperty::Highlight(UnityEngine.Color)
 extern void EnableHighlightProperty_Highlight_m08C3A53C4D962C779E02AAA73F7DA834B92054A1 (void);
-// 0x000006F8 System.Void VRBuilder.Core.Properties.EnableHighlightProperty::Unhighlight()
+// 0x000006E6 System.Void VRBuilder.Core.Properties.EnableHighlightProperty::Unhighlight()
 extern void EnableHighlightProperty_Unhighlight_mBE44BACAF7CCD6482550D0DBCCE06FA4A4F2AFAC (void);
-// 0x000006F9 System.Void VRBuilder.Core.Properties.EnableHighlightProperty::.ctor()
+// 0x000006E7 System.Void VRBuilder.Core.Properties.EnableHighlightProperty::.ctor()
 extern void EnableHighlightProperty__ctor_mF93E12D18E0644F78B1430CCF3B563BFBA6B3132 (void);
-// 0x000006FA System.Void VRBuilder.Core.Properties.IHighlightProperty::add_Highlighted(System.EventHandler`1<System.EventArgs>)
-// 0x000006FB System.Void VRBuilder.Core.Properties.IHighlightProperty::remove_Highlighted(System.EventHandler`1<System.EventArgs>)
-// 0x000006FC System.Void VRBuilder.Core.Properties.IHighlightProperty::add_Unhighlighted(System.EventHandler`1<System.EventArgs>)
-// 0x000006FD System.Void VRBuilder.Core.Properties.IHighlightProperty::remove_Unhighlighted(System.EventHandler`1<System.EventArgs>)
-// 0x000006FE UnityEngine.Events.UnityEvent`1<VRBuilder.Core.Properties.HighlightPropertyEventArgs> VRBuilder.Core.Properties.IHighlightProperty::get_HighlightStarted()
-// 0x000006FF UnityEngine.Events.UnityEvent`1<VRBuilder.Core.Properties.HighlightPropertyEventArgs> VRBuilder.Core.Properties.IHighlightProperty::get_HighlightEnded()
-// 0x00000700 System.Boolean VRBuilder.Core.Properties.IHighlightProperty::get_IsHighlighted()
-// 0x00000701 System.Void VRBuilder.Core.Properties.IHighlightProperty::Highlight(UnityEngine.Color)
-// 0x00000702 System.Void VRBuilder.Core.Properties.IHighlightProperty::Unhighlight()
-// 0x00000703 System.Void VRBuilder.Core.Properties.HighlightPropertyEventArgs::.ctor(System.Nullable`1<UnityEngine.Color>)
+// 0x000006E8 System.Void VRBuilder.Core.Properties.IHighlightProperty::add_Highlighted(System.EventHandler`1<System.EventArgs>)
+// 0x000006E9 System.Void VRBuilder.Core.Properties.IHighlightProperty::remove_Highlighted(System.EventHandler`1<System.EventArgs>)
+// 0x000006EA System.Void VRBuilder.Core.Properties.IHighlightProperty::add_Unhighlighted(System.EventHandler`1<System.EventArgs>)
+// 0x000006EB System.Void VRBuilder.Core.Properties.IHighlightProperty::remove_Unhighlighted(System.EventHandler`1<System.EventArgs>)
+// 0x000006EC UnityEngine.Events.UnityEvent`1<VRBuilder.Core.Properties.HighlightPropertyEventArgs> VRBuilder.Core.Properties.IHighlightProperty::get_HighlightStarted()
+// 0x000006ED UnityEngine.Events.UnityEvent`1<VRBuilder.Core.Properties.HighlightPropertyEventArgs> VRBuilder.Core.Properties.IHighlightProperty::get_HighlightEnded()
+// 0x000006EE System.Boolean VRBuilder.Core.Properties.IHighlightProperty::get_IsHighlighted()
+// 0x000006EF System.Void VRBuilder.Core.Properties.IHighlightProperty::Highlight(UnityEngine.Color)
+// 0x000006F0 System.Void VRBuilder.Core.Properties.IHighlightProperty::Unhighlight()
+// 0x000006F1 System.Void VRBuilder.Core.Properties.HighlightPropertyEventArgs::.ctor(System.Nullable`1<UnityEngine.Color>)
 extern void HighlightPropertyEventArgs__ctor_m51B750737BDA9BBDD211307ECFA178B9E4D3381C (void);
-// 0x00000704 UnityEngine.Events.UnityEvent`1<VRBuilder.Core.Properties.ParticleSystemPropertyEventArgs> VRBuilder.Core.Properties.IParticleSystemProperty::get_StartedEmission()
-// 0x00000705 UnityEngine.Events.UnityEvent`1<VRBuilder.Core.Properties.ParticleSystemPropertyEventArgs> VRBuilder.Core.Properties.IParticleSystemProperty::get_StoppedEmission()
-// 0x00000706 System.Boolean VRBuilder.Core.Properties.IParticleSystemProperty::get_IsEmitting()
-// 0x00000707 System.Void VRBuilder.Core.Properties.IParticleSystemProperty::StartEmission()
-// 0x00000708 System.Void VRBuilder.Core.Properties.IParticleSystemProperty::StopEmission()
-// 0x00000709 System.Void VRBuilder.Core.Properties.ParticleSystemPropertyEventArgs::.ctor()
+// 0x000006F2 UnityEngine.Events.UnityEvent`1<VRBuilder.Core.Properties.ParticleSystemPropertyEventArgs> VRBuilder.Core.Properties.IParticleSystemProperty::get_StartedEmission()
+// 0x000006F3 UnityEngine.Events.UnityEvent`1<VRBuilder.Core.Properties.ParticleSystemPropertyEventArgs> VRBuilder.Core.Properties.IParticleSystemProperty::get_StoppedEmission()
+// 0x000006F4 System.Boolean VRBuilder.Core.Properties.IParticleSystemProperty::get_IsEmitting()
+// 0x000006F5 System.Void VRBuilder.Core.Properties.IParticleSystemProperty::StartEmission()
+// 0x000006F6 System.Void VRBuilder.Core.Properties.IParticleSystemProperty::StopEmission()
+// 0x000006F7 System.Void VRBuilder.Core.Properties.ParticleSystemPropertyEventArgs::.ctor()
 extern void ParticleSystemPropertyEventArgs__ctor_m39D96F144F02B91EF9338039D70DA39788ECC8DE (void);
-// 0x0000070A UnityEngine.Events.UnityEvent`1<VRBuilder.Core.Properties.ParticleSystemPropertyEventArgs> VRBuilder.Core.Properties.ParticleSystemProperty::get_StartedEmission()
+// 0x000006F8 UnityEngine.Events.UnityEvent`1<VRBuilder.Core.Properties.ParticleSystemPropertyEventArgs> VRBuilder.Core.Properties.ParticleSystemProperty::get_StartedEmission()
 extern void ParticleSystemProperty_get_StartedEmission_m3A00AC60B00D24B979DA0BE17607EBE74A602C9A (void);
-// 0x0000070B UnityEngine.Events.UnityEvent`1<VRBuilder.Core.Properties.ParticleSystemPropertyEventArgs> VRBuilder.Core.Properties.ParticleSystemProperty::get_StoppedEmission()
+// 0x000006F9 UnityEngine.Events.UnityEvent`1<VRBuilder.Core.Properties.ParticleSystemPropertyEventArgs> VRBuilder.Core.Properties.ParticleSystemProperty::get_StoppedEmission()
 extern void ParticleSystemProperty_get_StoppedEmission_m2B80FE9E27E71AB1AE43A044F08D09021F2CD659 (void);
-// 0x0000070C UnityEngine.ParticleSystem VRBuilder.Core.Properties.ParticleSystemProperty::get_ParticleSystem()
+// 0x000006FA UnityEngine.ParticleSystem VRBuilder.Core.Properties.ParticleSystemProperty::get_ParticleSystem()
 extern void ParticleSystemProperty_get_ParticleSystem_m6E6873EC202068CD03C83D39F52DD111552604B8 (void);
-// 0x0000070D System.Boolean VRBuilder.Core.Properties.ParticleSystemProperty::get_IsEmitting()
+// 0x000006FB System.Boolean VRBuilder.Core.Properties.ParticleSystemProperty::get_IsEmitting()
 extern void ParticleSystemProperty_get_IsEmitting_m01F592DD146DA4DE22540F9D7CE41B52AD705049 (void);
-// 0x0000070E System.Void VRBuilder.Core.Properties.ParticleSystemProperty::StartEmission()
+// 0x000006FC System.Void VRBuilder.Core.Properties.ParticleSystemProperty::StartEmission()
 extern void ParticleSystemProperty_StartEmission_m3927DF468DD42AA7C8BBEA55AD7CE1EF56506F17 (void);
-// 0x0000070F System.Void VRBuilder.Core.Properties.ParticleSystemProperty::StopEmission()
+// 0x000006FD System.Void VRBuilder.Core.Properties.ParticleSystemProperty::StopEmission()
 extern void ParticleSystemProperty_StopEmission_m84D25B04EB726A7C1361E14FE42092E8EC9B9EA1 (void);
-// 0x00000710 System.Void VRBuilder.Core.Properties.ParticleSystemProperty::.ctor()
+// 0x000006FE System.Void VRBuilder.Core.Properties.ParticleSystemProperty::.ctor()
 extern void ParticleSystemProperty__ctor_mB161447D743AA3E472EA1A08ACDFD2A72368A988 (void);
-// 0x00000711 System.Void VRBuilder.Core.Properties.BezierSplinePathProperty::OnEnable()
+// 0x000006FF System.Void VRBuilder.Core.Properties.BezierSplinePathProperty::OnEnable()
 extern void BezierSplinePathProperty_OnEnable_m347B2BF7CCF8E838AAF8B805489561FB83C2DFA0 (void);
-// 0x00000712 UnityEngine.Vector3 VRBuilder.Core.Properties.BezierSplinePathProperty::GetPoint(System.Single)
+// 0x00000700 UnityEngine.Vector3 VRBuilder.Core.Properties.BezierSplinePathProperty::GetPoint(System.Single)
 extern void BezierSplinePathProperty_GetPoint_m244B2AFA878254936C0D88DD468E5E3740B4051E (void);
-// 0x00000713 UnityEngine.Vector3 VRBuilder.Core.Properties.BezierSplinePathProperty::GetDirection(System.Single)
+// 0x00000701 UnityEngine.Vector3 VRBuilder.Core.Properties.BezierSplinePathProperty::GetDirection(System.Single)
 extern void BezierSplinePathProperty_GetDirection_mFD41867386D19729A0F6EA355A62C3EF36D0D588 (void);
-// 0x00000714 System.Void VRBuilder.Core.Properties.BezierSplinePathProperty::.ctor()
+// 0x00000702 System.Void VRBuilder.Core.Properties.BezierSplinePathProperty::.ctor()
 extern void BezierSplinePathProperty__ctor_m110BBD999878A68AC699AAF744EF599EE8B65EA6 (void);
-// 0x00000715 UnityEngine.Vector3 VRBuilder.Core.Properties.IPathProperty::GetPoint(System.Single)
-// 0x00000716 UnityEngine.Vector3 VRBuilder.Core.Properties.IPathProperty::GetDirection(System.Single)
-// 0x00000717 System.Single VRBuilder.Core.Properties.TransformInRangeDetectorProperty::get_DetectionRange()
+// 0x00000703 UnityEngine.Vector3 VRBuilder.Core.Properties.IPathProperty::GetPoint(System.Single)
+// 0x00000704 UnityEngine.Vector3 VRBuilder.Core.Properties.IPathProperty::GetDirection(System.Single)
+// 0x00000705 System.Single VRBuilder.Core.Properties.TransformInRangeDetectorProperty::get_DetectionRange()
 extern void TransformInRangeDetectorProperty_get_DetectionRange_m3AE09D0013D8EB7F1BA99300F1BB5BE08BC18F9E (void);
-// 0x00000718 System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::set_DetectionRange(System.Single)
+// 0x00000706 System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::set_DetectionRange(System.Single)
 extern void TransformInRangeDetectorProperty_set_DetectionRange_mFDF396B8185107BCA12B281D8BD0501BE7CF1AEB (void);
-// 0x00000719 System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::add_EnteredRange(System.EventHandler`1<VRBuilder.Core.Properties.TransformInRangeDetectorProperty/RangeEventArgs>)
+// 0x00000707 System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::add_EnteredRange(System.EventHandler`1<VRBuilder.Core.Properties.TransformInRangeDetectorProperty/RangeEventArgs>)
 extern void TransformInRangeDetectorProperty_add_EnteredRange_m71E9727B47EACBE0344522C8FAA7CF503970EBCD (void);
-// 0x0000071A System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::remove_EnteredRange(System.EventHandler`1<VRBuilder.Core.Properties.TransformInRangeDetectorProperty/RangeEventArgs>)
+// 0x00000708 System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::remove_EnteredRange(System.EventHandler`1<VRBuilder.Core.Properties.TransformInRangeDetectorProperty/RangeEventArgs>)
 extern void TransformInRangeDetectorProperty_remove_EnteredRange_m571BA3C253608FC29A08A49E95B12888AFDDA0A7 (void);
-// 0x0000071B System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::add_ExitedRange(System.EventHandler`1<VRBuilder.Core.Properties.TransformInRangeDetectorProperty/RangeEventArgs>)
+// 0x00000709 System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::add_ExitedRange(System.EventHandler`1<VRBuilder.Core.Properties.TransformInRangeDetectorProperty/RangeEventArgs>)
 extern void TransformInRangeDetectorProperty_add_ExitedRange_m778A13510305D8982821E638E12F114DD4AE9A15 (void);
-// 0x0000071C System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::remove_ExitedRange(System.EventHandler`1<VRBuilder.Core.Properties.TransformInRangeDetectorProperty/RangeEventArgs>)
+// 0x0000070A System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::remove_ExitedRange(System.EventHandler`1<VRBuilder.Core.Properties.TransformInRangeDetectorProperty/RangeEventArgs>)
 extern void TransformInRangeDetectorProperty_remove_ExitedRange_m168C9BA5D600203E6BFA7212BB7F90D2D0C8D606 (void);
-// 0x0000071D System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::Update()
+// 0x0000070B System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::Update()
 extern void TransformInRangeDetectorProperty_Update_mB5CFD8FE4A416114242F638696B3ED00F13328B7 (void);
-// 0x0000071E System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::Refresh()
+// 0x0000070C System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::Refresh()
 extern void TransformInRangeDetectorProperty_Refresh_m9C6FDE735B8C89FC47E0E8DAB82C711C21A59CCD (void);
-// 0x0000071F System.Boolean VRBuilder.Core.Properties.TransformInRangeDetectorProperty::IsTargetInsideRange()
+// 0x0000070D System.Boolean VRBuilder.Core.Properties.TransformInRangeDetectorProperty::IsTargetInsideRange()
 extern void TransformInRangeDetectorProperty_IsTargetInsideRange_m089146C887EA3CF91B5039EF16395AF119BDE7F5 (void);
-// 0x00000720 System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::SetTrackedTransform(UnityEngine.Transform)
+// 0x0000070E System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::SetTrackedTransform(UnityEngine.Transform)
 extern void TransformInRangeDetectorProperty_SetTrackedTransform_m638BB817A2A18F011E3B9A79393F0E6512BB1065 (void);
-// 0x00000721 System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::DestroySelf()
+// 0x0000070F System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::DestroySelf()
 extern void TransformInRangeDetectorProperty_DestroySelf_m9CFFC310B614EB6593538CB3254A54EB94BD55EA (void);
-// 0x00000722 System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::EmitEnteredArea()
+// 0x00000710 System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::EmitEnteredArea()
 extern void TransformInRangeDetectorProperty_EmitEnteredArea_m32710D1EFF14F0EA15C3FDFB8BD2DAFBDCA0A657 (void);
-// 0x00000723 System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::EmitExitedArea()
+// 0x00000711 System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::EmitExitedArea()
 extern void TransformInRangeDetectorProperty_EmitExitedArea_m57F36D0F0EBB93085CC6D63F35095DAD34D507CD (void);
-// 0x00000724 System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::.ctor()
+// 0x00000712 System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty::.ctor()
 extern void TransformInRangeDetectorProperty__ctor_m7E0F18C1048F505A0F7915E2773048EBF16E1139 (void);
-// 0x00000725 System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty/RangeEventArgs::.ctor(UnityEngine.Transform)
+// 0x00000713 System.Void VRBuilder.Core.Properties.TransformInRangeDetectorProperty/RangeEventArgs::.ctor(UnityEngine.Transform)
 extern void RangeEventArgs__ctor_m796DD31E21525ACCB43FEEE331901AC374F28D31 (void);
-// 0x00000726 VRBuilder.Core.SceneObjects.ISceneObject VRBuilder.Core.Properties.ISceneObjectProperty::get_SceneObject()
-// 0x00000727 System.Void VRBuilder.Core.Properties.LockableProperty::add_Locked(System.EventHandler`1<VRBuilder.Core.SceneObjects.LockStateChangedEventArgs>)
+// 0x00000714 VRBuilder.Core.SceneObjects.ISceneObject VRBuilder.Core.Properties.ISceneObjectProperty::get_SceneObject()
+// 0x00000715 System.Void VRBuilder.Core.Properties.LockableProperty::add_Locked(System.EventHandler`1<VRBuilder.Core.SceneObjects.LockStateChangedEventArgs>)
 extern void LockableProperty_add_Locked_mAC4E8EC46B534E22322901B36B8ED4BFDF412C18 (void);
-// 0x00000728 System.Void VRBuilder.Core.Properties.LockableProperty::remove_Locked(System.EventHandler`1<VRBuilder.Core.SceneObjects.LockStateChangedEventArgs>)
+// 0x00000716 System.Void VRBuilder.Core.Properties.LockableProperty::remove_Locked(System.EventHandler`1<VRBuilder.Core.SceneObjects.LockStateChangedEventArgs>)
 extern void LockableProperty_remove_Locked_m7A001980333A1C034739B68588AEC28478F28A94 (void);
-// 0x00000729 System.Void VRBuilder.Core.Properties.LockableProperty::add_Unlocked(System.EventHandler`1<VRBuilder.Core.SceneObjects.LockStateChangedEventArgs>)
+// 0x00000717 System.Void VRBuilder.Core.Properties.LockableProperty::add_Unlocked(System.EventHandler`1<VRBuilder.Core.SceneObjects.LockStateChangedEventArgs>)
 extern void LockableProperty_add_Unlocked_m8E8B4DA5443530BD3AE733E64D6245204D2136AE (void);
-// 0x0000072A System.Void VRBuilder.Core.Properties.LockableProperty::remove_Unlocked(System.EventHandler`1<VRBuilder.Core.SceneObjects.LockStateChangedEventArgs>)
+// 0x00000718 System.Void VRBuilder.Core.Properties.LockableProperty::remove_Unlocked(System.EventHandler`1<VRBuilder.Core.SceneObjects.LockStateChangedEventArgs>)
 extern void LockableProperty_remove_Unlocked_m29C1C9ED86F675D54A8E8718DBA80C888FDE1804 (void);
-// 0x0000072B System.Boolean VRBuilder.Core.Properties.LockableProperty::get_LockOnParentObjectLock()
+// 0x00000719 System.Boolean VRBuilder.Core.Properties.LockableProperty::get_LockOnParentObjectLock()
 extern void LockableProperty_get_LockOnParentObjectLock_m8A279534D78A25B2CD542C9753128BF3717ED1DF (void);
-// 0x0000072C System.Void VRBuilder.Core.Properties.LockableProperty::set_LockOnParentObjectLock(System.Boolean)
+// 0x0000071A System.Void VRBuilder.Core.Properties.LockableProperty::set_LockOnParentObjectLock(System.Boolean)
 extern void LockableProperty_set_LockOnParentObjectLock_mC0509E5972E413E765CE0335B0112EC12F15F948 (void);
-// 0x0000072D System.Boolean VRBuilder.Core.Properties.LockableProperty::get_IsLocked()
+// 0x0000071B System.Boolean VRBuilder.Core.Properties.LockableProperty::get_IsLocked()
 extern void LockableProperty_get_IsLocked_m579EAF77DEABE4414449B9B6AD34D930878D2521 (void);
-// 0x0000072E System.Void VRBuilder.Core.Properties.LockableProperty::set_IsLocked(System.Boolean)
+// 0x0000071C System.Void VRBuilder.Core.Properties.LockableProperty::set_IsLocked(System.Boolean)
 extern void LockableProperty_set_IsLocked_m49AD20A642DC14EAF97A2D8720015AE35D890B1F (void);
-// 0x0000072F System.Boolean VRBuilder.Core.Properties.LockableProperty::get_EndStepLocked()
+// 0x0000071D System.Boolean VRBuilder.Core.Properties.LockableProperty::get_EndStepLocked()
 extern void LockableProperty_get_EndStepLocked_m8858B5A02453B14EB8C157D0DEB43D1847D65FDC (void);
-// 0x00000730 System.Void VRBuilder.Core.Properties.LockableProperty::OnEnable()
+// 0x0000071E System.Void VRBuilder.Core.Properties.LockableProperty::OnEnable()
 extern void LockableProperty_OnEnable_m5FCC96DD6CDFBF2A18D72DE2FAA07A2D4FDE028C (void);
-// 0x00000731 System.Void VRBuilder.Core.Properties.LockableProperty::OnDisable()
+// 0x0000071F System.Void VRBuilder.Core.Properties.LockableProperty::OnDisable()
 extern void LockableProperty_OnDisable_m366265C4CCFF8CF7788E8783F55C5607878DFC3A (void);
-// 0x00000732 System.Void VRBuilder.Core.Properties.LockableProperty::SetLocked(System.Boolean)
+// 0x00000720 System.Void VRBuilder.Core.Properties.LockableProperty::SetLocked(System.Boolean)
 extern void LockableProperty_SetLocked_m63C0A23014DF0BBA65B8DF469B8DCA891507AECD (void);
-// 0x00000733 System.Void VRBuilder.Core.Properties.LockableProperty::RequestLocked(System.Boolean,VRBuilder.Core.IStepData)
+// 0x00000721 System.Void VRBuilder.Core.Properties.LockableProperty::RequestLocked(System.Boolean,VRBuilder.Core.IStepData)
 extern void LockableProperty_RequestLocked_mD5762C0DDA4EE33F5CC2853F27512DD62C70E097 (void);
-// 0x00000734 System.Boolean VRBuilder.Core.Properties.LockableProperty::RemoveUnlocker(VRBuilder.Core.IStepData)
+// 0x00000722 System.Boolean VRBuilder.Core.Properties.LockableProperty::RemoveUnlocker(VRBuilder.Core.IStepData)
 extern void LockableProperty_RemoveUnlocker_m61A9F5ED40012BABF082D2C9F8D38F26EC5409B3 (void);
-// 0x00000735 System.Void VRBuilder.Core.Properties.LockableProperty::HandleObjectUnlocked(System.Object,VRBuilder.Core.SceneObjects.LockStateChangedEventArgs)
+// 0x00000723 System.Void VRBuilder.Core.Properties.LockableProperty::HandleObjectUnlocked(System.Object,VRBuilder.Core.SceneObjects.LockStateChangedEventArgs)
 extern void LockableProperty_HandleObjectUnlocked_m7118F976D670F78FB67585BF202DE420CFDD014F (void);
-// 0x00000736 System.Void VRBuilder.Core.Properties.LockableProperty::HandleObjectLocked(System.Object,VRBuilder.Core.SceneObjects.LockStateChangedEventArgs)
+// 0x00000724 System.Void VRBuilder.Core.Properties.LockableProperty::HandleObjectLocked(System.Object,VRBuilder.Core.SceneObjects.LockStateChangedEventArgs)
 extern void LockableProperty_HandleObjectLocked_mD7C55B54DB36BE09FE2679D6C06066E483FEFF56 (void);
-// 0x00000737 System.Void VRBuilder.Core.Properties.LockableProperty::InternalSetLocked(System.Boolean)
-// 0x00000738 System.Void VRBuilder.Core.Properties.LockableProperty::.ctor()
+// 0x00000725 System.Void VRBuilder.Core.Properties.LockableProperty::InternalSetLocked(System.Boolean)
+// 0x00000726 System.Void VRBuilder.Core.Properties.LockableProperty::.ctor()
 extern void LockableProperty__ctor_m3ECE8CCB747DE9250DB6F55B9D4EF04373496FEE (void);
-// 0x00000739 VRBuilder.Core.SceneObjects.ISceneObject VRBuilder.Core.Properties.ProcessSceneObjectProperty::get_SceneObject()
+// 0x00000727 VRBuilder.Core.SceneObjects.ISceneObject VRBuilder.Core.Properties.ProcessSceneObjectProperty::get_SceneObject()
 extern void ProcessSceneObjectProperty_get_SceneObject_m9D235AD8A28E2171492F6EE84D6D756BCA1D162C (void);
-// 0x0000073A System.Void VRBuilder.Core.Properties.ProcessSceneObjectProperty::OnEnable()
+// 0x00000728 System.Void VRBuilder.Core.Properties.ProcessSceneObjectProperty::OnEnable()
 extern void ProcessSceneObjectProperty_OnEnable_m8EE9A008B0AD6F3FD9EC857869458ABE3CBA980D (void);
-// 0x0000073B System.Void VRBuilder.Core.Properties.ProcessSceneObjectProperty::Reset()
+// 0x00000729 System.Void VRBuilder.Core.Properties.ProcessSceneObjectProperty::Reset()
 extern void ProcessSceneObjectProperty_Reset_m72767EA2D1A03D04A5EE53E36AD6439DA1F34CDF (void);
-// 0x0000073C System.Void VRBuilder.Core.Properties.ProcessSceneObjectProperty::.ctor()
+// 0x0000072A System.Void VRBuilder.Core.Properties.ProcessSceneObjectProperty::.ctor()
 extern void ProcessSceneObjectProperty__ctor_m8E4AE7EDBD1FB4C998B4FEE68C7121580F40A268 (void);
-// 0x0000073D System.Void VRBuilder.Core.Properties.UserSceneObject::Awake()
+// 0x0000072B System.Void VRBuilder.Core.Properties.UserSceneObject::Awake()
 extern void UserSceneObject_Awake_mE4704E72FE98B6855AB6625BFAC29B94990238F2 (void);
-// 0x0000073E System.Void VRBuilder.Core.Properties.UserSceneObject::.ctor()
+// 0x0000072C System.Void VRBuilder.Core.Properties.UserSceneObject::.ctor()
 extern void UserSceneObject__ctor_m43176D02B4B687563FAF3C1097A1119FD3566701 (void);
-// 0x0000073F System.Void VRBuilder.Core.Properties.SceneObjectExtensions::SetSuitableName(VRBuilder.Core.SceneObjects.ISceneObject,System.String)
+// 0x0000072D System.Void VRBuilder.Core.Properties.SceneObjectExtensions::SetSuitableName(VRBuilder.Core.SceneObjects.ISceneObject,System.String)
 extern void SceneObjectExtensions_SetSuitableName_mE35E5BA66C9A166430D11F3CCF24F713D6C1000C (void);
-// 0x00000740 VRBuilder.Core.Properties.ISceneObjectProperty VRBuilder.Core.Properties.SceneObjectExtensions::AddProcessProperty(VRBuilder.Core.SceneObjects.ISceneObject)
-// 0x00000741 VRBuilder.Core.Properties.ISceneObjectProperty VRBuilder.Core.Properties.SceneObjectExtensions::AddProcessProperty(VRBuilder.Core.SceneObjects.ISceneObject,System.Type)
+// 0x0000072E VRBuilder.Core.Properties.ISceneObjectProperty VRBuilder.Core.Properties.SceneObjectExtensions::AddProcessProperty(VRBuilder.Core.SceneObjects.ISceneObject)
+// 0x0000072F VRBuilder.Core.Properties.ISceneObjectProperty VRBuilder.Core.Properties.SceneObjectExtensions::AddProcessProperty(VRBuilder.Core.SceneObjects.ISceneObject,System.Type)
 extern void SceneObjectExtensions_AddProcessProperty_mDFC05F8577FF50AEC553B2662B323A380C055268 (void);
-// 0x00000742 System.Void VRBuilder.Core.Properties.SceneObjectExtensions::AddProcessPropertyExtensions(VRBuilder.Core.Properties.ISceneObjectProperty)
+// 0x00000730 System.Void VRBuilder.Core.Properties.SceneObjectExtensions::AddProcessPropertyExtensions(VRBuilder.Core.Properties.ISceneObjectProperty)
 extern void SceneObjectExtensions_AddProcessPropertyExtensions_m0272EE4EA7AA07C078E1BCA1D86E561B2CDA1872 (void);
-// 0x00000743 System.Void VRBuilder.Core.Properties.SceneObjectExtensions::RemoveProcessProperty(VRBuilder.Core.SceneObjects.ISceneObject,UnityEngine.Component,System.Boolean,System.Collections.Generic.IEnumerable`1<UnityEngine.Component>)
+// 0x00000731 System.Void VRBuilder.Core.Properties.SceneObjectExtensions::RemoveProcessProperty(VRBuilder.Core.SceneObjects.ISceneObject,UnityEngine.Component,System.Boolean,System.Collections.Generic.IEnumerable`1<UnityEngine.Component>)
 extern void SceneObjectExtensions_RemoveProcessProperty_m7A91464426509161B923AB21F9CFA9F861C90448 (void);
-// 0x00000744 System.Void VRBuilder.Core.Properties.SceneObjectExtensions::RemoveProcessProperty(VRBuilder.Core.SceneObjects.ISceneObject,System.Type,System.Boolean,System.Collections.Generic.IEnumerable`1<UnityEngine.Component>)
+// 0x00000732 System.Void VRBuilder.Core.Properties.SceneObjectExtensions::RemoveProcessProperty(VRBuilder.Core.SceneObjects.ISceneObject,System.Type,System.Boolean,System.Collections.Generic.IEnumerable`1<UnityEngine.Component>)
 extern void SceneObjectExtensions_RemoveProcessProperty_m10F3F481F9362C257EE333FA127ACC5771C584A1 (void);
-// 0x00000745 System.Void VRBuilder.Core.Properties.SceneObjectExtensions::RemoveProperty(VRBuilder.Core.SceneObjects.ISceneObject,System.Type,System.Boolean,System.Collections.Generic.IEnumerable`1<System.Type>)
+// 0x00000733 System.Void VRBuilder.Core.Properties.SceneObjectExtensions::RemoveProperty(VRBuilder.Core.SceneObjects.ISceneObject,System.Type,System.Boolean,System.Collections.Generic.IEnumerable`1<System.Type>)
 extern void SceneObjectExtensions_RemoveProperty_m82E911F51F2EFF5F59E21ADEE155907EABBC307D (void);
-// 0x00000746 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions::AreParametersNullOrInvalid(VRBuilder.Core.SceneObjects.ISceneObject,System.Type)
+// 0x00000734 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions::AreParametersNullOrInvalid(VRBuilder.Core.SceneObjects.ISceneObject,System.Type)
 extern void SceneObjectExtensions_AreParametersNullOrInvalid_m0C93395ECCDAF568A500B382894E51F21FE10CB7 (void);
-// 0x00000747 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions::IsTypeDependencyOfComponent(System.Type,UnityEngine.Component)
+// 0x00000735 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions::IsTypeDependencyOfComponent(System.Type,UnityEngine.Component)
 extern void SceneObjectExtensions_IsTypeDependencyOfComponent_mB0AF845C943E10ED1598F89C996F0B4096AF679E (void);
-// 0x00000748 System.Collections.Generic.HashSet`1<System.Type> VRBuilder.Core.Properties.SceneObjectExtensions::GetAllDependenciesFrom(System.Type)
+// 0x00000736 System.Collections.Generic.HashSet`1<System.Type> VRBuilder.Core.Properties.SceneObjectExtensions::GetAllDependenciesFrom(System.Type)
 extern void SceneObjectExtensions_GetAllDependenciesFrom_m150EC2F0F47E064409DAD205BFDBF21C843EAF46 (void);
-// 0x00000749 System.Void VRBuilder.Core.Properties.SceneObjectExtensions::AddTypeToList(System.Type,System.Collections.Generic.HashSet`1<System.Type>&)
+// 0x00000737 System.Void VRBuilder.Core.Properties.SceneObjectExtensions::AddTypeToList(System.Type,System.Collections.Generic.HashSet`1<System.Type>&)
 extern void SceneObjectExtensions_AddTypeToList_mE2308BFD4F253E3DCF5F026251A01FBE1B1912B5 (void);
-// 0x0000074A System.Collections.Generic.IEnumerable`1<System.Type> VRBuilder.Core.Properties.SceneObjectExtensions::GetTypesFromComponents(System.Collections.Generic.IEnumerable`1<UnityEngine.Component>)
+// 0x00000738 System.Collections.Generic.IEnumerable`1<System.Type> VRBuilder.Core.Properties.SceneObjectExtensions::GetTypesFromComponents(System.Collections.Generic.IEnumerable`1<UnityEngine.Component>)
 extern void SceneObjectExtensions_GetTypesFromComponents_m602915B2401AC83A3A603355F462E8CDE984E6CA (void);
-// 0x0000074B System.Void VRBuilder.Core.Properties.SceneObjectExtensions/<>c::.cctor()
+// 0x00000739 System.Void VRBuilder.Core.Properties.SceneObjectExtensions/<>c::.cctor()
 extern void U3CU3Ec__cctor_m7AFB3E626873FE7DD7933FEE2843DBC6C0C5C391 (void);
-// 0x0000074C System.Void VRBuilder.Core.Properties.SceneObjectExtensions/<>c::.ctor()
+// 0x0000073A System.Void VRBuilder.Core.Properties.SceneObjectExtensions/<>c::.ctor()
 extern void U3CU3Ec__ctor_mABDE28B03208F46851B4CA8A25AD42A26C941456 (void);
-// 0x0000074D System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<AddProcessProperty>b__2_0(System.Type)
+// 0x0000073B System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<AddProcessProperty>b__2_0(System.Type)
 extern void U3CU3Ec_U3CAddProcessPropertyU3Eb__2_0_m40A4C20B8C424514DE4EA28A9932E33C15357E9D (void);
-// 0x0000074E System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<AddProcessProperty>b__2_2(System.Reflection.AssemblyName)
+// 0x0000073C System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<AddProcessProperty>b__2_2(System.Reflection.AssemblyName)
 extern void U3CU3Ec_U3CAddProcessPropertyU3Eb__2_2_m889C33CA263BB610C0E4FF6A5AEFF20D8946D19A (void);
-// 0x0000074F System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<AddProcessProperty>b__2_1(System.Type)
+// 0x0000073D System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<AddProcessProperty>b__2_1(System.Type)
 extern void U3CU3Ec_U3CAddProcessPropertyU3Eb__2_1_m5D446319CF73C6C26DDEB6F8A049065286C7CE1B (void);
-// 0x00000750 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<AddProcessPropertyExtensions>b__3_1(System.Type)
+// 0x0000073E System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<AddProcessPropertyExtensions>b__3_1(System.Type)
 extern void U3CU3Ec_U3CAddProcessPropertyExtensionsU3Eb__3_1_m8FCC52728282C2926C74954901A7833894A150B7 (void);
-// 0x00000751 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<AddProcessPropertyExtensions>b__3_6(System.Reflection.AssemblyName)
+// 0x0000073F System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<AddProcessPropertyExtensions>b__3_6(System.Reflection.AssemblyName)
 extern void U3CU3Ec_U3CAddProcessPropertyExtensionsU3Eb__3_6_m3ABB1FAAC59E21BDAD461D31156C66B803E4DD0B (void);
-// 0x00000752 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<AddProcessPropertyExtensions>b__3_2(System.Type)
+// 0x00000740 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<AddProcessPropertyExtensions>b__3_2(System.Type)
 extern void U3CU3Ec_U3CAddProcessPropertyExtensionsU3Eb__3_2_mB41B447768A00E64012DEAA450D1DA6D79D8E2BB (void);
-// 0x00000753 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<AddProcessPropertyExtensions>b__3_4(System.Type)
+// 0x00000741 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<AddProcessPropertyExtensions>b__3_4(System.Type)
 extern void U3CU3Ec_U3CAddProcessPropertyExtensionsU3Eb__3_4_m44CD509343EE6D8E85961664751D79D652EB4C36 (void);
-// 0x00000754 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<AddProcessPropertyExtensions>b__3_8(System.Reflection.AssemblyName)
+// 0x00000742 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<AddProcessPropertyExtensions>b__3_8(System.Reflection.AssemblyName)
 extern void U3CU3Ec_U3CAddProcessPropertyExtensionsU3Eb__3_8_mA286B1AC40AA4E1F7FB711CF1F66A93C1607EFD2 (void);
-// 0x00000755 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<AddProcessPropertyExtensions>b__3_5(System.Type)
+// 0x00000743 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<AddProcessPropertyExtensions>b__3_5(System.Type)
 extern void U3CU3Ec_U3CAddProcessPropertyExtensionsU3Eb__3_5_m7A21A1FA7DA706DD989C0B2FC4571D40B4C147FC (void);
-// 0x00000756 System.Type VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<GetTypesFromComponents>b__11_0(UnityEngine.Component)
+// 0x00000744 System.Type VRBuilder.Core.Properties.SceneObjectExtensions/<>c::<GetTypesFromComponents>b__11_0(UnityEngine.Component)
 extern void U3CU3Ec_U3CGetTypesFromComponentsU3Eb__11_0_m20ECD55120A1C0AD52BC17170E6E8B0F1101C796 (void);
-// 0x00000757 System.Void VRBuilder.Core.Properties.SceneObjectExtensions/<>c__DisplayClass3_0::.ctor()
+// 0x00000745 System.Void VRBuilder.Core.Properties.SceneObjectExtensions/<>c__DisplayClass3_0::.ctor()
 extern void U3CU3Ec__DisplayClass3_0__ctor_m7E1ED355A3CAA587B59BBCBD2472E9F6488CB99B (void);
-// 0x00000758 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c__DisplayClass3_0::<AddProcessPropertyExtensions>b__0(System.Type)
+// 0x00000746 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c__DisplayClass3_0::<AddProcessPropertyExtensions>b__0(System.Type)
 extern void U3CU3Ec__DisplayClass3_0_U3CAddProcessPropertyExtensionsU3Eb__0_mFBD966A0A4BE96E64719BCE8C6519A3954D918DC (void);
-// 0x00000759 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c__DisplayClass3_0::<AddProcessPropertyExtensions>b__3(System.Type)
+// 0x00000747 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c__DisplayClass3_0::<AddProcessPropertyExtensions>b__3(System.Type)
 extern void U3CU3Ec__DisplayClass3_0_U3CAddProcessPropertyExtensionsU3Eb__3_mDAF1D54273251C1FF2877557630B760E2022366D (void);
-// 0x0000075A System.Void VRBuilder.Core.Properties.SceneObjectExtensions/<>c__DisplayClass3_1::.ctor()
+// 0x00000748 System.Void VRBuilder.Core.Properties.SceneObjectExtensions/<>c__DisplayClass3_1::.ctor()
 extern void U3CU3Ec__DisplayClass3_1__ctor_mE734BE6C1E0E67E8488DF9AA5A076D02EE5875D2 (void);
-// 0x0000075B System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c__DisplayClass3_1::<AddProcessPropertyExtensions>b__7(System.Type)
+// 0x00000749 System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c__DisplayClass3_1::<AddProcessPropertyExtensions>b__7(System.Type)
 extern void U3CU3Ec__DisplayClass3_1_U3CAddProcessPropertyExtensionsU3Eb__7_m5C5FB1C0D41FA0667CA5C795E8B646C783E55B1C (void);
-// 0x0000075C System.Void VRBuilder.Core.Properties.SceneObjectExtensions/<>c__DisplayClass6_0::.ctor()
+// 0x0000074A System.Void VRBuilder.Core.Properties.SceneObjectExtensions/<>c__DisplayClass6_0::.ctor()
 extern void U3CU3Ec__DisplayClass6_0__ctor_m2BE65D402F6DB2C0EC1D5F78EA1F9EE366CFA45A (void);
-// 0x0000075D System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c__DisplayClass6_0::<RemoveProperty>b__0(UnityEngine.Component)
+// 0x0000074B System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c__DisplayClass6_0::<RemoveProperty>b__0(UnityEngine.Component)
 extern void U3CU3Ec__DisplayClass6_0_U3CRemovePropertyU3Eb__0_m66B86029FAE2A67C56EA7C492C7B5E408D2935F6 (void);
-// 0x0000075E System.Void VRBuilder.Core.Properties.SceneObjectExtensions/<>c__DisplayClass8_0::.ctor()
+// 0x0000074C System.Void VRBuilder.Core.Properties.SceneObjectExtensions/<>c__DisplayClass8_0::.ctor()
 extern void U3CU3Ec__DisplayClass8_0__ctor_m665E647B99FA8444B87F02402630DE25EEBCDBAF (void);
-// 0x0000075F System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c__DisplayClass8_0::<IsTypeDependencyOfComponent>b__0(UnityEngine.RequireComponent)
+// 0x0000074D System.Boolean VRBuilder.Core.Properties.SceneObjectExtensions/<>c__DisplayClass8_0::<IsTypeDependencyOfComponent>b__0(UnityEngine.RequireComponent)
 extern void U3CU3Ec__DisplayClass8_0_U3CIsTypeDependencyOfComponentU3Eb__0_m9F12486E60BE7158967BE5C269E91D3C280C7197 (void);
-// 0x00000760 System.Boolean VRBuilder.Core.ProcessUtils.AndOperation::Execute(System.Boolean,System.Boolean)
+// 0x0000074E System.Boolean VRBuilder.Core.ProcessUtils.AndOperation::Execute(System.Boolean,System.Boolean)
 extern void AndOperation_Execute_m261C6E12963CB4EFCBC891BC96E30F5CE4C524D3 (void);
-// 0x00000761 System.String VRBuilder.Core.ProcessUtils.AndOperation::ToString(System.String,System.IFormatProvider)
+// 0x0000074F System.String VRBuilder.Core.ProcessUtils.AndOperation::ToString(System.String,System.IFormatProvider)
 extern void AndOperation_ToString_m0DB835DC272F8824EEE63F666B5A632085656B6F (void);
-// 0x00000762 System.Void VRBuilder.Core.ProcessUtils.AndOperation::.ctor()
+// 0x00000750 System.Void VRBuilder.Core.ProcessUtils.AndOperation::.ctor()
 extern void AndOperation__ctor_mF372F36FDC5EEECAB9DBA3443DE64E36B3AEC031 (void);
-// 0x00000763 System.Boolean VRBuilder.Core.ProcessUtils.EqualToOperation`1::Execute(T,T)
-// 0x00000764 System.String VRBuilder.Core.ProcessUtils.EqualToOperation`1::ToString(System.String,System.IFormatProvider)
-// 0x00000765 System.Void VRBuilder.Core.ProcessUtils.EqualToOperation`1::.ctor()
-// 0x00000766 System.Void VRBuilder.Core.ProcessUtils.EqualToOperation`1/AOTHelper::.ctor()
-// 0x00000767 System.Boolean VRBuilder.Core.ProcessUtils.GreaterOrEqualOperation`1::Execute(T,T)
-// 0x00000768 System.String VRBuilder.Core.ProcessUtils.GreaterOrEqualOperation`1::ToString(System.String,System.IFormatProvider)
-// 0x00000769 System.Void VRBuilder.Core.ProcessUtils.GreaterOrEqualOperation`1::.ctor()
-// 0x0000076A System.Void VRBuilder.Core.ProcessUtils.GreaterOrEqualOperation`1/AOTHelper::.ctor()
-// 0x0000076B System.Boolean VRBuilder.Core.ProcessUtils.GreaterThanOperation`1::Execute(T,T)
-// 0x0000076C System.String VRBuilder.Core.ProcessUtils.GreaterThanOperation`1::ToString(System.String,System.IFormatProvider)
-// 0x0000076D System.Void VRBuilder.Core.ProcessUtils.GreaterThanOperation`1::.ctor()
-// 0x0000076E System.Void VRBuilder.Core.ProcessUtils.GreaterThanOperation`1/AOTHelper::.ctor()
-// 0x0000076F TResult VRBuilder.Core.ProcessUtils.IOperationCommand`2::Execute(TOperand,TOperand)
-// 0x00000770 System.Boolean VRBuilder.Core.ProcessUtils.LessThanOperation`1::Execute(T,T)
-// 0x00000771 System.String VRBuilder.Core.ProcessUtils.LessThanOperation`1::ToString(System.String,System.IFormatProvider)
-// 0x00000772 System.Void VRBuilder.Core.ProcessUtils.LessThanOperation`1::.ctor()
-// 0x00000773 System.Void VRBuilder.Core.ProcessUtils.LessThanOperation`1/AOTHelper::.ctor()
-// 0x00000774 System.Boolean VRBuilder.Core.ProcessUtils.LessThanOrEqualOperation`1::Execute(T,T)
-// 0x00000775 System.String VRBuilder.Core.ProcessUtils.LessThanOrEqualOperation`1::ToString(System.String,System.IFormatProvider)
-// 0x00000776 System.Void VRBuilder.Core.ProcessUtils.LessThanOrEqualOperation`1::.ctor()
-// 0x00000777 System.Void VRBuilder.Core.ProcessUtils.LessThanOrEqualOperation`1/AOTHelper::.ctor()
-// 0x00000778 System.Boolean VRBuilder.Core.ProcessUtils.NotEqualToOperation`1::Execute(T,T)
-// 0x00000779 System.String VRBuilder.Core.ProcessUtils.NotEqualToOperation`1::ToString(System.String,System.IFormatProvider)
-// 0x0000077A System.Void VRBuilder.Core.ProcessUtils.NotEqualToOperation`1::.ctor()
-// 0x0000077B System.Void VRBuilder.Core.ProcessUtils.NotEqualToOperation`1/AOTHelper::.ctor()
-// 0x0000077C System.Boolean VRBuilder.Core.ProcessUtils.OrOperation::Execute(System.Boolean,System.Boolean)
+// 0x00000751 System.Boolean VRBuilder.Core.ProcessUtils.EqualToOperation`1::Execute(T,T)
+// 0x00000752 System.String VRBuilder.Core.ProcessUtils.EqualToOperation`1::ToString(System.String,System.IFormatProvider)
+// 0x00000753 System.Void VRBuilder.Core.ProcessUtils.EqualToOperation`1::.ctor()
+// 0x00000754 System.Void VRBuilder.Core.ProcessUtils.EqualToOperation`1/AOTHelper::.ctor()
+// 0x00000755 System.Boolean VRBuilder.Core.ProcessUtils.GreaterOrEqualOperation`1::Execute(T,T)
+// 0x00000756 System.String VRBuilder.Core.ProcessUtils.GreaterOrEqualOperation`1::ToString(System.String,System.IFormatProvider)
+// 0x00000757 System.Void VRBuilder.Core.ProcessUtils.GreaterOrEqualOperation`1::.ctor()
+// 0x00000758 System.Void VRBuilder.Core.ProcessUtils.GreaterOrEqualOperation`1/AOTHelper::.ctor()
+// 0x00000759 System.Boolean VRBuilder.Core.ProcessUtils.GreaterThanOperation`1::Execute(T,T)
+// 0x0000075A System.String VRBuilder.Core.ProcessUtils.GreaterThanOperation`1::ToString(System.String,System.IFormatProvider)
+// 0x0000075B System.Void VRBuilder.Core.ProcessUtils.GreaterThanOperation`1::.ctor()
+// 0x0000075C System.Void VRBuilder.Core.ProcessUtils.GreaterThanOperation`1/AOTHelper::.ctor()
+// 0x0000075D TResult VRBuilder.Core.ProcessUtils.IOperationCommand`2::Execute(TOperand,TOperand)
+// 0x0000075E System.Boolean VRBuilder.Core.ProcessUtils.LessThanOperation`1::Execute(T,T)
+// 0x0000075F System.String VRBuilder.Core.ProcessUtils.LessThanOperation`1::ToString(System.String,System.IFormatProvider)
+// 0x00000760 System.Void VRBuilder.Core.ProcessUtils.LessThanOperation`1::.ctor()
+// 0x00000761 System.Void VRBuilder.Core.ProcessUtils.LessThanOperation`1/AOTHelper::.ctor()
+// 0x00000762 System.Boolean VRBuilder.Core.ProcessUtils.LessThanOrEqualOperation`1::Execute(T,T)
+// 0x00000763 System.String VRBuilder.Core.ProcessUtils.LessThanOrEqualOperation`1::ToString(System.String,System.IFormatProvider)
+// 0x00000764 System.Void VRBuilder.Core.ProcessUtils.LessThanOrEqualOperation`1::.ctor()
+// 0x00000765 System.Void VRBuilder.Core.ProcessUtils.LessThanOrEqualOperation`1/AOTHelper::.ctor()
+// 0x00000766 System.Boolean VRBuilder.Core.ProcessUtils.NotEqualToOperation`1::Execute(T,T)
+// 0x00000767 System.String VRBuilder.Core.ProcessUtils.NotEqualToOperation`1::ToString(System.String,System.IFormatProvider)
+// 0x00000768 System.Void VRBuilder.Core.ProcessUtils.NotEqualToOperation`1::.ctor()
+// 0x00000769 System.Void VRBuilder.Core.ProcessUtils.NotEqualToOperation`1/AOTHelper::.ctor()
+// 0x0000076A System.Boolean VRBuilder.Core.ProcessUtils.OrOperation::Execute(System.Boolean,System.Boolean)
 extern void OrOperation_Execute_mB355DF5AAE494C5677B9BE55432403C8C7A05F36 (void);
-// 0x0000077D System.String VRBuilder.Core.ProcessUtils.OrOperation::ToString(System.String,System.IFormatProvider)
+// 0x0000076B System.String VRBuilder.Core.ProcessUtils.OrOperation::ToString(System.String,System.IFormatProvider)
 extern void OrOperation_ToString_mBB177F21A5A06C829B80604AEAF08F7D88B040F5 (void);
-// 0x0000077E System.Void VRBuilder.Core.ProcessUtils.OrOperation::.ctor()
+// 0x0000076C System.Void VRBuilder.Core.ProcessUtils.OrOperation::.ctor()
 extern void OrOperation__ctor_mFEED62BBAAA829351B7627CA2271980ABD6BED6C (void);
-// 0x0000077F T VRBuilder.Core.ProcessUtils.ProcessVariable`1::get_ConstValue()
-// 0x00000780 System.Void VRBuilder.Core.ProcessUtils.ProcessVariable`1::set_ConstValue(T)
-// 0x00000781 VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataProperty`1<T>> VRBuilder.Core.ProcessUtils.ProcessVariable`1::get_PropertyReference()
-// 0x00000782 System.Void VRBuilder.Core.ProcessUtils.ProcessVariable`1::set_PropertyReference(VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataProperty`1<T>>)
-// 0x00000783 System.Boolean VRBuilder.Core.ProcessUtils.ProcessVariable`1::get_IsConst()
-// 0x00000784 System.Void VRBuilder.Core.ProcessUtils.ProcessVariable`1::set_IsConst(System.Boolean)
-// 0x00000785 System.Void VRBuilder.Core.ProcessUtils.ProcessVariable`1::.ctor(T,System.String,System.Boolean)
-// 0x00000786 T VRBuilder.Core.ProcessUtils.ProcessVariable`1::get_Value()
-// 0x00000787 System.Single VRBuilder.Core.ProcessUtils.ConfettiMachine::get_EmissionDuration()
+// 0x0000076D T VRBuilder.Core.ProcessUtils.ProcessVariable`1::get_ConstValue()
+// 0x0000076E System.Void VRBuilder.Core.ProcessUtils.ProcessVariable`1::set_ConstValue(T)
+// 0x0000076F VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataProperty`1<T>> VRBuilder.Core.ProcessUtils.ProcessVariable`1::get_PropertyReference()
+// 0x00000770 System.Void VRBuilder.Core.ProcessUtils.ProcessVariable`1::set_PropertyReference(VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataProperty`1<T>>)
+// 0x00000771 System.Boolean VRBuilder.Core.ProcessUtils.ProcessVariable`1::get_IsConst()
+// 0x00000772 System.Void VRBuilder.Core.ProcessUtils.ProcessVariable`1::set_IsConst(System.Boolean)
+// 0x00000773 System.Void VRBuilder.Core.ProcessUtils.ProcessVariable`1::.ctor(T,System.String,System.Boolean)
+// 0x00000774 T VRBuilder.Core.ProcessUtils.ProcessVariable`1::get_Value()
+// 0x00000775 System.Single VRBuilder.Core.ProcessUtils.ConfettiMachine::get_EmissionDuration()
 extern void ConfettiMachine_get_EmissionDuration_m073CBB43D0E86B9082B2FA822384231B092BD0F8 (void);
-// 0x00000788 System.Boolean VRBuilder.Core.ProcessUtils.ConfettiMachine::get_IsActive()
+// 0x00000776 System.Boolean VRBuilder.Core.ProcessUtils.ConfettiMachine::get_IsActive()
 extern void ConfettiMachine_get_IsActive_m9E04E1CDEBC53F7E3EAE5B93CD115819411E5E2C (void);
-// 0x00000789 System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::set_IsActive(System.Boolean)
+// 0x00000777 System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::set_IsActive(System.Boolean)
 extern void ConfettiMachine_set_IsActive_mCAE9846AF478FBCD834E23E56B2F6149B2214B75 (void);
-// 0x0000078A System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::Activate()
+// 0x00000778 System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::Activate()
 extern void ConfettiMachine_Activate_mF81094A2FFC4609029396074F428F5034E622239 (void);
-// 0x0000078B System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::Activate(System.Single,System.Single)
+// 0x00000779 System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::Activate(System.Single,System.Single)
 extern void ConfettiMachine_Activate_m0297741E7F6948C37ADC633FD91AEE0F1496F8FE (void);
-// 0x0000078C System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::Deactivate()
+// 0x0000077A System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::Deactivate()
 extern void ConfettiMachine_Deactivate_m0E75933388F18E8DD9DEB2CD82FFF0C4EB8568AE (void);
-// 0x0000078D System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::ChangeAreaRadius(System.Single)
+// 0x0000077B System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::ChangeAreaRadius(System.Single)
 extern void ConfettiMachine_ChangeAreaRadius_mE4A15BFF268CEF8F9A4A3566063C6386D0F2B8AA (void);
-// 0x0000078E System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::ChangeEmissionDuration(System.Single)
+// 0x0000077C System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::ChangeEmissionDuration(System.Single)
 extern void ConfettiMachine_ChangeEmissionDuration_mD3B5912D5A1397910BDE9DAB9F3EA602D0B98F3D (void);
-// 0x0000078F System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::ChangeEmissionRate(System.Single)
+// 0x0000077D System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::ChangeEmissionRate(System.Single)
 extern void ConfettiMachine_ChangeEmissionRate_m7972837335757575EDE5753686E45B7F63D2437F (void);
-// 0x00000790 System.Collections.IEnumerator VRBuilder.Core.ProcessUtils.ConfettiMachine::DeactivateAfter(System.Single)
+// 0x0000077E System.Collections.IEnumerator VRBuilder.Core.ProcessUtils.ConfettiMachine::DeactivateAfter(System.Single)
 extern void ConfettiMachine_DeactivateAfter_mE6901A9CCD87D7F676C1A375C541F9A44E645F0C (void);
-// 0x00000791 System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::Awake()
+// 0x0000077F System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::Awake()
 extern void ConfettiMachine_Awake_mC2FBA8059F8A4CBDA33B9C7121E44EE1AEABB6E3 (void);
-// 0x00000792 System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::Start()
+// 0x00000780 System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::Start()
 extern void ConfettiMachine_Start_mED90421D401FB4CB9831742D7776A2F7474B67BB (void);
-// 0x00000793 System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::.ctor()
+// 0x00000781 System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine::.ctor()
 extern void ConfettiMachine__ctor_m23DD4FB80A9E25C76FB367A8FC4C09E111B9D0FB (void);
-// 0x00000794 System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine/<DeactivateAfter>d__18::.ctor(System.Int32)
+// 0x00000782 System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine/<DeactivateAfter>d__18::.ctor(System.Int32)
 extern void U3CDeactivateAfterU3Ed__18__ctor_mBA89935BDA72F17E6929A25C82698B11304AE31C (void);
-// 0x00000795 System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine/<DeactivateAfter>d__18::System.IDisposable.Dispose()
+// 0x00000783 System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine/<DeactivateAfter>d__18::System.IDisposable.Dispose()
 extern void U3CDeactivateAfterU3Ed__18_System_IDisposable_Dispose_m541A1AD48B9CE475B6094B8C847402BE5FC6FD15 (void);
-// 0x00000796 System.Boolean VRBuilder.Core.ProcessUtils.ConfettiMachine/<DeactivateAfter>d__18::MoveNext()
+// 0x00000784 System.Boolean VRBuilder.Core.ProcessUtils.ConfettiMachine/<DeactivateAfter>d__18::MoveNext()
 extern void U3CDeactivateAfterU3Ed__18_MoveNext_m3BB822803AB95D468D3D4DA6767C68B363795B4F (void);
-// 0x00000797 System.Object VRBuilder.Core.ProcessUtils.ConfettiMachine/<DeactivateAfter>d__18::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x00000785 System.Object VRBuilder.Core.ProcessUtils.ConfettiMachine/<DeactivateAfter>d__18::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CDeactivateAfterU3Ed__18_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m1245155CD639717DE11A4A54F9D44E019C54339F (void);
-// 0x00000798 System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine/<DeactivateAfter>d__18::System.Collections.IEnumerator.Reset()
+// 0x00000786 System.Void VRBuilder.Core.ProcessUtils.ConfettiMachine/<DeactivateAfter>d__18::System.Collections.IEnumerator.Reset()
 extern void U3CDeactivateAfterU3Ed__18_System_Collections_IEnumerator_Reset_m2029975B9DB1BDEAB36CA5E65B6E0C514DA422D7 (void);
-// 0x00000799 System.Object VRBuilder.Core.ProcessUtils.ConfettiMachine/<DeactivateAfter>d__18::System.Collections.IEnumerator.get_Current()
+// 0x00000787 System.Object VRBuilder.Core.ProcessUtils.ConfettiMachine/<DeactivateAfter>d__18::System.Collections.IEnumerator.get_Current()
 extern void U3CDeactivateAfterU3Ed__18_System_Collections_IEnumerator_get_Current_m46DC84D5C355D84AEE860F9AFA2ACE67D932F4BD (void);
-// 0x0000079A System.Void VRBuilder.Core.ProcessUtils.IParticleMachine::Activate()
-// 0x0000079B System.Void VRBuilder.Core.ProcessUtils.IParticleMachine::Activate(System.Single,System.Single)
-// 0x0000079C System.Void VRBuilder.Core.ProcessUtils.IParticleMachine::Deactivate()
-// 0x0000079D System.Boolean VRBuilder.Core.ProcessUtils.IParticleMachine::get_IsActive()
-// 0x0000079E System.Void VRBuilder.Core.ProcessUtils.IParticleMachine::ChangeAreaRadius(System.Single)
-// 0x0000079F System.Void VRBuilder.Core.ProcessUtils.IParticleMachine::ChangeEmissionDuration(System.Single)
-// 0x000007A0 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1::.ctor()
-// 0x000007A1 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1::.ctor(System.String)
-// 0x000007A2 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1::.ctor(VRBuilder.Core.Properties.IDataProperty`1<T>,VRBuilder.Core.Properties.IDataProperty`1<T>,T,T,System.Boolean,System.Boolean,VRBuilder.Core.ProcessUtils.IOperationCommand`2<T,System.Boolean>)
-// 0x000007A3 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1::.ctor(System.String,System.String,T,T,System.Boolean,System.Boolean,VRBuilder.Core.ProcessUtils.IOperationCommand`2<T,System.Boolean>)
-// 0x000007A4 VRBuilder.Core.IStageProcess VRBuilder.Core.Conditions.CompareValuesCondition`1::GetActiveProcess()
-// 0x000007A5 T VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_LeftValue()
-// 0x000007A6 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::set_LeftValue(T)
-// 0x000007A7 VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataProperty`1<T>> VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_LeftValueProperty()
-// 0x000007A8 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::set_LeftValueProperty(VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataProperty`1<T>>)
-// 0x000007A9 System.Boolean VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_IsLeftConst()
-// 0x000007AA System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::set_IsLeftConst(System.Boolean)
-// 0x000007AB VRBuilder.Core.ProcessUtils.IOperationCommand`2<T,System.Boolean> VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_Operation()
-// 0x000007AC System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::set_Operation(VRBuilder.Core.ProcessUtils.IOperationCommand`2<T,System.Boolean>)
-// 0x000007AD T VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_RightValue()
-// 0x000007AE System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::set_RightValue(T)
-// 0x000007AF VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataProperty`1<T>> VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_RightValueProperty()
-// 0x000007B0 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::set_RightValueProperty(VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataProperty`1<T>>)
-// 0x000007B1 System.Boolean VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_IsRightConst()
-// 0x000007B2 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::set_IsRightConst(System.Boolean)
-// 0x000007B3 System.Boolean VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_IsCompleted()
-// 0x000007B4 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::set_IsCompleted(System.Boolean)
-// 0x000007B5 System.String VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_Name()
-// 0x000007B6 VRBuilder.Core.Metadata VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_Metadata()
-// 0x000007B7 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::set_Metadata(VRBuilder.Core.Metadata)
-// 0x000007B8 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::.ctor()
-// 0x000007B9 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/ActiveProcess::.ctor(VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData<T>)
-// 0x000007BA System.Boolean VRBuilder.Core.Conditions.CompareValuesCondition`1/ActiveProcess::CheckIfCompleted()
-// 0x000007BB System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/AOTHelper::.ctor()
-// 0x000007BC System.Single VRBuilder.Core.Conditions.IObjectInTargetData::get_RequiredTimeInside()
-// 0x000007BD System.Void VRBuilder.Core.Conditions.IObjectInTargetData::set_RequiredTimeInside(System.Single)
-// 0x000007BE System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition::.ctor()
+// 0x00000788 System.Void VRBuilder.Core.ProcessUtils.IParticleMachine::Activate()
+// 0x00000789 System.Void VRBuilder.Core.ProcessUtils.IParticleMachine::Activate(System.Single,System.Single)
+// 0x0000078A System.Void VRBuilder.Core.ProcessUtils.IParticleMachine::Deactivate()
+// 0x0000078B System.Boolean VRBuilder.Core.ProcessUtils.IParticleMachine::get_IsActive()
+// 0x0000078C System.Void VRBuilder.Core.ProcessUtils.IParticleMachine::ChangeAreaRadius(System.Single)
+// 0x0000078D System.Void VRBuilder.Core.ProcessUtils.IParticleMachine::ChangeEmissionDuration(System.Single)
+// 0x0000078E System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1::.ctor()
+// 0x0000078F System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1::.ctor(System.String)
+// 0x00000790 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1::.ctor(VRBuilder.Core.Properties.IDataProperty`1<T>,VRBuilder.Core.Properties.IDataProperty`1<T>,T,T,System.Boolean,System.Boolean,VRBuilder.Core.ProcessUtils.IOperationCommand`2<T,System.Boolean>)
+// 0x00000791 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1::.ctor(System.String,System.String,T,T,System.Boolean,System.Boolean,VRBuilder.Core.ProcessUtils.IOperationCommand`2<T,System.Boolean>)
+// 0x00000792 VRBuilder.Core.IStageProcess VRBuilder.Core.Conditions.CompareValuesCondition`1::GetActiveProcess()
+// 0x00000793 T VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_LeftValue()
+// 0x00000794 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::set_LeftValue(T)
+// 0x00000795 VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataProperty`1<T>> VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_LeftValueProperty()
+// 0x00000796 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::set_LeftValueProperty(VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataProperty`1<T>>)
+// 0x00000797 System.Boolean VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_IsLeftConst()
+// 0x00000798 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::set_IsLeftConst(System.Boolean)
+// 0x00000799 VRBuilder.Core.ProcessUtils.IOperationCommand`2<T,System.Boolean> VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_Operation()
+// 0x0000079A System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::set_Operation(VRBuilder.Core.ProcessUtils.IOperationCommand`2<T,System.Boolean>)
+// 0x0000079B T VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_RightValue()
+// 0x0000079C System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::set_RightValue(T)
+// 0x0000079D VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataProperty`1<T>> VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_RightValueProperty()
+// 0x0000079E System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::set_RightValueProperty(VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataProperty`1<T>>)
+// 0x0000079F System.Boolean VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_IsRightConst()
+// 0x000007A0 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::set_IsRightConst(System.Boolean)
+// 0x000007A1 System.Boolean VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_IsCompleted()
+// 0x000007A2 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::set_IsCompleted(System.Boolean)
+// 0x000007A3 System.String VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_Name()
+// 0x000007A4 VRBuilder.Core.Metadata VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::get_Metadata()
+// 0x000007A5 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x000007A6 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData::.ctor()
+// 0x000007A7 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/ActiveProcess::.ctor(VRBuilder.Core.Conditions.CompareValuesCondition`1/EntityData<T>)
+// 0x000007A8 System.Boolean VRBuilder.Core.Conditions.CompareValuesCondition`1/ActiveProcess::CheckIfCompleted()
+// 0x000007A9 System.Void VRBuilder.Core.Conditions.CompareValuesCondition`1/AOTHelper::.ctor()
+// 0x000007AA System.Single VRBuilder.Core.Conditions.IObjectInTargetData::get_RequiredTimeInside()
+// 0x000007AB System.Void VRBuilder.Core.Conditions.IObjectInTargetData::set_RequiredTimeInside(System.Single)
+// 0x000007AC System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition::.ctor()
 extern void ObjectInColliderCondition__ctor_m12800C90C3FC0A9B9CD4F0EB58E8DC3DE84537A2 (void);
-// 0x000007BF System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition::.ctor(VRBuilder.Core.Properties.ColliderWithTriggerProperty,VRBuilder.Core.SceneObjects.ISceneObject,System.Single)
+// 0x000007AD System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition::.ctor(VRBuilder.Core.Properties.ColliderWithTriggerProperty,VRBuilder.Core.SceneObjects.ISceneObject,System.Single)
 extern void ObjectInColliderCondition__ctor_mDCAF3927571085341F3E8FEFFCF19AE26A00F1B6 (void);
-// 0x000007C0 System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition::.ctor(System.String,System.String,System.Single)
+// 0x000007AE System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition::.ctor(System.String,System.String,System.Single)
 extern void ObjectInColliderCondition__ctor_mE8C97F4C82585B7478493DC3C416393F34F8EFE9 (void);
-// 0x000007C1 VRBuilder.Core.IStageProcess VRBuilder.Core.Conditions.ObjectInColliderCondition::GetActiveProcess()
+// 0x000007AF VRBuilder.Core.IStageProcess VRBuilder.Core.Conditions.ObjectInColliderCondition::GetActiveProcess()
 extern void ObjectInColliderCondition_GetActiveProcess_m0B6316281C36C3817900B636939B78EACB1CF1E4 (void);
-// 0x000007C2 VRBuilder.Core.IAutocompleter VRBuilder.Core.Conditions.ObjectInColliderCondition::GetAutocompleter()
+// 0x000007B0 VRBuilder.Core.IAutocompleter VRBuilder.Core.Conditions.ObjectInColliderCondition::GetAutocompleter()
 extern void ObjectInColliderCondition_GetAutocompleter_m3D39164B9063C8432D1517EC284B17F067DA6E44 (void);
-// 0x000007C3 VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::get_TargetObject()
+// 0x000007B1 VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::get_TargetObject()
 extern void EntityData_get_TargetObject_m3C927D3DE5571E4A5A9CFD95B09F3D2FFE5241D5 (void);
-// 0x000007C4 System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::set_TargetObject(VRBuilder.Core.SceneObjects.SceneObjectReference)
+// 0x000007B2 System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::set_TargetObject(VRBuilder.Core.SceneObjects.SceneObjectReference)
 extern void EntityData_set_TargetObject_mE7169288A329B60168D7407EE09CB491E64B934E (void);
-// 0x000007C5 VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.ColliderWithTriggerProperty> VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::get_TriggerProperty()
+// 0x000007B3 VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.ColliderWithTriggerProperty> VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::get_TriggerProperty()
 extern void EntityData_get_TriggerProperty_mC3EBD28A489B6CA66FC1E3444AD85681313A07C9 (void);
-// 0x000007C6 System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::set_TriggerProperty(VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.ColliderWithTriggerProperty>)
+// 0x000007B4 System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::set_TriggerProperty(VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.ColliderWithTriggerProperty>)
 extern void EntityData_set_TriggerProperty_m65B0CFF7F8D5221EA53F3FC2F6A169D738939DB5 (void);
-// 0x000007C7 System.Boolean VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::get_IsCompleted()
+// 0x000007B5 System.Boolean VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::get_IsCompleted()
 extern void EntityData_get_IsCompleted_m02F94BD964F7C2D213772B864B6269BC940249C9 (void);
-// 0x000007C8 System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::set_IsCompleted(System.Boolean)
+// 0x000007B6 System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::set_IsCompleted(System.Boolean)
 extern void EntityData_set_IsCompleted_mF4E239ADF35A5A49335F7E04A3E4435EA5A81163 (void);
-// 0x000007C9 System.String VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::get_Name()
+// 0x000007B7 System.String VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::get_Name()
 extern void EntityData_get_Name_mCBA39FC5C850EAA9D1727C842DC951953F55F8E2 (void);
-// 0x000007CA System.Single VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::get_RequiredTimeInside()
+// 0x000007B8 System.Single VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::get_RequiredTimeInside()
 extern void EntityData_get_RequiredTimeInside_mA2392215B91BCF257762E6568A52B515A5FB5BF8 (void);
-// 0x000007CB System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::set_RequiredTimeInside(System.Single)
+// 0x000007B9 System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::set_RequiredTimeInside(System.Single)
 extern void EntityData_set_RequiredTimeInside_mFF53ED0AF647B8B150487B72E285E92B62CE1415 (void);
-// 0x000007CC VRBuilder.Core.Metadata VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::get_Metadata()
+// 0x000007BA VRBuilder.Core.Metadata VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_m548E961C29366FF3D554E81C5D4F240FEF49BD27 (void);
-// 0x000007CD System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x000007BB System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_m53C7843B25088040FB5CB7AC689BCA3877CF4415 (void);
-// 0x000007CE System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::.ctor()
+// 0x000007BC System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData::.ctor()
 extern void EntityData__ctor_mB935DD157A0DF126E7A242679DDABAC595F19008 (void);
-// 0x000007CF System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition/ActiveProcess::.ctor(VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData)
+// 0x000007BD System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition/ActiveProcess::.ctor(VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData)
 extern void ActiveProcess__ctor_mCB0DC4D4BD926109D099ABCC3CD6F5AD022E053E (void);
-// 0x000007D0 System.Boolean VRBuilder.Core.Conditions.ObjectInColliderCondition/ActiveProcess::IsInside()
+// 0x000007BE System.Boolean VRBuilder.Core.Conditions.ObjectInColliderCondition/ActiveProcess::IsInside()
 extern void ActiveProcess_IsInside_m19E4C73476FC602101DAA3C8FE7A051AD1E27C6C (void);
-// 0x000007D1 System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityAutocompleter::.ctor(VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData)
+// 0x000007BF System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityAutocompleter::.ctor(VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityData)
 extern void EntityAutocompleter__ctor_mB11A31FD12737937115E01D48A432E1453BCBD7B (void);
-// 0x000007D2 System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityAutocompleter::Complete()
+// 0x000007C0 System.Void VRBuilder.Core.Conditions.ObjectInColliderCondition/EntityAutocompleter::Complete()
 extern void EntityAutocompleter_Complete_mE722EE58BFB0C470E7C5B671E9B9DE800C94D011 (void);
-// 0x000007D3 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition::.ctor()
+// 0x000007C1 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition::.ctor()
 extern void ObjectInRangeCondition__ctor_mFFE0C8B0F090527A3552347FE7F79C6F1234B8F1 (void);
-// 0x000007D4 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition::.ctor(VRBuilder.Core.SceneObjects.ISceneObject,VRBuilder.Core.Properties.TransformInRangeDetectorProperty,System.Single,System.Single)
+// 0x000007C2 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition::.ctor(VRBuilder.Core.SceneObjects.ISceneObject,VRBuilder.Core.Properties.TransformInRangeDetectorProperty,System.Single,System.Single)
 extern void ObjectInRangeCondition__ctor_mB355BFD983A8394A3C5136E30EA999084FEAD0FD (void);
-// 0x000007D5 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition::.ctor(System.String,System.String,System.Single,System.Single)
+// 0x000007C3 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition::.ctor(System.String,System.String,System.Single,System.Single)
 extern void ObjectInRangeCondition__ctor_mD20C042D635BE3362BD32140D93915EB23F7F2A5 (void);
-// 0x000007D6 VRBuilder.Core.IStageProcess VRBuilder.Core.Conditions.ObjectInRangeCondition::GetActiveProcess()
+// 0x000007C4 VRBuilder.Core.IStageProcess VRBuilder.Core.Conditions.ObjectInRangeCondition::GetActiveProcess()
 extern void ObjectInRangeCondition_GetActiveProcess_m5BCB1730444FDC956CFC928B149F25CB53427E56 (void);
-// 0x000007D7 VRBuilder.Core.IAutocompleter VRBuilder.Core.Conditions.ObjectInRangeCondition::GetAutocompleter()
+// 0x000007C5 VRBuilder.Core.IAutocompleter VRBuilder.Core.Conditions.ObjectInRangeCondition::GetAutocompleter()
 extern void ObjectInRangeCondition_GetAutocompleter_m3A9CCD010A0C49F2C52A918524A319102EFBD16F (void);
-// 0x000007D8 VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::get_Target()
+// 0x000007C6 VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::get_Target()
 extern void EntityData_get_Target_m2FED1C3B0B851A4F23EA03D345C4E585B10AD9A2 (void);
-// 0x000007D9 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::set_Target(VRBuilder.Core.SceneObjects.SceneObjectReference)
+// 0x000007C7 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::set_Target(VRBuilder.Core.SceneObjects.SceneObjectReference)
 extern void EntityData_set_Target_mB0169D782CDBFC9D8AE726702A2F7920F49E1ADE (void);
-// 0x000007DA VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.TransformInRangeDetectorProperty> VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::get_ReferenceProperty()
+// 0x000007C8 VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.TransformInRangeDetectorProperty> VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::get_ReferenceProperty()
 extern void EntityData_get_ReferenceProperty_m82DFC8F858EDAFA03393B91337649A83102C86CC (void);
-// 0x000007DB System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::set_ReferenceProperty(VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.TransformInRangeDetectorProperty>)
+// 0x000007C9 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::set_ReferenceProperty(VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.TransformInRangeDetectorProperty>)
 extern void EntityData_set_ReferenceProperty_m0B771ABEF5574C21005C7A0430DBDD9F38CDAB92 (void);
-// 0x000007DC System.Single VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::get_Range()
+// 0x000007CA System.Single VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::get_Range()
 extern void EntityData_get_Range_m56E7BF4C734080C37F53B6CAF860CE4FFBEBCDB7 (void);
-// 0x000007DD System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::set_Range(System.Single)
+// 0x000007CB System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::set_Range(System.Single)
 extern void EntityData_set_Range_m74EC9EFD8C5F0B81E1655ECAE962D85B474E9189 (void);
-// 0x000007DE System.String VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::get_Name()
+// 0x000007CC System.String VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::get_Name()
 extern void EntityData_get_Name_m4435419D1E80BE95CF8488F5F81D4355224A2074 (void);
-// 0x000007DF System.Single VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::get_RequiredTimeInside()
+// 0x000007CD System.Single VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::get_RequiredTimeInside()
 extern void EntityData_get_RequiredTimeInside_m99B23ED919C6593DF44C559B86CF860CCE3D146A (void);
-// 0x000007E0 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::set_RequiredTimeInside(System.Single)
+// 0x000007CE System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::set_RequiredTimeInside(System.Single)
 extern void EntityData_set_RequiredTimeInside_mEDA1D232C1A69A5EFB936989EE351C2FA9E3605F (void);
-// 0x000007E1 System.Boolean VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::get_IsCompleted()
+// 0x000007CF System.Boolean VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::get_IsCompleted()
 extern void EntityData_get_IsCompleted_m318C271A2377C2DE9D19FB045F9804BCE398E374 (void);
-// 0x000007E2 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::set_IsCompleted(System.Boolean)
+// 0x000007D0 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::set_IsCompleted(System.Boolean)
 extern void EntityData_set_IsCompleted_m34C408ECA7C585B65C864489C37AACFB8FFB437F (void);
-// 0x000007E3 VRBuilder.Core.Metadata VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::get_Metadata()
+// 0x000007D1 VRBuilder.Core.Metadata VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_m3A18848E3279A315CB10AC637EB45DC07CD8D4AA (void);
-// 0x000007E4 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x000007D2 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_m88548025F9FF404702BD22DBABA69B958842AD4A (void);
-// 0x000007E5 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::.ctor()
+// 0x000007D3 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData::.ctor()
 extern void EntityData__ctor_m3751A564F516E12E7CE678D2C6CF552540B3EC7D (void);
-// 0x000007E6 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/ActiveProcess::.ctor(VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData)
+// 0x000007D4 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/ActiveProcess::.ctor(VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData)
 extern void ActiveProcess__ctor_mAAA4BDE1870F73AC764569D3727A49EB6B8FFBF1 (void);
-// 0x000007E7 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/ActiveProcess::Start()
+// 0x000007D5 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/ActiveProcess::Start()
 extern void ActiveProcess_Start_m3F05643CCA4950339EE0C625FC2FDF8A9B501518 (void);
-// 0x000007E8 System.Boolean VRBuilder.Core.Conditions.ObjectInRangeCondition/ActiveProcess::IsInside()
+// 0x000007D6 System.Boolean VRBuilder.Core.Conditions.ObjectInRangeCondition/ActiveProcess::IsInside()
 extern void ActiveProcess_IsInside_m38FA323B4C4F9FE7ACB5F0EDFC9AF7EF26242A62 (void);
-// 0x000007E9 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityAutocompleter::.ctor(VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData)
+// 0x000007D7 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityAutocompleter::.ctor(VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityData)
 extern void EntityAutocompleter__ctor_m35B13C08608F881A67DD72941FE17C8B29727BD4 (void);
-// 0x000007EA System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityAutocompleter::Complete()
+// 0x000007D8 System.Void VRBuilder.Core.Conditions.ObjectInRangeCondition/EntityAutocompleter::Complete()
 extern void EntityAutocompleter_Complete_m771B74CAC1265ABB9ED1F65DE008DE550257E4C2 (void);
-// 0x000007EB System.Void VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1::.ctor(TData)
-// 0x000007EC System.Void VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1::Start()
-// 0x000007ED System.Boolean VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1::IsInside()
-// 0x000007EE System.Collections.IEnumerator VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1::Update()
-// 0x000007EF System.Void VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1::End()
-// 0x000007F0 System.Void VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1::FastForward()
-// 0x000007F1 System.Void VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1/<Update>d__5::.ctor(System.Int32)
-// 0x000007F2 System.Void VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1/<Update>d__5::System.IDisposable.Dispose()
-// 0x000007F3 System.Boolean VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1/<Update>d__5::MoveNext()
-// 0x000007F4 System.Object VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1/<Update>d__5::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
-// 0x000007F5 System.Void VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1/<Update>d__5::System.Collections.IEnumerator.Reset()
-// 0x000007F6 System.Object VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1/<Update>d__5::System.Collections.IEnumerator.get_Current()
-// 0x000007F7 System.Void VRBuilder.Core.Conditions.TimeoutCondition::.ctor()
+// 0x000007D9 System.Void VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1::.ctor(TData)
+// 0x000007DA System.Void VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1::Start()
+// 0x000007DB System.Boolean VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1::IsInside()
+// 0x000007DC System.Collections.IEnumerator VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1::Update()
+// 0x000007DD System.Void VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1::End()
+// 0x000007DE System.Void VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1::FastForward()
+// 0x000007DF System.Void VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1/<Update>d__5::.ctor(System.Int32)
+// 0x000007E0 System.Void VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1/<Update>d__5::System.IDisposable.Dispose()
+// 0x000007E1 System.Boolean VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1/<Update>d__5::MoveNext()
+// 0x000007E2 System.Object VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1/<Update>d__5::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x000007E3 System.Void VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1/<Update>d__5::System.Collections.IEnumerator.Reset()
+// 0x000007E4 System.Object VRBuilder.Core.Conditions.ObjectInTargetActiveProcess`1/<Update>d__5::System.Collections.IEnumerator.get_Current()
+// 0x000007E5 System.Void VRBuilder.Core.Conditions.TimeoutCondition::.ctor()
 extern void TimeoutCondition__ctor_mCFE7BF4A47391EDFA7B49EE05E28FE3C4CA68D72 (void);
-// 0x000007F8 System.Void VRBuilder.Core.Conditions.TimeoutCondition::.ctor(System.Single)
+// 0x000007E6 System.Void VRBuilder.Core.Conditions.TimeoutCondition::.ctor(System.Single)
 extern void TimeoutCondition__ctor_m67BC4B6AA75611EDECFC333F82F42A8709EEBE81 (void);
-// 0x000007F9 VRBuilder.Core.IStageProcess VRBuilder.Core.Conditions.TimeoutCondition::GetActiveProcess()
+// 0x000007E7 VRBuilder.Core.IStageProcess VRBuilder.Core.Conditions.TimeoutCondition::GetActiveProcess()
 extern void TimeoutCondition_GetActiveProcess_m082938D4E238DAC82F8C78DC14F57F7149F8C521 (void);
-// 0x000007FA System.Single VRBuilder.Core.Conditions.TimeoutCondition/EntityData::get_Timeout()
+// 0x000007E8 System.Single VRBuilder.Core.Conditions.TimeoutCondition/EntityData::get_Timeout()
 extern void EntityData_get_Timeout_m98817B0DA063D32A55150A8BF7A545380605F4CC (void);
-// 0x000007FB System.Void VRBuilder.Core.Conditions.TimeoutCondition/EntityData::set_Timeout(System.Single)
+// 0x000007E9 System.Void VRBuilder.Core.Conditions.TimeoutCondition/EntityData::set_Timeout(System.Single)
 extern void EntityData_set_Timeout_mF1F9CBF56CDA510F435B6AD8F74B285C2771A259 (void);
-// 0x000007FC System.Boolean VRBuilder.Core.Conditions.TimeoutCondition/EntityData::get_IsCompleted()
+// 0x000007EA System.Boolean VRBuilder.Core.Conditions.TimeoutCondition/EntityData::get_IsCompleted()
 extern void EntityData_get_IsCompleted_mF26DE0588A0CC78D52B7C1033BFB285A4BCBF294 (void);
-// 0x000007FD System.Void VRBuilder.Core.Conditions.TimeoutCondition/EntityData::set_IsCompleted(System.Boolean)
+// 0x000007EB System.Void VRBuilder.Core.Conditions.TimeoutCondition/EntityData::set_IsCompleted(System.Boolean)
 extern void EntityData_set_IsCompleted_mFDA83C47B6351D1AC5C3B911F41956CD8F234DC0 (void);
-// 0x000007FE System.String VRBuilder.Core.Conditions.TimeoutCondition/EntityData::get_Name()
+// 0x000007EC System.String VRBuilder.Core.Conditions.TimeoutCondition/EntityData::get_Name()
 extern void EntityData_get_Name_m8FE9D892E94469AB7BF3EE270BD021D9A6BED193 (void);
-// 0x000007FF VRBuilder.Core.Metadata VRBuilder.Core.Conditions.TimeoutCondition/EntityData::get_Metadata()
+// 0x000007ED VRBuilder.Core.Metadata VRBuilder.Core.Conditions.TimeoutCondition/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_m7A149137138E0EF5ACDD0DB39448373F1C6DC764 (void);
-// 0x00000800 System.Void VRBuilder.Core.Conditions.TimeoutCondition/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x000007EE System.Void VRBuilder.Core.Conditions.TimeoutCondition/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_m801A0D2DBB2888A944A1507DFADE0306D982507E (void);
-// 0x00000801 System.Void VRBuilder.Core.Conditions.TimeoutCondition/EntityData::.ctor()
+// 0x000007EF System.Void VRBuilder.Core.Conditions.TimeoutCondition/EntityData::.ctor()
 extern void EntityData__ctor_m8BA3D62F2465303B797F02C5299791C3969C2924 (void);
-// 0x00000802 System.Void VRBuilder.Core.Conditions.TimeoutCondition/ActiveProcess::.ctor(VRBuilder.Core.Conditions.TimeoutCondition/EntityData)
+// 0x000007F0 System.Void VRBuilder.Core.Conditions.TimeoutCondition/ActiveProcess::.ctor(VRBuilder.Core.Conditions.TimeoutCondition/EntityData)
 extern void ActiveProcess__ctor_mF85974158B362F8A0F73BFD2D6713F51585B3285 (void);
-// 0x00000803 System.Boolean VRBuilder.Core.Conditions.TimeoutCondition/ActiveProcess::CheckIfCompleted()
+// 0x000007F1 System.Boolean VRBuilder.Core.Conditions.TimeoutCondition/ActiveProcess::CheckIfCompleted()
 extern void ActiveProcess_CheckIfCompleted_m625B4C73095B1509DD3C5FB3AF5517702416D0BC (void);
-// 0x00000804 System.Void VRBuilder.Core.Conditions.TimeoutCondition/ActiveProcess::Start()
+// 0x000007F2 System.Void VRBuilder.Core.Conditions.TimeoutCondition/ActiveProcess::Start()
 extern void ActiveProcess_Start_m0102CF781BBCF7893E50BAC97CC0BF39B188C505 (void);
-// 0x00000805 System.Void VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1::.ctor(TData,VRBuilder.Core.IEntity)
-// 0x00000806 System.Void VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1::Start()
-// 0x00000807 System.Collections.IEnumerator VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1::Update()
-// 0x00000808 System.Void VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1::End()
-// 0x00000809 System.Void VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1::FastForward()
-// 0x0000080A System.Boolean VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1::CheckIfCompleted()
-// 0x0000080B System.Void VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1/<Update>d__2::.ctor(System.Int32)
-// 0x0000080C System.Void VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1/<Update>d__2::System.IDisposable.Dispose()
-// 0x0000080D System.Boolean VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1/<Update>d__2::MoveNext()
-// 0x0000080E System.Object VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
-// 0x0000080F System.Void VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1/<Update>d__2::System.Collections.IEnumerator.Reset()
-// 0x00000810 System.Object VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1/<Update>d__2::System.Collections.IEnumerator.get_Current()
-// 0x00000811 System.Void VRBuilder.Core.Conditions.Condition`1::.ctor()
-// 0x00000812 VRBuilder.Core.Conditions.IConditionData VRBuilder.Core.Conditions.Condition`1::VRBuilder.Core.IDataOwner<VRBuilder.Core.Conditions.IConditionData>.get_Data()
-// 0x00000813 VRBuilder.Core.Conditions.ICondition VRBuilder.Core.Conditions.Condition`1::Clone()
-// 0x00000814 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.RestrictiveEnvironment.LockablePropertyData> VRBuilder.Core.Conditions.Condition`1::GetLockableProperties()
-// 0x00000815 System.Void VRBuilder.Core.Conditions.Condition`1::<.ctor>b__0_0(System.Object,VRBuilder.Core.ActivationStateChangedEventArgs)
-// 0x00000816 System.Boolean VRBuilder.Core.Conditions.ICompletableData::get_IsCompleted()
-// 0x00000817 System.Void VRBuilder.Core.Conditions.ICompletableData::set_IsCompleted(System.Boolean)
-// 0x00000818 System.Void VRBuilder.Core.Behaviors.BehaviorSequence::.ctor()
+// 0x000007F3 System.Void VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1::.ctor(TData,VRBuilder.Core.IEntity)
+// 0x000007F4 System.Void VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1::Start()
+// 0x000007F5 System.Collections.IEnumerator VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1::Update()
+// 0x000007F6 System.Void VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1::End()
+// 0x000007F7 System.Void VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1::FastForward()
+// 0x000007F8 System.Boolean VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1::CheckIfCompleted()
+// 0x000007F9 System.Void VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1/<Update>d__2::.ctor(System.Int32)
+// 0x000007FA System.Void VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1/<Update>d__2::System.IDisposable.Dispose()
+// 0x000007FB System.Boolean VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1/<Update>d__2::MoveNext()
+// 0x000007FC System.Object VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x000007FD System.Void VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1/<Update>d__2::System.Collections.IEnumerator.Reset()
+// 0x000007FE System.Object VRBuilder.Core.Conditions.BaseActiveProcessOverCompletable`1/<Update>d__2::System.Collections.IEnumerator.get_Current()
+// 0x000007FF System.Void VRBuilder.Core.Conditions.Condition`1::.ctor()
+// 0x00000800 VRBuilder.Core.Conditions.IConditionData VRBuilder.Core.Conditions.Condition`1::VRBuilder.Core.IDataOwner<VRBuilder.Core.Conditions.IConditionData>.get_Data()
+// 0x00000801 VRBuilder.Core.Conditions.ICondition VRBuilder.Core.Conditions.Condition`1::Clone()
+// 0x00000802 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.RestrictiveEnvironment.LockablePropertyData> VRBuilder.Core.Conditions.Condition`1::GetLockableProperties()
+// 0x00000803 System.Void VRBuilder.Core.Conditions.Condition`1::<.ctor>b__0_0(System.Object,VRBuilder.Core.ActivationStateChangedEventArgs)
+// 0x00000804 System.Boolean VRBuilder.Core.Conditions.ICompletableData::get_IsCompleted()
+// 0x00000805 System.Void VRBuilder.Core.Conditions.ICompletableData::set_IsCompleted(System.Boolean)
+// 0x00000806 System.Void VRBuilder.Core.Behaviors.BehaviorSequence::.ctor()
 extern void BehaviorSequence__ctor_mCCA29001F70E3846F3236EEA8BF97975992004F9 (void);
-// 0x00000819 System.Void VRBuilder.Core.Behaviors.BehaviorSequence::.ctor(System.Boolean,System.Collections.Generic.IList`1<VRBuilder.Core.Behaviors.IBehavior>)
+// 0x00000807 System.Void VRBuilder.Core.Behaviors.BehaviorSequence::.ctor(System.Boolean,System.Collections.Generic.IList`1<VRBuilder.Core.Behaviors.IBehavior>)
 extern void BehaviorSequence__ctor_m7486C4D630D854446522D7715FE0F36E76DCDF31 (void);
-// 0x0000081A System.Void VRBuilder.Core.Behaviors.BehaviorSequence::.ctor(System.Boolean,System.Collections.Generic.IList`1<VRBuilder.Core.Behaviors.IBehavior>,System.Boolean)
+// 0x00000808 System.Void VRBuilder.Core.Behaviors.BehaviorSequence::.ctor(System.Boolean,System.Collections.Generic.IList`1<VRBuilder.Core.Behaviors.IBehavior>,System.Boolean)
 extern void BehaviorSequence__ctor_mA64AF9ED489CAC8EF0F395AE0490B461A1D76D8C (void);
-// 0x0000081B VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.BehaviorSequence::GetActivatingProcess()
+// 0x00000809 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.BehaviorSequence::GetActivatingProcess()
 extern void BehaviorSequence_GetActivatingProcess_m54D485932D8FE56BF0EF83D1786B9E8BAB45951A (void);
-// 0x0000081C VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.BehaviorSequence::GetActiveProcess()
+// 0x0000080A VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.BehaviorSequence::GetActiveProcess()
 extern void BehaviorSequence_GetActiveProcess_m1C2481047D967E701099DAD008FCE57830C38674 (void);
-// 0x0000081D VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.BehaviorSequence::GetDeactivatingProcess()
+// 0x0000080B VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.BehaviorSequence::GetDeactivatingProcess()
 extern void BehaviorSequence_GetDeactivatingProcess_mF13626D2BF6B7A266EDE7A36CFAD2926A22E4725 (void);
-// 0x0000081E VRBuilder.Core.Configuration.Modes.IConfigurator VRBuilder.Core.Behaviors.BehaviorSequence::GetConfigurator()
+// 0x0000080C VRBuilder.Core.Configuration.Modes.IConfigurator VRBuilder.Core.Behaviors.BehaviorSequence::GetConfigurator()
 extern void BehaviorSequence_GetConfigurator_m548ECA2661108CFFEE4C550CF4C1D1E720A13D32 (void);
-// 0x0000081F System.Boolean VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::get_PlaysOnRepeat()
+// 0x0000080D System.Boolean VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::get_PlaysOnRepeat()
 extern void EntityData_get_PlaysOnRepeat_m2192A95493BA644C10219C92B6C70EBD5FED9D26 (void);
-// 0x00000820 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::set_PlaysOnRepeat(System.Boolean)
+// 0x0000080E System.Void VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::set_PlaysOnRepeat(System.Boolean)
 extern void EntityData_set_PlaysOnRepeat_mAA6A366440741FFDCC6091C3002233C1CDFD8106 (void);
-// 0x00000821 System.Collections.Generic.List`1<VRBuilder.Core.Behaviors.IBehavior> VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::get_Behaviors()
+// 0x0000080F System.Collections.Generic.List`1<VRBuilder.Core.Behaviors.IBehavior> VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::get_Behaviors()
 extern void EntityData_get_Behaviors_mB4C897B710A3E67C687322DD3D521E2BB98F4157 (void);
-// 0x00000822 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::set_Behaviors(System.Collections.Generic.List`1<VRBuilder.Core.Behaviors.IBehavior>)
+// 0x00000810 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::set_Behaviors(System.Collections.Generic.List`1<VRBuilder.Core.Behaviors.IBehavior>)
 extern void EntityData_set_Behaviors_m70507603E99CFF2B2B228813BFDC62D59C0C16D1 (void);
-// 0x00000823 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.Behaviors.IBehavior> VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::GetChildren()
+// 0x00000811 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.Behaviors.IBehavior> VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::GetChildren()
 extern void EntityData_GetChildren_mD2385B0011656D7B554DEBE25674B6EC65485EF0 (void);
-// 0x00000824 VRBuilder.Core.Behaviors.IBehavior VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::get_Current()
+// 0x00000812 VRBuilder.Core.Behaviors.IBehavior VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::get_Current()
 extern void EntityData_get_Current_mB3DA1E5C84637B90C71313C9A178B4EDB9B9B18B (void);
-// 0x00000825 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::set_Current(VRBuilder.Core.Behaviors.IBehavior)
+// 0x00000813 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::set_Current(VRBuilder.Core.Behaviors.IBehavior)
 extern void EntityData_set_Current_m649A206D95CAF96CB0A1C927CBF8A88C357C8BA1 (void);
-// 0x00000826 System.String VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::get_Name()
+// 0x00000814 System.String VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::get_Name()
 extern void EntityData_get_Name_m565FC3C8E613D21F398380D5FCA2EA18FF737998 (void);
-// 0x00000827 VRBuilder.Core.Configuration.Modes.IMode VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::get_Mode()
+// 0x00000815 VRBuilder.Core.Configuration.Modes.IMode VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::get_Mode()
 extern void EntityData_get_Mode_m51D81C73262D96179BAE45A3C9D6C5EB15D37A64 (void);
-// 0x00000828 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::set_Mode(VRBuilder.Core.Configuration.Modes.IMode)
+// 0x00000816 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::set_Mode(VRBuilder.Core.Configuration.Modes.IMode)
 extern void EntityData_set_Mode_m0566E20F342BB164879AC70092F8D89429748C4E (void);
-// 0x00000829 System.Boolean VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::get_IsBlocking()
+// 0x00000817 System.Boolean VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::get_IsBlocking()
 extern void EntityData_get_IsBlocking_m67DCE379AF741417FB5451D83FF653F9686F7FA3 (void);
-// 0x0000082A System.Void VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::set_IsBlocking(System.Boolean)
+// 0x00000818 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::set_IsBlocking(System.Boolean)
 extern void EntityData_set_IsBlocking_m182BE98D92B90372CE487194C5E39CC92AB4A688 (void);
-// 0x0000082B System.Void VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::.ctor()
+// 0x00000819 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/EntityData::.ctor()
 extern void EntityData__ctor_m3D2CA5649E162F8C3933EEC317AFF0F8FE6302DB (void);
-// 0x0000082C System.Void VRBuilder.Core.Behaviors.BehaviorSequence/IteratingProcess::.ctor(VRBuilder.Core.EntityOwners.IEntitySequenceDataWithMode`1<VRBuilder.Core.Behaviors.IBehavior>)
+// 0x0000081A System.Void VRBuilder.Core.Behaviors.BehaviorSequence/IteratingProcess::.ctor(VRBuilder.Core.EntityOwners.IEntitySequenceDataWithMode`1<VRBuilder.Core.Behaviors.IBehavior>)
 extern void IteratingProcess__ctor_m65CEBBBD17FEBCA0F93A8A96CCEF96279BD5A454 (void);
-// 0x0000082D System.Void VRBuilder.Core.Behaviors.BehaviorSequence/IteratingProcess::Start()
+// 0x0000081B System.Void VRBuilder.Core.Behaviors.BehaviorSequence/IteratingProcess::Start()
 extern void IteratingProcess_Start_m3E197FD899E482A8159BEFD13A0358599A4DDAB2 (void);
-// 0x0000082E System.Boolean VRBuilder.Core.Behaviors.BehaviorSequence/IteratingProcess::ShouldActivateCurrent()
+// 0x0000081C System.Boolean VRBuilder.Core.Behaviors.BehaviorSequence/IteratingProcess::ShouldActivateCurrent()
 extern void IteratingProcess_ShouldActivateCurrent_mE513AAB6F6D38F454E590FC3CAF7582B74CB6DC4 (void);
-// 0x0000082F System.Boolean VRBuilder.Core.Behaviors.BehaviorSequence/IteratingProcess::ShouldDeactivateCurrent()
+// 0x0000081D System.Boolean VRBuilder.Core.Behaviors.BehaviorSequence/IteratingProcess::ShouldDeactivateCurrent()
 extern void IteratingProcess_ShouldDeactivateCurrent_m631076FB739649D2D066877F59358B99FC649F8C (void);
-// 0x00000830 System.Boolean VRBuilder.Core.Behaviors.BehaviorSequence/IteratingProcess::TryNext(VRBuilder.Core.Behaviors.IBehavior&)
+// 0x0000081E System.Boolean VRBuilder.Core.Behaviors.BehaviorSequence/IteratingProcess::TryNext(VRBuilder.Core.Behaviors.IBehavior&)
 extern void IteratingProcess_TryNext_m217D13F83A15BFF321EF986647A47C919622D6D5 (void);
-// 0x00000831 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess::.ctor(VRBuilder.Core.Behaviors.BehaviorSequence/EntityData)
+// 0x0000081F System.Void VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess::.ctor(VRBuilder.Core.Behaviors.BehaviorSequence/EntityData)
 extern void ActiveProcess__ctor_mBB6B37B091348E5A30495CDEAB7D56CF05E11EA7 (void);
-// 0x00000832 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess::Start()
+// 0x00000820 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess::Start()
 extern void ActiveProcess_Start_mE9C6B04A8D9EE26FD13A9E17A39D598D1FEAC68B (void);
-// 0x00000833 System.Collections.IEnumerator VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess::Update()
+// 0x00000821 System.Collections.IEnumerator VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess::Update()
 extern void ActiveProcess_Update_m1EB8A5E13EEECF467EB65DEED142B6A0843139F9 (void);
-// 0x00000834 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess::End()
+// 0x00000822 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess::End()
 extern void ActiveProcess_End_m4943F2FB7ED3EF362AD1802645457FCD93786B48 (void);
-// 0x00000835 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess::FastForward()
+// 0x00000823 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess::FastForward()
 extern void ActiveProcess_FastForward_m968A4C0421B92DB2E3688E8BC80BC4086F1D4A9D (void);
-// 0x00000836 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess/<Update>d__3::.ctor(System.Int32)
+// 0x00000824 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess/<Update>d__3::.ctor(System.Int32)
 extern void U3CUpdateU3Ed__3__ctor_m938ED1ABECB393EE4A2C907F22B8645A9704417D (void);
-// 0x00000837 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess/<Update>d__3::System.IDisposable.Dispose()
+// 0x00000825 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess/<Update>d__3::System.IDisposable.Dispose()
 extern void U3CUpdateU3Ed__3_System_IDisposable_Dispose_m66A82A840084272BE900CF3153C5E75F96554BCD (void);
-// 0x00000838 System.Boolean VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess/<Update>d__3::MoveNext()
+// 0x00000826 System.Boolean VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess/<Update>d__3::MoveNext()
 extern void U3CUpdateU3Ed__3_MoveNext_mE9F81E04762A074A7F8650ABAB73185757118B69 (void);
-// 0x00000839 System.Object VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess/<Update>d__3::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x00000827 System.Object VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess/<Update>d__3::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CUpdateU3Ed__3_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m94E8495A57E69B6A33ACDC93E075ED6132275434 (void);
-// 0x0000083A System.Void VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess/<Update>d__3::System.Collections.IEnumerator.Reset()
+// 0x00000828 System.Void VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess/<Update>d__3::System.Collections.IEnumerator.Reset()
 extern void U3CUpdateU3Ed__3_System_Collections_IEnumerator_Reset_m9AEED064F49808E0BF5B8F20438577A05CB86DFD (void);
-// 0x0000083B System.Object VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess/<Update>d__3::System.Collections.IEnumerator.get_Current()
+// 0x00000829 System.Object VRBuilder.Core.Behaviors.BehaviorSequence/ActiveProcess/<Update>d__3::System.Collections.IEnumerator.get_Current()
 extern void U3CUpdateU3Ed__3_System_Collections_IEnumerator_get_Current_mD79F405C3612DAC5D07E5BE189F1FBF4BF84D61B (void);
-// 0x0000083C System.Void VRBuilder.Core.Behaviors.ConfettiBehavior::.ctor()
+// 0x0000082A System.Void VRBuilder.Core.Behaviors.ConfettiBehavior::.ctor()
 extern void ConfettiBehavior__ctor_mE0FFA80C57E35BF23B3211AAF22BDA3B18614111 (void);
-// 0x0000083D System.Void VRBuilder.Core.Behaviors.ConfettiBehavior::.ctor(System.Boolean,VRBuilder.Core.SceneObjects.ISceneObject,System.String,System.Single,System.Single,VRBuilder.Core.Behaviors.BehaviorExecutionStages)
+// 0x0000082B System.Void VRBuilder.Core.Behaviors.ConfettiBehavior::.ctor(System.Boolean,VRBuilder.Core.SceneObjects.ISceneObject,System.String,System.Single,System.Single,VRBuilder.Core.Behaviors.BehaviorExecutionStages)
 extern void ConfettiBehavior__ctor_m28212967D11CCE26C2B2C9309BEB7F80D6E29DC0 (void);
-// 0x0000083E System.Void VRBuilder.Core.Behaviors.ConfettiBehavior::.ctor(System.Boolean,System.String,System.String,System.Single,System.Single,VRBuilder.Core.Behaviors.BehaviorExecutionStages)
+// 0x0000082C System.Void VRBuilder.Core.Behaviors.ConfettiBehavior::.ctor(System.Boolean,System.String,System.String,System.Single,System.Single,VRBuilder.Core.Behaviors.BehaviorExecutionStages)
 extern void ConfettiBehavior__ctor_m8C79EF440FC10C113438BBDC2D1F9D59E2F68EF0 (void);
-// 0x0000083F VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.ConfettiBehavior::GetActivatingProcess()
+// 0x0000082D VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.ConfettiBehavior::GetActivatingProcess()
 extern void ConfettiBehavior_GetActivatingProcess_m4CEB8E070370718A4DE6A8610D45A1CEA339E173 (void);
-// 0x00000840 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.ConfettiBehavior::GetDeactivatingProcess()
+// 0x0000082E VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.ConfettiBehavior::GetDeactivatingProcess()
 extern void ConfettiBehavior_GetDeactivatingProcess_mD2E7EB7BAACF4B552B3BD0A7001FE57DB9F85A29 (void);
-// 0x00000841 System.Boolean VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::get_IsAboveUser()
+// 0x0000082F System.Boolean VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::get_IsAboveUser()
 extern void EntityData_get_IsAboveUser_m9DE1D83C7149B297CB9C2FC66AD345E133D05CD2 (void);
-// 0x00000842 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::set_IsAboveUser(System.Boolean)
+// 0x00000830 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::set_IsAboveUser(System.Boolean)
 extern void EntityData_set_IsAboveUser_m3ECF2BE37D00E98EA4512015A8F833A14798FA27 (void);
-// 0x00000843 VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::get_PositionProvider()
+// 0x00000831 VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::get_PositionProvider()
 extern void EntityData_get_PositionProvider_mBEA633EDB44E8B262C812CF2E00E270D9242C4AA (void);
-// 0x00000844 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::set_PositionProvider(VRBuilder.Core.SceneObjects.SceneObjectReference)
+// 0x00000832 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::set_PositionProvider(VRBuilder.Core.SceneObjects.SceneObjectReference)
 extern void EntityData_set_PositionProvider_m742E60234F185ABE07904F7299261D632D02D7E0 (void);
-// 0x00000845 System.String VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::get_ConfettiMachinePrefabPath()
+// 0x00000833 System.String VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::get_ConfettiMachinePrefabPath()
 extern void EntityData_get_ConfettiMachinePrefabPath_mE0A0B8D80FF29029C5C8C6A0F65F8DA177A3CCB7 (void);
-// 0x00000846 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::set_ConfettiMachinePrefabPath(System.String)
+// 0x00000834 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::set_ConfettiMachinePrefabPath(System.String)
 extern void EntityData_set_ConfettiMachinePrefabPath_m85D18286E875936D7A3BC7262C953675702F1838 (void);
-// 0x00000847 System.Single VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::get_AreaRadius()
+// 0x00000835 System.Single VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::get_AreaRadius()
 extern void EntityData_get_AreaRadius_m2A39A5AA9999F347F04BBDC9323D9096BDDB17DF (void);
-// 0x00000848 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::set_AreaRadius(System.Single)
+// 0x00000836 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::set_AreaRadius(System.Single)
 extern void EntityData_set_AreaRadius_m6B78012DE48B874E379C3C28C2B7B153D3EF2BD1 (void);
-// 0x00000849 System.Single VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::get_Duration()
+// 0x00000837 System.Single VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::get_Duration()
 extern void EntityData_get_Duration_mF3A1742E5AEECC4F6D80561B39180250722B253C (void);
-// 0x0000084A System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::set_Duration(System.Single)
+// 0x00000838 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::set_Duration(System.Single)
 extern void EntityData_set_Duration_mC75C460679FEFA23CA34E598C1A0C5439BFA8EE9 (void);
-// 0x0000084B VRBuilder.Core.Behaviors.BehaviorExecutionStages VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::get_ExecutionStages()
+// 0x00000839 VRBuilder.Core.Behaviors.BehaviorExecutionStages VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::get_ExecutionStages()
 extern void EntityData_get_ExecutionStages_m56729E30C62CD055444E3F1269BE887B35CCDA71 (void);
-// 0x0000084C System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::set_ExecutionStages(VRBuilder.Core.Behaviors.BehaviorExecutionStages)
+// 0x0000083A System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::set_ExecutionStages(VRBuilder.Core.Behaviors.BehaviorExecutionStages)
 extern void EntityData_set_ExecutionStages_mF97F2F459330D8F61BF3E2B8881B1472683F4945 (void);
-// 0x0000084D UnityEngine.GameObject VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::get_ConfettiMachine()
+// 0x0000083B UnityEngine.GameObject VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::get_ConfettiMachine()
 extern void EntityData_get_ConfettiMachine_m6751977A26DE92E3AB23C5A330FEEB108CBD6811 (void);
-// 0x0000084E System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::set_ConfettiMachine(UnityEngine.GameObject)
+// 0x0000083C System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::set_ConfettiMachine(UnityEngine.GameObject)
 extern void EntityData_set_ConfettiMachine_mCC605C60FF8740A9CF01047DFA156A94C7849F7F (void);
-// 0x0000084F VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::get_Metadata()
+// 0x0000083D VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_mD4228E48402CDD545263D53678A1058614D20751 (void);
-// 0x00000850 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x0000083E System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_m088ECCB4D0A5CD810EF5FD55908968FD371F20BD (void);
-// 0x00000851 System.String VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::get_Name()
+// 0x0000083F System.String VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_m421AAA5F6F7B6EE52A0A07D019E6B736B95B2AF8 (void);
-// 0x00000852 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::.ctor()
+// 0x00000840 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData::.ctor()
 extern void EntityData__ctor_m3B9B1AA25C3711F73A8B51ED54CCA6CBB3878853 (void);
-// 0x00000853 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess::.ctor(VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData,VRBuilder.Core.Behaviors.BehaviorExecutionStages)
+// 0x00000841 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess::.ctor(VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData,VRBuilder.Core.Behaviors.BehaviorExecutionStages)
 extern void EmitConfettiProcess__ctor_mDBE371843A4E2A9D2C7DD35F2546DB5963928F09 (void);
-// 0x00000854 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess::Start()
+// 0x00000842 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess::Start()
 extern void EmitConfettiProcess_Start_m139F18ADB5B018B5B8E2882453278C2AEA898042 (void);
-// 0x00000855 System.Collections.IEnumerator VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess::Update()
+// 0x00000843 System.Collections.IEnumerator VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess::Update()
 extern void EmitConfettiProcess_Update_mA9105DDF2A066E90DC78EF02846D3C62C1F083A2 (void);
-// 0x00000856 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess::End()
+// 0x00000844 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess::End()
 extern void EmitConfettiProcess_End_mF283C6EA60C747E1A966C211200D701BDCA4B63A (void);
-// 0x00000857 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess::FastForward()
+// 0x00000845 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess::FastForward()
 extern void EmitConfettiProcess_FastForward_m33F1A51C9D198DD2DBD09BC59192F2AF9E102178 (void);
-// 0x00000858 System.Boolean VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess::ShouldExecuteCurrentStage(VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData)
+// 0x00000846 System.Boolean VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess::ShouldExecuteCurrentStage(VRBuilder.Core.Behaviors.ConfettiBehavior/EntityData)
 extern void EmitConfettiProcess_ShouldExecuteCurrentStage_m3918002E623268B471BA9545181953D220C85560 (void);
-// 0x00000859 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess::CreateConfettiMachine(UnityEngine.Vector3)
+// 0x00000847 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess::CreateConfettiMachine(UnityEngine.Vector3)
 extern void EmitConfettiProcess_CreateConfettiMachine_m0721DECBFC62F7694F09319ECA7E769D17A79FC2 (void);
-// 0x0000085A System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess/<Update>d__6::.ctor(System.Int32)
+// 0x00000848 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess/<Update>d__6::.ctor(System.Int32)
 extern void U3CUpdateU3Ed__6__ctor_m49008DB95728432B9CE1AFA6A6EFCD831183DF11 (void);
-// 0x0000085B System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess/<Update>d__6::System.IDisposable.Dispose()
+// 0x00000849 System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess/<Update>d__6::System.IDisposable.Dispose()
 extern void U3CUpdateU3Ed__6_System_IDisposable_Dispose_m6A277D904C697FEB80A111AE88C1BFACAFF6E3DA (void);
-// 0x0000085C System.Boolean VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess/<Update>d__6::MoveNext()
+// 0x0000084A System.Boolean VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess/<Update>d__6::MoveNext()
 extern void U3CUpdateU3Ed__6_MoveNext_mF39810F96B43DFF629C549D01200C9E1EC645086 (void);
-// 0x0000085D System.Object VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess/<Update>d__6::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x0000084B System.Object VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess/<Update>d__6::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CUpdateU3Ed__6_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m4800ABE840405F3F03515720BF659BF472670E1A (void);
-// 0x0000085E System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess/<Update>d__6::System.Collections.IEnumerator.Reset()
+// 0x0000084C System.Void VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess/<Update>d__6::System.Collections.IEnumerator.Reset()
 extern void U3CUpdateU3Ed__6_System_Collections_IEnumerator_Reset_m3630D623B518BFF39B67F50394687774BBB6EB3C (void);
-// 0x0000085F System.Object VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess/<Update>d__6::System.Collections.IEnumerator.get_Current()
+// 0x0000084D System.Object VRBuilder.Core.Behaviors.ConfettiBehavior/EmitConfettiProcess/<Update>d__6::System.Collections.IEnumerator.get_Current()
 extern void U3CUpdateU3Ed__6_System_Collections_IEnumerator_get_Current_mEA432A7C604683B09FD9E31329B70D79BBFDB71D (void);
-// 0x00000860 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior::.ctor()
+// 0x0000084E System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior::.ctor()
 extern void ControlParticleEmissionBehavior__ctor_m7F986D2B3E2DB3350BD17F078BEDF20D9E0E798B (void);
-// 0x00000861 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior::.ctor(System.Boolean)
+// 0x0000084F System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior::.ctor(System.Boolean)
 extern void ControlParticleEmissionBehavior__ctor_m988D22F7751894A2AB1DF6C13C9BF0AFE0DCD773 (void);
-// 0x00000862 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior::GetActivatingProcess()
+// 0x00000850 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior::GetActivatingProcess()
 extern void ControlParticleEmissionBehavior_GetActivatingProcess_m33A2472FDF2E6EC773C684F69B9D31C3861915EA (void);
-// 0x00000863 VRBuilder.Core.SceneObjects.PropertyReferenceOrTagSelectableValue`1<VRBuilder.Core.Properties.IParticleSystemProperty> VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/EntityData::get_Target()
+// 0x00000851 VRBuilder.Core.SceneObjects.PropertyReferenceOrTagSelectableValue`1<VRBuilder.Core.Properties.IParticleSystemProperty> VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/EntityData::get_Target()
 extern void EntityData_get_Target_m12DE69327A4F7A43EFC2EBCD5AB19240070451E5 (void);
-// 0x00000864 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/EntityData::set_Target(VRBuilder.Core.SceneObjects.PropertyReferenceOrTagSelectableValue`1<VRBuilder.Core.Properties.IParticleSystemProperty>)
+// 0x00000852 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/EntityData::set_Target(VRBuilder.Core.SceneObjects.PropertyReferenceOrTagSelectableValue`1<VRBuilder.Core.Properties.IParticleSystemProperty>)
 extern void EntityData_set_Target_m478D421671B6C2B93A594CA83230E7F9996A3B3B (void);
-// 0x00000865 System.Boolean VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/EntityData::get_EmitParticles()
+// 0x00000853 System.Boolean VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/EntityData::get_EmitParticles()
 extern void EntityData_get_EmitParticles_mC61AF0D8D06919C3A8AAD0750A213DF0F1254AEA (void);
-// 0x00000866 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/EntityData::set_EmitParticles(System.Boolean)
+// 0x00000854 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/EntityData::set_EmitParticles(System.Boolean)
 extern void EntityData_set_EmitParticles_m2074288616F213F4CEAAF0FA8AE8AF70CC514C31 (void);
-// 0x00000867 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/EntityData::get_Metadata()
+// 0x00000855 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_m891C98B549BD048071AFAFEDAA20A14477F97230 (void);
-// 0x00000868 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x00000856 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_mC2578E11DEF081444555DD4D5DB4F171A3EE4FF1 (void);
-// 0x00000869 System.String VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/EntityData::get_Name()
+// 0x00000857 System.String VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_mB161129E8D9A0BEB590AD4B452622A276AD71ADE (void);
-// 0x0000086A System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/EntityData::.ctor()
+// 0x00000858 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/EntityData::.ctor()
 extern void EntityData__ctor_m7CB0BBC683354C5F942BEBC403A99748F9A52B12 (void);
-// 0x0000086B System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/EntityData)
+// 0x00000859 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/EntityData)
 extern void ActivatingProcess__ctor_mC4DAA4337B1AA0FEA0D15C0FE0E7500CBF4E254C (void);
-// 0x0000086C System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess::Start()
+// 0x0000085A System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess::Start()
 extern void ActivatingProcess_Start_m5FFD4C0D63752158674199DE1D8B0A542D8533AC (void);
-// 0x0000086D System.Collections.IEnumerator VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess::Update()
+// 0x0000085B System.Collections.IEnumerator VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess::Update()
 extern void ActivatingProcess_Update_m3F2E54C9DC62F573E35E2400AF84CA6E637BAB7B (void);
-// 0x0000086E System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess::End()
+// 0x0000085C System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess::End()
 extern void ActivatingProcess_End_m404F01077CC78BED2327E88EAC5DC8A17A638AF2 (void);
-// 0x0000086F System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess::FastForward()
+// 0x0000085D System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess::FastForward()
 extern void ActivatingProcess_FastForward_m16A16A84F442FEFB249285271BB5D9D16F83B4FC (void);
-// 0x00000870 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<>c::.cctor()
+// 0x0000085E System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<>c::.cctor()
 extern void U3CU3Ec__cctor_m6EF60887D3F54BD5F20DBFE8B54C2BC5CA7E599E (void);
-// 0x00000871 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<>c::.ctor()
+// 0x0000085F System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<>c::.ctor()
 extern void U3CU3Ec__ctor_m2989D883296268252A0B01E3DFE05A31D207E2C8 (void);
-// 0x00000872 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<>c::<Start>b__1_0(VRBuilder.Core.Properties.IParticleSystemProperty)
+// 0x00000860 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<>c::<Start>b__1_0(VRBuilder.Core.Properties.IParticleSystemProperty)
 extern void U3CU3Ec_U3CStartU3Eb__1_0_m4F4C415A2CEC41171DA41CDBBA5B7AFD74CC595C (void);
-// 0x00000873 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<>c::<Start>b__1_1(VRBuilder.Core.Properties.IParticleSystemProperty)
+// 0x00000861 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<>c::<Start>b__1_1(VRBuilder.Core.Properties.IParticleSystemProperty)
 extern void U3CU3Ec_U3CStartU3Eb__1_1_mE8D2DF6078AC12E7C913597C19065E3163A28F6D (void);
-// 0x00000874 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<Update>d__2::.ctor(System.Int32)
+// 0x00000862 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<Update>d__2::.ctor(System.Int32)
 extern void U3CUpdateU3Ed__2__ctor_m891D34C8B876EAA9F5DDE9B665FDF15BEEA37090 (void);
-// 0x00000875 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<Update>d__2::System.IDisposable.Dispose()
+// 0x00000863 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<Update>d__2::System.IDisposable.Dispose()
 extern void U3CUpdateU3Ed__2_System_IDisposable_Dispose_m150181003E16EE54829B9B8531EDBEDDB49E13AF (void);
-// 0x00000876 System.Boolean VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<Update>d__2::MoveNext()
+// 0x00000864 System.Boolean VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<Update>d__2::MoveNext()
 extern void U3CUpdateU3Ed__2_MoveNext_m38F045BA18A394E3E4050AFA33334117EF88AADC (void);
-// 0x00000877 System.Object VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x00000865 System.Object VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m6C4B95F8AB7D4B2AC5729DE1F15D838DD61DC72C (void);
-// 0x00000878 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
+// 0x00000866 System.Void VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_Reset_m65EDDFD344B6A89997692141B0EE7AD418F3E973 (void);
-// 0x00000879 System.Object VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
+// 0x00000867 System.Object VRBuilder.Core.Behaviors.ControlParticleEmissionBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_get_Current_mFF907A4B6F61E1CFADA71F54F31C1C71F28EE053 (void);
-// 0x0000087A System.Void VRBuilder.Core.Behaviors.DelayBehavior::.ctor()
+// 0x00000868 System.Void VRBuilder.Core.Behaviors.DelayBehavior::.ctor()
 extern void DelayBehavior__ctor_mFE34C49B748014F8D08CA013BC0FF91D6613866A (void);
-// 0x0000087B System.Void VRBuilder.Core.Behaviors.DelayBehavior::.ctor(System.Single)
+// 0x00000869 System.Void VRBuilder.Core.Behaviors.DelayBehavior::.ctor(System.Single)
 extern void DelayBehavior__ctor_m8E512ACBECB08271580824C65AB52259F1E5F1DE (void);
-// 0x0000087C VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.DelayBehavior::GetActivatingProcess()
+// 0x0000086A VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.DelayBehavior::GetActivatingProcess()
 extern void DelayBehavior_GetActivatingProcess_mCE329F11FFEDC68AB5F847B00A5D79EC9C458978 (void);
-// 0x0000087D System.Single VRBuilder.Core.Behaviors.DelayBehavior/EntityData::get_DelayTime()
+// 0x0000086B System.Single VRBuilder.Core.Behaviors.DelayBehavior/EntityData::get_DelayTime()
 extern void EntityData_get_DelayTime_m22A650428015940F6893682A4E0FFB350590EF01 (void);
-// 0x0000087E System.Void VRBuilder.Core.Behaviors.DelayBehavior/EntityData::set_DelayTime(System.Single)
+// 0x0000086C System.Void VRBuilder.Core.Behaviors.DelayBehavior/EntityData::set_DelayTime(System.Single)
 extern void EntityData_set_DelayTime_mEC06F154C655361C6599F73CDEA9923184E56F9C (void);
-// 0x0000087F VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.DelayBehavior/EntityData::get_Metadata()
+// 0x0000086D VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.DelayBehavior/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_mB49AFBEF0EB87F7C67A021F5141EA1FCC775B432 (void);
-// 0x00000880 System.Void VRBuilder.Core.Behaviors.DelayBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x0000086E System.Void VRBuilder.Core.Behaviors.DelayBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_m998F5E402B4516DA960C7A85B3D2A95D6E129818 (void);
-// 0x00000881 System.String VRBuilder.Core.Behaviors.DelayBehavior/EntityData::get_Name()
+// 0x0000086F System.String VRBuilder.Core.Behaviors.DelayBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_m1D6535152019FC8379F73CF55E9E42BE540A1892 (void);
-// 0x00000882 System.Void VRBuilder.Core.Behaviors.DelayBehavior/EntityData::.ctor()
+// 0x00000870 System.Void VRBuilder.Core.Behaviors.DelayBehavior/EntityData::.ctor()
 extern void EntityData__ctor_mD0FA02732E7834DFB6DCB2140E9264C73684CAF4 (void);
-// 0x00000883 System.Void VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.DelayBehavior/EntityData)
+// 0x00000871 System.Void VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.DelayBehavior/EntityData)
 extern void ActivatingProcess__ctor_mB12E5A7C4CD953422FA57852F408B79C253F3FD0 (void);
-// 0x00000884 System.Void VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess::Start()
+// 0x00000872 System.Void VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess::Start()
 extern void ActivatingProcess_Start_m0F8442503F66DF3F28029487B02D9DC24B52BA4E (void);
-// 0x00000885 System.Collections.IEnumerator VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess::Update()
+// 0x00000873 System.Collections.IEnumerator VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess::Update()
 extern void ActivatingProcess_Update_m6B3880B8AE8796EAE79D43B003637462A14BCC6A (void);
-// 0x00000886 System.Void VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess::End()
+// 0x00000874 System.Void VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess::End()
 extern void ActivatingProcess_End_m17F2597465E4709CA2A665FA4EEBE9783DB57426 (void);
-// 0x00000887 System.Void VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess::FastForward()
+// 0x00000875 System.Void VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess::FastForward()
 extern void ActivatingProcess_FastForward_m5CCE5F8E8E360633A065D221199ECF6140A40EDA (void);
-// 0x00000888 System.Void VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess/<Update>d__2::.ctor(System.Int32)
+// 0x00000876 System.Void VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess/<Update>d__2::.ctor(System.Int32)
 extern void U3CUpdateU3Ed__2__ctor_m62A0B2965B0D92C11444E1EFDF95A3822715123A (void);
-// 0x00000889 System.Void VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess/<Update>d__2::System.IDisposable.Dispose()
+// 0x00000877 System.Void VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess/<Update>d__2::System.IDisposable.Dispose()
 extern void U3CUpdateU3Ed__2_System_IDisposable_Dispose_mEA267AA29BAF2A75625398C546CC43C3F33969C9 (void);
-// 0x0000088A System.Boolean VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess/<Update>d__2::MoveNext()
+// 0x00000878 System.Boolean VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess/<Update>d__2::MoveNext()
 extern void U3CUpdateU3Ed__2_MoveNext_m0877D999ADD60E74746E5FF379E3428BC60C54B7 (void);
-// 0x0000088B System.Object VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x00000879 System.Object VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m3638B6B4976507FD16266DEBEF3B521A10A24C83 (void);
-// 0x0000088C System.Void VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
+// 0x0000087A System.Void VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_Reset_m5A2F0616A90790BA4492C1E73C7221EE10BE492A (void);
-// 0x0000088D System.Object VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
+// 0x0000087B System.Object VRBuilder.Core.Behaviors.DelayBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_get_Current_mFE767A59DFD2642F0A9B79DE49B406F3F5C63C24 (void);
-// 0x0000088E VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.DisableGameObjectBehavior::GetActivatingProcess()
+// 0x0000087C VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.DisableGameObjectBehavior::GetActivatingProcess()
 extern void DisableGameObjectBehavior_GetActivatingProcess_mB9FD306A43F4A1FE7C357B10EFC9830943F687B7 (void);
-// 0x0000088F System.Void VRBuilder.Core.Behaviors.DisableGameObjectBehavior::.ctor()
+// 0x0000087D System.Void VRBuilder.Core.Behaviors.DisableGameObjectBehavior::.ctor()
 extern void DisableGameObjectBehavior__ctor_m52014EE9D3B3FABF84DF0ECF49E2D0FFA2388673 (void);
-// 0x00000890 System.Void VRBuilder.Core.Behaviors.DisableGameObjectBehavior::.ctor(VRBuilder.Core.SceneObjects.ISceneObject)
+// 0x0000087E System.Void VRBuilder.Core.Behaviors.DisableGameObjectBehavior::.ctor(VRBuilder.Core.SceneObjects.ISceneObject)
 extern void DisableGameObjectBehavior__ctor_m19D961D552AAADA3AF1F812BDA7ED0F36A735125 (void);
-// 0x00000891 System.Void VRBuilder.Core.Behaviors.DisableGameObjectBehavior::.ctor(System.String)
+// 0x0000087F System.Void VRBuilder.Core.Behaviors.DisableGameObjectBehavior::.ctor(System.String)
 extern void DisableGameObjectBehavior__ctor_m3E39DFA891BA5CF7B3E47C72AA05B5E9B589F338 (void);
-// 0x00000892 VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.DisableGameObjectBehavior/EntityData::get_Target()
+// 0x00000880 VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.DisableGameObjectBehavior/EntityData::get_Target()
 extern void EntityData_get_Target_m7774A60BB412DF11DE8D0516E0DABDC814CCD109 (void);
-// 0x00000893 System.Void VRBuilder.Core.Behaviors.DisableGameObjectBehavior/EntityData::set_Target(VRBuilder.Core.SceneObjects.SceneObjectReference)
+// 0x00000881 System.Void VRBuilder.Core.Behaviors.DisableGameObjectBehavior/EntityData::set_Target(VRBuilder.Core.SceneObjects.SceneObjectReference)
 extern void EntityData_set_Target_mD8B3A0978B82B314943E93F09711FAB46E80E5EA (void);
-// 0x00000894 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.DisableGameObjectBehavior/EntityData::get_Metadata()
+// 0x00000882 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.DisableGameObjectBehavior/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_mB2ADB04E0AB8CD2D0F9CB2BD3F11BBBE7C9F5473 (void);
-// 0x00000895 System.Void VRBuilder.Core.Behaviors.DisableGameObjectBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x00000883 System.Void VRBuilder.Core.Behaviors.DisableGameObjectBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_m5D1ABACCBB622F9098EA200BFB9644286E8927C5 (void);
-// 0x00000896 System.String VRBuilder.Core.Behaviors.DisableGameObjectBehavior/EntityData::get_Name()
+// 0x00000884 System.String VRBuilder.Core.Behaviors.DisableGameObjectBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_mEB7C38CD47B1C3DD892D724695EF74C44FB9866B (void);
-// 0x00000897 System.Void VRBuilder.Core.Behaviors.DisableGameObjectBehavior/EntityData::.ctor()
+// 0x00000885 System.Void VRBuilder.Core.Behaviors.DisableGameObjectBehavior/EntityData::.ctor()
 extern void EntityData__ctor_mF94EE02C7EC077CE977044CAA531D05000145ECF (void);
-// 0x00000898 System.Void VRBuilder.Core.Behaviors.DisableGameObjectBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.DisableGameObjectBehavior/EntityData)
+// 0x00000886 System.Void VRBuilder.Core.Behaviors.DisableGameObjectBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.DisableGameObjectBehavior/EntityData)
 extern void ActivatingProcess__ctor_m339DEDE1C2E8EE5AD0F2E9452859B9E7B12EAE07 (void);
-// 0x00000899 System.Void VRBuilder.Core.Behaviors.DisableGameObjectBehavior/ActivatingProcess::Start()
+// 0x00000887 System.Void VRBuilder.Core.Behaviors.DisableGameObjectBehavior/ActivatingProcess::Start()
 extern void ActivatingProcess_Start_m466CFE7F40B4BED9D5DC63CB34BF664E5DFF14C4 (void);
-// 0x0000089A System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior::.ctor()
+// 0x00000888 System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior::.ctor()
 extern void EnableGameObjectBehavior__ctor_m1C4944B06F2D1D5D72DEC8CA6A3DE250330348AF (void);
-// 0x0000089B System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior::.ctor(VRBuilder.Core.SceneObjects.ISceneObject)
+// 0x00000889 System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior::.ctor(VRBuilder.Core.SceneObjects.ISceneObject)
 extern void EnableGameObjectBehavior__ctor_m7160143771A2F6DB979A86B6196CCF43374FE741 (void);
-// 0x0000089C System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior::.ctor(System.String)
+// 0x0000088A System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior::.ctor(System.String)
 extern void EnableGameObjectBehavior__ctor_mD1E1F6CBBD7606419D0FFA753C08FCAF2F4E97E6 (void);
-// 0x0000089D VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.EnableGameObjectBehavior::GetActivatingProcess()
+// 0x0000088B VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.EnableGameObjectBehavior::GetActivatingProcess()
 extern void EnableGameObjectBehavior_GetActivatingProcess_mB6B3A571EADABA4C85ABF781FFF14238E114E54A (void);
-// 0x0000089E VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.EnableGameObjectBehavior::GetDeactivatingProcess()
+// 0x0000088C VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.EnableGameObjectBehavior::GetDeactivatingProcess()
 extern void EnableGameObjectBehavior_GetDeactivatingProcess_m76D3F0E03485E993F6C532327A77C5ADB1C8908E (void);
-// 0x0000089F VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData::get_Target()
+// 0x0000088D VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData::get_Target()
 extern void EntityData_get_Target_mC20C3DEF2B240F0366B206275E9AF80E7D385A7F (void);
-// 0x000008A0 System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData::set_Target(VRBuilder.Core.SceneObjects.SceneObjectReference)
+// 0x0000088E System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData::set_Target(VRBuilder.Core.SceneObjects.SceneObjectReference)
 extern void EntityData_set_Target_mC44B7ADBBDD685F818E880C090E94B0E4A23D521 (void);
-// 0x000008A1 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData::get_Metadata()
+// 0x0000088F VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_m13E08B26E59C69743BDD4DEDA0F97FEF56208575 (void);
-// 0x000008A2 System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x00000890 System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_mAEF264E2929492016004BE59F9B80917B9C1D340 (void);
-// 0x000008A3 System.Boolean VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData::get_DisableOnDeactivating()
+// 0x00000891 System.Boolean VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData::get_DisableOnDeactivating()
 extern void EntityData_get_DisableOnDeactivating_mA672D59BD5FBF08544F9A01BEF6493A5C83B94BB (void);
-// 0x000008A4 System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData::set_DisableOnDeactivating(System.Boolean)
+// 0x00000892 System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData::set_DisableOnDeactivating(System.Boolean)
 extern void EntityData_set_DisableOnDeactivating_m40C0C147452FF2E0DD01D53DFB0DE4F140BA83EC (void);
-// 0x000008A5 System.String VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData::get_Name()
+// 0x00000893 System.String VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_m8B6B1E85975A58A89AF26F68C86C645A8C58E23F (void);
-// 0x000008A6 System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData::.ctor()
+// 0x00000894 System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData::.ctor()
 extern void EntityData__ctor_m5670C41961FEB058BB56C958213CCD799610A475 (void);
-// 0x000008A7 System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData)
+// 0x00000895 System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData)
 extern void ActivatingProcess__ctor_m2EDF9FC9B28EAFE894E69FDC0AC9550A5A925E42 (void);
-// 0x000008A8 System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior/ActivatingProcess::Start()
+// 0x00000896 System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior/ActivatingProcess::Start()
 extern void ActivatingProcess_Start_m5FD8E8F651576E75EEDAB0A68AD9992F0B13991E (void);
-// 0x000008A9 System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior/DeactivatingProcess::.ctor(VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData)
+// 0x00000897 System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior/DeactivatingProcess::.ctor(VRBuilder.Core.Behaviors.EnableGameObjectBehavior/EntityData)
 extern void DeactivatingProcess__ctor_mC4F392EA7A706FBD1E315630191C14AF1F240523 (void);
-// 0x000008AA System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior/DeactivatingProcess::Start()
+// 0x00000898 System.Void VRBuilder.Core.Behaviors.EnableGameObjectBehavior/DeactivatingProcess::Start()
 extern void DeactivatingProcess_Start_m15FA89F4600EF7303DEFAEF8A75D41E40A8856C0 (void);
-// 0x000008AB System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior::.ctor()
+// 0x00000899 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior::.ctor()
 extern void ExecuteChapterBehavior__ctor_mDA0A30739595406A9FD4DF3E3C6EAA3F065404AA (void);
-// 0x000008AC System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior::.ctor(VRBuilder.Core.IChapter)
+// 0x0000089A System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior::.ctor(VRBuilder.Core.IChapter)
 extern void ExecuteChapterBehavior__ctor_m1A4C5A5C7BB229A28E989C2CB449BC178E9CD068 (void);
-// 0x000008AD VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.ExecuteChapterBehavior::GetActivatingProcess()
+// 0x0000089B VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.ExecuteChapterBehavior::GetActivatingProcess()
 extern void ExecuteChapterBehavior_GetActivatingProcess_m62CA8ABAB0021BB008074A92DEC9B3DE2D4BEAD8 (void);
-// 0x000008AE VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.ExecuteChapterBehavior::GetDeactivatingProcess()
+// 0x0000089C VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.ExecuteChapterBehavior::GetDeactivatingProcess()
 extern void ExecuteChapterBehavior_GetDeactivatingProcess_m70A07541F8E5CF11B354080164B4F2728ED39326 (void);
-// 0x000008AF VRBuilder.Core.Behaviors.IBehavior VRBuilder.Core.Behaviors.ExecuteChapterBehavior::Clone()
+// 0x0000089D VRBuilder.Core.Behaviors.IBehavior VRBuilder.Core.Behaviors.ExecuteChapterBehavior::Clone()
 extern void ExecuteChapterBehavior_Clone_mAE767952DE997D893B8882BEC51E9789889A3C9B (void);
-// 0x000008B0 VRBuilder.Core.IChapter VRBuilder.Core.Behaviors.ExecuteChapterBehavior/EntityData::get_Chapter()
+// 0x0000089E VRBuilder.Core.IChapter VRBuilder.Core.Behaviors.ExecuteChapterBehavior/EntityData::get_Chapter()
 extern void EntityData_get_Chapter_m3BC81A84B90C1677430CE7CCDACD0CB050470DE8 (void);
-// 0x000008B1 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/EntityData::set_Chapter(VRBuilder.Core.IChapter)
+// 0x0000089F System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/EntityData::set_Chapter(VRBuilder.Core.IChapter)
 extern void EntityData_set_Chapter_m2B413F3695D1A3DD75E4A6B382F6B601A3BAB194 (void);
-// 0x000008B2 System.String VRBuilder.Core.Behaviors.ExecuteChapterBehavior/EntityData::get_Name()
+// 0x000008A0 System.String VRBuilder.Core.Behaviors.ExecuteChapterBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_m590D511530C123985F63482E94D7215DA50A6BF7 (void);
-// 0x000008B3 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/EntityData::set_Name(System.String)
+// 0x000008A1 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/EntityData::set_Name(System.String)
 extern void EntityData_set_Name_m6A00B212411B4E307EAD7FA6CC231D9CC2B539EF (void);
-// 0x000008B4 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.IChapter> VRBuilder.Core.Behaviors.ExecuteChapterBehavior/EntityData::GetChildren()
+// 0x000008A2 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.IChapter> VRBuilder.Core.Behaviors.ExecuteChapterBehavior/EntityData::GetChildren()
 extern void EntityData_GetChildren_m14D98AEDF60DCE5086E76C4DA27F2FD9621FA32A (void);
-// 0x000008B5 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/EntityData::.ctor()
+// 0x000008A3 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/EntityData::.ctor()
 extern void EntityData__ctor_m32E8B75CAA20FE1F85FBD0B9E6CB25750141E250 (void);
-// 0x000008B6 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.ExecuteChapterBehavior/EntityData)
+// 0x000008A4 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.ExecuteChapterBehavior/EntityData)
 extern void ActivatingProcess__ctor_m35EF0B0E5DC0FA0F3E48A419B32FDE0893937ACF (void);
-// 0x000008B7 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess::Start()
+// 0x000008A5 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess::Start()
 extern void ActivatingProcess_Start_mC10575DB2D6BF393E7E526234E7970EB11116F41 (void);
-// 0x000008B8 System.Collections.IEnumerator VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess::Update()
+// 0x000008A6 System.Collections.IEnumerator VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess::Update()
 extern void ActivatingProcess_Update_m533666DBB4627E86C42A1B5B01E0807DB7D93189 (void);
-// 0x000008B9 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess::End()
+// 0x000008A7 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess::End()
 extern void ActivatingProcess_End_mA2D0D0390CEE58B59855C214AD7CBC3C4260FAF2 (void);
-// 0x000008BA System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess::FastForward()
+// 0x000008A8 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess::FastForward()
 extern void ActivatingProcess_FastForward_mA10CC4B9832201B0764B74B2594759CFA00BB861 (void);
-// 0x000008BB System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess/<Update>d__2::.ctor(System.Int32)
+// 0x000008A9 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess/<Update>d__2::.ctor(System.Int32)
 extern void U3CUpdateU3Ed__2__ctor_m68736F2895E4D5E30146472C7727A53E99107449 (void);
-// 0x000008BC System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess/<Update>d__2::System.IDisposable.Dispose()
+// 0x000008AA System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess/<Update>d__2::System.IDisposable.Dispose()
 extern void U3CUpdateU3Ed__2_System_IDisposable_Dispose_m5D239A6994292012032EA79E83998072218AA6FC (void);
-// 0x000008BD System.Boolean VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess/<Update>d__2::MoveNext()
+// 0x000008AB System.Boolean VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess/<Update>d__2::MoveNext()
 extern void U3CUpdateU3Ed__2_MoveNext_mE7831BC0FA785742741C65112A67623830E04940 (void);
-// 0x000008BE System.Object VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x000008AC System.Object VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mD55E4B083BE734942C67D28F3F074C91D5D07713 (void);
-// 0x000008BF System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
+// 0x000008AD System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_Reset_m1ADAD3B2E5531C10B3445F56C4DB0F6B99B0FBDE (void);
-// 0x000008C0 System.Object VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
+// 0x000008AE System.Object VRBuilder.Core.Behaviors.ExecuteChapterBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_get_Current_mA868287C9D358DEF28215E96629ACCE34D73306B (void);
-// 0x000008C1 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess::.ctor(VRBuilder.Core.Behaviors.ExecuteChapterBehavior/EntityData)
+// 0x000008AF System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess::.ctor(VRBuilder.Core.Behaviors.ExecuteChapterBehavior/EntityData)
 extern void DeactivatingProcess__ctor_m805C3EBC099B2876BCDC4C97430211091135326F (void);
-// 0x000008C2 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess::Start()
+// 0x000008B0 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess::Start()
 extern void DeactivatingProcess_Start_mA2AA2EA4547230A0B2183D857200F5EF29819DE7 (void);
-// 0x000008C3 System.Collections.IEnumerator VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess::Update()
+// 0x000008B1 System.Collections.IEnumerator VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess::Update()
 extern void DeactivatingProcess_Update_mD27510BF0FE5F0E02F7438A76EF03DE6FD1DEFF5 (void);
-// 0x000008C4 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess::End()
+// 0x000008B2 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess::End()
 extern void DeactivatingProcess_End_mC4A7BA4833CC018F6BAEA4E4EC4B701B65C73872 (void);
-// 0x000008C5 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess::FastForward()
+// 0x000008B3 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess::FastForward()
 extern void DeactivatingProcess_FastForward_m8B48C2B97C19F3838A013DAC490CB09C52637775 (void);
-// 0x000008C6 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess/<Update>d__2::.ctor(System.Int32)
+// 0x000008B4 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess/<Update>d__2::.ctor(System.Int32)
 extern void U3CUpdateU3Ed__2__ctor_mCAEDD29596C930D92F8990014E2707636A940008 (void);
-// 0x000008C7 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess/<Update>d__2::System.IDisposable.Dispose()
+// 0x000008B5 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess/<Update>d__2::System.IDisposable.Dispose()
 extern void U3CUpdateU3Ed__2_System_IDisposable_Dispose_m55360F5EDB8B32EBE111D5CCC3D5A5E9C4401353 (void);
-// 0x000008C8 System.Boolean VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess/<Update>d__2::MoveNext()
+// 0x000008B6 System.Boolean VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess/<Update>d__2::MoveNext()
 extern void U3CUpdateU3Ed__2_MoveNext_m5384E02256D0DF3CD9F1CD4BE5B5F3DC3BBFD0F2 (void);
-// 0x000008C9 System.Object VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x000008B7 System.Object VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m0ECB990674FEA663201B704E442348B8A844D997 (void);
-// 0x000008CA System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
+// 0x000008B8 System.Void VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_Reset_m655A51D1B8A5E38CE90F273A77842A5893DBE69B (void);
-// 0x000008CB System.Object VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
+// 0x000008B9 System.Object VRBuilder.Core.Behaviors.ExecuteChapterBehavior/DeactivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_get_Current_m13DE776843F502EDD0545F707212298D1401AB12 (void);
-// 0x000008CC System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior::.ctor()
+// 0x000008BA System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior::.ctor()
 extern void ExecuteChaptersBehavior__ctor_mB05F4B13151217C69A56FFDB850D58621A14F299 (void);
-// 0x000008CD System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior::.ctor(System.Collections.Generic.IEnumerable`1<VRBuilder.Core.IChapter>)
+// 0x000008BB System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior::.ctor(System.Collections.Generic.IEnumerable`1<VRBuilder.Core.IChapter>)
 extern void ExecuteChaptersBehavior__ctor_mD21B3D9CB84748E565DF476C814ACFE1DD3BD909 (void);
-// 0x000008CE System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior::.ctor(VRBuilder.Core.IChapter)
+// 0x000008BC System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior::.ctor(VRBuilder.Core.IChapter)
 extern void ExecuteChaptersBehavior__ctor_m277E794785DD2B702CF2011CC19A502FC5D1F9A2 (void);
-// 0x000008CF VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.ExecuteChaptersBehavior::GetActivatingProcess()
+// 0x000008BD VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.ExecuteChaptersBehavior::GetActivatingProcess()
 extern void ExecuteChaptersBehavior_GetActivatingProcess_mDDCA7BA6415F5D11DF663A7A07F3CA0AD3B350C4 (void);
-// 0x000008D0 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.ExecuteChaptersBehavior::GetDeactivatingProcess()
+// 0x000008BE VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.ExecuteChaptersBehavior::GetDeactivatingProcess()
 extern void ExecuteChaptersBehavior_GetDeactivatingProcess_mB37E50D163E3A5EC2D34C0FAAAABDCB4277CC63A (void);
-// 0x000008D1 VRBuilder.Core.Behaviors.IBehavior VRBuilder.Core.Behaviors.ExecuteChaptersBehavior::Clone()
+// 0x000008BF VRBuilder.Core.Behaviors.IBehavior VRBuilder.Core.Behaviors.ExecuteChaptersBehavior::Clone()
 extern void ExecuteChaptersBehavior_Clone_m7428641FB81B6A8272C5139C237B0D89A3FF4229 (void);
-// 0x000008D2 System.Collections.Generic.List`1<VRBuilder.Core.IChapter> VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/EntityData::get_Chapters()
+// 0x000008C0 System.Collections.Generic.List`1<VRBuilder.Core.IChapter> VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/EntityData::get_Chapters()
 extern void EntityData_get_Chapters_m2CCFBACE28E1847A34F445B29087ACDEF4A30262 (void);
-// 0x000008D3 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/EntityData::set_Chapters(System.Collections.Generic.List`1<VRBuilder.Core.IChapter>)
+// 0x000008C1 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/EntityData::set_Chapters(System.Collections.Generic.List`1<VRBuilder.Core.IChapter>)
 extern void EntityData_set_Chapters_mD61F417201E1CB66671AD04753012EEFDBADDDA3 (void);
-// 0x000008D4 System.String VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/EntityData::get_Name()
+// 0x000008C2 System.String VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_mEEBDC2F948FFC5A503CCF0BDBF6EB74D1E62FBCE (void);
-// 0x000008D5 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.IChapter> VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/EntityData::GetChildren()
+// 0x000008C3 System.Collections.Generic.IEnumerable`1<VRBuilder.Core.IChapter> VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/EntityData::GetChildren()
 extern void EntityData_GetChildren_m68D4D9267DC2AAF6C5FA823C9270ACCB2D59AEAD (void);
-// 0x000008D6 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/EntityData::.ctor()
+// 0x000008C4 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/EntityData::.ctor()
 extern void EntityData__ctor_mA055B03B85E942DA092274E4345EAF82814B021A (void);
-// 0x000008D7 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/EntityData)
+// 0x000008C5 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/EntityData)
 extern void ActivatingProcess__ctor_m94AB752C9298FE38242481C152E6384155887A18 (void);
-// 0x000008D8 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess::Start()
+// 0x000008C6 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess::Start()
 extern void ActivatingProcess_Start_m25630ED2467C76CA943F7334C42E745D766BA775 (void);
-// 0x000008D9 System.Collections.IEnumerator VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess::Update()
+// 0x000008C7 System.Collections.IEnumerator VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess::Update()
 extern void ActivatingProcess_Update_mCC8C10822026805B1DC450DAE7F83D7ED41305BB (void);
-// 0x000008DA System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess::End()
+// 0x000008C8 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess::End()
 extern void ActivatingProcess_End_m9CC44FA9762F65E062728A76F472730BCEDAC360 (void);
-// 0x000008DB System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess::FastForward()
+// 0x000008C9 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess::FastForward()
 extern void ActivatingProcess_FastForward_m68BD2C615A68D75B67F95764C1C15A84E547B5C6 (void);
-// 0x000008DC System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<>c::.cctor()
+// 0x000008CA System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<>c::.cctor()
 extern void U3CU3Ec__cctor_mFFA4BAD4193D7A849C585979344C674463A9960E (void);
-// 0x000008DD System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<>c::.ctor()
+// 0x000008CB System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<>c::.ctor()
 extern void U3CU3Ec__ctor_m842E997DBC5DA28866DAA95AF92924245623891F (void);
-// 0x000008DE System.Boolean VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<>c::<Update>b__2_0(VRBuilder.Core.IChapter)
-extern void U3CU3Ec_U3CUpdateU3Eb__2_0_mFE23DE646B24F10246E1B0646B798786A4264107 (void);
-// 0x000008DF VRBuilder.Core.Stage VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<>c::<Update>b__2_1(VRBuilder.Core.IChapter)
-extern void U3CU3Ec_U3CUpdateU3Eb__2_1_m7535C300E2AB5FB243423B7E43ADB38299A26876 (void);
-// 0x000008E0 System.Boolean VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<>c::<Update>b__2_2(VRBuilder.Core.Stage)
-extern void U3CU3Ec_U3CUpdateU3Eb__2_2_mCA5F5C7839A132910AA303A32B434BE56FB1C842 (void);
-// 0x000008E1 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<Update>d__2::.ctor(System.Int32)
+// 0x000008CC System.Boolean VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<>c::<Update>b__2_2(VRBuilder.Core.IChapter)
+extern void U3CU3Ec_U3CUpdateU3Eb__2_2_mB2618F7B8AA4EA0663E9132118C560EE589D6286 (void);
+// 0x000008CD VRBuilder.Core.Stage VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<>c::<Update>b__2_0(VRBuilder.Core.IChapter)
+extern void U3CU3Ec_U3CUpdateU3Eb__2_0_m533C025450EAF96FCAC9C7706E25478A835D2810 (void);
+// 0x000008CE System.Boolean VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<>c::<Update>b__2_1(VRBuilder.Core.Stage)
+extern void U3CU3Ec_U3CUpdateU3Eb__2_1_mFED9EF12F8117D0D289CDDE13C9F7BEEA95D3FF4 (void);
+// 0x000008CF System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<Update>d__2::.ctor(System.Int32)
 extern void U3CUpdateU3Ed__2__ctor_mF441B04BB8A862552AC96B450D779C5A4C823C35 (void);
-// 0x000008E2 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<Update>d__2::System.IDisposable.Dispose()
+// 0x000008D0 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<Update>d__2::System.IDisposable.Dispose()
 extern void U3CUpdateU3Ed__2_System_IDisposable_Dispose_m372A64F3B5DF193DC56A1D7BBFF2C9E370D38DE1 (void);
-// 0x000008E3 System.Boolean VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<Update>d__2::MoveNext()
+// 0x000008D1 System.Boolean VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<Update>d__2::MoveNext()
 extern void U3CUpdateU3Ed__2_MoveNext_m2623EFA3BA0B17E21CE15419F8C8C0B9A6E6850F (void);
-// 0x000008E4 System.Object VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x000008D2 System.Object VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mE8E31A1D082D2A689EBFB01C6A83114D17FE4DA5 (void);
-// 0x000008E5 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
+// 0x000008D3 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_Reset_mF4DE06BAFB56722EB29B018B523C614B52FE1435 (void);
-// 0x000008E6 System.Object VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
+// 0x000008D4 System.Object VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_get_Current_m9A8C40C0ADC472A6D5B79130A23C03E4BB514E06 (void);
-// 0x000008E7 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess::.ctor(VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/EntityData)
+// 0x000008D5 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess::.ctor(VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/EntityData)
 extern void DeactivatingProcess__ctor_m00142B7AE17DA3D2F9104FFEDB5306CE805C66F1 (void);
-// 0x000008E8 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess::Start()
+// 0x000008D6 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess::Start()
 extern void DeactivatingProcess_Start_m2D1AC904F5AE8A0CAC87ECC12BA756A78B4DBCB2 (void);
-// 0x000008E9 System.Collections.IEnumerator VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess::Update()
+// 0x000008D7 System.Collections.IEnumerator VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess::Update()
 extern void DeactivatingProcess_Update_mE6B9529EC55618BB44AD14147CBE5888313AD399 (void);
-// 0x000008EA System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess::End()
+// 0x000008D8 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess::End()
 extern void DeactivatingProcess_End_mB53D9B9C2B6D3C4F862507E9CE35912B0D278C21 (void);
-// 0x000008EB System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess::FastForward()
+// 0x000008D9 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess::FastForward()
 extern void DeactivatingProcess_FastForward_m569D27288B4A073D9201822E4E9E226C0F793D8A (void);
-// 0x000008EC System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<>c::.cctor()
+// 0x000008DA System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<>c::.cctor()
 extern void U3CU3Ec__cctor_mE2163DCD378949E3BBAB4C01AF4D72BBFBE6915E (void);
-// 0x000008ED System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<>c::.ctor()
+// 0x000008DB System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<>c::.ctor()
 extern void U3CU3Ec__ctor_m964703F2E4A875C47CAAB0F14E72B2EAA7D45A0E (void);
-// 0x000008EE System.Boolean VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<>c::<Update>b__2_0(VRBuilder.Core.IChapter)
-extern void U3CU3Ec_U3CUpdateU3Eb__2_0_mA379541583584F594C7E7C7226704256A0448BDD (void);
-// 0x000008EF VRBuilder.Core.Stage VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<>c::<Update>b__2_1(VRBuilder.Core.IChapter)
-extern void U3CU3Ec_U3CUpdateU3Eb__2_1_mAAEFACC6589634C879216916B2C205994422DF87 (void);
-// 0x000008F0 System.Boolean VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<>c::<Update>b__2_2(VRBuilder.Core.Stage)
-extern void U3CU3Ec_U3CUpdateU3Eb__2_2_mEBF1AA38FDFD8073C077CF6D71063B483B2D2883 (void);
-// 0x000008F1 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<Update>d__2::.ctor(System.Int32)
+// 0x000008DC System.Boolean VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<>c::<Update>b__2_2(VRBuilder.Core.IChapter)
+extern void U3CU3Ec_U3CUpdateU3Eb__2_2_mBCD3F24F2E4507BABF6C921DC7BE793F788C6DF4 (void);
+// 0x000008DD VRBuilder.Core.Stage VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<>c::<Update>b__2_0(VRBuilder.Core.IChapter)
+extern void U3CU3Ec_U3CUpdateU3Eb__2_0_m602D511613C0A341A494157AFE8151F8D62872F4 (void);
+// 0x000008DE System.Boolean VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<>c::<Update>b__2_1(VRBuilder.Core.Stage)
+extern void U3CU3Ec_U3CUpdateU3Eb__2_1_m6862FA63DFD4696E7E1E07CED01EF78C91AFCB47 (void);
+// 0x000008DF System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<Update>d__2::.ctor(System.Int32)
 extern void U3CUpdateU3Ed__2__ctor_m277D8A9A39A4AD3CAD421BB7E2DBB6FA4B69A506 (void);
-// 0x000008F2 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<Update>d__2::System.IDisposable.Dispose()
+// 0x000008E0 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<Update>d__2::System.IDisposable.Dispose()
 extern void U3CUpdateU3Ed__2_System_IDisposable_Dispose_m13AE260F45EEDF302F974B208F78023DFF418BE3 (void);
-// 0x000008F3 System.Boolean VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<Update>d__2::MoveNext()
+// 0x000008E1 System.Boolean VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<Update>d__2::MoveNext()
 extern void U3CUpdateU3Ed__2_MoveNext_m6D4E95FEC9C289B59619B9620A926A3BA1C8A7A6 (void);
-// 0x000008F4 System.Object VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x000008E2 System.Object VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mCAFAB42796CD2234946CA3FE055AB51892B91453 (void);
-// 0x000008F5 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
+// 0x000008E3 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_Reset_mEA670AF457BCA80C77E09E36306BABF445B7A4A2 (void);
-// 0x000008F6 System.Object VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
+// 0x000008E4 System.Object VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/DeactivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_get_Current_m8F7ABA4E68B0065319C6F1B95DEF7AA5DDA4260F (void);
-// 0x000008F7 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/<>c__DisplayClass8_0::.ctor()
+// 0x000008E5 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/<>c__DisplayClass8_0::.ctor()
 extern void U3CU3Ec__DisplayClass8_0__ctor_m7D3756018B03FDEABF4455B1E4CEFF35B2A01E66 (void);
-// 0x000008F8 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/<>c__DisplayClass8_0::<Clone>b__0(VRBuilder.Core.IChapter)
+// 0x000008E6 System.Void VRBuilder.Core.Behaviors.ExecuteChaptersBehavior/<>c__DisplayClass8_0::<Clone>b__0(VRBuilder.Core.IChapter)
 extern void U3CU3Ec__DisplayClass8_0_U3CCloneU3Eb__0_m08B2584984DDD091821775ACDF0D0DBB08F56A25 (void);
-// 0x000008F9 System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior::.ctor()
+// 0x000008E7 System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior::.ctor()
 extern void GoToChapterBehavior__ctor_m91DFE9D3C75EFDCEF79D41670EF21AD77F1056B5 (void);
-// 0x000008FA System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior::.ctor(System.Guid,System.String)
+// 0x000008E8 System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior::.ctor(System.Guid,System.String)
 extern void GoToChapterBehavior__ctor_mAAD3BAEF7CFEE46FCB2F11EAA81B54C0E2EDE8C9 (void);
-// 0x000008FB VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.GoToChapterBehavior::GetActivatingProcess()
+// 0x000008E9 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.GoToChapterBehavior::GetActivatingProcess()
 extern void GoToChapterBehavior_GetActivatingProcess_mFA701B92C031B8F001F48B9E64F98D0B0677563C (void);
-// 0x000008FC System.Guid VRBuilder.Core.Behaviors.GoToChapterBehavior/EntityData::get_ChapterGuid()
+// 0x000008EA System.Guid VRBuilder.Core.Behaviors.GoToChapterBehavior/EntityData::get_ChapterGuid()
 extern void EntityData_get_ChapterGuid_mA18302062AE44AC7EF886C822751D8E26FB6119A (void);
-// 0x000008FD System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/EntityData::set_ChapterGuid(System.Guid)
+// 0x000008EB System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/EntityData::set_ChapterGuid(System.Guid)
 extern void EntityData_set_ChapterGuid_mFCDBC8621A5696E6D6B04B7E4ACF973A89BA754D (void);
-// 0x000008FE VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.GoToChapterBehavior/EntityData::get_Metadata()
+// 0x000008EC VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.GoToChapterBehavior/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_m6A6A66DDE5BC958EC07ECCADBD14A2BE9E5C6E00 (void);
-// 0x000008FF System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x000008ED System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_mF6DD7470A25D07395610000CCFDD681DC2680030 (void);
-// 0x00000900 System.String VRBuilder.Core.Behaviors.GoToChapterBehavior/EntityData::get_Name()
+// 0x000008EE System.String VRBuilder.Core.Behaviors.GoToChapterBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_mE3C2A856362F60C197AD28DACAC5E1FF0A7B5128 (void);
-// 0x00000901 System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/EntityData::set_Name(System.String)
+// 0x000008EF System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/EntityData::set_Name(System.String)
 extern void EntityData_set_Name_mB2DF51640412CEACF2818D10D73AD2A4F2E2636D (void);
-// 0x00000902 System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/EntityData::.ctor()
+// 0x000008F0 System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/EntityData::.ctor()
 extern void EntityData__ctor_mB675A3E28C7BB81CDFB208B130EB63AD01768637 (void);
-// 0x00000903 System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.GoToChapterBehavior/EntityData)
+// 0x000008F1 System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.GoToChapterBehavior/EntityData)
 extern void ActivatingProcess__ctor_mFB6CA06AB115FCC3ABBDE27B2E59E48F92D991C8 (void);
-// 0x00000904 System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess::Start()
+// 0x000008F2 System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess::Start()
 extern void ActivatingProcess_Start_m7D061DFE41F4F21C15CE1B70AA49DA8F4B74F993 (void);
-// 0x00000905 System.Collections.IEnumerator VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess::Update()
+// 0x000008F3 System.Collections.IEnumerator VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess::Update()
 extern void ActivatingProcess_Update_mCD6BF7B7B83FD123A4FB03D3E31E7F8505E68CA5 (void);
-// 0x00000906 System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess::End()
+// 0x000008F4 System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess::End()
 extern void ActivatingProcess_End_mB44D770E1F154B32D58B07DAE75F73092880AA5C (void);
-// 0x00000907 System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess::FastForward()
+// 0x000008F5 System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess::FastForward()
 extern void ActivatingProcess_FastForward_mC42642585076FE3FF591A6082B241E7F74B15609 (void);
-// 0x00000908 System.Boolean VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess::<End>b__3_0(VRBuilder.Core.IChapter)
+// 0x000008F6 System.Boolean VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess::<End>b__3_0(VRBuilder.Core.IChapter)
 extern void ActivatingProcess_U3CEndU3Eb__3_0_m1432AA07561D4D574D062096616E4BCBDC072185 (void);
-// 0x00000909 System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess/<Update>d__2::.ctor(System.Int32)
+// 0x000008F7 System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess/<Update>d__2::.ctor(System.Int32)
 extern void U3CUpdateU3Ed__2__ctor_m4E4E99D82A75CF453B5CCC2B0E998FE8132B9AAF (void);
-// 0x0000090A System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess/<Update>d__2::System.IDisposable.Dispose()
+// 0x000008F8 System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess/<Update>d__2::System.IDisposable.Dispose()
 extern void U3CUpdateU3Ed__2_System_IDisposable_Dispose_mC6E12828D21B834921C2BC2671720FB10BFCB9B6 (void);
-// 0x0000090B System.Boolean VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess/<Update>d__2::MoveNext()
+// 0x000008F9 System.Boolean VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess/<Update>d__2::MoveNext()
 extern void U3CUpdateU3Ed__2_MoveNext_mC5052B66E881618DD15AABDCCF00D25A60C747D1 (void);
-// 0x0000090C System.Object VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x000008FA System.Object VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m264ACEAEA792FAAEC5C5183D74E0EFCE479F9615 (void);
-// 0x0000090D System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
+// 0x000008FB System.Void VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_Reset_mDD673A91F01F6CBC032A771BF7822EF5E1E6FE08 (void);
-// 0x0000090E System.Object VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
+// 0x000008FC System.Object VRBuilder.Core.Behaviors.GoToChapterBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_get_Current_mA15FC24BAB611F91DA61DD46440F49B951A93850 (void);
-// 0x0000090F System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior::.ctor()
+// 0x000008FD System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior::.ctor()
 extern void HighlightObjectBehavior__ctor_m6EF38EB037AC15EDDB65CDC492A0D4F32D0AEC5E (void);
-// 0x00000910 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior::.ctor(System.String,UnityEngine.Color)
+// 0x000008FE System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior::.ctor(System.String,UnityEngine.Color)
 extern void HighlightObjectBehavior__ctor_mA3B29A13A79A4A950F9F03684DED9768C00ACF9F (void);
-// 0x00000911 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior::.ctor(VRBuilder.Core.Properties.IHighlightProperty)
+// 0x000008FF System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior::.ctor(VRBuilder.Core.Properties.IHighlightProperty)
 extern void HighlightObjectBehavior__ctor_mCBA9AACF094D2587436F97D4A19E357EF4335679 (void);
-// 0x00000912 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior::.ctor(VRBuilder.Core.Properties.IHighlightProperty,UnityEngine.Color)
+// 0x00000900 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior::.ctor(VRBuilder.Core.Properties.IHighlightProperty,UnityEngine.Color)
 extern void HighlightObjectBehavior__ctor_m9C9677E6A7DED5E961AC1EFD96A9C7312C4726EE (void);
-// 0x00000913 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.HighlightObjectBehavior::GetActivatingProcess()
+// 0x00000901 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.HighlightObjectBehavior::GetActivatingProcess()
 extern void HighlightObjectBehavior_GetActivatingProcess_mEFB415D03BA7DDDD79B46E7B480330060FABB5CE (void);
-// 0x00000914 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.HighlightObjectBehavior::GetDeactivatingProcess()
+// 0x00000902 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.HighlightObjectBehavior::GetDeactivatingProcess()
 extern void HighlightObjectBehavior_GetDeactivatingProcess_m6EB58C5D969CE2E245F37E449CC57605AEF08041 (void);
-// 0x00000915 VRBuilder.Core.Configuration.Modes.IConfigurator VRBuilder.Core.Behaviors.HighlightObjectBehavior::GetConfigurator()
+// 0x00000903 VRBuilder.Core.Configuration.Modes.IConfigurator VRBuilder.Core.Behaviors.HighlightObjectBehavior::GetConfigurator()
 extern void HighlightObjectBehavior_GetConfigurator_m7E19AF000EAEF28026B65D1B6A2E27AA0ECB5041 (void);
-// 0x00000916 VRBuilder.Core.Configuration.Modes.ModeParameter`1<UnityEngine.Color> VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::get_CustomHighlightColor()
+// 0x00000904 VRBuilder.Core.Configuration.Modes.ModeParameter`1<UnityEngine.Color> VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::get_CustomHighlightColor()
 extern void EntityData_get_CustomHighlightColor_m54548F5B24981DE069A2C569ABE696B42D6FCEEA (void);
-// 0x00000917 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::set_CustomHighlightColor(VRBuilder.Core.Configuration.Modes.ModeParameter`1<UnityEngine.Color>)
+// 0x00000905 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::set_CustomHighlightColor(VRBuilder.Core.Configuration.Modes.ModeParameter`1<UnityEngine.Color>)
 extern void EntityData_set_CustomHighlightColor_mD4C1977ED54E7E36B619249CCA1BE0B295B6B2A0 (void);
-// 0x00000918 UnityEngine.Color VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::get_HighlightColor()
+// 0x00000906 UnityEngine.Color VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::get_HighlightColor()
 extern void EntityData_get_HighlightColor_m31A294C71DEDE36A20C09C66D0B96B41988EE7A5 (void);
-// 0x00000919 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::set_HighlightColor(UnityEngine.Color)
+// 0x00000907 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::set_HighlightColor(UnityEngine.Color)
 extern void EntityData_set_HighlightColor_m81779EBADF54C3722ACE1629BB511B674065617B (void);
-// 0x0000091A VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IHighlightProperty> VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::get_ObjectToHighlight()
+// 0x00000908 VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IHighlightProperty> VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::get_ObjectToHighlight()
 extern void EntityData_get_ObjectToHighlight_m0F82CF69DE661D9A312BA37AFF24B106446D5FA8 (void);
-// 0x0000091B System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::set_ObjectToHighlight(VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IHighlightProperty>)
+// 0x00000909 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::set_ObjectToHighlight(VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IHighlightProperty>)
 extern void EntityData_set_ObjectToHighlight_m0B98886F1D314FD0F387DD33FEDCE450D6269F91 (void);
-// 0x0000091C VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::get_Metadata()
+// 0x0000090A VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_m7735E95F8763F8D0BA3676921719D716B1D78140 (void);
-// 0x0000091D System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x0000090B System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_m7D12F2449405ED3739591088E024D0EFA57BE61D (void);
-// 0x0000091E System.String VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::get_Name()
+// 0x0000090C System.String VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_m22AA064ABF00448EB757A519F789D3CB042EFAD5 (void);
-// 0x0000091F System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::.ctor()
+// 0x0000090D System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData::.ctor()
 extern void EntityData__ctor_m36C32677E713EFF60684C8FA6E5E64BF415EB26B (void);
-// 0x00000920 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData)
+// 0x0000090E System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData)
 extern void ActivatingProcess__ctor_mF82812FF6A85870158D599D2D85B7BE90928DA8B (void);
-// 0x00000921 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/ActivatingProcess::Start()
+// 0x0000090F System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/ActivatingProcess::Start()
 extern void ActivatingProcess_Start_mB2A3722E9BFE8ACEAB5DB6ECC7AC5D5CD53775A3 (void);
-// 0x00000922 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/DeactivatingProcess::.ctor(VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData)
+// 0x00000910 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/DeactivatingProcess::.ctor(VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData)
 extern void DeactivatingProcess__ctor_m065256D9471DC7197BC1C320D84FFE7E3E711B9C (void);
-// 0x00000923 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/DeactivatingProcess::Start()
+// 0x00000911 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/DeactivatingProcess::Start()
 extern void DeactivatingProcess_Start_m7EA9705E31AC5B805CAA97F8C25DA7BE116AF36B (void);
-// 0x00000924 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityConfigurator::Configure(VRBuilder.Core.Configuration.Modes.IMode,VRBuilder.Core.Stage)
+// 0x00000912 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityConfigurator::Configure(VRBuilder.Core.Configuration.Modes.IMode,VRBuilder.Core.Stage)
 extern void EntityConfigurator_Configure_mF71ABC2F5AD369F96E0ADF82C2DDFA5941EEF19D (void);
-// 0x00000925 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityConfigurator::.ctor(VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData)
+// 0x00000913 System.Void VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityConfigurator::.ctor(VRBuilder.Core.Behaviors.HighlightObjectBehavior/EntityData)
 extern void EntityConfigurator__ctor_mB121C04954CDFDC82231A540C638C69AC0C170E9 (void);
-// 0x00000926 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior::.ctor()
+// 0x00000914 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior::.ctor()
 extern void LockObjectBehavior__ctor_m6D0FF4D6761BB5E3071162AEBD28E5CC00957371 (void);
-// 0x00000927 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior::.ctor(VRBuilder.Core.SceneObjects.ISceneObject)
+// 0x00000915 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior::.ctor(VRBuilder.Core.SceneObjects.ISceneObject)
 extern void LockObjectBehavior__ctor_m1F1CFD65AEDAFE2149E7DBB9F9EE44E6933995EB (void);
-// 0x00000928 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior::.ctor(VRBuilder.Core.SceneObjects.ISceneObject,System.Boolean)
+// 0x00000916 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior::.ctor(VRBuilder.Core.SceneObjects.ISceneObject,System.Boolean)
 extern void LockObjectBehavior__ctor_m2707C6D3078B1F68AC765DBFD587EB52B836BE40 (void);
-// 0x00000929 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior::.ctor(System.String,System.String,System.Boolean)
+// 0x00000917 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior::.ctor(System.String,System.String,System.Boolean)
 extern void LockObjectBehavior__ctor_m8894C81A4A71391E36EB09B11673EE2575A2EAC0 (void);
-// 0x0000092A VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.LockObjectBehavior::GetActivatingProcess()
+// 0x00000918 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.LockObjectBehavior::GetActivatingProcess()
 extern void LockObjectBehavior_GetActivatingProcess_m6AEBB057B47789285273765ED740DF52B1E7AD0E (void);
-// 0x0000092B VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.LockObjectBehavior::GetDeactivatingProcess()
+// 0x00000919 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.LockObjectBehavior::GetDeactivatingProcess()
 extern void LockObjectBehavior_GetDeactivatingProcess_m5C46304EDF077DA9D6609A945E265BC574D86827 (void);
-// 0x0000092C VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::get_Target()
+// 0x0000091A VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::get_Target()
 extern void EntityData_get_Target_m5BBE199F303F91821898888ADCE099AC61107ADD (void);
-// 0x0000092D System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::set_Target(VRBuilder.Core.SceneObjects.SceneObjectReference)
+// 0x0000091B System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::set_Target(VRBuilder.Core.SceneObjects.SceneObjectReference)
 extern void EntityData_set_Target_m0E3FBCF89D375328B8447A9F4EA1573483B6DF07 (void);
-// 0x0000092E System.Boolean VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::get_IsOnlyLockedInStep()
+// 0x0000091C System.Boolean VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::get_IsOnlyLockedInStep()
 extern void EntityData_get_IsOnlyLockedInStep_m231601FA22192AD31E338A68DE3C02BCE9A6F00F (void);
-// 0x0000092F System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::set_IsOnlyLockedInStep(System.Boolean)
+// 0x0000091D System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::set_IsOnlyLockedInStep(System.Boolean)
 extern void EntityData_set_IsOnlyLockedInStep_mBC1F82DED964306D52E1B9218F6569EE75F9F069 (void);
-// 0x00000930 System.Boolean VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::get_WasLockedOnActivate()
+// 0x0000091E System.Boolean VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::get_WasLockedOnActivate()
 extern void EntityData_get_WasLockedOnActivate_m8D01892342C4FD6660F9AA99802C81E730FE06D4 (void);
-// 0x00000931 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::set_WasLockedOnActivate(System.Boolean)
+// 0x0000091F System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::set_WasLockedOnActivate(System.Boolean)
 extern void EntityData_set_WasLockedOnActivate_m0003C6B2C5D68018B6EED8BEC79F99379D7F16C8 (void);
-// 0x00000932 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::get_Metadata()
+// 0x00000920 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_mD5146E6C8A81153B65F68D057273181A2C9B96E8 (void);
-// 0x00000933 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x00000921 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_mB434EA67317E2DDB8AA7A9AAB5DB7862BEBC9C4E (void);
-// 0x00000934 System.String VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::get_Name()
+// 0x00000922 System.String VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_m4F841861C4926427F065CDB7500B96BC66AA8D3C (void);
-// 0x00000935 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::set_Name(System.String)
+// 0x00000923 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::set_Name(System.String)
 extern void EntityData_set_Name_mD8E35482535BE22AB8886B73C67E9E5D4CF45791 (void);
-// 0x00000936 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::.ctor()
+// 0x00000924 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData::.ctor()
 extern void EntityData__ctor_m49AF2AAE770BAD0061C90D255CC90D7DBF7FA1AC (void);
-// 0x00000937 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData)
+// 0x00000925 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData)
 extern void ActivatingProcess__ctor_mD079A53A25491418BE5190C9411E5EC460DFEC01 (void);
-// 0x00000938 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/ActivatingProcess::Start()
+// 0x00000926 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/ActivatingProcess::Start()
 extern void ActivatingProcess_Start_mE5D92FEAD8D4AB05C1E73F124838101C1DC45FE9 (void);
-// 0x00000939 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/DeactivatingProcess::.ctor(VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData)
+// 0x00000927 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/DeactivatingProcess::.ctor(VRBuilder.Core.Behaviors.LockObjectBehavior/EntityData)
 extern void DeactivatingProcess__ctor_mD80D923A3AAE40AE26FC66C39A6FA8ECB09A9958 (void);
-// 0x0000093A System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/DeactivatingProcess::Start()
+// 0x00000928 System.Void VRBuilder.Core.Behaviors.LockObjectBehavior/DeactivatingProcess::Start()
 extern void DeactivatingProcess_Start_mB65138B673D544B5DF5E9FBCAC4CE6C254075594 (void);
-// 0x0000093B System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior::.ctor()
+// 0x00000929 System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior::.ctor()
 extern void MoveObjectBehavior__ctor_mC6C61306C1D222F63AD052F4AE016582AD78027C (void);
-// 0x0000093C System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior::.ctor(VRBuilder.Core.SceneObjects.ISceneObject,VRBuilder.Core.SceneObjects.ISceneObject,System.Single)
+// 0x0000092A System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior::.ctor(VRBuilder.Core.SceneObjects.ISceneObject,VRBuilder.Core.SceneObjects.ISceneObject,System.Single)
 extern void MoveObjectBehavior__ctor_mB23D3718C22E15F26515939280DA60B75B18C798 (void);
-// 0x0000093D System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior::.ctor(System.String,System.String,System.Single)
+// 0x0000092B System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior::.ctor(System.String,System.String,System.Single)
 extern void MoveObjectBehavior__ctor_mCE5E024455C7A21E7BE3B2D0F9A551A1AD5172CE (void);
-// 0x0000093E VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.MoveObjectBehavior::GetActivatingProcess()
+// 0x0000092C VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.MoveObjectBehavior::GetActivatingProcess()
 extern void MoveObjectBehavior_GetActivatingProcess_m33D901D2C0E21D4F6BACBAE249D2E3EDC437E8E1 (void);
-// 0x0000093F VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::get_Target()
+// 0x0000092D VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::get_Target()
 extern void EntityData_get_Target_mC6718B01CD6CCCBFE22879A94BAB536D00629A89 (void);
-// 0x00000940 System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::set_Target(VRBuilder.Core.SceneObjects.SceneObjectReference)
+// 0x0000092E System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::set_Target(VRBuilder.Core.SceneObjects.SceneObjectReference)
 extern void EntityData_set_Target_mE84A430BC287507DC83B85912543941A343122C9 (void);
-// 0x00000941 VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::get_PositionProvider()
+// 0x0000092F VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::get_PositionProvider()
 extern void EntityData_get_PositionProvider_mD8497D2E0899E0F1FB887BFF8832341771085568 (void);
-// 0x00000942 System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::set_PositionProvider(VRBuilder.Core.SceneObjects.SceneObjectReference)
+// 0x00000930 System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::set_PositionProvider(VRBuilder.Core.SceneObjects.SceneObjectReference)
 extern void EntityData_set_PositionProvider_m5375517B2EB225FA7E249FBBF841D2E6F2179E05 (void);
-// 0x00000943 System.Single VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::get_Duration()
+// 0x00000931 System.Single VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::get_Duration()
 extern void EntityData_get_Duration_m661CA72C358090C70DF3E6F87C754FE467B6B647 (void);
-// 0x00000944 System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::set_Duration(System.Single)
+// 0x00000932 System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::set_Duration(System.Single)
 extern void EntityData_set_Duration_m2D9C8EA97AD4FB10B85D5E156D5A1474BE334D63 (void);
-// 0x00000945 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::get_Metadata()
+// 0x00000933 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_mB2C4EA10E2626FABAB9E90B870BEB95F015F2563 (void);
-// 0x00000946 System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x00000934 System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_m91CC3C5787E53502A84FEE68CEF7D036C3AFAA91 (void);
-// 0x00000947 System.String VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::get_Name()
+// 0x00000935 System.String VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_mA87CE34AB9C3DD41D4E30A810649064CC16F8939 (void);
-// 0x00000948 System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::.ctor()
+// 0x00000936 System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData::.ctor()
 extern void EntityData__ctor_m1E0C1669FE2503C2E3D4D52D96F6A94A933C6BDA (void);
-// 0x00000949 System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData)
+// 0x00000937 System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.MoveObjectBehavior/EntityData)
 extern void ActivatingProcess__ctor_m561B137A7A21033D4C8D249EEC3EC693B2960932 (void);
-// 0x0000094A System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess::Start()
+// 0x00000938 System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess::Start()
 extern void ActivatingProcess_Start_m8A117776BE4B00F3C469965E71BBB62CA08E1BE0 (void);
-// 0x0000094B System.Collections.IEnumerator VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess::Update()
+// 0x00000939 System.Collections.IEnumerator VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess::Update()
 extern void ActivatingProcess_Update_m5604A18E171D613194F4F40D3565B7E4D2A886D3 (void);
-// 0x0000094C System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess::End()
+// 0x0000093A System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess::End()
 extern void ActivatingProcess_End_m8DB39386CC8C02E3899C971CA71CCD33B0D5BEED (void);
-// 0x0000094D System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess::FastForward()
+// 0x0000093B System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess::FastForward()
 extern void ActivatingProcess_FastForward_m2D952598ED8B983B07327F36D96B7DAFBF2B8B29 (void);
-// 0x0000094E System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess/<Update>d__3::.ctor(System.Int32)
+// 0x0000093C System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess/<Update>d__3::.ctor(System.Int32)
 extern void U3CUpdateU3Ed__3__ctor_m6E01B932529D5C6D76A0ABE09DBBB54CED4FAFA1 (void);
-// 0x0000094F System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess/<Update>d__3::System.IDisposable.Dispose()
+// 0x0000093D System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess/<Update>d__3::System.IDisposable.Dispose()
 extern void U3CUpdateU3Ed__3_System_IDisposable_Dispose_m5EFC19D43766C2A16E456EC57CE694D6BE5E1965 (void);
-// 0x00000950 System.Boolean VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess/<Update>d__3::MoveNext()
+// 0x0000093E System.Boolean VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess/<Update>d__3::MoveNext()
 extern void U3CUpdateU3Ed__3_MoveNext_m11F648237B47BF9DADCDCE5D8685D91DC5597358 (void);
-// 0x00000951 System.Object VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess/<Update>d__3::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x0000093F System.Object VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess/<Update>d__3::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CUpdateU3Ed__3_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m91867DB3C387C777D89B25E5A1C0048D24C42143 (void);
-// 0x00000952 System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess/<Update>d__3::System.Collections.IEnumerator.Reset()
+// 0x00000940 System.Void VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess/<Update>d__3::System.Collections.IEnumerator.Reset()
 extern void U3CUpdateU3Ed__3_System_Collections_IEnumerator_Reset_m44E01A77518102F87B0807A5091205521A7B38DE (void);
-// 0x00000953 System.Object VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess/<Update>d__3::System.Collections.IEnumerator.get_Current()
+// 0x00000941 System.Object VRBuilder.Core.Behaviors.MoveObjectBehavior/ActivatingProcess/<Update>d__3::System.Collections.IEnumerator.get_Current()
 extern void U3CUpdateU3Ed__3_System_Collections_IEnumerator_get_Current_m94DEADD8683E6125B6FA5957FEAEE1D63F9B2889 (void);
-// 0x00000954 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior::.ctor()
+// 0x00000942 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior::.ctor()
 extern void PlayAudioBehavior__ctor_m6B89B47A115EACD31A90F1AC50A04BD2FE30AF27 (void);
-// 0x00000955 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior::.ctor(VRBuilder.Core.Audio.IAudioData,VRBuilder.Core.Behaviors.BehaviorExecutionStages,UnityEngine.AudioSource)
+// 0x00000943 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior::.ctor(VRBuilder.Core.Audio.IAudioData,VRBuilder.Core.Behaviors.BehaviorExecutionStages,UnityEngine.AudioSource)
 extern void PlayAudioBehavior__ctor_m8DD798486A83F028ED38CD274F9BEEE62C6F3C69 (void);
-// 0x00000956 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior::.ctor(VRBuilder.Core.Audio.IAudioData,VRBuilder.Core.Behaviors.BehaviorExecutionStages,System.Boolean,UnityEngine.AudioSource)
+// 0x00000944 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior::.ctor(VRBuilder.Core.Audio.IAudioData,VRBuilder.Core.Behaviors.BehaviorExecutionStages,System.Boolean,UnityEngine.AudioSource)
 extern void PlayAudioBehavior__ctor_m1985BEF1676DBC3CBC3C6844D774AEA7A23C0192 (void);
-// 0x00000957 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.PlayAudioBehavior::GetActivatingProcess()
+// 0x00000945 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.PlayAudioBehavior::GetActivatingProcess()
 extern void PlayAudioBehavior_GetActivatingProcess_m54AE42ED37CC59231DD630F77DA828DD3A005880 (void);
-// 0x00000958 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.PlayAudioBehavior::GetDeactivatingProcess()
+// 0x00000946 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.PlayAudioBehavior::GetDeactivatingProcess()
 extern void PlayAudioBehavior_GetDeactivatingProcess_m52CDB3012FF38D8B998118345EC42FF3E74B54D6 (void);
-// 0x00000959 VRBuilder.Core.Audio.IAudioData VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::get_AudioData()
+// 0x00000947 VRBuilder.Core.Audio.IAudioData VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::get_AudioData()
 extern void EntityData_get_AudioData_mFF239BC1469FD28EA75A2F3E75C788F1167C827C (void);
-// 0x0000095A System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::set_AudioData(VRBuilder.Core.Audio.IAudioData)
+// 0x00000948 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::set_AudioData(VRBuilder.Core.Audio.IAudioData)
 extern void EntityData_set_AudioData_m1F4CA322EF86029CF06A28B1442B8F7770E529C6 (void);
-// 0x0000095B VRBuilder.Core.Behaviors.BehaviorExecutionStages VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::get_ExecutionStages()
+// 0x00000949 VRBuilder.Core.Behaviors.BehaviorExecutionStages VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::get_ExecutionStages()
 extern void EntityData_get_ExecutionStages_m336D573F835BC2585D595C7EE0E9D39EA9D02D26 (void);
-// 0x0000095C System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::set_ExecutionStages(VRBuilder.Core.Behaviors.BehaviorExecutionStages)
+// 0x0000094A System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::set_ExecutionStages(VRBuilder.Core.Behaviors.BehaviorExecutionStages)
 extern void EntityData_set_ExecutionStages_m1869D3BCC5A02663FBF3C78A8FD61C9A7484B057 (void);
-// 0x0000095D System.Single VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::get_Volume()
+// 0x0000094B System.Single VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::get_Volume()
 extern void EntityData_get_Volume_mAC2D96FD0860633D24BE9B1C1736418AB02761D1 (void);
-// 0x0000095E System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::set_Volume(System.Single)
+// 0x0000094C System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::set_Volume(System.Single)
 extern void EntityData_set_Volume_m6D0F0B811E2A4482DC8AFC36F3C9B18BDDDEAEEF (void);
-// 0x0000095F UnityEngine.AudioSource VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::get_AudioPlayer()
+// 0x0000094D UnityEngine.AudioSource VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::get_AudioPlayer()
 extern void EntityData_get_AudioPlayer_mC7FAE6257DF5507CF130C1F5ADA49D77D8D93249 (void);
-// 0x00000960 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::set_AudioPlayer(UnityEngine.AudioSource)
+// 0x0000094E System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::set_AudioPlayer(UnityEngine.AudioSource)
 extern void EntityData_set_AudioPlayer_m1D4CC627D622C987172D2E1CD74AFF430382F1EF (void);
-// 0x00000961 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::get_Metadata()
+// 0x0000094F VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_m18037D2EE604A28F32EE3C78C022ABD1649C794F (void);
-// 0x00000962 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x00000950 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_m91FE6D6D0C2B54BE0D5BCD3CBCDFA8DD49A76AC1 (void);
-// 0x00000963 System.String VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::get_Name()
+// 0x00000951 System.String VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_m089FC522B02426EC78630334D155EF0E290810D2 (void);
-// 0x00000964 System.Boolean VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::get_IsBlocking()
+// 0x00000952 System.Boolean VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::get_IsBlocking()
 extern void EntityData_get_IsBlocking_m846E31D20103B904EBB469808E9EBF99A3E78C10 (void);
-// 0x00000965 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::set_IsBlocking(System.Boolean)
+// 0x00000953 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::set_IsBlocking(System.Boolean)
 extern void EntityData_set_IsBlocking_m74BB94E939155D14B53A181645D84CF016BE08B3 (void);
-// 0x00000966 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::.ctor()
+// 0x00000954 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData::.ctor()
 extern void EntityData__ctor_m0199FC090D52CF7A3C5694F2F9A73BC8793F6CB9 (void);
-// 0x00000967 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess::.ctor(VRBuilder.Core.Behaviors.BehaviorExecutionStages,VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData)
+// 0x00000955 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess::.ctor(VRBuilder.Core.Behaviors.BehaviorExecutionStages,VRBuilder.Core.Behaviors.PlayAudioBehavior/EntityData)
 extern void PlayAudioProcess__ctor_m07FE78B01B60F83D111025B495B8A94F09A1A4A8 (void);
-// 0x00000968 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess::Start()
+// 0x00000956 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess::Start()
 extern void PlayAudioProcess_Start_mD1D4DE451E685989852A18C487FCF7D46AF74A76 (void);
-// 0x00000969 System.Collections.IEnumerator VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess::Update()
+// 0x00000957 System.Collections.IEnumerator VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess::Update()
 extern void PlayAudioProcess_Update_m2A067346A3A6AA4E7DA6BBA6B4711AFFEE99B9A3 (void);
-// 0x0000096A System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess::End()
+// 0x00000958 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess::End()
 extern void PlayAudioProcess_End_m225139DA4DF3D123C104A3C6AB31A3D36A581DA4 (void);
-// 0x0000096B System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess::FastForward()
+// 0x00000959 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess::FastForward()
 extern void PlayAudioProcess_FastForward_m16EF43AE9C637D34611ACAE00CBEE25E5F6A0C16 (void);
-// 0x0000096C System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess/<Update>d__4::.ctor(System.Int32)
+// 0x0000095A System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess/<Update>d__4::.ctor(System.Int32)
 extern void U3CUpdateU3Ed__4__ctor_m64629729D91DF1B6015571917626661ACD974EAC (void);
-// 0x0000096D System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess/<Update>d__4::System.IDisposable.Dispose()
+// 0x0000095B System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess/<Update>d__4::System.IDisposable.Dispose()
 extern void U3CUpdateU3Ed__4_System_IDisposable_Dispose_mFE2F6BF430CCD16E1F249B0671F7D2872E556E77 (void);
-// 0x0000096E System.Boolean VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess/<Update>d__4::MoveNext()
+// 0x0000095C System.Boolean VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess/<Update>d__4::MoveNext()
 extern void U3CUpdateU3Ed__4_MoveNext_m1C73D36EBD33A4B698D4AE647E9D3097974425AE (void);
-// 0x0000096F System.Object VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess/<Update>d__4::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x0000095D System.Object VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess/<Update>d__4::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CUpdateU3Ed__4_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mCFA8B972F700C96A60D9352FEF2AFA7CB3EA6105 (void);
-// 0x00000970 System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess/<Update>d__4::System.Collections.IEnumerator.Reset()
+// 0x0000095E System.Void VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess/<Update>d__4::System.Collections.IEnumerator.Reset()
 extern void U3CUpdateU3Ed__4_System_Collections_IEnumerator_Reset_m5F4FDC5AC7DECDC417C5B243DAE980FB7B0576F0 (void);
-// 0x00000971 System.Object VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess/<Update>d__4::System.Collections.IEnumerator.get_Current()
+// 0x0000095F System.Object VRBuilder.Core.Behaviors.PlayAudioBehavior/PlayAudioProcess/<Update>d__4::System.Collections.IEnumerator.get_Current()
 extern void U3CUpdateU3Ed__4_System_Collections_IEnumerator_get_Current_m7F35317272CB6BAF543D8E389179FD3D868D1875 (void);
-// 0x00000972 System.Void VRBuilder.Core.Behaviors.ResetValueBehavior::.ctor()
+// 0x00000960 System.Void VRBuilder.Core.Behaviors.ResetValueBehavior::.ctor()
 extern void ResetValueBehavior__ctor_mC0C3FD4B0D20D1695CBFFBEEDCB70FC6FAA1E514 (void);
-// 0x00000973 System.Void VRBuilder.Core.Behaviors.ResetValueBehavior::.ctor(System.String)
+// 0x00000961 System.Void VRBuilder.Core.Behaviors.ResetValueBehavior::.ctor(System.String)
 extern void ResetValueBehavior__ctor_m7DC17401DAA932B4FD5388E1E7546F572A2E66DD (void);
-// 0x00000974 System.Void VRBuilder.Core.Behaviors.ResetValueBehavior::.ctor(VRBuilder.Core.Properties.IDataPropertyBase)
+// 0x00000962 System.Void VRBuilder.Core.Behaviors.ResetValueBehavior::.ctor(VRBuilder.Core.Properties.IDataPropertyBase)
 extern void ResetValueBehavior__ctor_mA93C3E0915BC036713830F9D4F005029D2B9A1A2 (void);
-// 0x00000975 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.ResetValueBehavior::GetActivatingProcess()
+// 0x00000963 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.ResetValueBehavior::GetActivatingProcess()
 extern void ResetValueBehavior_GetActivatingProcess_m992276D189CE2D1409BE030DE711D747480630C5 (void);
-// 0x00000976 VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataPropertyBase> VRBuilder.Core.Behaviors.ResetValueBehavior/EntityData::get_DataProperty()
+// 0x00000964 VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataPropertyBase> VRBuilder.Core.Behaviors.ResetValueBehavior/EntityData::get_DataProperty()
 extern void EntityData_get_DataProperty_mD5A2D008CF90548786614987E2EA8D526B71CBB8 (void);
-// 0x00000977 System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/EntityData::set_DataProperty(VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataPropertyBase>)
+// 0x00000965 System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/EntityData::set_DataProperty(VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataPropertyBase>)
 extern void EntityData_set_DataProperty_mB45701A06D19973D14249B9A1BD7113D74DD92FC (void);
-// 0x00000978 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.ResetValueBehavior/EntityData::get_Metadata()
+// 0x00000966 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.ResetValueBehavior/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_m76054FEE4155BD474A08CD33242E82B662EA69BB (void);
-// 0x00000979 System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x00000967 System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_m955482E3DB3C16E12DB1490C0643B4EDF96060B9 (void);
-// 0x0000097A System.String VRBuilder.Core.Behaviors.ResetValueBehavior/EntityData::get_Name()
+// 0x00000968 System.String VRBuilder.Core.Behaviors.ResetValueBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_mEC2AA9A43342017EA66B05298CC3F2D1F156BA84 (void);
-// 0x0000097B System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/EntityData::.ctor()
+// 0x00000969 System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/EntityData::.ctor()
 extern void EntityData__ctor_m2D96B1D28A7BD232CD9A8194D821EBBB03928B52 (void);
-// 0x0000097C System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.ResetValueBehavior/EntityData)
+// 0x0000096A System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.ResetValueBehavior/EntityData)
 extern void ActivatingProcess__ctor_m0971B80B1FD36BA436BE278125E2ACE541137001 (void);
-// 0x0000097D System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess::Start()
+// 0x0000096B System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess::Start()
 extern void ActivatingProcess_Start_mC8EBAF540D4D64C1413F5F3C8EE2A4AC8DA92893 (void);
-// 0x0000097E System.Collections.IEnumerator VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess::Update()
+// 0x0000096C System.Collections.IEnumerator VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess::Update()
 extern void ActivatingProcess_Update_mAC8FB74F1BB5493538109EE77D715D2FAE6E44B5 (void);
-// 0x0000097F System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess::End()
+// 0x0000096D System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess::End()
 extern void ActivatingProcess_End_m53B51544E7D48824CAD946524C406B404C4FE861 (void);
-// 0x00000980 System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess::FastForward()
+// 0x0000096E System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess::FastForward()
 extern void ActivatingProcess_FastForward_m9985DADF6366D2AAACC6DE4D60E17FD54F41D786 (void);
-// 0x00000981 System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess/<Update>d__2::.ctor(System.Int32)
+// 0x0000096F System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess/<Update>d__2::.ctor(System.Int32)
 extern void U3CUpdateU3Ed__2__ctor_m99F183FB9094C3D2AB7D7853637AE7521C5B92E3 (void);
-// 0x00000982 System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess/<Update>d__2::System.IDisposable.Dispose()
+// 0x00000970 System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess/<Update>d__2::System.IDisposable.Dispose()
 extern void U3CUpdateU3Ed__2_System_IDisposable_Dispose_m7629137B667135F8E5AA4F24E64B6FCFFB1C4158 (void);
-// 0x00000983 System.Boolean VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess/<Update>d__2::MoveNext()
+// 0x00000971 System.Boolean VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess/<Update>d__2::MoveNext()
 extern void U3CUpdateU3Ed__2_MoveNext_m417D0264AB8BA89B676777CE83AF2FABAE0C7B4F (void);
-// 0x00000984 System.Object VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x00000972 System.Object VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m4E23925AA0565BB9C1BC688E8682C2CC74AFAA0E (void);
-// 0x00000985 System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
+// 0x00000973 System.Void VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_Reset_mD80872C39D6D7F6C2987721BE4D095F5928977A5 (void);
-// 0x00000986 System.Object VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
+// 0x00000974 System.Object VRBuilder.Core.Behaviors.ResetValueBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_get_Current_mF9212982975439B1592DB9DAC91BCDC3BF9742B3 (void);
-// 0x00000987 System.Void VRBuilder.Core.Behaviors.ScalingBehavior::.ctor()
+// 0x00000975 System.Void VRBuilder.Core.Behaviors.ScalingBehavior::.ctor()
 extern void ScalingBehavior__ctor_m810E1E6442F87396DE2A03A465D4A0878141C10B (void);
-// 0x00000988 System.Void VRBuilder.Core.Behaviors.ScalingBehavior::.ctor(VRBuilder.Core.SceneObjects.SceneObjectReference,UnityEngine.Vector3,System.Single)
+// 0x00000976 System.Void VRBuilder.Core.Behaviors.ScalingBehavior::.ctor(VRBuilder.Core.SceneObjects.SceneObjectReference,UnityEngine.Vector3,System.Single)
 extern void ScalingBehavior__ctor_m1D3569625DD67180D6F67B956BC0E69C6ACC50D8 (void);
-// 0x00000989 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.ScalingBehavior::GetActivatingProcess()
+// 0x00000977 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.ScalingBehavior::GetActivatingProcess()
 extern void ScalingBehavior_GetActivatingProcess_mEADFE2D14DFE2255598689D6904ADDE74C6C47CB (void);
-// 0x0000098A VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::get_Target()
+// 0x00000978 VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::get_Target()
 extern void EntityData_get_Target_mAF4106A10B659BD15BB33DC142961458CD801753 (void);
-// 0x0000098B System.Void VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::set_Target(VRBuilder.Core.SceneObjects.SceneObjectReference)
+// 0x00000979 System.Void VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::set_Target(VRBuilder.Core.SceneObjects.SceneObjectReference)
 extern void EntityData_set_Target_mC2FC7E4246CDCF599C0A366F48CF5C34D1A4E30D (void);
-// 0x0000098C UnityEngine.Vector3 VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::get_TargetScale()
+// 0x0000097A UnityEngine.Vector3 VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::get_TargetScale()
 extern void EntityData_get_TargetScale_m250361A230F98CBCF9A933CE603B3F5EC3B10054 (void);
-// 0x0000098D System.Void VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::set_TargetScale(UnityEngine.Vector3)
+// 0x0000097B System.Void VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::set_TargetScale(UnityEngine.Vector3)
 extern void EntityData_set_TargetScale_mE59DD74DA7835E41847E12946713E18755A6335B (void);
-// 0x0000098E System.Single VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::get_Duration()
+// 0x0000097C System.Single VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::get_Duration()
 extern void EntityData_get_Duration_m5BECFE2DD8EBEAB9C6B9A322960B8DEA5C1DFBFC (void);
-// 0x0000098F System.Void VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::set_Duration(System.Single)
+// 0x0000097D System.Void VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::set_Duration(System.Single)
 extern void EntityData_set_Duration_m9DB48A31EB07B6D7A01AE53D8401188A1CE7FBB9 (void);
-// 0x00000990 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::get_Metadata()
+// 0x0000097E VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_mC138F362E772FA653DF1D9B6BD95A016EA7AF54D (void);
-// 0x00000991 System.Void VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x0000097F System.Void VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_m6B9CF032E0383FAD95A6C6A4890DECAD3C60C81A (void);
-// 0x00000992 System.String VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::get_Name()
+// 0x00000980 System.String VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_m5BA0C88CACE68FAEAF6A3CC72F6F2966B22A5D69 (void);
-// 0x00000993 System.Void VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::.ctor()
+// 0x00000981 System.Void VRBuilder.Core.Behaviors.ScalingBehavior/EntityData::.ctor()
 extern void EntityData__ctor_m6CA9CF573973F998D337CFE9E30FDDB2E1A3FDCF (void);
-// 0x00000994 System.Void VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.ScalingBehavior/EntityData)
+// 0x00000982 System.Void VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.ScalingBehavior/EntityData)
 extern void ActivatingProcess__ctor_mF343E95B722600747C14E8E1A37B6B4122C056E9 (void);
-// 0x00000995 System.Void VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess::Start()
+// 0x00000983 System.Void VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess::Start()
 extern void ActivatingProcess_Start_mE34DD7DC236ACEAAB706E5BE3E778A3FEDAD7CD2 (void);
-// 0x00000996 System.Collections.IEnumerator VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess::Update()
+// 0x00000984 System.Collections.IEnumerator VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess::Update()
 extern void ActivatingProcess_Update_m185CBE87644940C150BE5D283B044383CF7CF265 (void);
-// 0x00000997 System.Void VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess::End()
+// 0x00000985 System.Void VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess::End()
 extern void ActivatingProcess_End_mFB676167B451DFBA5312004FB495FAC1F64C3AC1 (void);
-// 0x00000998 System.Void VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess::FastForward()
+// 0x00000986 System.Void VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess::FastForward()
 extern void ActivatingProcess_FastForward_mCDAA1A54B94199AF15C5C5873CFCF19B5BE0972D (void);
-// 0x00000999 System.Void VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess/<Update>d__2::.ctor(System.Int32)
+// 0x00000987 System.Void VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess/<Update>d__2::.ctor(System.Int32)
 extern void U3CUpdateU3Ed__2__ctor_m74BE223E95C284B45AFC76A57DC654553A7B709F (void);
-// 0x0000099A System.Void VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess/<Update>d__2::System.IDisposable.Dispose()
+// 0x00000988 System.Void VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess/<Update>d__2::System.IDisposable.Dispose()
 extern void U3CUpdateU3Ed__2_System_IDisposable_Dispose_m4BD528D4DF78BFD7D15619B76E496B68E351A288 (void);
-// 0x0000099B System.Boolean VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess/<Update>d__2::MoveNext()
+// 0x00000989 System.Boolean VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess/<Update>d__2::MoveNext()
 extern void U3CUpdateU3Ed__2_MoveNext_m551628B80AE46D89AC6637387594985988B6585B (void);
-// 0x0000099C System.Object VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x0000098A System.Object VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mA20BBB33D8DCC0554C5CB271B6465B971DCCBA86 (void);
-// 0x0000099D System.Void VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
+// 0x0000098B System.Void VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_Reset_m57A89770B915AF18F5D78B7E01E17F8450F845D0 (void);
-// 0x0000099E System.Object VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
+// 0x0000098C System.Object VRBuilder.Core.Behaviors.ScalingBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_get_Current_m4F5519C18A22D8A03FD07E064CDB4DAF962F3AEB (void);
-// 0x0000099F System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior::.ctor()
+// 0x0000098D System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior::.ctor()
 extern void SetComponentEnabledBehavior__ctor_mF934D57387D4AC9C9D66B5D1FFFAD918A3AD9B60 (void);
-// 0x000009A0 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior::.ctor(System.Boolean)
+// 0x0000098E System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior::.ctor(System.Boolean)
 extern void SetComponentEnabledBehavior__ctor_m455604E1B72383EA30F97B29456E4A5FA1D1C089 (void);
-// 0x000009A1 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior::.ctor(VRBuilder.Core.SceneObjects.ISceneObject,System.String,System.Boolean,System.Boolean)
+// 0x0000098F System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior::.ctor(VRBuilder.Core.SceneObjects.ISceneObject,System.String,System.Boolean,System.Boolean)
 extern void SetComponentEnabledBehavior__ctor_mFF3E5C2647F22C7C06AD9B0073430834E3013FA0 (void);
-// 0x000009A2 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior::.ctor(System.String,System.String,System.Boolean,System.Boolean)
+// 0x00000990 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior::.ctor(System.String,System.String,System.Boolean,System.Boolean)
 extern void SetComponentEnabledBehavior__ctor_m3D23D41992E9AFC1388347438F204FE0352220C3 (void);
-// 0x000009A3 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.SetComponentEnabledBehavior::GetActivatingProcess()
+// 0x00000991 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.SetComponentEnabledBehavior::GetActivatingProcess()
 extern void SetComponentEnabledBehavior_GetActivatingProcess_m00A20DE4703CBBA3D5122657B36B41A4C30E2ADF (void);
-// 0x000009A4 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.SetComponentEnabledBehavior::GetDeactivatingProcess()
+// 0x00000992 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.SetComponentEnabledBehavior::GetDeactivatingProcess()
 extern void SetComponentEnabledBehavior_GetDeactivatingProcess_mD469CF091B5DCE6A11809206E641FED0CBBAF9FB (void);
-// 0x000009A5 VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::get_Target()
+// 0x00000993 VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::get_Target()
 extern void EntityData_get_Target_m2305028282462E6F64CD7CDF0AEB0F507121CA0F (void);
-// 0x000009A6 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::set_Target(VRBuilder.Core.SceneObjects.SceneObjectReference)
+// 0x00000994 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::set_Target(VRBuilder.Core.SceneObjects.SceneObjectReference)
 extern void EntityData_set_Target_m80F1781A116D5BB808ADEB7C0A9F5054780C6F83 (void);
-// 0x000009A7 System.String VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::get_ComponentType()
+// 0x00000995 System.String VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::get_ComponentType()
 extern void EntityData_get_ComponentType_m05C79A6A88EA8D0F5B1A23414D5F8DE939FFDDC4 (void);
-// 0x000009A8 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::set_ComponentType(System.String)
+// 0x00000996 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::set_ComponentType(System.String)
 extern void EntityData_set_ComponentType_mA315C9304D93497E53CB3A6CE33E82E8CA65A7E8 (void);
-// 0x000009A9 System.Boolean VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::get_SetEnabled()
+// 0x00000997 System.Boolean VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::get_SetEnabled()
 extern void EntityData_get_SetEnabled_mEA986691CEC7163285AF7B6517C2C9623387B48E (void);
-// 0x000009AA System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::set_SetEnabled(System.Boolean)
+// 0x00000998 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::set_SetEnabled(System.Boolean)
 extern void EntityData_set_SetEnabled_m04E22F9620EE42FDCA497CDE400173ADDA187203 (void);
-// 0x000009AB System.Boolean VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::get_RevertOnDeactivation()
+// 0x00000999 System.Boolean VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::get_RevertOnDeactivation()
 extern void EntityData_get_RevertOnDeactivation_mF140941FF3745E1394BC9F17796458753B9C4234 (void);
-// 0x000009AC System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::set_RevertOnDeactivation(System.Boolean)
+// 0x0000099A System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::set_RevertOnDeactivation(System.Boolean)
 extern void EntityData_set_RevertOnDeactivation_m2766B44254BADCE857A0EDA97272E88F76482A6F (void);
-// 0x000009AD VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::get_Metadata()
+// 0x0000099B VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_mA01775344959D34BC5B9D8883AFA7A815EE1B8D5 (void);
-// 0x000009AE System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x0000099C System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_m8DD8DB31652393312390BE0BA717FBCC1374DE88 (void);
-// 0x000009AF System.String VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::get_Name()
+// 0x0000099D System.String VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_m5406F3D247FF2A7EA02C74D02E4BECD2ACD9A150 (void);
-// 0x000009B0 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::.ctor()
+// 0x0000099E System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData::.ctor()
 extern void EntityData__ctor_mE2D8D0B3670353638F31A0EECFB074F28E5530D3 (void);
-// 0x000009B1 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData)
+// 0x0000099F System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData)
 extern void ActivatingProcess__ctor_m545E409ED0C36C9A9E574E0A6FD4AD9B12E63D88 (void);
-// 0x000009B2 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/ActivatingProcess::Start()
+// 0x000009A0 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/ActivatingProcess::Start()
 extern void ActivatingProcess_Start_m0AD3634F0ADFBE027DC812EE764AC12758EC2A92 (void);
-// 0x000009B3 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/DeactivatingProcess::.ctor(VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData)
+// 0x000009A1 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/DeactivatingProcess::.ctor(VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/EntityData)
 extern void DeactivatingProcess__ctor_mB6D2F36DE93FED484F13465E28A487DF92487573 (void);
-// 0x000009B4 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/DeactivatingProcess::Start()
+// 0x000009A2 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledBehavior/DeactivatingProcess::Start()
 extern void DeactivatingProcess_Start_m85FA945896CA0A68E1B62025026A8F8E6CA49CD5 (void);
-// 0x000009B5 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior::.ctor()
+// 0x000009A3 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior::.ctor()
 extern void SetComponentEnabledByTagBehavior__ctor_mB2834EFC700BAB4A12033FAA2407583163BA367B (void);
-// 0x000009B6 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior::.ctor(System.Boolean,System.String)
+// 0x000009A4 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior::.ctor(System.Boolean,System.String)
 extern void SetComponentEnabledByTagBehavior__ctor_m57533D2528FA5C182AD972C9D125EA6BBEBBF66C (void);
-// 0x000009B7 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior::.ctor(System.Guid,System.String,System.Boolean,System.Boolean)
+// 0x000009A5 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior::.ctor(System.Guid,System.String,System.Boolean,System.Boolean)
 extern void SetComponentEnabledByTagBehavior__ctor_m7F49AAFC7E615AC3DA59239867CB9113E53E846B (void);
-// 0x000009B8 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior::GetActivatingProcess()
+// 0x000009A6 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior::GetActivatingProcess()
 extern void SetComponentEnabledByTagBehavior_GetActivatingProcess_mBFB6E27A4D3CEB11FB84AFE9EFFEB795F6C21A62 (void);
-// 0x000009B9 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior::GetDeactivatingProcess()
+// 0x000009A7 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior::GetDeactivatingProcess()
 extern void SetComponentEnabledByTagBehavior_GetDeactivatingProcess_m966C31D1F3F996447544693C557E3391F67158B0 (void);
-// 0x000009BA VRBuilder.Core.SceneObjects.SceneObjectTag`1<VRBuilder.Core.SceneObjects.ISceneObject> VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::get_TargetTag()
+// 0x000009A8 VRBuilder.Core.SceneObjects.SceneObjectTag`1<VRBuilder.Core.SceneObjects.ISceneObject> VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::get_TargetTag()
 extern void EntityData_get_TargetTag_mA2D99F8D44C98A85E6CD65D25A5DD97238E8B5FA (void);
-// 0x000009BB System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::set_TargetTag(VRBuilder.Core.SceneObjects.SceneObjectTag`1<VRBuilder.Core.SceneObjects.ISceneObject>)
+// 0x000009A9 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::set_TargetTag(VRBuilder.Core.SceneObjects.SceneObjectTag`1<VRBuilder.Core.SceneObjects.ISceneObject>)
 extern void EntityData_set_TargetTag_m1F5A1A12C6FDA7B44695ED027D3CD69965A08AB2 (void);
-// 0x000009BC System.String VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::get_ComponentType()
+// 0x000009AA System.String VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::get_ComponentType()
 extern void EntityData_get_ComponentType_m10BDB3F48803E1137B57BE331FD3AD702C7EFEAF (void);
-// 0x000009BD System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::set_ComponentType(System.String)
+// 0x000009AB System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::set_ComponentType(System.String)
 extern void EntityData_set_ComponentType_m96AABE38FAFB6128376C8C41B8D9ED4A7E27E288 (void);
-// 0x000009BE System.Boolean VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::get_SetEnabled()
+// 0x000009AC System.Boolean VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::get_SetEnabled()
 extern void EntityData_get_SetEnabled_m995ABDC9D9B983023B444B9B39620B6F76F9C213 (void);
-// 0x000009BF System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::set_SetEnabled(System.Boolean)
+// 0x000009AD System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::set_SetEnabled(System.Boolean)
 extern void EntityData_set_SetEnabled_m02412ADDC27F8889456F146B368331E8A2BE592C (void);
-// 0x000009C0 System.Boolean VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::get_RevertOnDeactivation()
+// 0x000009AE System.Boolean VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::get_RevertOnDeactivation()
 extern void EntityData_get_RevertOnDeactivation_m2166B104623EAAC76BDE14B028821C51EF4DD973 (void);
-// 0x000009C1 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::set_RevertOnDeactivation(System.Boolean)
+// 0x000009AF System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::set_RevertOnDeactivation(System.Boolean)
 extern void EntityData_set_RevertOnDeactivation_m383BD601CA9F3D7A0E807CFA9D036118A76A6938 (void);
-// 0x000009C2 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::get_Metadata()
+// 0x000009B0 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_mC90622CA67BE9D0DBA011BDB25C49AFE5B9785E1 (void);
-// 0x000009C3 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x000009B1 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_m1A45AA942536C59C30C14A70970E3BBD48B0347D (void);
-// 0x000009C4 System.String VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::get_Name()
+// 0x000009B2 System.String VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_m9CE15BC28F38FE59975115680CEDDE8EEA7A27F8 (void);
-// 0x000009C5 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::.ctor()
+// 0x000009B3 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData::.ctor()
 extern void EntityData__ctor_mB675FB6C02F3A79E8C791459DB61B6A720A66134 (void);
-// 0x000009C6 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData)
+// 0x000009B4 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData)
 extern void ActivatingProcess__ctor_m5710625825BC0938C3E3A9AD132B05C66742F0E2 (void);
-// 0x000009C7 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/ActivatingProcess::Start()
+// 0x000009B5 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/ActivatingProcess::Start()
 extern void ActivatingProcess_Start_m52FBFFCDCC86864EEA76790C38A5C1F76D2DD227 (void);
-// 0x000009C8 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/DeactivatingProcess::.ctor(VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData)
+// 0x000009B6 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/DeactivatingProcess::.ctor(VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/EntityData)
 extern void DeactivatingProcess__ctor_mB689FAF47C5B793000480F0B20C993DCDCB9C161 (void);
-// 0x000009C9 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/DeactivatingProcess::Start()
+// 0x000009B7 System.Void VRBuilder.Core.Behaviors.SetComponentEnabledByTagBehavior/DeactivatingProcess::Start()
 extern void DeactivatingProcess_Start_m4307DA5B4E7DE7EAA6019A809ADFB5DD4CB46A96 (void);
-// 0x000009CA System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior::.ctor()
+// 0x000009B8 System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior::.ctor()
 extern void SetObjectsWithTagEnabledBehavior__ctor_m9EBE7A91DF087B354B76CFD5252D6C5B13E1989C (void);
-// 0x000009CB System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior::.ctor(System.Boolean)
+// 0x000009B9 System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior::.ctor(System.Boolean)
 extern void SetObjectsWithTagEnabledBehavior__ctor_m651A0971D288405325AFA7A7282BD391BC53E033 (void);
-// 0x000009CC System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior::.ctor(System.Guid,System.Boolean,System.Boolean)
+// 0x000009BA System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior::.ctor(System.Guid,System.Boolean,System.Boolean)
 extern void SetObjectsWithTagEnabledBehavior__ctor_mEA8B0A1B621822ABD9B4A03F157F15DAE81619C0 (void);
-// 0x000009CD VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior::GetActivatingProcess()
+// 0x000009BB VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior::GetActivatingProcess()
 extern void SetObjectsWithTagEnabledBehavior_GetActivatingProcess_mFDC91D7EF7A6E9071096B79619EECA4E333B8FC9 (void);
-// 0x000009CE VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior::GetDeactivatingProcess()
+// 0x000009BC VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior::GetDeactivatingProcess()
 extern void SetObjectsWithTagEnabledBehavior_GetDeactivatingProcess_m80111E7927EAF20B7DCB9A547D0DAC6F00DF65D2 (void);
-// 0x000009CF VRBuilder.Core.SceneObjects.SceneObjectTag`1<VRBuilder.Core.SceneObjects.ISceneObject> VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::get_Tag()
+// 0x000009BD VRBuilder.Core.SceneObjects.SceneObjectTag`1<VRBuilder.Core.SceneObjects.ISceneObject> VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::get_Tag()
 extern void EntityData_get_Tag_mAD6E5714F978C9E72F85397073E45BD3D6CA2EAA (void);
-// 0x000009D0 System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::set_Tag(VRBuilder.Core.SceneObjects.SceneObjectTag`1<VRBuilder.Core.SceneObjects.ISceneObject>)
+// 0x000009BE System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::set_Tag(VRBuilder.Core.SceneObjects.SceneObjectTag`1<VRBuilder.Core.SceneObjects.ISceneObject>)
 extern void EntityData_set_Tag_mAEFC2C2D5A6EB2FD560124AF43CF9B599CA24385 (void);
-// 0x000009D1 System.Boolean VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::get_SetEnabled()
+// 0x000009BF System.Boolean VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::get_SetEnabled()
 extern void EntityData_get_SetEnabled_m2D123074B6F1731936D624D7A5AF25E77E696FF9 (void);
-// 0x000009D2 System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::set_SetEnabled(System.Boolean)
+// 0x000009C0 System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::set_SetEnabled(System.Boolean)
 extern void EntityData_set_SetEnabled_mAF47DBF75A6298F23ABAA00FECE0D757F2656E2F (void);
-// 0x000009D3 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::get_Metadata()
+// 0x000009C1 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_mAECF6475326C5358D3CF5E04DF3BAA1AF2AAB0C2 (void);
-// 0x000009D4 System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x000009C2 System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_m5D29864FDB193A062B713C6D848A8D258DDE935A (void);
-// 0x000009D5 System.Boolean VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::get_RevertOnDeactivation()
+// 0x000009C3 System.Boolean VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::get_RevertOnDeactivation()
 extern void EntityData_get_RevertOnDeactivation_m3FECDFFCA397BC35D7A6A49A10E9111E5435153A (void);
-// 0x000009D6 System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::set_RevertOnDeactivation(System.Boolean)
+// 0x000009C4 System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::set_RevertOnDeactivation(System.Boolean)
 extern void EntityData_set_RevertOnDeactivation_mA8CD0F4CEB1845E5B66CDD9EC9612FB8A4CC2F14 (void);
-// 0x000009D7 System.String VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::get_Name()
+// 0x000009C5 System.String VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_m0EC4007C77053633EEC72C6CC4DE99ED2AAD3C3C (void);
-// 0x000009D8 System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::.ctor()
+// 0x000009C6 System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData::.ctor()
 extern void EntityData__ctor_m1C4B69C8D2DE431B48FBEB1E24112B830D234A23 (void);
-// 0x000009D9 System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData)
+// 0x000009C7 System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData)
 extern void ActivatingProcess__ctor_m90D7E823A076B685CCDE806270B4046AA2DE8C9D (void);
-// 0x000009DA System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/ActivatingProcess::Start()
+// 0x000009C8 System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/ActivatingProcess::Start()
 extern void ActivatingProcess_Start_mC5F1DE0FD0A46F9F2D759EED7E1FD00A6C6F1E8F (void);
-// 0x000009DB System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/DeactivatingProcess::.ctor(VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData)
+// 0x000009C9 System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/DeactivatingProcess::.ctor(VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/EntityData)
 extern void DeactivatingProcess__ctor_m4962BC99E1C6C3B36F9F128C0217D2511C8A2824 (void);
-// 0x000009DC System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/DeactivatingProcess::Start()
+// 0x000009CA System.Void VRBuilder.Core.Behaviors.SetObjectsWithTagEnabledBehavior/DeactivatingProcess::Start()
 extern void DeactivatingProcess_Start_m734C1FDD3376DFF8C1B446DC3902AA4C9A2BE54D (void);
-// 0x000009DD System.Void VRBuilder.Core.Behaviors.SetParentBehavior::.ctor()
+// 0x000009CB System.Void VRBuilder.Core.Behaviors.SetParentBehavior::.ctor()
 extern void SetParentBehavior__ctor_m97C9FAF61756E963D1A7BE61D98AE8DC9A360D11 (void);
-// 0x000009DE System.Void VRBuilder.Core.Behaviors.SetParentBehavior::.ctor(VRBuilder.Core.SceneObjects.ISceneObject,VRBuilder.Core.SceneObjects.ISceneObject,System.Boolean)
+// 0x000009CC System.Void VRBuilder.Core.Behaviors.SetParentBehavior::.ctor(VRBuilder.Core.SceneObjects.ISceneObject,VRBuilder.Core.SceneObjects.ISceneObject,System.Boolean)
 extern void SetParentBehavior__ctor_mB6A87120A10902928BAB9D0C40BC4E696D8FF54F (void);
-// 0x000009DF System.Void VRBuilder.Core.Behaviors.SetParentBehavior::.ctor(System.String,System.String,System.Boolean)
+// 0x000009CD System.Void VRBuilder.Core.Behaviors.SetParentBehavior::.ctor(System.String,System.String,System.Boolean)
 extern void SetParentBehavior__ctor_mD5DEF8D50575749436CA83E7E98CB4AEA500F0CE (void);
-// 0x000009E0 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.SetParentBehavior::GetActivatingProcess()
+// 0x000009CE VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.SetParentBehavior::GetActivatingProcess()
 extern void SetParentBehavior_GetActivatingProcess_m6E5B3F3B261138FB17A16BDF37B985111171974F (void);
-// 0x000009E1 VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::get_Target()
+// 0x000009CF VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::get_Target()
 extern void EntityData_get_Target_mC53467F57EA20FF0392DCAEFEDB40FC3D287B493 (void);
-// 0x000009E2 System.Void VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::set_Target(VRBuilder.Core.SceneObjects.SceneObjectReference)
+// 0x000009D0 System.Void VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::set_Target(VRBuilder.Core.SceneObjects.SceneObjectReference)
 extern void EntityData_set_Target_mBCE0254D183C2655B2981446AD56E3220691D317 (void);
-// 0x000009E3 VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::get_Parent()
+// 0x000009D1 VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::get_Parent()
 extern void EntityData_get_Parent_m8C131CF1F6DB38080F8E509E483DE471D10B2F39 (void);
-// 0x000009E4 System.Void VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::set_Parent(VRBuilder.Core.SceneObjects.SceneObjectReference)
+// 0x000009D2 System.Void VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::set_Parent(VRBuilder.Core.SceneObjects.SceneObjectReference)
 extern void EntityData_set_Parent_mA690DE057284B7631852B947B19A73FDC43C663D (void);
-// 0x000009E5 System.Boolean VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::get_SnapToParentTransform()
+// 0x000009D3 System.Boolean VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::get_SnapToParentTransform()
 extern void EntityData_get_SnapToParentTransform_m5A81ECE81785B74D670206D2A19044A9A7A03263 (void);
-// 0x000009E6 System.Void VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::set_SnapToParentTransform(System.Boolean)
+// 0x000009D4 System.Void VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::set_SnapToParentTransform(System.Boolean)
 extern void EntityData_set_SnapToParentTransform_mF74F8C57638E6540963E1A5AE4A44CA56AB9CE80 (void);
-// 0x000009E7 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::get_Metadata()
+// 0x000009D5 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_m286B49676607C9A8FD03936BEB6EECCF8D0DE091 (void);
-// 0x000009E8 System.Void VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x000009D6 System.Void VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_mF2EF1DBF688ED5B54D2FE45043267B2241769005 (void);
-// 0x000009E9 System.String VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::get_Name()
+// 0x000009D7 System.String VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_m6108DB1D02093C0F912656ADCEC12FC882AE971E (void);
-// 0x000009EA System.Void VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::.ctor()
+// 0x000009D8 System.Void VRBuilder.Core.Behaviors.SetParentBehavior/EntityData::.ctor()
 extern void EntityData__ctor_mD3AA0DFE90BFAB7E0185CFC210719476D40FACC8 (void);
-// 0x000009EB System.Void VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.SetParentBehavior/EntityData)
+// 0x000009D9 System.Void VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.SetParentBehavior/EntityData)
 extern void ActivatingProcess__ctor_m3BD9D5B6FD4C8EA8D8D05C3EA4B9A0F8A83C93D4 (void);
-// 0x000009EC System.Void VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess::Start()
+// 0x000009DA System.Void VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess::Start()
 extern void ActivatingProcess_Start_mEC6B00D3DC71681FC17E4E019AB9A81745E07D35 (void);
-// 0x000009ED System.Collections.IEnumerator VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess::Update()
+// 0x000009DB System.Collections.IEnumerator VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess::Update()
 extern void ActivatingProcess_Update_mBBBC0D61B84CE121CBB502A29952C8147B657018 (void);
-// 0x000009EE System.Void VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess::End()
+// 0x000009DC System.Void VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess::End()
 extern void ActivatingProcess_End_m4DCA0ED807E4F9B131DC6CA56BEA0E2EBAF666E3 (void);
-// 0x000009EF System.Void VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess::FastForward()
+// 0x000009DD System.Void VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess::FastForward()
 extern void ActivatingProcess_FastForward_mE1195E98F653593B6D851085A87CD9338D044D30 (void);
-// 0x000009F0 System.Boolean VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess::HasScaleIssues()
+// 0x000009DE System.Boolean VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess::HasScaleIssues()
 extern void ActivatingProcess_HasScaleIssues_m8E8989F90A4C1602D7BB258C3AFD38294D6E9E5B (void);
-// 0x000009F1 System.Void VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess/<Update>d__2::.ctor(System.Int32)
+// 0x000009DF System.Void VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess/<Update>d__2::.ctor(System.Int32)
 extern void U3CUpdateU3Ed__2__ctor_m774BE6075C273FB95F16A122DB80CA5C3E3F24EF (void);
-// 0x000009F2 System.Void VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess/<Update>d__2::System.IDisposable.Dispose()
+// 0x000009E0 System.Void VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess/<Update>d__2::System.IDisposable.Dispose()
 extern void U3CUpdateU3Ed__2_System_IDisposable_Dispose_m4360999226DBA0DD28A45584FD8FBF7FDA03240A (void);
-// 0x000009F3 System.Boolean VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess/<Update>d__2::MoveNext()
+// 0x000009E1 System.Boolean VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess/<Update>d__2::MoveNext()
 extern void U3CUpdateU3Ed__2_MoveNext_m51ABD706F12DB82F1137E9A1CFDCE3297A1A89C2 (void);
-// 0x000009F4 System.Object VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x000009E2 System.Object VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mCAE5E36D86BED9B981C22E0605D8CC9A32E9AE22 (void);
-// 0x000009F5 System.Void VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
+// 0x000009E3 System.Void VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_Reset_m70ABD06D5077BF062CAB8CD42CB5043DFEAE5BF4 (void);
-// 0x000009F6 System.Object VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
+// 0x000009E4 System.Object VRBuilder.Core.Behaviors.SetParentBehavior/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
 extern void U3CUpdateU3Ed__2_System_Collections_IEnumerator_get_Current_m1B65D9B9AA5000A527D934CE79036DB9C8D9AF47 (void);
-// 0x000009F7 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1::.ctor()
-// 0x000009F8 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1::.ctor(System.String)
-// 0x000009F9 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1::.ctor(System.String,T)
-// 0x000009FA System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1::.ctor(VRBuilder.Core.Properties.IDataProperty`1<T>,T)
-// 0x000009FB VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.SetValueBehavior`1::GetActivatingProcess()
-// 0x000009FC VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataProperty`1<T>> VRBuilder.Core.Behaviors.SetValueBehavior`1/EntityData::get_DataProperty()
-// 0x000009FD System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/EntityData::set_DataProperty(VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataProperty`1<T>>)
-// 0x000009FE T VRBuilder.Core.Behaviors.SetValueBehavior`1/EntityData::get_NewValue()
-// 0x000009FF System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/EntityData::set_NewValue(T)
-// 0x00000A00 VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.SetValueBehavior`1/EntityData::get_Metadata()
-// 0x00000A01 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/EntityData::set_Metadata(VRBuilder.Core.Metadata)
-// 0x00000A02 System.String VRBuilder.Core.Behaviors.SetValueBehavior`1/EntityData::get_Name()
-// 0x00000A03 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/EntityData::.ctor()
-// 0x00000A04 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.SetValueBehavior`1/EntityData<T>)
-// 0x00000A05 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess::Start()
-// 0x00000A06 System.Collections.IEnumerator VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess::Update()
-// 0x00000A07 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess::End()
-// 0x00000A08 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess::FastForward()
-// 0x00000A09 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess/<Update>d__2::.ctor(System.Int32)
-// 0x00000A0A System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess/<Update>d__2::System.IDisposable.Dispose()
-// 0x00000A0B System.Boolean VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess/<Update>d__2::MoveNext()
-// 0x00000A0C System.Object VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
-// 0x00000A0D System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
-// 0x00000A0E System.Object VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
-// 0x00000A0F System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/AOTHelper::.ctor()
-// 0x00000A10 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior::.ctor()
+// 0x000009E5 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1::.ctor()
+// 0x000009E6 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1::.ctor(System.String)
+// 0x000009E7 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1::.ctor(System.String,T)
+// 0x000009E8 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1::.ctor(VRBuilder.Core.Properties.IDataProperty`1<T>,T)
+// 0x000009E9 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.SetValueBehavior`1::GetActivatingProcess()
+// 0x000009EA VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataProperty`1<T>> VRBuilder.Core.Behaviors.SetValueBehavior`1/EntityData::get_DataProperty()
+// 0x000009EB System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/EntityData::set_DataProperty(VRBuilder.Core.SceneObjects.ScenePropertyReference`1<VRBuilder.Core.Properties.IDataProperty`1<T>>)
+// 0x000009EC T VRBuilder.Core.Behaviors.SetValueBehavior`1/EntityData::get_NewValue()
+// 0x000009ED System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/EntityData::set_NewValue(T)
+// 0x000009EE VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.SetValueBehavior`1/EntityData::get_Metadata()
+// 0x000009EF System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x000009F0 System.String VRBuilder.Core.Behaviors.SetValueBehavior`1/EntityData::get_Name()
+// 0x000009F1 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/EntityData::.ctor()
+// 0x000009F2 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.SetValueBehavior`1/EntityData<T>)
+// 0x000009F3 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess::Start()
+// 0x000009F4 System.Collections.IEnumerator VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess::Update()
+// 0x000009F5 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess::End()
+// 0x000009F6 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess::FastForward()
+// 0x000009F7 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess/<Update>d__2::.ctor(System.Int32)
+// 0x000009F8 System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess/<Update>d__2::System.IDisposable.Dispose()
+// 0x000009F9 System.Boolean VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess/<Update>d__2::MoveNext()
+// 0x000009FA System.Object VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess/<Update>d__2::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x000009FB System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.Reset()
+// 0x000009FC System.Object VRBuilder.Core.Behaviors.SetValueBehavior`1/ActivatingProcess/<Update>d__2::System.Collections.IEnumerator.get_Current()
+// 0x000009FD System.Void VRBuilder.Core.Behaviors.SetValueBehavior`1/AOTHelper::.ctor()
+// 0x000009FE System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior::.ctor()
 extern void UnlockObjectBehavior__ctor_m7A8C7A25A11CBADB08BBF79CF8FFF78184B53FDB (void);
-// 0x00000A11 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior::.ctor(VRBuilder.Core.SceneObjects.ISceneObject)
+// 0x000009FF System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior::.ctor(VRBuilder.Core.SceneObjects.ISceneObject)
 extern void UnlockObjectBehavior__ctor_mFDB215B5AE995FFCAF34B029A2813744D0731FDF (void);
-// 0x00000A12 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior::.ctor(VRBuilder.Core.SceneObjects.ISceneObject,System.Boolean)
+// 0x00000A00 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior::.ctor(VRBuilder.Core.SceneObjects.ISceneObject,System.Boolean)
 extern void UnlockObjectBehavior__ctor_m35B7EB9C1BD7E831DA7F36D4074199B44B725F43 (void);
-// 0x00000A13 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior::.ctor(System.String,System.String,System.Boolean)
+// 0x00000A01 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior::.ctor(System.String,System.String,System.Boolean)
 extern void UnlockObjectBehavior__ctor_m6F9964FFA835A16D0E692260606B2A4518CE6DD5 (void);
-// 0x00000A14 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.UnlockObjectBehavior::GetActivatingProcess()
+// 0x00000A02 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.UnlockObjectBehavior::GetActivatingProcess()
 extern void UnlockObjectBehavior_GetActivatingProcess_m7298734FC5A5F99F10CCEBA033481CB4772B400E (void);
-// 0x00000A15 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.UnlockObjectBehavior::GetDeactivatingProcess()
+// 0x00000A03 VRBuilder.Core.IStageProcess VRBuilder.Core.Behaviors.UnlockObjectBehavior::GetDeactivatingProcess()
 extern void UnlockObjectBehavior_GetDeactivatingProcess_mCEA8763E8BCFA9CDA4B95E4585F4AFA637598C12 (void);
-// 0x00000A16 VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::get_Target()
+// 0x00000A04 VRBuilder.Core.SceneObjects.SceneObjectReference VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::get_Target()
 extern void EntityData_get_Target_mBE0182A695DF7BC6F4F11E04EBDF5C1E2341C359 (void);
-// 0x00000A17 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::set_Target(VRBuilder.Core.SceneObjects.SceneObjectReference)
+// 0x00000A05 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::set_Target(VRBuilder.Core.SceneObjects.SceneObjectReference)
 extern void EntityData_set_Target_mA7E40A14D0166A5B32347207C7C580D74B034942 (void);
-// 0x00000A18 System.Boolean VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::get_IsOnlyUnlockedInStep()
+// 0x00000A06 System.Boolean VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::get_IsOnlyUnlockedInStep()
 extern void EntityData_get_IsOnlyUnlockedInStep_m2C4315DCFC08F355F1D60B02709AB0305F77AE0C (void);
-// 0x00000A19 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::set_IsOnlyUnlockedInStep(System.Boolean)
+// 0x00000A07 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::set_IsOnlyUnlockedInStep(System.Boolean)
 extern void EntityData_set_IsOnlyUnlockedInStep_m261FCB8B42B7C6651E11D945209617936B49A4E0 (void);
-// 0x00000A1A System.Boolean VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::get_WasLockedOnActivate()
+// 0x00000A08 System.Boolean VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::get_WasLockedOnActivate()
 extern void EntityData_get_WasLockedOnActivate_m8F613DCC339EC775E549F024BF36DEB29919AF4C (void);
-// 0x00000A1B System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::set_WasLockedOnActivate(System.Boolean)
+// 0x00000A09 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::set_WasLockedOnActivate(System.Boolean)
 extern void EntityData_set_WasLockedOnActivate_m48AC6F284AFEAE6D546D7ECEC10B5C9B4BF401A3 (void);
-// 0x00000A1C VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::get_Metadata()
+// 0x00000A0A VRBuilder.Core.Metadata VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::get_Metadata()
 extern void EntityData_get_Metadata_m5BF32A59BFF348808686A5DA82D3D8813AA75268 (void);
-// 0x00000A1D System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
+// 0x00000A0B System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::set_Metadata(VRBuilder.Core.Metadata)
 extern void EntityData_set_Metadata_m7CF3B66BB382DFB7B0F2BE4A259E585EA9C51F21 (void);
-// 0x00000A1E System.String VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::get_Name()
+// 0x00000A0C System.String VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::get_Name()
 extern void EntityData_get_Name_m01020CA435F27739D22DFFAC4D9792D2475F5095 (void);
-// 0x00000A1F System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::set_Name(System.String)
+// 0x00000A0D System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::set_Name(System.String)
 extern void EntityData_set_Name_m56B07CDED99487B3ECBF8DF90A97B58E882CD702 (void);
-// 0x00000A20 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::.ctor()
+// 0x00000A0E System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData::.ctor()
 extern void EntityData__ctor_m71E6847BB3CB2A666F00C7516070EF93F54FD09F (void);
-// 0x00000A21 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/ActivatingProcess::Start()
+// 0x00000A0F System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/ActivatingProcess::Start()
 extern void ActivatingProcess_Start_mB95034A000608B69973ABE9D107932D012662A3C (void);
-// 0x00000A22 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData)
+// 0x00000A10 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/ActivatingProcess::.ctor(VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData)
 extern void ActivatingProcess__ctor_mE0285C8CD8AE72EFBF28AEDA2FFA8A2851829F03 (void);
-// 0x00000A23 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/DeactivatingProcess::Start()
+// 0x00000A11 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/DeactivatingProcess::Start()
 extern void DeactivatingProcess_Start_m037C515674C58B090BD8F066C941F8038319C967 (void);
-// 0x00000A24 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/DeactivatingProcess::.ctor(VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData)
+// 0x00000A12 System.Void VRBuilder.Core.Behaviors.UnlockObjectBehavior/DeactivatingProcess::.ctor(VRBuilder.Core.Behaviors.UnlockObjectBehavior/EntityData)
 extern void DeactivatingProcess__ctor_mA05426FBEFA23073DF70FDC9EF9645C47ABB9367 (void);
-// 0x00000A25 VRBuilder.Core.Behaviors.IBehaviorData VRBuilder.Core.Behaviors.Behavior`1::VRBuilder.Core.IDataOwner<VRBuilder.Core.Behaviors.IBehaviorData>.get_Data()
-// 0x00000A26 System.Void VRBuilder.Core.Behaviors.Behavior`1::.ctor()
-// 0x00000A27 VRBuilder.Core.Behaviors.IBehavior VRBuilder.Core.Behaviors.Behavior`1::Clone()
-// 0x00000A28 System.Void VRBuilder.Core.Behaviors.Behavior`1::<.ctor>b__2_0(System.Object,VRBuilder.Core.ActivationStateChangedEventArgs)
-// 0x00000A29 System.Boolean VRBuilder.Core.Behaviors.BehaviorMetadata::get_IsFoldedOut()
+// 0x00000A13 VRBuilder.Core.Behaviors.IBehaviorData VRBuilder.Core.Behaviors.Behavior`1::VRBuilder.Core.IDataOwner<VRBuilder.Core.Behaviors.IBehaviorData>.get_Data()
+// 0x00000A14 System.Void VRBuilder.Core.Behaviors.Behavior`1::.ctor()
+// 0x00000A15 VRBuilder.Core.Behaviors.IBehavior VRBuilder.Core.Behaviors.Behavior`1::Clone()
+// 0x00000A16 System.Void VRBuilder.Core.Behaviors.Behavior`1::<.ctor>b__2_0(System.Object,VRBuilder.Core.ActivationStateChangedEventArgs)
+// 0x00000A17 System.Boolean VRBuilder.Core.Behaviors.BehaviorMetadata::get_IsFoldedOut()
 extern void BehaviorMetadata_get_IsFoldedOut_m3B0AE99BCB8D426783AEC7AEF1D8948CF240710B (void);
-// 0x00000A2A System.Void VRBuilder.Core.Behaviors.BehaviorMetadata::set_IsFoldedOut(System.Boolean)
+// 0x00000A18 System.Void VRBuilder.Core.Behaviors.BehaviorMetadata::set_IsFoldedOut(System.Boolean)
 extern void BehaviorMetadata_set_IsFoldedOut_m9F54933D299E69FD1BB1BB06D74519C755E00D32 (void);
-// 0x00000A2B System.Void VRBuilder.Core.Behaviors.BehaviorMetadata::.ctor()
+// 0x00000A19 System.Void VRBuilder.Core.Behaviors.BehaviorMetadata::.ctor()
 extern void BehaviorMetadata__ctor_m50C4C0010E4B71DAEB112C207B5D6819C98F1F49 (void);
-// 0x00000A2C System.Void VRBuilder.Core.Behaviors.BehaviorCollectionChangedEventArgs::.ctor()
+// 0x00000A1A System.Void VRBuilder.Core.Behaviors.BehaviorCollectionChangedEventArgs::.ctor()
 extern void BehaviorCollectionChangedEventArgs__ctor_mD2F77297162564FB49AE982CBC3E52775A963986 (void);
-// 0x00000A2D System.Void VRBuilder.Core.Behaviors.IBehaviorParent::add_BehaviorCollectionChanged(System.EventHandler`1<VRBuilder.Core.Behaviors.BehaviorCollectionChangedEventArgs>)
-// 0x00000A2E System.Void VRBuilder.Core.Behaviors.IBehaviorParent::remove_BehaviorCollectionChanged(System.EventHandler`1<VRBuilder.Core.Behaviors.BehaviorCollectionChangedEventArgs>)
-// 0x00000A2F System.Collections.ObjectModel.ReadOnlyCollection`1<VRBuilder.Core.Behaviors.IBehavior> VRBuilder.Core.Behaviors.IBehaviorParent::get_Behaviors()
-// 0x00000A30 System.Boolean VRBuilder.Core.Behaviors.IBehaviorParent::CheckHasBehavior(VRBuilder.Core.Behaviors.IBehavior)
-// 0x00000A31 System.Void VRBuilder.Core.Behaviors.IBehaviorParent::AddBehavior(VRBuilder.Core.Behaviors.IBehavior)
-// 0x00000A32 System.Void VRBuilder.Core.Behaviors.IBehaviorParent::InsertBehavior(System.Int32,VRBuilder.Core.Behaviors.IBehavior)
-// 0x00000A33 System.Boolean VRBuilder.Core.Behaviors.IBehaviorParent::RemoveBehavior(VRBuilder.Core.Behaviors.IBehavior)
-// 0x00000A34 System.Void VRBuilder.Core.Behaviors.LockablePropertyReference::.ctor()
+// 0x00000A1B System.Void VRBuilder.Core.Behaviors.IBehaviorParent::add_BehaviorCollectionChanged(System.EventHandler`1<VRBuilder.Core.Behaviors.BehaviorCollectionChangedEventArgs>)
+// 0x00000A1C System.Void VRBuilder.Core.Behaviors.IBehaviorParent::remove_BehaviorCollectionChanged(System.EventHandler`1<VRBuilder.Core.Behaviors.BehaviorCollectionChangedEventArgs>)
+// 0x00000A1D System.Collections.ObjectModel.ReadOnlyCollection`1<VRBuilder.Core.Behaviors.IBehavior> VRBuilder.Core.Behaviors.IBehaviorParent::get_Behaviors()
+// 0x00000A1E System.Boolean VRBuilder.Core.Behaviors.IBehaviorParent::CheckHasBehavior(VRBuilder.Core.Behaviors.IBehavior)
+// 0x00000A1F System.Void VRBuilder.Core.Behaviors.IBehaviorParent::AddBehavior(VRBuilder.Core.Behaviors.IBehavior)
+// 0x00000A20 System.Void VRBuilder.Core.Behaviors.IBehaviorParent::InsertBehavior(System.Int32,VRBuilder.Core.Behaviors.IBehavior)
+// 0x00000A21 System.Boolean VRBuilder.Core.Behaviors.IBehaviorParent::RemoveBehavior(VRBuilder.Core.Behaviors.IBehavior)
+// 0x00000A22 System.Void VRBuilder.Core.Behaviors.LockablePropertyReference::.ctor()
 extern void LockablePropertyReference__ctor_m57409E82AB514CEFC863556C97241616B6B8FA6E (void);
-// 0x00000A35 System.Void VRBuilder.Core.Behaviors.LockablePropertyReference::.ctor(VRBuilder.Core.Properties.LockableProperty)
+// 0x00000A23 System.Void VRBuilder.Core.Behaviors.LockablePropertyReference::.ctor(VRBuilder.Core.Properties.LockableProperty)
 extern void LockablePropertyReference__ctor_m62B3D624D86F91BECDE3E667133D3ED1598DC2CF (void);
-// 0x00000A36 System.Void VRBuilder.Core.Behaviors.LockablePropertyReference::.ctor(System.String,System.Type)
+// 0x00000A24 System.Void VRBuilder.Core.Behaviors.LockablePropertyReference::.ctor(System.String,System.Type)
 extern void LockablePropertyReference__ctor_m169C01A2AB3D59314B2FD1DD6B49127DA17DAE08 (void);
-// 0x00000A37 VRBuilder.Core.Properties.LockableProperty VRBuilder.Core.Behaviors.LockablePropertyReference::GetProperty()
+// 0x00000A25 VRBuilder.Core.Properties.LockableProperty VRBuilder.Core.Behaviors.LockablePropertyReference::GetProperty()
 extern void LockablePropertyReference_GetProperty_m761C8963F7647A9671E2C43294B211CBFE92F146 (void);
-static Il2CppMethodPointer s_methodPointers[2615] = 
+static Il2CppMethodPointer s_methodPointers[2597] = 
 {
 	EmptyProcess_Start_m2F3AF13023CEE73DF11119CD36DE30BC06D0FF91,
 	EmptyProcess_Update_mEB6CDE4D6F85297B580AC8C8BB83DBA1F68F1A6B,
@@ -5743,19 +5707,16 @@ static Il2CppMethodPointer s_methodPointers[2615] =
 	U3CU3Ec_U3CFetchStreamingAssetsFilesAtU3Eb__6_0_mA652A72D1860A68E6B05C6348BB1143BB2292292,
 	U3CU3Ec__DisplayClass5_0__ctor_mC44216424EF1760A8EB649EE94C0A8FBBAF5A1C4,
 	U3CU3Ec__DisplayClass5_0_U3CReadAllTextU3Eb__0_m61C1DE34244B361806110CC70C12A90B64108028,
-	U3CReadAllTextU3Ed__5__ctor_m80631320C3643445A58510481392D93F030B0890,
 	U3CReadAllTextU3Ed__5_MoveNext_mE25051CF28A5B1517EC72B5B52A8862CFB7A8B89,
 	U3CReadAllTextU3Ed__5_SetStateMachine_mCD5DE22975FADB37603D5EFFB2D9C7F21D02574A,
 	U3CU3Ec__DisplayClass6_0__ctor_m795BD1E02CBAEAE73BCDD9381B358C38FBCD0619,
 	U3CU3Ec__DisplayClass6_0_U3CFetchStreamingAssetsFilesAtU3Eb__1_m2CDA4A9E998C8DD171ADD9FF11255298710AB9C6,
 	U3CU3Ec__DisplayClass7_0__ctor_m3A790523ED37EEC1400D9520F6F8DDA1BD939CAB,
 	U3CU3Ec__DisplayClass7_0_U3CReadFromStreamingAssetsU3Eb__0_mA15CF6C35FF4E073341963B6477A7AF880D24B68,
-	U3CReadFromStreamingAssetsU3Ed__7__ctor_mBE4849DE8A7DA183F770A076B6C149C4B3BB73ED,
 	U3CReadFromStreamingAssetsU3Ed__7_MoveNext_mE8135F0F848D2CC6AC64C2D95A23DD05ADF97466,
 	U3CReadFromStreamingAssetsU3Ed__7_SetStateMachine_mF9CA99305010A4D0D4350A17A8456E60E584837F,
 	U3CU3Ec__DisplayClass8_0__ctor_m500251B0CE1D0921FC0C740C2BBF6167ECBDC995,
 	U3CU3Ec__DisplayClass8_0_U3CFileExistsInStreamingAssetsU3Eb__0_mAB4EA714F5EAA3F615B7C1ECD2E7770DF2278EC9,
-	U3CFileExistsInStreamingAssetsU3Ed__8__ctor_mD4B6B0DF5CEA94C358378F7F7DCBFBF6E502C691,
 	U3CFileExistsInStreamingAssetsU3Ed__8_MoveNext_mC42180C575E932A08B682CDCF4C0BB20795CCE63,
 	U3CFileExistsInStreamingAssetsU3Ed__8_SetStateMachine_m95E6F4556B5661C48941B0839BFA48C219A9E7BB,
 	DefaultFileSystem__ctor_m856D6BAC99E8C80F26E750F93C1239F4FA8EE742,
@@ -5770,28 +5731,20 @@ static Il2CppMethodPointer s_methodPointers[2615] =
 	DefaultFileSystem_FileExistsInPersistentData_mCD3B0360BA01B1B29C0B49A1ECF5F6A48AD75129,
 	DefaultFileSystem_BuildPersistentDataPath_m0CBCAC285DFBCB1BA069ABAD5BCF9C6D13C4DC74,
 	DefaultFileSystem_NormalizePath_m6185496E0C5A343F3534E07358D186A8A8EA243A,
-	U3CReadU3Ed__3__ctor_mB4959D5CE1101BC7C6481C631BB04218BC5CAAD6,
 	U3CReadU3Ed__3_MoveNext_mD8BFEC73F8415113D23C08B09A118B580AED865B,
 	U3CReadU3Ed__3_SetStateMachine_m716A186FD0E3AC7343C34F771D36651B5099A0D8,
-	U3CReadAllTextU3Ed__4__ctor_m2B6AD060B3422FFA8A624A3F933DFB48BBD7773F,
 	U3CReadAllTextU3Ed__4_MoveNext_m7D144F32DBB84D808DD88CC5F38EF1440F0501CA,
 	U3CReadAllTextU3Ed__4_SetStateMachine_mFEAF844E512D24AE79EEB39B47508BD9918A3A41,
-	U3CWriteU3Ed__5__ctor_mCB2D018449D189074E643B84CB86131550A640AB,
 	U3CWriteU3Ed__5_MoveNext_m90D18A18FC94035095FFBDE41E3016FB6D28033E,
 	U3CWriteU3Ed__5_SetStateMachine_mB8AACB414B435F081120ED5197A20C3517C76C29,
-	U3CExistsU3Ed__6__ctor_m741C6589A0ED2AB40F80D3C80DF57ED3D64C9EA7,
 	U3CExistsU3Ed__6_MoveNext_m17C6F67CB449411BEB330FCE0FC0921ADD351435,
 	U3CExistsU3Ed__6_SetStateMachine_mABA9E405038DCBB2704C391BFECE915C56EACD9B,
-	U3CReadFromStreamingAssetsU3Ed__8__ctor_m3D3E07B71107F7166182F78DA3DE0A1091E1C6CC,
 	U3CReadFromStreamingAssetsU3Ed__8_MoveNext_mA9C07630BEA845E2EDA51C37E8D3C23721AED017,
 	U3CReadFromStreamingAssetsU3Ed__8_SetStateMachine_m837E4375D9E89C90DAECA355690D0B219EE6B6DD,
-	U3CReadFromPersistentDataU3Ed__9__ctor_m718FA817D586C7052D6A94DF28E8E1946927A2DE,
 	U3CReadFromPersistentDataU3Ed__9_MoveNext_m1C8844FFFB0ED36E7D1C4176D8AD48C8A5DC00D5,
 	U3CReadFromPersistentDataU3Ed__9_SetStateMachine_m1EDA53CAED1472724700E06BCF242DECD2FF6AC3,
-	U3CFileExistsInStreamingAssetsU3Ed__10__ctor_m4CFCB137F5978848A04F40B4A04D9C7387B6D2C9,
 	U3CFileExistsInStreamingAssetsU3Ed__10_MoveNext_m4AADF1B9DED2579D5476F4BC544BBB87D02E4D0B,
 	U3CFileExistsInStreamingAssetsU3Ed__10_SetStateMachine_mFF5B3CAEA9FCDD98830BA5C60CF1E5361F85F825,
-	U3CFileExistsInPersistentDataU3Ed__11__ctor_m3732F460C1EADFA6B758958DAC859F891CA8A76A,
 	U3CFileExistsInPersistentDataU3Ed__11_MoveNext_m50A79D2DA511805A5EA68C04A71E5D33D5C43596,
 	U3CFileExistsInPersistentDataU3Ed__11_SetStateMachine_m97AE5B1BA611BB3747A6A5ABB0A61E8F4B2DB07F,
 	FileManager_Initialize_mFC88EFBDB0397BCB932541D34F3F4EFE06AE2FC3,
@@ -5801,16 +5754,12 @@ static Il2CppMethodPointer s_methodPointers[2615] =
 	FileManager_Exists_mDB38A5A7D420462E082A4F6883A437E97CA873D7,
 	FileManager_FetchStreamingAssetsFilesAt_m7A6E11D79C4D68A989195E695849498788D5D9DE,
 	FileManager_CreatePlatformFileSystem_mD224B7DD8F014AD9F4B9D4583BE6C8BF89532AAE,
-	U3CReadU3Ed__2__ctor_m1B6865C10266BC267C6394835FC9E243D772DD8E,
 	U3CReadU3Ed__2_MoveNext_mBA7F025832DA4AF94115BEB3BBDD1A0495777ECB,
 	U3CReadU3Ed__2_SetStateMachine_mD41522D5A9B6D2E98804681EB6D82E6FF552F01D,
-	U3CReadAllTextU3Ed__3__ctor_mC9DA5A8F54F6CA0BAAB8790A28E736EBEA58F6A6,
 	U3CReadAllTextU3Ed__3_MoveNext_m7EBD71245B2575E0A50EE628483873B3A875185F,
 	U3CReadAllTextU3Ed__3_SetStateMachine_mF0CCEA695E73142B00CB79AA6174D102410D9408,
-	U3CWriteU3Ed__4__ctor_m1674BE1F7A2BD5F6AB7A8AB3439817347636894F,
 	U3CWriteU3Ed__4_MoveNext_m3D1CA54C68BFD4EB0D9D47CF1F73D315A41801AF,
 	U3CWriteU3Ed__4_SetStateMachine_mC770DB2E82E4B36228E8F5EFBF6382AEDC28F67B,
-	U3CExistsU3Ed__5__ctor_m831355AEB6A0462A6E462D5083E169B3153151E0,
 	U3CExistsU3Ed__5_MoveNext_mC2A9BCF20200A7F359A63B0547302052E1BB29E5,
 	U3CExistsU3Ed__5_SetStateMachine_m1B76C20B1664C289EDBE1359F2F38D37F816355F,
 	NULL,
@@ -6062,13 +6011,10 @@ static Il2CppMethodPointer s_methodPointers[2615] =
 	BaseRuntimeConfiguration_GetProcessNameFromPath_mFCCFA0EBF872B4E755D344B163947F91671CF96A,
 	U3CU3Ec__DisplayClass42_0__ctor_mE6F149FF8D226C6B559B8472320B89321B179F96,
 	U3CU3Ec__DisplayClass42_0_U3CLoadProcessU3Eb__0_mC3BD9472235D618ACBEE7E58F4AA28DC533457D1,
-	U3CLoadProcessU3Ed__42__ctor_mFBCDE83DCB25D08CCBD2E5839C75325F59C8A583,
 	U3CLoadProcessU3Ed__42_MoveNext_m251DA203003516186EAE6122523639DF9AFCA225,
 	U3CLoadProcessU3Ed__42_SetStateMachine_m02CDA52414264AD1EF1CCACF47CBD777F0429E87,
-	U3CGetAdditionalProcessDataU3Ed__43__ctor_mC90C47A7939BA53F8A1C574EC58D9F34C85956CF,
 	U3CGetAdditionalProcessDataU3Ed__43_MoveNext_m21091EC8B74DD4834B2106D24FDA91D58447940A,
 	U3CGetAdditionalProcessDataU3Ed__43_SetStateMachine_m3B56E858CF180BCCF7EF06AC2681CF3B326B5704,
-	U3CFetchManifestU3Ed__44__ctor_m5AF4910A4BCDEF24AFAADB5631DB208D27B09688,
 	U3CFetchManifestU3Ed__44_MoveNext_m04C898CAE6E8C6CA2D3D1C22548566856FCF6877,
 	U3CFetchManifestU3Ed__44_SetStateMachine_mA4CAA5D86799D11A1EBE4F1DE510A16EC2753D3F,
 	DefaultRuntimeConfiguration__ctor_mA1DC2608CD3582EF1614BF3808BE88748449A945,
@@ -6817,9 +6763,9 @@ static Il2CppMethodPointer s_methodPointers[2615] =
 	ActivatingProcess_FastForward_m68BD2C615A68D75B67F95764C1C15A84E547B5C6,
 	U3CU3Ec__cctor_mFFA4BAD4193D7A849C585979344C674463A9960E,
 	U3CU3Ec__ctor_m842E997DBC5DA28866DAA95AF92924245623891F,
-	U3CU3Ec_U3CUpdateU3Eb__2_0_mFE23DE646B24F10246E1B0646B798786A4264107,
-	U3CU3Ec_U3CUpdateU3Eb__2_1_m7535C300E2AB5FB243423B7E43ADB38299A26876,
-	U3CU3Ec_U3CUpdateU3Eb__2_2_mCA5F5C7839A132910AA303A32B434BE56FB1C842,
+	U3CU3Ec_U3CUpdateU3Eb__2_2_mB2618F7B8AA4EA0663E9132118C560EE589D6286,
+	U3CU3Ec_U3CUpdateU3Eb__2_0_m533C025450EAF96FCAC9C7706E25478A835D2810,
+	U3CU3Ec_U3CUpdateU3Eb__2_1_mFED9EF12F8117D0D289CDDE13C9F7BEEA95D3FF4,
 	U3CUpdateU3Ed__2__ctor_mF441B04BB8A862552AC96B450D779C5A4C823C35,
 	U3CUpdateU3Ed__2_System_IDisposable_Dispose_m372A64F3B5DF193DC56A1D7BBFF2C9E370D38DE1,
 	U3CUpdateU3Ed__2_MoveNext_m2623EFA3BA0B17E21CE15419F8C8C0B9A6E6850F,
@@ -6833,9 +6779,9 @@ static Il2CppMethodPointer s_methodPointers[2615] =
 	DeactivatingProcess_FastForward_m569D27288B4A073D9201822E4E9E226C0F793D8A,
 	U3CU3Ec__cctor_mE2163DCD378949E3BBAB4C01AF4D72BBFBE6915E,
 	U3CU3Ec__ctor_m964703F2E4A875C47CAAB0F14E72B2EAA7D45A0E,
-	U3CU3Ec_U3CUpdateU3Eb__2_0_mA379541583584F594C7E7C7226704256A0448BDD,
-	U3CU3Ec_U3CUpdateU3Eb__2_1_mAAEFACC6589634C879216916B2C205994422DF87,
-	U3CU3Ec_U3CUpdateU3Eb__2_2_mEBF1AA38FDFD8073C077CF6D71063B483B2D2883,
+	U3CU3Ec_U3CUpdateU3Eb__2_2_mBCD3F24F2E4507BABF6C921DC7BE793F788C6DF4,
+	U3CU3Ec_U3CUpdateU3Eb__2_0_m602D511613C0A341A494157AFE8151F8D62872F4,
+	U3CU3Ec_U3CUpdateU3Eb__2_1_m6862FA63DFD4696E7E1E07CED01EF78C91AFCB47,
 	U3CUpdateU3Ed__2__ctor_m277D8A9A39A4AD3CAD421BB7E2DBB6FA4B69A506,
 	U3CUpdateU3Ed__2_System_IDisposable_Dispose_m13AE260F45EEDF302F974B208F78023DFF418BE3,
 	U3CUpdateU3Ed__2_MoveNext_m6D4E95FEC9C289B59619B9620A926A3BA1C8A7A6,
@@ -7164,1104 +7110,1195 @@ static Il2CppMethodPointer s_methodPointers[2615] =
 	LockablePropertyReference__ctor_m169C01A2AB3D59314B2FD1DD6B49127DA17DAE08,
 	LockablePropertyReference_GetProperty_m761C8963F7647A9671E2C43294B211CBFE92F146,
 };
+extern void U3CReadAllTextU3Ed__5_MoveNext_mE25051CF28A5B1517EC72B5B52A8862CFB7A8B89_AdjustorThunk (void);
+extern void U3CReadAllTextU3Ed__5_SetStateMachine_mCD5DE22975FADB37603D5EFFB2D9C7F21D02574A_AdjustorThunk (void);
+extern void U3CReadFromStreamingAssetsU3Ed__7_MoveNext_mE8135F0F848D2CC6AC64C2D95A23DD05ADF97466_AdjustorThunk (void);
+extern void U3CReadFromStreamingAssetsU3Ed__7_SetStateMachine_mF9CA99305010A4D0D4350A17A8456E60E584837F_AdjustorThunk (void);
+extern void U3CFileExistsInStreamingAssetsU3Ed__8_MoveNext_mC42180C575E932A08B682CDCF4C0BB20795CCE63_AdjustorThunk (void);
+extern void U3CFileExistsInStreamingAssetsU3Ed__8_SetStateMachine_m95E6F4556B5661C48941B0839BFA48C219A9E7BB_AdjustorThunk (void);
+extern void U3CReadU3Ed__3_MoveNext_mD8BFEC73F8415113D23C08B09A118B580AED865B_AdjustorThunk (void);
+extern void U3CReadU3Ed__3_SetStateMachine_m716A186FD0E3AC7343C34F771D36651B5099A0D8_AdjustorThunk (void);
+extern void U3CReadAllTextU3Ed__4_MoveNext_m7D144F32DBB84D808DD88CC5F38EF1440F0501CA_AdjustorThunk (void);
+extern void U3CReadAllTextU3Ed__4_SetStateMachine_mFEAF844E512D24AE79EEB39B47508BD9918A3A41_AdjustorThunk (void);
+extern void U3CWriteU3Ed__5_MoveNext_m90D18A18FC94035095FFBDE41E3016FB6D28033E_AdjustorThunk (void);
+extern void U3CWriteU3Ed__5_SetStateMachine_mB8AACB414B435F081120ED5197A20C3517C76C29_AdjustorThunk (void);
+extern void U3CExistsU3Ed__6_MoveNext_m17C6F67CB449411BEB330FCE0FC0921ADD351435_AdjustorThunk (void);
+extern void U3CExistsU3Ed__6_SetStateMachine_mABA9E405038DCBB2704C391BFECE915C56EACD9B_AdjustorThunk (void);
+extern void U3CReadFromStreamingAssetsU3Ed__8_MoveNext_mA9C07630BEA845E2EDA51C37E8D3C23721AED017_AdjustorThunk (void);
+extern void U3CReadFromStreamingAssetsU3Ed__8_SetStateMachine_m837E4375D9E89C90DAECA355690D0B219EE6B6DD_AdjustorThunk (void);
+extern void U3CReadFromPersistentDataU3Ed__9_MoveNext_m1C8844FFFB0ED36E7D1C4176D8AD48C8A5DC00D5_AdjustorThunk (void);
+extern void U3CReadFromPersistentDataU3Ed__9_SetStateMachine_m1EDA53CAED1472724700E06BCF242DECD2FF6AC3_AdjustorThunk (void);
+extern void U3CFileExistsInStreamingAssetsU3Ed__10_MoveNext_m4AADF1B9DED2579D5476F4BC544BBB87D02E4D0B_AdjustorThunk (void);
+extern void U3CFileExistsInStreamingAssetsU3Ed__10_SetStateMachine_mFF5B3CAEA9FCDD98830BA5C60CF1E5361F85F825_AdjustorThunk (void);
+extern void U3CFileExistsInPersistentDataU3Ed__11_MoveNext_m50A79D2DA511805A5EA68C04A71E5D33D5C43596_AdjustorThunk (void);
+extern void U3CFileExistsInPersistentDataU3Ed__11_SetStateMachine_m97AE5B1BA611BB3747A6A5ABB0A61E8F4B2DB07F_AdjustorThunk (void);
+extern void U3CReadU3Ed__2_MoveNext_mBA7F025832DA4AF94115BEB3BBDD1A0495777ECB_AdjustorThunk (void);
+extern void U3CReadU3Ed__2_SetStateMachine_mD41522D5A9B6D2E98804681EB6D82E6FF552F01D_AdjustorThunk (void);
+extern void U3CReadAllTextU3Ed__3_MoveNext_m7EBD71245B2575E0A50EE628483873B3A875185F_AdjustorThunk (void);
+extern void U3CReadAllTextU3Ed__3_SetStateMachine_mF0CCEA695E73142B00CB79AA6174D102410D9408_AdjustorThunk (void);
+extern void U3CWriteU3Ed__4_MoveNext_m3D1CA54C68BFD4EB0D9D47CF1F73D315A41801AF_AdjustorThunk (void);
+extern void U3CWriteU3Ed__4_SetStateMachine_mC770DB2E82E4B36228E8F5EFBF6382AEDC28F67B_AdjustorThunk (void);
+extern void U3CExistsU3Ed__5_MoveNext_mC2A9BCF20200A7F359A63B0547302052E1BB29E5_AdjustorThunk (void);
+extern void U3CExistsU3Ed__5_SetStateMachine_m1B76C20B1664C289EDBE1359F2F38D37F816355F_AdjustorThunk (void);
 extern void ListenerInfo__ctor_mF81F5F11C3E86439057F55A57EF769656E645421_AdjustorThunk (void);
-static Il2CppTokenAdjustorThunkPair s_adjustorThunks[1] = 
+extern void U3CLoadProcessU3Ed__42_MoveNext_m251DA203003516186EAE6122523639DF9AFCA225_AdjustorThunk (void);
+extern void U3CLoadProcessU3Ed__42_SetStateMachine_m02CDA52414264AD1EF1CCACF47CBD777F0429E87_AdjustorThunk (void);
+extern void U3CGetAdditionalProcessDataU3Ed__43_MoveNext_m21091EC8B74DD4834B2106D24FDA91D58447940A_AdjustorThunk (void);
+extern void U3CGetAdditionalProcessDataU3Ed__43_SetStateMachine_m3B56E858CF180BCCF7EF06AC2681CF3B326B5704_AdjustorThunk (void);
+extern void U3CFetchManifestU3Ed__44_MoveNext_m04C898CAE6E8C6CA2D3D1C22548566856FCF6877_AdjustorThunk (void);
+extern void U3CFetchManifestU3Ed__44_SetStateMachine_mA4CAA5D86799D11A1EBE4F1DE510A16EC2753D3F_AdjustorThunk (void);
+static Il2CppTokenAdjustorThunkPair s_adjustorThunks[37] = 
 {
-	{ 0x0600053B, ListenerInfo__ctor_mF81F5F11C3E86439057F55A57EF769656E645421_AdjustorThunk },
+	{ 0x060004AC, U3CReadAllTextU3Ed__5_MoveNext_mE25051CF28A5B1517EC72B5B52A8862CFB7A8B89_AdjustorThunk },
+	{ 0x060004AD, U3CReadAllTextU3Ed__5_SetStateMachine_mCD5DE22975FADB37603D5EFFB2D9C7F21D02574A_AdjustorThunk },
+	{ 0x060004B2, U3CReadFromStreamingAssetsU3Ed__7_MoveNext_mE8135F0F848D2CC6AC64C2D95A23DD05ADF97466_AdjustorThunk },
+	{ 0x060004B3, U3CReadFromStreamingAssetsU3Ed__7_SetStateMachine_mF9CA99305010A4D0D4350A17A8456E60E584837F_AdjustorThunk },
+	{ 0x060004B6, U3CFileExistsInStreamingAssetsU3Ed__8_MoveNext_mC42180C575E932A08B682CDCF4C0BB20795CCE63_AdjustorThunk },
+	{ 0x060004B7, U3CFileExistsInStreamingAssetsU3Ed__8_SetStateMachine_m95E6F4556B5661C48941B0839BFA48C219A9E7BB_AdjustorThunk },
+	{ 0x060004C4, U3CReadU3Ed__3_MoveNext_mD8BFEC73F8415113D23C08B09A118B580AED865B_AdjustorThunk },
+	{ 0x060004C5, U3CReadU3Ed__3_SetStateMachine_m716A186FD0E3AC7343C34F771D36651B5099A0D8_AdjustorThunk },
+	{ 0x060004C6, U3CReadAllTextU3Ed__4_MoveNext_m7D144F32DBB84D808DD88CC5F38EF1440F0501CA_AdjustorThunk },
+	{ 0x060004C7, U3CReadAllTextU3Ed__4_SetStateMachine_mFEAF844E512D24AE79EEB39B47508BD9918A3A41_AdjustorThunk },
+	{ 0x060004C8, U3CWriteU3Ed__5_MoveNext_m90D18A18FC94035095FFBDE41E3016FB6D28033E_AdjustorThunk },
+	{ 0x060004C9, U3CWriteU3Ed__5_SetStateMachine_mB8AACB414B435F081120ED5197A20C3517C76C29_AdjustorThunk },
+	{ 0x060004CA, U3CExistsU3Ed__6_MoveNext_m17C6F67CB449411BEB330FCE0FC0921ADD351435_AdjustorThunk },
+	{ 0x060004CB, U3CExistsU3Ed__6_SetStateMachine_mABA9E405038DCBB2704C391BFECE915C56EACD9B_AdjustorThunk },
+	{ 0x060004CC, U3CReadFromStreamingAssetsU3Ed__8_MoveNext_mA9C07630BEA845E2EDA51C37E8D3C23721AED017_AdjustorThunk },
+	{ 0x060004CD, U3CReadFromStreamingAssetsU3Ed__8_SetStateMachine_m837E4375D9E89C90DAECA355690D0B219EE6B6DD_AdjustorThunk },
+	{ 0x060004CE, U3CReadFromPersistentDataU3Ed__9_MoveNext_m1C8844FFFB0ED36E7D1C4176D8AD48C8A5DC00D5_AdjustorThunk },
+	{ 0x060004CF, U3CReadFromPersistentDataU3Ed__9_SetStateMachine_m1EDA53CAED1472724700E06BCF242DECD2FF6AC3_AdjustorThunk },
+	{ 0x060004D0, U3CFileExistsInStreamingAssetsU3Ed__10_MoveNext_m4AADF1B9DED2579D5476F4BC544BBB87D02E4D0B_AdjustorThunk },
+	{ 0x060004D1, U3CFileExistsInStreamingAssetsU3Ed__10_SetStateMachine_mFF5B3CAEA9FCDD98830BA5C60CF1E5361F85F825_AdjustorThunk },
+	{ 0x060004D2, U3CFileExistsInPersistentDataU3Ed__11_MoveNext_m50A79D2DA511805A5EA68C04A71E5D33D5C43596_AdjustorThunk },
+	{ 0x060004D3, U3CFileExistsInPersistentDataU3Ed__11_SetStateMachine_m97AE5B1BA611BB3747A6A5ABB0A61E8F4B2DB07F_AdjustorThunk },
+	{ 0x060004DB, U3CReadU3Ed__2_MoveNext_mBA7F025832DA4AF94115BEB3BBDD1A0495777ECB_AdjustorThunk },
+	{ 0x060004DC, U3CReadU3Ed__2_SetStateMachine_mD41522D5A9B6D2E98804681EB6D82E6FF552F01D_AdjustorThunk },
+	{ 0x060004DD, U3CReadAllTextU3Ed__3_MoveNext_m7EBD71245B2575E0A50EE628483873B3A875185F_AdjustorThunk },
+	{ 0x060004DE, U3CReadAllTextU3Ed__3_SetStateMachine_mF0CCEA695E73142B00CB79AA6174D102410D9408_AdjustorThunk },
+	{ 0x060004DF, U3CWriteU3Ed__4_MoveNext_m3D1CA54C68BFD4EB0D9D47CF1F73D315A41801AF_AdjustorThunk },
+	{ 0x060004E0, U3CWriteU3Ed__4_SetStateMachine_mC770DB2E82E4B36228E8F5EFBF6382AEDC28F67B_AdjustorThunk },
+	{ 0x060004E1, U3CExistsU3Ed__5_MoveNext_mC2A9BCF20200A7F359A63B0547302052E1BB29E5_AdjustorThunk },
+	{ 0x060004E2, U3CExistsU3Ed__5_SetStateMachine_m1B76C20B1664C289EDBE1359F2F38D37F816355F_AdjustorThunk },
+	{ 0x0600052C, ListenerInfo__ctor_mF81F5F11C3E86439057F55A57EF769656E645421_AdjustorThunk },
+	{ 0x060005DC, U3CLoadProcessU3Ed__42_MoveNext_m251DA203003516186EAE6122523639DF9AFCA225_AdjustorThunk },
+	{ 0x060005DD, U3CLoadProcessU3Ed__42_SetStateMachine_m02CDA52414264AD1EF1CCACF47CBD777F0429E87_AdjustorThunk },
+	{ 0x060005DE, U3CGetAdditionalProcessDataU3Ed__43_MoveNext_m21091EC8B74DD4834B2106D24FDA91D58447940A_AdjustorThunk },
+	{ 0x060005DF, U3CGetAdditionalProcessDataU3Ed__43_SetStateMachine_m3B56E858CF180BCCF7EF06AC2681CF3B326B5704_AdjustorThunk },
+	{ 0x060005E0, U3CFetchManifestU3Ed__44_MoveNext_m04C898CAE6E8C6CA2D3D1C22548566856FCF6877_AdjustorThunk },
+	{ 0x060005E1, U3CFetchManifestU3Ed__44_SetStateMachine_mA4CAA5D86799D11A1EBE4F1DE510A16EC2753D3F_AdjustorThunk },
 };
-static const int32_t s_InvokerIndices[2615] = 
+static const int32_t s_InvokerIndices[2597] = 
 {
-	9473,
-	9309,
-	9473,
-	9473,
-	9473,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	9473,
-	7516,
-	9309,
-	9185,
-	2278,
-	9473,
-	9473,
-	14791,
-	9473,
-	0,
-	16044,
-	0,
-	0,
-	14456,
-	0,
-	0,
-	16095,
-	9473,
-	5392,
-	0,
-	0,
-	0,
-	16008,
-	15158,
-	9309,
-	9473,
-	7516,
-	7652,
-	2228,
-	9473,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	9473,
-	9473,
-	9473,
-	0,
-	0,
-	0,
-	9309,
-	9309,
-	7516,
-	9473,
-	0,
-	0,
-	0,
-	0,
-	0,
-	9309,
-	9309,
-	9268,
-	9309,
-	9473,
-	9309,
-	9268,
-	9309,
-	9309,
-	9473,
-	9473,
-	9309,
-	9473,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	9309,
-	7516,
-	9473,
-	9473,
-	9473,
-	9309,
-	9309,
-	9309,
-	7516,
-	7516,
-	15172,
-	7516,
-	9473,
-	9473,
-	16095,
-	9473,
-	6691,
-	6283,
-	9473,
-	9473,
-	9473,
-	9473,
-	9473,
-	9473,
-	7516,
-	7516,
-	9473,
-	9473,
-	7516,
-	9473,
-	9473,
-	9473,
-	9473,
-	9473,
-	9473,
-	9185,
-	7395,
-	9473,
-	9309,
-	9473,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	0,
-	0,
-	7479,
-	0,
-	0,
-	0,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	9473,
-	9309,
-	7516,
-	9309,
-	9309,
-	7516,
-	9473,
-	16095,
-	9473,
-	6691,
-	9309,
-	7516,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	9473,
-	4237,
-	4237,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	7516,
-	9473,
-	7516,
-	9309,
-	9473,
-	9185,
-	9185,
-	9473,
-	5250,
-	9473,
-	16095,
-	9473,
-	5392,
-	5392,
-	6691,
-	6691,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	9473,
-	5392,
-	16095,
-	9473,
-	6691,
-	9309,
-	7516,
-	9461,
-	7660,
+	9407,
 	9244,
-	7457,
-	9473,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	7516,
-	9473,
-	9309,
-	9473,
-	9473,
-	16095,
-	9473,
-	6691,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	9473,
-	9473,
-	4229,
-	9473,
-	6691,
-	9473,
-	11876,
-	16044,
-	14772,
-	14772,
-	0,
-	0,
-	0,
-	3361,
-	9473,
-	6691,
-	9473,
-	7516,
-	9473,
-	9309,
-	9473,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	4237,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	9185,
-	9309,
-	7516,
-	7516,
-	7516,
-	7516,
-	9268,
-	7479,
-	9473,
-	9473,
-	9473,
-	7479,
-	9473,
-	9473,
-	9473,
-	9473,
-	9473,
-	9473,
-	9473,
-	9185,
-	9473,
-	7479,
-	9309,
-	9309,
-	7516,
-	7516,
-	9473,
-	7516,
-	9473,
-	7516,
-	5392,
-	5392,
-	5392,
-	7516,
-	7516,
-	7457,
-	7457,
-	3540,
-	3540,
-	2603,
-	9473,
-	16095,
-	9473,
-	3039,
-	5392,
-	9473,
-	5392,
-	9473,
-	5392,
-	9473,
-	5392,
-	9473,
-	5392,
-	2256,
-	3361,
-	6691,
-	9473,
-	9473,
-	16095,
-	9473,
-	6653,
-	6653,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	9309,
-	9309,
-	9309,
-	9473,
-	4237,
-	4237,
-	9309,
-	7516,
-	9309,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	7516,
-	9473,
-	7516,
-	9473,
-	9185,
-	9185,
-	5250,
-	16095,
-	9473,
-	6691,
-	7516,
-	9309,
-	7516,
+	9407,
+	9407,
+	9407,
+	7440,
+	9407,
+	9120,
 	9244,
-	7457,
-	9473,
-	16044,
-	15178,
-	16044,
-	16008,
-	15172,
-	15168,
-	16095,
-	15172,
-	15172,
-	16095,
-	9473,
-	4237,
-	4237,
-	9473,
-	9473,
-	9473,
-	0,
-	14772,
-	13034,
-	13034,
-	13034,
-	0,
-	14772,
-	14772,
-	0,
-	14772,
-	0,
-	9473,
-	7516,
-	9473,
-	7516,
-	9473,
-	5392,
-	9473,
-	5392,
-	16095,
-	9473,
-	6691,
-	6691,
-	5392,
-	5392,
-	5392,
-	5392,
-	9473,
-	7516,
-	9473,
-	5392,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	7516,
-	9309,
-	7516,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	9473,
-	7516,
-	4237,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	7516,
-	9473,
-	7516,
-	9473,
-	9309,
-	9473,
-	9473,
-	9473,
-	5392,
-	16095,
-	9473,
-	6691,
-	6691,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	7516,
-	9473,
-	9309,
-	9473,
-	9473,
-	9473,
-	5392,
-	16095,
-	9473,
-	6691,
-	6691,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	7516,
-	9473,
-	9309,
-	9473,
-	9473,
-	16095,
-	9473,
-	5392,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	9461,
-	7660,
-	9309,
-	7516,
+	9407,
 	9244,
-	7457,
-	9473,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	9473,
-	9309,
-	9309,
-	4237,
-	9309,
-	7516,
-	9309,
-	9309,
-	7516,
-	9309,
-	7516,
-	9185,
-	7395,
-	9473,
-	7516,
-	9473,
-	7516,
-	9185,
-	5392,
-	16095,
-	9473,
-	5392,
-	7516,
-	9473,
-	5392,
-	16095,
-	9473,
-	6691,
-	9309,
-	9309,
-	9473,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	7516,
-	9309,
-	9309,
-	7516,
-	9473,
-	7516,
-	9473,
-	9309,
-	9473,
-	9473,
-	16095,
-	9473,
-	5392,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	16095,
-	9473,
-	6691,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	11237,
-	11237,
-	10480,
-	10480,
-	10468,
-	9185,
-	7395,
-	9185,
-	7395,
-	9268,
-	7479,
-	9268,
-	9268,
-	6964,
-	3979,
-	6252,
-	3842,
-	6966,
-	6966,
-	6966,
-	9473,
-	9473,
-	7479,
-	3486,
-	9473,
-	9473,
-	9473,
-	9473,
-	5455,
-	9473,
-	9473,
-	0,
-	0,
-	14772,
-	14772,
-	14772,
-	14772,
-	14772,
-	16044,
-	14772,
-	0,
-	0,
-	0,
-	14772,
-	0,
-	14772,
-	14772,
-	13407,
-	12124,
-	0,
-	14772,
-	14456,
-	14456,
-	12299,
-	13048,
-	14772,
-	0,
-	12698,
-	14456,
-	14456,
-	16095,
-	9473,
-	5392,
-	5392,
-	5392,
-	5392,
-	6691,
-	5392,
-	5392,
-	5392,
-	5392,
-	0,
-	0,
-	0,
-	9473,
-	5392,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	9473,
-	5392,
-	0,
-	12915,
-	14615,
-	13041,
-	3039,
-	9473,
-	0,
-	0,
-	0,
-	16095,
-	9473,
-	4733,
-	9473,
-	6691,
-	9473,
-	0,
-	0,
-	0,
-	0,
-	0,
-	9309,
-	7516,
-	7516,
-	9473,
-	9185,
-	9309,
-	7516,
-	9309,
-	7516,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	3356,
-	5392,
-	5334,
-	5334,
-	6677,
-	2676,
-	9473,
-	9309,
+	9407,
+	7477,
 	9244,
-	7516,
+	9120,
+	2275,
+	9407,
+	9407,
+	14675,
+	9407,
+	0,
+	15913,
+	0,
+	0,
+	14340,
+	0,
+	0,
+	15964,
+	9407,
+	5369,
+	0,
+	0,
+	0,
+	15877,
+	15042,
+	9244,
+	9407,
+	7477,
+	7610,
+	2225,
+	9407,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	9407,
+	9407,
+	9407,
+	0,
+	0,
+	0,
+	9244,
+	9244,
+	7477,
+	9407,
+	0,
+	0,
+	0,
+	0,
+	0,
+	9244,
+	9244,
+	9203,
+	9244,
+	9407,
+	9244,
+	9203,
+	9244,
+	9244,
+	9407,
+	9407,
+	9244,
+	9407,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	9244,
+	7477,
+	9407,
+	9407,
+	9407,
+	9244,
+	9244,
+	9244,
+	7477,
+	7477,
+	15056,
+	7477,
+	9407,
+	9407,
+	15964,
+	9407,
+	6662,
+	6257,
+	9407,
+	9407,
+	9407,
+	9407,
+	9407,
+	9407,
+	7477,
+	7477,
+	9407,
+	9407,
+	7477,
+	9407,
+	9407,
+	9407,
+	9407,
+	9407,
+	9407,
+	9120,
+	7356,
+	9407,
+	9244,
+	9407,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	0,
+	0,
+	7440,
+	0,
+	0,
+	0,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	9407,
+	9244,
+	7477,
+	9244,
+	9244,
+	7477,
+	9407,
+	15964,
+	9407,
+	6662,
+	9244,
+	7477,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	9407,
 	4224,
-	7516,
-	9473,
-	5392,
-	9473,
-	5392,
-	9473,
-	5392,
-	9473,
-	5392,
-	9473,
-	5392,
-	9473,
-	5392,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	5392,
-	1363,
-	2256,
-	9473,
-	9473,
-	6686,
-	9309,
-	9268,
-	6691,
-	6691,
-	9473,
-	9473,
-	7516,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	7516,
-	9473,
-	9309,
-	9309,
-	7516,
-	9309,
-	7516,
-	9473,
-	2256,
-	1363,
-	5392,
-	9185,
-	9185,
-	9473,
-	5392,
-	1363,
-	2256,
-	9473,
-	9268,
-	7479,
-	9309,
-	9268,
-	6691,
-	6691,
-	9473,
-	9473,
-	7516,
-	9309,
-	6691,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	7516,
-	9473,
-	9309,
-	9309,
-	7516,
-	9309,
-	7516,
-	9473,
-	16095,
-	9473,
-	6691,
-	5392,
-	6691,
-	6691,
-	9309,
-	9268,
-	6691,
-	6691,
-	6691,
-	6691,
-	9473,
-	9473,
-	7516,
-	9309,
-	9473,
-	5392,
-	9473,
-	5392,
-	9473,
-	7516,
-	9309,
-	9473,
-	5392,
-	9473,
-	5392,
-	6691,
-	6691,
-	9473,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	7516,
-	9473,
-	9309,
-	9309,
-	7516,
-	9309,
-	7516,
-	9473,
-	16095,
-	9473,
-	6691,
-	5392,
-	6691,
-	6691,
-	2256,
-	1363,
-	5392,
-	9473,
-	2256,
-	1363,
-	5392,
-	9473,
-	2256,
-	1363,
-	5392,
-	9473,
-	2256,
-	1363,
-	5392,
-	9473,
-	9268,
-	14772,
-	16044,
-	16044,
-	16044,
-	9309,
-	9309,
-	3361,
-	0,
-	6691,
-	6691,
-	6691,
-	6691,
-	6691,
-	6691,
-	6691,
-	6691,
-	9473,
-	3361,
-	9473,
-	16095,
-	9473,
-	6283,
-	6691,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	4237,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	7516,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	7395,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	7516,
-	7516,
-	7516,
-	7516,
-	7516,
-	7516,
-	9309,
-	9309,
+	4224,
 	9244,
-	9309,
-	9185,
-	7395,
-	9185,
-	9309,
-	7516,
-	7516,
-	7516,
-	7516,
-	9473,
-	9473,
-	9473,
+	7477,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	7477,
+	9407,
+	7477,
+	9244,
+	9407,
+	9120,
+	9120,
+	9407,
+	5227,
+	9407,
+	15964,
+	9407,
+	5369,
+	5369,
+	6662,
+	6662,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	9407,
+	5369,
+	15964,
+	9407,
+	6662,
+	9244,
+	7477,
+	9395,
+	7618,
+	9179,
+	7418,
+	9407,
 	0,
-	5392,
-	0,
-	7516,
-	7395,
-	3509,
-	5392,
-	6691,
-	7516,
-	7457,
-	5334,
-	5334,
-	9473,
-	16095,
-	9473,
-	5904,
 	0,
 	0,
 	0,
-	9473,
-	7516,
-	6691,
-	6677,
-	9473,
-	9473,
-	6691,
-	7516,
-	5392,
-	5392,
-	6691,
-	5334,
-	6677,
-	6677,
 	0,
-	9473,
-	5002,
-	9473,
-	5002,
-	9473,
-	5392,
+	0,
+	0,
+	0,
+	0,
+	0,
+	7477,
+	9407,
+	9244,
+	9407,
+	9407,
+	15964,
+	9407,
+	6662,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	9407,
+	9407,
+	4216,
+	9407,
+	6662,
+	9407,
+	11799,
+	15913,
+	14656,
+	14656,
+	0,
+	0,
+	0,
+	3353,
+	9407,
+	6662,
+	9407,
+	7477,
+	9407,
+	9244,
+	9407,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	4224,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	9120,
+	9244,
+	7477,
+	7477,
+	7477,
+	7477,
+	9203,
+	7440,
+	9407,
+	9407,
+	9407,
+	7440,
+	9407,
+	9407,
+	9407,
+	9407,
+	9407,
+	9407,
+	9407,
+	9120,
+	9407,
+	7440,
+	9244,
+	9244,
+	7477,
+	7477,
+	9407,
+	7477,
+	9407,
+	7477,
+	5369,
+	5369,
+	5369,
+	7477,
+	7477,
+	7418,
+	7418,
+	3530,
+	3530,
+	2596,
+	9407,
+	15964,
+	9407,
+	3031,
+	5369,
+	9407,
+	5369,
+	9407,
+	5369,
+	9407,
+	5369,
+	9407,
+	5369,
+	2253,
+	3353,
+	6662,
+	9407,
+	9407,
+	15964,
+	9407,
+	6624,
+	6624,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	9244,
+	9244,
+	9244,
+	9407,
+	4224,
+	4224,
+	9244,
+	7477,
+	9244,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	7477,
+	9407,
+	7477,
+	9407,
+	9120,
+	9120,
+	5227,
+	15964,
+	9407,
+	6662,
+	7477,
+	9244,
+	7477,
+	9179,
+	7418,
+	9407,
+	15913,
+	15062,
+	15913,
+	15877,
+	15056,
+	15052,
+	15964,
+	15056,
+	15056,
+	15964,
+	9407,
+	4224,
+	4224,
+	9407,
+	9407,
+	9407,
+	0,
+	14656,
+	12941,
+	12941,
+	12941,
+	0,
+	14656,
+	14656,
+	0,
+	14656,
+	0,
+	9407,
+	7477,
+	9407,
+	7477,
+	9407,
+	5369,
+	9407,
+	5369,
+	15964,
+	9407,
+	6662,
+	6662,
+	5369,
+	5369,
+	5369,
+	5369,
+	9407,
+	7477,
+	9407,
+	5369,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	7477,
+	9244,
+	7477,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	9407,
+	7477,
+	4224,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	7477,
+	9407,
+	7477,
+	9407,
+	9244,
+	9407,
+	9407,
+	9407,
+	5369,
+	15964,
+	9407,
+	6662,
+	6662,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	7477,
+	9407,
+	9244,
+	9407,
+	9407,
+	9407,
+	5369,
+	15964,
+	9407,
+	6662,
+	6662,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	7477,
+	9407,
+	9244,
+	9407,
+	9407,
+	15964,
+	9407,
+	5369,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	9395,
+	7618,
+	9244,
+	7477,
+	9179,
+	7418,
+	9407,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	9407,
+	9244,
+	9244,
+	4224,
+	9244,
+	7477,
+	9244,
+	9244,
+	7477,
+	9244,
+	7477,
+	9120,
+	7356,
+	9407,
+	7477,
+	9407,
+	7477,
+	9120,
+	5369,
+	15964,
+	9407,
+	5369,
+	7477,
+	9407,
+	5369,
+	15964,
+	9407,
+	6662,
+	9244,
+	9244,
+	9407,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	7477,
+	9244,
+	9244,
+	7477,
+	9407,
+	7477,
+	9407,
+	9244,
+	9407,
+	9407,
+	15964,
+	9407,
+	5369,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	15964,
+	9407,
+	6662,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	11163,
+	11163,
+	10409,
+	10409,
+	10397,
+	9120,
+	7356,
+	9120,
+	7356,
+	9203,
+	7440,
+	9203,
+	9203,
+	6935,
+	3968,
+	6226,
+	3832,
+	6937,
+	6937,
+	6937,
+	9407,
+	9407,
+	7440,
+	3477,
+	9407,
+	9407,
+	9407,
+	9407,
+	5431,
+	9407,
+	9407,
+	0,
+	0,
+	14656,
+	14656,
+	14656,
+	14656,
+	14656,
+	15913,
+	14656,
+	0,
+	0,
+	0,
+	14656,
+	0,
+	14656,
+	14656,
+	13314,
+	12046,
+	0,
+	14656,
+	14340,
+	14340,
+	12220,
+	12955,
+	14656,
+	0,
+	12606,
+	14340,
+	14340,
+	15964,
+	9407,
+	5369,
+	5369,
+	5369,
+	5369,
+	6662,
+	5369,
+	5369,
+	5369,
+	5369,
+	0,
+	0,
+	0,
+	9407,
+	5369,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	9407,
+	5369,
+	0,
+	12822,
+	14499,
+	12948,
+	3031,
+	9407,
+	0,
+	0,
+	0,
+	15964,
+	9407,
+	4716,
+	9407,
+	6662,
+	9407,
+	0,
+	0,
+	0,
+	0,
+	0,
+	9244,
+	7477,
+	7477,
+	9407,
+	9120,
+	9244,
+	7477,
+	9244,
+	7477,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	3348,
+	5369,
+	5311,
+	5311,
+	6648,
+	2669,
+	9407,
+	9244,
+	9179,
+	7477,
+	4211,
+	7477,
+	9407,
+	5369,
+	9407,
+	5369,
+	9407,
+	5369,
+	9407,
+	5369,
+	9407,
+	5369,
+	9407,
+	5369,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	5369,
+	1361,
+	2253,
+	9407,
+	9407,
+	6657,
+	9244,
+	9203,
+	6662,
+	6662,
+	9407,
+	9407,
+	7477,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	7477,
+	9407,
+	9244,
+	9244,
+	7477,
+	9244,
+	7477,
+	9407,
+	2253,
+	1361,
+	5369,
+	9120,
+	9120,
+	9407,
+	5369,
+	1361,
+	2253,
+	9407,
+	9203,
+	7440,
+	9244,
+	9203,
+	6662,
+	6662,
+	9407,
+	9407,
+	7477,
+	9244,
+	6662,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	7477,
+	9407,
+	9244,
+	9244,
+	7477,
+	9244,
+	7477,
+	9407,
+	15964,
+	9407,
+	6662,
+	5369,
+	6662,
+	6662,
+	9244,
+	9203,
+	6662,
+	6662,
+	6662,
+	6662,
+	9407,
+	9407,
+	7477,
+	9244,
+	9407,
+	5369,
+	9407,
+	5369,
+	9407,
+	7477,
+	9244,
+	9407,
+	5369,
+	9407,
+	5369,
+	6662,
+	6662,
+	9407,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	7477,
+	9407,
+	9244,
+	9244,
+	7477,
+	9244,
+	7477,
+	9407,
+	15964,
+	9407,
+	6662,
+	5369,
+	6662,
+	6662,
+	2253,
+	1361,
+	5369,
+	9407,
+	2253,
+	1361,
+	5369,
+	9407,
+	2253,
+	1361,
+	5369,
+	9407,
+	2253,
+	1361,
+	5369,
+	9407,
+	9203,
+	14656,
+	15913,
+	15913,
+	15913,
+	9244,
+	9244,
+	3353,
+	0,
+	6662,
+	6662,
+	6662,
+	6662,
+	6662,
+	6662,
+	6662,
+	6662,
+	9407,
+	3353,
+	9407,
+	15964,
+	9407,
+	6257,
+	6662,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	4224,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	7477,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	7356,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	7477,
+	7477,
+	7477,
+	7477,
+	7477,
+	7477,
+	9244,
+	9244,
+	9179,
+	9244,
+	9120,
+	7356,
+	9120,
+	9244,
+	7477,
+	7477,
+	7477,
+	7477,
+	9407,
+	9407,
+	9407,
+	0,
+	5369,
+	0,
+	7477,
+	7356,
+	3500,
+	5369,
+	6662,
+	7477,
+	7418,
+	5311,
+	5311,
+	9407,
+	15964,
+	9407,
+	5878,
+	0,
+	0,
+	0,
+	9407,
+	7477,
+	6662,
+	6648,
+	9407,
+	9407,
+	6662,
+	7477,
+	5369,
+	5369,
+	6662,
+	5311,
+	6648,
+	6648,
+	0,
+	9407,
+	4979,
+	9407,
+	4979,
+	9407,
+	5369,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	9179,
+	7418,
+	0,
+	9407,
+	7418,
+	9120,
+	0,
+	0,
+	0,
+	0,
 	0,
 	0,
 	0,
@@ -8272,11 +8309,136 @@ static const int32_t s_InvokerIndices[2615] =
 	0,
 	0,
 	9244,
-	7457,
+	7477,
+	9407,
+	7477,
 	0,
-	9473,
-	7457,
-	9185,
+	7477,
+	4203,
+	5369,
+	5369,
+	9203,
+	4224,
+	4224,
+	6662,
+	7477,
+	7477,
+	7477,
+	9407,
+	9407,
+	9407,
+	5369,
+	15964,
+	9407,
+	5369,
+	6662,
+	6662,
+	4224,
+	4224,
+	9407,
+	0,
+	0,
+	7477,
+	7477,
+	7477,
+	9407,
+	0,
+	0,
+	2166,
+	7477,
+	9120,
+	7356,
+	9120,
+	7356,
+	9120,
+	7356,
+	9120,
+	7356,
+	9407,
+	0,
+	9244,
+	9244,
+	6662,
+	9407,
+	12596,
+	14656,
+	14340,
+	12955,
+	11789,
+	11789,
+	12955,
+	11789,
+	9407,
+	5369,
+	4224,
+	6662,
+	3353,
+	6662,
+	6662,
+	6662,
+	15964,
+	9407,
+	6662,
+	5369,
+	5369,
+	3353,
+	9407,
+	5369,
+	9407,
+	7477,
+	9407,
+	5369,
+	9407,
+	5369,
+	9407,
+	7477,
+	9407,
+	5369,
+	9407,
+	7477,
+	4224,
+	6662,
+	6662,
+	3353,
+	6662,
+	3353,
+	6662,
+	6662,
+	6662,
+	6662,
+	6662,
+	6662,
+	9407,
+	7477,
+	9407,
+	7477,
+	9407,
+	7477,
+	9407,
+	7477,
+	9407,
+	7477,
+	9407,
+	7477,
+	9407,
+	7477,
+	9407,
+	7477,
+	15964,
+	14656,
+	14656,
+	12955,
+	14656,
+	12955,
+	15913,
+	9407,
+	7477,
+	9407,
+	7477,
+	9407,
+	7477,
+	9407,
+	7477,
 	0,
 	0,
 	0,
@@ -8290,156 +8452,331 @@ static const int32_t s_InvokerIndices[2615] =
 	0,
 	0,
 	0,
-	9309,
-	7516,
-	9473,
-	7516,
 	0,
-	7516,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	7477,
+	9407,
+	9120,
+	3353,
+	1982,
+	9407,
+	9120,
+	3353,
+	1982,
+	9407,
+	9407,
+	7477,
+	9244,
+	7477,
+	9244,
+	9244,
+	15964,
+	9407,
+	6662,
+	9407,
+	6662,
+	9407,
+	5369,
+	7477,
+	9407,
+	9407,
+	9407,
+	7752,
+	9407,
+	9407,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	9203,
+	9120,
+	7477,
+	7477,
+	9407,
+	9244,
+	7477,
+	9244,
+	4224,
+	4224,
+	0,
+	0,
+	9407,
+	9407,
+	0,
+	9407,
+	7477,
+	7477,
+	4224,
+	15964,
+	9407,
+	3170,
+	9407,
+	5656,
+	7477,
+	7477,
+	7477,
+	9407,
+	7477,
+	4224,
+	7477,
+	9407,
+	7477,
+	4224,
+	7477,
+	4224,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	15913,
+	9244,
+	9244,
+	7477,
+	9244,
+	9244,
+	9244,
+	7477,
+	9244,
+	7477,
+	0,
+	0,
+	9244,
+	7477,
+	0,
+	0,
+	0,
+	9244,
+	9407,
+	7477,
+	6662,
+	3353,
+	3353,
+	14656,
+	9407,
+	5369,
+	9407,
+	7477,
+	9407,
+	7477,
+	9407,
+	7477,
+	9407,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	15964,
+	4203,
+	2245,
+	1989,
+	7477,
+	9407,
+	9407,
+	5369,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	15056,
+	15056,
+	15056,
+	15056,
+	15913,
+	15877,
+	15913,
+	15056,
+	15913,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	9407,
+	9407,
+	15964,
+	15964,
+	4224,
+	13430,
+	9407,
+	7477,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	9244,
+	6662,
+	9244,
+	9244,
+	7477,
+	7477,
+	9407,
+	7477,
+	7477,
+	9203,
+	7440,
+	9244,
+	9244,
 	4216,
-	5392,
-	5392,
-	9268,
-	4237,
-	4237,
-	6691,
-	7516,
-	7516,
-	7516,
-	9473,
-	9473,
-	9473,
-	5392,
-	16095,
-	9473,
-	5392,
-	6691,
-	6691,
-	4237,
-	4237,
-	9473,
-	0,
-	0,
-	7516,
-	7516,
-	7516,
-	9473,
-	0,
-	0,
-	2169,
-	7516,
-	9185,
-	7395,
-	9185,
-	7395,
-	9185,
-	7395,
-	9185,
-	7395,
-	9473,
-	0,
-	9309,
-	9309,
-	6691,
-	9473,
-	12688,
-	14772,
-	14456,
-	13048,
-	11866,
-	11866,
-	13048,
-	11866,
-	9473,
-	5392,
-	4237,
-	6691,
-	3361,
-	6691,
-	6691,
-	6691,
-	16095,
-	9473,
-	6691,
-	5392,
-	5392,
-	3361,
-	9473,
-	5392,
-	9473,
-	9473,
-	7516,
-	9473,
-	5392,
-	9473,
-	5392,
-	9473,
-	9473,
-	7516,
-	9473,
-	5392,
-	9473,
-	9473,
-	7516,
-	4237,
-	6691,
-	6691,
-	3361,
-	6691,
-	3361,
-	6691,
-	6691,
-	6691,
-	6691,
-	6691,
-	6691,
-	9473,
-	9473,
-	7516,
-	9473,
-	9473,
-	7516,
-	9473,
-	9473,
-	7516,
-	9473,
-	9473,
-	7516,
-	9473,
-	9473,
-	7516,
-	9473,
-	9473,
-	7516,
-	9473,
-	9473,
-	7516,
-	9473,
-	9473,
-	7516,
-	16095,
-	14772,
-	14772,
-	13048,
-	14772,
-	13048,
-	16044,
-	9473,
-	9473,
-	7516,
-	9473,
-	9473,
-	7516,
-	9473,
-	9473,
-	7516,
-	9473,
-	9473,
-	7516,
-	0,
-	0,
-	0,
-	0,
+	7440,
+	7477,
 	0,
 	0,
 	0,
@@ -8450,89 +8787,32 @@ static const int32_t s_InvokerIndices[2615] =
 	0,
 	0,
 	0,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	7516,
-	9473,
-	9185,
-	3361,
-	1985,
-	9473,
-	9185,
-	3361,
-	1985,
-	9473,
-	9473,
-	7516,
-	9309,
-	7516,
-	9309,
-	9309,
-	16095,
-	9473,
-	6691,
-	9473,
-	6691,
-	9473,
-	5392,
-	7516,
-	9473,
-	9473,
-	9473,
-	7795,
-	9473,
-	9473,
 	0,
 	0,
 	0,
 	0,
 	0,
 	0,
-	9268,
-	9185,
-	7516,
-	7516,
-	9473,
-	9309,
-	7516,
-	9309,
-	4237,
-	4237,
 	0,
 	0,
-	9473,
-	9473,
 	0,
-	9473,
-	7516,
-	7516,
-	4237,
-	16095,
-	9473,
-	3178,
-	9473,
-	5680,
-	7516,
-	7516,
-	7516,
-	9473,
-	7516,
-	4237,
-	7516,
-	9473,
-	7516,
-	4237,
-	7516,
-	4237,
 	0,
 	0,
 	0,
+	9244,
+	7477,
+	2253,
 	0,
+	5369,
 	0,
 	0,
+	15964,
+	9407,
+	6624,
+	6624,
+	9244,
+	7477,
+	7477,
 	0,
 	0,
 	0,
@@ -8547,9 +8827,87 @@ static const int32_t s_InvokerIndices[2615] =
 	0,
 	0,
 	0,
+	6662,
+	5369,
+	9407,
+	9244,
+	7477,
+	7477,
+	9203,
+	7440,
+	7440,
+	6662,
+	5369,
+	9407,
+	9244,
+	7477,
+	6662,
+	5369,
+	9407,
+	9244,
+	7477,
+	9407,
+	6662,
+	5369,
+	9407,
+	6662,
+	5369,
+	9407,
+	9244,
+	7477,
+	7477,
+	9407,
+	7477,
+	6662,
+	5369,
+	7477,
+	6662,
+	5369,
 	0,
+	9244,
+	7477,
+	9244,
+	7477,
+	9407,
+	15964,
+	9407,
+	5369,
+	5369,
+	5369,
+	6662,
+	9407,
+	5369,
+	9244,
 	0,
 	0,
+	9407,
+	7477,
+	6662,
+	5369,
+	9407,
+	9244,
+	7477,
+	7477,
+	9244,
+	7477,
+	7477,
+	7477,
+	7477,
+	7477,
+	7477,
+	9407,
+	9120,
+	5369,
+	7477,
+	7477,
+	7477,
+	9407,
+	7477,
+	9244,
+	9244,
+	9120,
+	9407,
+	9407,
 	0,
 	0,
 	0,
@@ -8572,20 +8930,137 @@ static const int32_t s_InvokerIndices[2615] =
 	0,
 	0,
 	0,
+	9244,
+	9244,
+	9311,
+	7541,
+	9407,
+	9244,
+	9244,
+	9244,
+	9407,
+	7477,
+	7477,
+	7477,
+	7477,
+	9120,
+	7356,
+	9244,
+	9244,
 	0,
 	0,
+	7477,
+	7477,
+	9407,
+	9407,
+	7359,
+	9407,
+	9407,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
 	0,
 	0,
+	7225,
 	0,
 	0,
 	0,
 	0,
 	0,
+	9407,
+	9244,
+	9244,
+	9244,
+	9120,
+	9407,
+	9407,
+	9407,
+	9407,
+	6937,
+	6937,
+	9407,
 	0,
 	0,
+	9311,
+	7541,
+	7477,
+	7477,
+	7477,
+	7477,
+	9407,
+	9407,
+	9120,
+	7477,
+	9407,
+	9407,
+	9407,
+	9407,
+	7477,
 	0,
+	7477,
+	7477,
+	7477,
+	7477,
+	9120,
+	7356,
+	9120,
+	7356,
+	9120,
+	9407,
+	9407,
+	7356,
+	3500,
+	5369,
+	4224,
+	4224,
 	0,
+	9407,
+	9244,
+	9407,
+	9407,
+	9407,
+	9407,
+	9407,
+	13430,
 	0,
+	12955,
+	15056,
+	11272,
+	11272,
+	11272,
+	12606,
+	12606,
+	14656,
+	13414,
+	14656,
+	15964,
+	9407,
+	5369,
+	5369,
+	5369,
+	5369,
+	5369,
+	5369,
+	5369,
+	5369,
+	5369,
+	6662,
+	9407,
+	5369,
+	5369,
+	9407,
+	5369,
+	9407,
+	5369,
+	9407,
+	5369,
+	2568,
+	3353,
+	9407,
 	0,
 	0,
 	0,
@@ -8611,6 +9086,9 @@ static const int32_t s_InvokerIndices[2615] =
 	0,
 	0,
 	0,
+	2568,
+	3353,
+	9407,
 	0,
 	0,
 	0,
@@ -8619,6 +9097,25 @@ static const int32_t s_InvokerIndices[2615] =
 	0,
 	0,
 	0,
+	9311,
+	9120,
+	7356,
+	9407,
+	4285,
+	9407,
+	7541,
+	7541,
+	7541,
+	6669,
+	9407,
+	9407,
+	9407,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
 	0,
 	0,
 	0,
@@ -8655,62 +9152,77 @@ static const int32_t s_InvokerIndices[2615] =
 	0,
 	0,
 	0,
+	9407,
+	2254,
+	2254,
+	9244,
+	9244,
+	9244,
+	7477,
+	9244,
+	7477,
+	9120,
+	7356,
+	9244,
+	9311,
+	7541,
+	9244,
+	7477,
+	9407,
+	7477,
+	9120,
+	7477,
+	9407,
+	9407,
+	1618,
+	1618,
+	9244,
+	9244,
+	9244,
+	7477,
+	9244,
+	7477,
+	9311,
+	7541,
+	9244,
+	9311,
+	7541,
+	9120,
+	7356,
+	9244,
+	7477,
+	9407,
+	7477,
+	9407,
+	9120,
+	7477,
+	9407,
 	0,
 	0,
 	0,
 	0,
-	16044,
-	9309,
-	9309,
-	7516,
-	9309,
-	9309,
-	9309,
-	7516,
-	9309,
-	7516,
 	0,
 	0,
-	9309,
-	7516,
 	0,
 	0,
 	0,
-	9309,
-	9473,
-	7516,
-	6691,
-	3361,
-	3361,
-	14772,
-	9473,
-	5392,
-	9473,
-	9473,
-	7516,
-	9473,
-	9473,
-	7516,
-	9473,
-	9473,
-	7516,
-	9473,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	16095,
-	4216,
-	2248,
-	1992,
-	7516,
-	9473,
-	9473,
-	5392,
 	0,
 	0,
 	0,
+	9407,
+	7541,
+	9244,
+	9311,
+	7541,
+	9120,
+	7356,
+	9244,
+	9244,
+	7477,
+	9407,
+	7477,
+	9120,
+	9407,
 	0,
 	0,
 	0,
@@ -8730,1051 +9242,489 @@ static const int32_t s_InvokerIndices[2615] =
 	0,
 	0,
 	0,
-	0,
-	0,
-	0,
-	15172,
-	15172,
-	15172,
-	15172,
-	16044,
-	16008,
-	16044,
-	15172,
-	16044,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	9473,
-	9473,
-	16095,
-	16095,
-	4237,
-	13523,
-	9473,
-	7516,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	9309,
-	6691,
-	9309,
-	9309,
-	7516,
-	7516,
-	9473,
-	7516,
-	7516,
-	9268,
-	7479,
-	9309,
-	9309,
-	4229,
-	7479,
-	7516,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	9309,
-	7516,
-	2256,
-	0,
-	5392,
-	0,
-	0,
-	16095,
-	9473,
-	6653,
-	6653,
-	9309,
-	7516,
-	7516,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	6691,
-	5392,
-	9473,
-	9309,
-	7516,
-	7516,
-	9268,
-	7479,
-	7479,
-	6691,
-	5392,
-	9473,
-	9309,
-	7516,
-	6691,
-	5392,
-	9473,
-	9309,
-	7516,
-	9473,
-	6691,
-	5392,
-	9473,
-	6691,
-	5392,
-	9473,
-	9309,
-	7516,
-	7516,
-	9473,
-	7516,
-	6691,
-	5392,
-	7516,
-	6691,
-	5392,
-	0,
-	9309,
-	7516,
-	9309,
-	7516,
-	9473,
-	16095,
-	9473,
-	5392,
-	5392,
-	5392,
-	6691,
-	9473,
-	5392,
-	9309,
-	0,
-	0,
-	9473,
-	7516,
-	6691,
-	5392,
-	9473,
-	9309,
-	7516,
-	7516,
-	9309,
-	7516,
-	7516,
-	7516,
-	7516,
-	7516,
-	7516,
-	9473,
-	9185,
-	5392,
-	7516,
-	7516,
-	7516,
-	9473,
-	7516,
-	9309,
-	9309,
-	9185,
-	9473,
-	9473,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	9309,
-	9309,
-	9377,
-	7582,
-	9473,
-	9309,
-	9309,
-	9309,
-	9473,
-	7516,
-	7516,
-	7516,
-	7516,
-	9185,
-	7395,
-	9309,
-	9309,
-	0,
-	0,
-	7516,
-	7516,
-	9473,
-	9473,
-	7398,
-	9473,
-	9473,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	7259,
-	0,
-	0,
-	0,
-	0,
-	0,
-	9473,
-	9309,
-	9309,
-	9309,
-	9185,
-	9473,
-	9473,
-	9473,
-	9473,
-	6966,
-	6966,
-	9473,
-	0,
-	0,
-	9377,
-	7582,
-	7516,
-	7516,
-	7516,
-	7516,
-	9473,
-	9473,
-	9185,
-	7516,
-	9473,
-	9473,
-	9473,
-	9473,
-	7516,
-	0,
-	7516,
-	7516,
-	7516,
-	7516,
-	9185,
-	7395,
-	9185,
-	7395,
-	9185,
-	9473,
-	9473,
-	7395,
-	3509,
-	5392,
-	4237,
-	4237,
-	0,
-	9473,
-	9309,
-	9473,
-	9473,
-	9473,
-	9473,
-	9473,
-	13523,
-	0,
-	13048,
-	15172,
-	11347,
-	11347,
-	11347,
-	12698,
-	12698,
-	14772,
-	13507,
-	14772,
-	16095,
-	9473,
-	5392,
-	5392,
-	5392,
-	5392,
-	5392,
-	5392,
-	5392,
-	5392,
-	5392,
-	6691,
-	9473,
-	5392,
-	5392,
-	9473,
-	5392,
-	9473,
-	5392,
-	9473,
-	5392,
-	2575,
-	3361,
-	9473,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	2575,
-	3361,
-	9473,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	9377,
-	9185,
-	7395,
-	9473,
-	4298,
-	9473,
-	7582,
-	7582,
-	7582,
-	6698,
-	9473,
-	9473,
-	9473,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	9473,
-	2257,
-	2257,
-	9309,
-	9309,
-	9309,
-	7516,
-	9309,
-	7516,
-	9185,
-	7395,
-	9309,
-	9377,
-	7582,
-	9309,
-	7516,
-	9473,
-	7516,
-	9185,
-	7516,
-	9473,
-	9473,
-	1620,
-	1620,
-	9309,
-	9309,
-	9309,
-	7516,
-	9309,
-	7516,
-	9377,
-	7582,
-	9309,
-	9377,
-	7582,
-	9185,
-	7395,
-	9309,
-	7516,
-	9473,
-	7516,
-	9473,
-	9185,
-	7516,
-	9473,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	9473,
-	7582,
-	9309,
-	9377,
-	7582,
-	9185,
-	7395,
-	9309,
-	9309,
-	7516,
-	9473,
-	7516,
-	9185,
-	9473,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	9473,
-	3509,
-	2104,
-	9309,
-	9309,
-	9309,
-	9309,
-	9185,
-	7395,
-	9309,
-	7516,
-	9309,
-	9309,
-	7516,
-	9309,
-	9309,
-	7516,
-	9185,
-	7395,
-	9473,
-	7516,
-	9473,
-	9185,
-	9185,
-	5250,
-	7516,
-	9473,
-	9309,
-	9473,
-	9473,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	9473,
+	9407,
+	3500,
+	2101,
+	9244,
+	9244,
+	9244,
+	9244,
+	9120,
+	7356,
+	9244,
+	7477,
+	9244,
+	9244,
+	7477,
+	9244,
+	9244,
+	7477,
+	9120,
+	7356,
+	9407,
+	7477,
+	9407,
+	9120,
+	9120,
+	5227,
+	7477,
+	9407,
+	9244,
+	9407,
+	9407,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	9407,
 	363,
 	363,
-	9309,
-	9309,
-	9185,
-	7395,
-	9309,
-	7516,
-	9309,
-	7516,
-	9377,
-	7582,
-	9377,
-	7582,
-	9268,
-	7479,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	9473,
-	4229,
-	9473,
-	9309,
-	9473,
-	9473,
-	5392,
-	7662,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	9473,
-	7395,
-	9309,
-	9309,
-	7516,
-	9185,
-	7395,
-	9309,
-	7516,
-	9309,
-	9473,
-	7516,
-	9473,
-	9309,
-	9473,
-	9473,
-	16095,
-	9473,
-	7516,
-	7516,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	9473,
-	7582,
-	9309,
-	9377,
-	7582,
-	9309,
-	7516,
-	9309,
-	9473,
-	7516,
-	9473,
-	9309,
-	9473,
-	9473,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	9309,
-	9473,
-	7516,
-	7516,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	9473,
-	7516,
-	9473,
-	9473,
-	7516,
-	7516,
-	9309,
-	9309,
-	9309,
-	7516,
-	9309,
-	7516,
-	9185,
-	7395,
-	9309,
-	9473,
-	7516,
-	9473,
-	7516,
-	9473,
-	9473,
-	7516,
-	9309,
-	9309,
-	9309,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	9473,
-	7516,
-	9473,
-	9309,
-	9473,
-	9473,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	7516,
-	9473,
-	9309,
-	9473,
-	9473,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	9473,
-	7516,
-	7516,
-	9309,
-	9309,
-	9309,
-	9309,
-	7516,
-	9309,
-	9309,
-	9473,
-	7516,
-	9473,
-	9309,
-	9473,
-	9473,
-	16095,
-	9473,
-	5392,
-	6283,
-	5354,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	7516,
-	9473,
-	9309,
-	9473,
-	9473,
-	16095,
-	9473,
-	5392,
-	6283,
-	5354,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	9473,
-	7516,
-	9473,
-	3540,
-	9309,
 	9244,
-	7457,
-	9309,
-	7516,
-	9309,
-	7516,
-	9473,
-	7516,
-	9473,
-	9309,
-	9473,
-	9473,
-	5392,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	9473,
-	4219,
-	7516,
-	4219,
-	9309,
-	9309,
-	9309,
-	9309,
-	7516,
-	9187,
-	7398,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	9473,
-	7516,
-	9473,
-	7516,
-	9473,
-	4229,
-	7516,
-	9473,
-	7516,
+	9244,
+	9120,
+	7356,
+	9244,
+	7477,
+	9244,
+	7477,
+	9311,
+	7541,
+	9311,
+	7541,
+	9203,
+	7440,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	9407,
 	4216,
-	2248,
-	9309,
-	9309,
-	9309,
-	7516,
-	9185,
-	7395,
-	9185,
-	7395,
-	9309,
-	7516,
-	9309,
-	7516,
-	9473,
-	7516,
-	9473,
-	7516,
-	9473,
-	9473,
-	2257,
-	2257,
-	9309,
-	9309,
-	7516,
-	9309,
-	7516,
-	9377,
-	7582,
-	9309,
-	7516,
-	9309,
-	9473,
-	7516,
-	9473,
-	9309,
-	9473,
-	9473,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	9473,
-	2231,
-	1569,
-	9309,
-	9309,
-	9309,
-	7516,
-	9268,
-	7479,
-	9377,
-	7582,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	9185,
-	7395,
-	9473,
-	3873,
-	9473,
-	9309,
-	9473,
-	9473,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	9473,
-	7516,
-	7516,
-	9309,
-	9309,
-	7516,
-	9309,
-	7516,
-	9309,
-	9473,
-	7516,
-	9473,
-	9309,
-	9473,
-	9473,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	9473,
-	2287,
-	9309,
-	9309,
-	7516,
-	9463,
-	7662,
-	9377,
-	7582,
-	9309,
-	7516,
-	9309,
-	9473,
-	7516,
-	9473,
-	9309,
-	9473,
-	9473,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	9473,
-	7395,
-	1590,
-	1590,
-	9309,
-	9309,
-	9309,
-	7516,
-	9309,
-	7516,
-	9185,
-	7395,
-	9185,
-	7395,
-	9309,
-	7516,
-	9309,
-	9473,
-	7516,
-	9473,
-	7516,
-	9473,
-	9473,
-	3509,
-	1481,
-	9309,
-	9309,
-	9309,
-	7516,
-	9309,
-	7516,
-	9185,
-	7395,
-	9185,
-	7395,
-	9309,
-	7516,
-	9309,
-	9473,
-	7516,
-	9473,
-	7516,
-	9473,
-	9473,
-	7395,
-	2117,
-	9309,
-	9309,
-	9309,
-	7516,
-	9185,
-	7395,
-	9309,
-	7516,
-	9185,
-	7395,
-	9309,
-	9473,
-	7516,
-	9473,
-	7516,
-	9473,
-	9473,
-	2248,
-	2248,
-	9309,
-	9309,
-	7516,
-	9309,
-	7516,
-	9185,
-	7395,
-	9309,
-	7516,
-	9309,
-	9473,
-	7516,
-	9473,
-	9309,
-	9473,
-	9473,
-	9185,
-	7479,
-	9473,
-	9185,
-	9309,
-	9473,
-	9309,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	9473,
-	7516,
+	9407,
+	9244,
+	9407,
+	9407,
+	5369,
+	7620,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	9407,
+	7356,
+	9244,
+	9244,
+	7477,
+	9120,
+	7356,
+	9244,
+	7477,
+	9244,
+	9407,
+	7477,
+	9407,
+	9244,
+	9407,
+	9407,
+	15964,
+	9407,
+	7477,
+	7477,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	9407,
+	7541,
+	9244,
+	9311,
+	7541,
+	9244,
+	7477,
+	9244,
+	9407,
+	7477,
+	9407,
+	9244,
+	9407,
+	9407,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	9244,
+	9407,
+	7477,
+	7477,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	9407,
+	7477,
+	9407,
+	9407,
+	7477,
+	7477,
+	9244,
+	9244,
+	9244,
+	7477,
+	9244,
+	7477,
+	9120,
+	7356,
+	9244,
+	9407,
+	7477,
+	9407,
+	7477,
+	9407,
+	9407,
+	7477,
+	9244,
+	9244,
+	9244,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	9407,
+	7477,
+	9407,
+	9244,
+	9407,
+	9407,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	7477,
+	9407,
+	9244,
+	9407,
+	9407,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	9407,
+	7477,
+	7477,
+	9244,
+	9244,
+	9244,
+	9244,
+	7477,
+	9244,
+	9244,
+	9407,
+	7477,
+	9407,
+	9244,
+	9407,
+	9407,
+	15964,
+	9407,
+	5369,
+	6257,
+	5331,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	7477,
+	9407,
+	9244,
+	9407,
+	9407,
+	15964,
+	9407,
+	5369,
+	6257,
+	5331,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	9407,
+	7477,
+	9407,
+	3530,
+	9244,
+	9179,
+	7418,
+	9244,
+	7477,
+	9244,
+	7477,
+	9407,
+	7477,
+	9407,
+	9244,
+	9407,
+	9407,
+	5369,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	9407,
+	4206,
+	7477,
+	4206,
+	9244,
+	9244,
+	9244,
+	9244,
+	7477,
+	9122,
+	7359,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	9407,
+	7477,
+	9407,
+	7477,
+	9407,
 	4216,
-	2248,
-	9309,
-	9309,
-	9309,
-	7516,
-	9185,
-	7395,
-	9185,
-	7395,
-	9309,
-	7516,
-	9309,
-	7516,
-	9473,
-	9473,
-	7516,
-	9473,
-	7516,
+	7477,
+	9407,
+	7477,
+	4203,
+	2245,
+	9244,
+	9244,
+	9244,
+	7477,
+	9120,
+	7356,
+	9120,
+	7356,
+	9244,
+	7477,
+	9244,
+	7477,
+	9407,
+	7477,
+	9407,
+	7477,
+	9407,
+	9407,
+	2254,
+	2254,
+	9244,
+	9244,
+	7477,
+	9244,
+	7477,
+	9311,
+	7541,
+	9244,
+	7477,
+	9244,
+	9407,
+	7477,
+	9407,
+	9244,
+	9407,
+	9407,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	9407,
+	2228,
+	1567,
+	9244,
+	9244,
+	9244,
+	7477,
+	9203,
+	7440,
+	9311,
+	7541,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	9120,
+	7356,
+	9407,
+	3863,
+	9407,
+	9244,
+	9407,
+	9407,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	9407,
+	7477,
+	7477,
+	9244,
+	9244,
+	7477,
+	9244,
+	7477,
+	9244,
+	9407,
+	7477,
+	9407,
+	9244,
+	9407,
+	9407,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	9407,
+	2284,
+	9244,
+	9244,
+	7477,
+	9397,
+	7620,
+	9311,
+	7541,
+	9244,
+	7477,
+	9244,
+	9407,
+	7477,
+	9407,
+	9244,
+	9407,
+	9407,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
+	9407,
+	7356,
+	1588,
+	1588,
+	9244,
+	9244,
+	9244,
+	7477,
+	9244,
+	7477,
+	9120,
+	7356,
+	9120,
+	7356,
+	9244,
+	7477,
+	9244,
+	9407,
+	7477,
+	9407,
+	7477,
+	9407,
+	9407,
+	3500,
+	1479,
+	9244,
+	9244,
+	9244,
+	7477,
+	9244,
+	7477,
+	9120,
+	7356,
+	9120,
+	7356,
+	9244,
+	7477,
+	9244,
+	9407,
+	7477,
+	9407,
+	7477,
+	9407,
+	9407,
+	7356,
+	2114,
+	9244,
+	9244,
+	9244,
+	7477,
+	9120,
+	7356,
+	9244,
+	7477,
+	9120,
+	7356,
+	9244,
+	9407,
+	7477,
+	9407,
+	7477,
+	9407,
+	9407,
+	2245,
+	2245,
+	9244,
+	9244,
+	7477,
+	9244,
+	7477,
+	9120,
+	7356,
+	9244,
+	7477,
+	9244,
+	9407,
+	7477,
+	9407,
+	9244,
+	9407,
+	9407,
+	9120,
+	7440,
+	9407,
+	9120,
+	9244,
+	9407,
+	9244,
 	0,
 	0,
 	0,
 	0,
-	9185,
-	7395,
-	9473,
-	9473,
 	0,
 	0,
 	0,
@@ -9782,10 +9732,60 @@ static const int32_t s_InvokerIndices[2615] =
 	0,
 	0,
 	0,
-	9473,
-	7516,
-	4237,
-	9309,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	9407,
+	7477,
+	4203,
+	2245,
+	9244,
+	9244,
+	9244,
+	7477,
+	9120,
+	7356,
+	9120,
+	7356,
+	9244,
+	7477,
+	9244,
+	7477,
+	9407,
+	9407,
+	7477,
+	9407,
+	7477,
+	0,
+	0,
+	0,
+	0,
+	9120,
+	7356,
+	9407,
+	9407,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	9407,
+	7477,
+	4224,
+	9244,
 };
 static const Il2CppTokenRangePair s_rgctxIndices[99] = 
 {
@@ -9881,13 +9881,13 @@ static const Il2CppTokenRangePair s_rgctxIndices[99] =
 	{ 0x0600041C, { 142, 1 } },
 	{ 0x0600041E, { 143, 2 } },
 	{ 0x0600043D, { 153, 4 } },
-	{ 0x0600065A, { 395, 1 } },
-	{ 0x06000660, { 396, 1 } },
-	{ 0x06000662, { 397, 1 } },
-	{ 0x06000663, { 398, 1 } },
-	{ 0x06000673, { 412, 1 } },
-	{ 0x0600069D, { 417, 2 } },
-	{ 0x06000740, { 430, 1 } },
+	{ 0x06000648, { 395, 1 } },
+	{ 0x0600064E, { 396, 1 } },
+	{ 0x06000650, { 397, 1 } },
+	{ 0x06000651, { 398, 1 } },
+	{ 0x06000661, { 412, 1 } },
+	{ 0x0600068B, { 417, 2 } },
+	{ 0x0600072E, { 430, 1 } },
 };
 extern const uint32_t g_rgctx_U3CU3Ec__DisplayClass0_0_1_tB4375AECEC72146A9272D32BDF50170A1FEAFA4D;
 extern const uint32_t g_rgctx_U3CU3Ec__DisplayClass0_0_1__ctor_m718D217279A9339511A1439BA9C6214D82CAFB0B;
@@ -11050,9 +11050,9 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_VRBuilder_Core_CodeGenModule;
 const Il2CppCodeGenModule g_VRBuilder_Core_CodeGenModule = 
 {
 	"VRBuilder.Core.dll",
-	2615,
+	2597,
 	s_methodPointers,
-	1,
+	37,
 	s_adjustorThunks,
 	s_InvokerIndices,
 	0,

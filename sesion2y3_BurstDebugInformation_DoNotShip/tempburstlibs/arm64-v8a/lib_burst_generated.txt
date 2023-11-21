@@ -1,4 +1,4 @@
-Library: C:\Users\nacho\Documents\Unity Projects\Template-Experiencia-VR\Temp\StagingArea\tempburstlibs\arm64-v8a\lib_burst_generated
+Library: C:\Users\nacho\OneDrive\Documentos\Titulo I\Template-Experiencia-VR\Temp\StagingArea\tempburstlibs\arm64-v8a\lib_burst_generated
 --platform=Android
 --backend=burst-llvm-14
 --target=ARMV8A_AARCH64
@@ -98,11 +98,6 @@ Library: C:\Users\nacho\Documents\Unity Projects\Template-Experiencia-VR\Temp\St
 --compilation-defines=ENABLE_MONO
 --compilation-defines=NET_4_6
 --compilation-defines=NET_UNITY_4_8
---compilation-defines=DEVELOPMENT_BUILD
---compilation-defines=ENABLE_PROFILER
---compilation-defines=DEBUG
---compilation-defines=TRACE
---compilation-defines=UNITY_ASSERTIONS
 --compilation-defines=ENABLE_CUSTOM_RENDER_TEXTURE
 --compilation-defines=ENABLE_DIRECTOR
 --compilation-defines=ENABLE_LOCALIZATION
@@ -172,9 +167,8 @@ Library: C:\Users\nacho\Documents\Unity Projects\Template-Experiencia-VR\Temp\St
 --compilation-defines=XR_INTERACTION_TOOLKIT
 --compilation-defines=TIMELINE_FRAMEACCURATE
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\nacho\Documents\Unity Projects\Template-Experiencia-VR\Temp\Burst
---debug=Full
---output=C:\Users\nacho\Documents\Unity Projects\Template-Experiencia-VR\Temp\StagingArea\tempburstlibs\arm64-v8a\lib_burst_generated
+--temp-folder=C:\Users\nacho\OneDrive\Documentos\Titulo I\Template-Experiencia-VR\Temp\Burst
+--output=C:\Users\nacho\OneDrive\Documentos\Titulo I\Template-Experiencia-VR\Temp\StagingArea\tempburstlibs\arm64-v8a\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 --pdb-search-paths=Temp/ManagedSymbols/
 
