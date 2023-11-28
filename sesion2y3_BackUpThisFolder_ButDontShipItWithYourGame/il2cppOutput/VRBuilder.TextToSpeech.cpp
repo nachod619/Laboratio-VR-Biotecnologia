@@ -272,10 +272,18 @@ struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915;
 struct PCMReaderCallback_t3396D9613664F0AFF65FB91018FD0F901CC16F1E;
 // UnityEngine.AudioClip/PCMSetPositionCallback
 struct PCMSetPositionCallback_t8D7135A2FB40647CAEC93F5254AD59E18DEB6072;
+// VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2
+struct U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5;
+// VRBuilder.TextToSpeech.FileTextToSpeechProvider/<GetCachedFile>d__5
+struct U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93;
+// VRBuilder.TextToSpeech.FileTextToSpeechProvider/<IsFileCached>d__6
+struct U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B;
 // VRBuilder.TextToSpeech.FileTextToSpeechProvider/CouldNotLoadAudioFileException
 struct CouldNotLoadAudioFileException_t38D8BE37A0E5DC53B9B9DE38A6BB47C2A50F6E35;
 // System.Threading.Tasks.Task/ContingentProperties
 struct ContingentProperties_t3FA59480914505CEA917B1002EC675F29D0CB540;
+// VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18
+struct U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF;
 // VRBuilder.TextToSpeech.TextToSpeechProviderFactory/BaseCreator
 struct BaseCreator_t4E77E30B98D4C4108F69664AA8741F1E18EA566F;
 // VRBuilder.TextToSpeech.TextToSpeechProviderFactory/ITextToSpeechCreator
@@ -315,6 +323,10 @@ IL2CPP_EXTERN_C RuntimeClass* SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93
 IL2CPP_EXTERN_C RuntimeClass* Singleton_1_t280A0EEC0ACADAE3E305AEFB3F247ED72DDF2315_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* StringBuilder_t_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Type_t_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C String_t* _stringLiteral0DB26887BB76E922B58A892B2E490905A50A07F6;
 IL2CPP_EXTERN_C String_t* _stringLiteral1032683CCF3D2EA1A66CE98F8F735078558EC71C;
 IL2CPP_EXTERN_C String_t* _stringLiteral176CA81FCAAFC7E28768895C4C996AE51DD32E78;
@@ -352,9 +364,6 @@ IL2CPP_EXTERN_C const RuntimeMethod* AsyncTaskMethodBuilder_1_SetException_mF567
 IL2CPP_EXTERN_C const RuntimeMethod* AsyncTaskMethodBuilder_1_SetResult_mA33666F8F9751DDF31F6C4C22C991E9F4BDA52B0_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* AsyncTaskMethodBuilder_1_SetResult_mF21C48FC9CEC24F4E9C5975C54F87BE9CA179046_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* AsyncTaskMethodBuilder_1_SetResult_mF62BDDDE4117AA164F8FDDA8C7E9E9FE3FDD79D3_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* AsyncTaskMethodBuilder_1_SetStateMachine_m8889CD98833041D0F942AF4FFA070793D6A75B15_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* AsyncTaskMethodBuilder_1_SetStateMachine_m9D382E265E211762EDB525CF74EBB7FA21DDDCE8_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* AsyncTaskMethodBuilder_1_SetStateMachine_mAD061BEAE640C56538A74B398FCF9195BCED98E4_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* AsyncTaskMethodBuilder_1_Start_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_mDFE79EB84AC4A6FE3B1BB4C64EF4B69B0619D968_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* AsyncTaskMethodBuilder_1_Start_TisU3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_m6C9A9DF9DDF2032AC7386665B3C3DC8BBD8CDCB2_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* AsyncTaskMethodBuilder_1_Start_TisU3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_mBC297EDCFD2F9EAD5E1CF14FF6CA00B1E172C062_RuntimeMethod_var;
@@ -437,11 +446,6 @@ struct Dictionary_2_t207C1A9F488C00E09528538826414BBA0834B83C  : public RuntimeO
 	ValueCollection_tEC20DE949D24BC8B0478ADF1A6DB9D64099703EF* ____values_8;
 	// System.Object System.Collections.Generic.Dictionary`2::_syncRoot
 	RuntimeObject* ____syncRoot_9;
-};
-
-// VRBuilder.Unity.Singleton`1<System.Object>
-struct Singleton_1_t44355ECE83F29EC98CA129FB5C0A0D5357ACD4A0  : public RuntimeObject
-{
 };
 
 // VRBuilder.Unity.Singleton`1<VRBuilder.TextToSpeech.TextToSpeechProviderFactory>
@@ -1049,30 +1053,44 @@ struct UnableToParseAudioFormatException_tAE27AF125BFDA9961EC01EDC0FAE024603A8D6
 };
 
 // VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2
-struct U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5 
+struct U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5  : public RuntimeObject
 {
 	// System.Int32 VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::<>1__state
 	int32_t ___U3CU3E1__state_0;
 	// System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<UnityEngine.AudioClip> VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::<>t__builder
 	AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF ___U3CU3Et__builder_1;
-	// VRBuilder.TextToSpeech.FileTextToSpeechProvider VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::<>4__this
-	FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788* ___U3CU3E4__this_2;
 	// System.String VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::text
-	String_t* ___text_3;
+	String_t* ___text_2;
 	// UnityEngine.Localization.Locale VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::locale
-	Locale_t7BD9FB50247883E73B4CC92360943B0455CF02B9* ___locale_4;
+	Locale_t7BD9FB50247883E73B4CC92360943B0455CF02B9* ___locale_3;
+	// VRBuilder.TextToSpeech.FileTextToSpeechProvider VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::<>4__this
+	FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788* ___U3CU3E4__this_4;
+	// System.String VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::<filename>5__1
+	String_t* ___U3CfilenameU3E5__1_5;
 	// System.String VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::<filePath>5__2
-	String_t* ___U3CfilePathU3E5__2_5;
+	String_t* ___U3CfilePathU3E5__2_6;
+	// UnityEngine.AudioClip VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::<audioClip>5__3
+	AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* ___U3CaudioClipU3E5__3_7;
+	// System.Boolean VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::<>s__4
+	bool ___U3CU3Es__4_8;
+	// System.Byte[] VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::<bytes>5__5
+	ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* ___U3CbytesU3E5__5_9;
+	// System.Single[] VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::<sound>5__6
+	SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* ___U3CsoundU3E5__6_10;
+	// System.Byte[] VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::<>s__7
+	ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* ___U3CU3Es__7_11;
+	// UnityEngine.AudioClip VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::<>s__8
+	AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* ___U3CU3Es__8_12;
 	// System.Runtime.CompilerServices.TaskAwaiter`1<System.Boolean> VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::<>u__1
-	TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 ___U3CU3Eu__1_6;
+	TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 ___U3CU3Eu__1_13;
 	// System.Runtime.CompilerServices.TaskAwaiter`1<System.Byte[]> VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::<>u__2
-	TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 ___U3CU3Eu__2_7;
+	TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 ___U3CU3Eu__2_14;
 	// System.Runtime.CompilerServices.TaskAwaiter`1<UnityEngine.AudioClip> VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::<>u__3
-	TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 ___U3CU3Eu__3_8;
+	TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 ___U3CU3Eu__3_15;
 };
 
 // VRBuilder.TextToSpeech.FileTextToSpeechProvider/<GetCachedFile>d__5
-struct U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93 
+struct U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93  : public RuntimeObject
 {
 	// System.Int32 VRBuilder.TextToSpeech.FileTextToSpeechProvider/<GetCachedFile>d__5::<>1__state
 	int32_t ___U3CU3E1__state_0;
@@ -1080,12 +1098,16 @@ struct U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93
 	AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81 ___U3CU3Et__builder_1;
 	// System.String VRBuilder.TextToSpeech.FileTextToSpeechProvider/<GetCachedFile>d__5::filePath
 	String_t* ___filePath_2;
+	// VRBuilder.TextToSpeech.FileTextToSpeechProvider VRBuilder.TextToSpeech.FileTextToSpeechProvider/<GetCachedFile>d__5::<>4__this
+	FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788* ___U3CU3E4__this_3;
+	// System.Byte[] VRBuilder.TextToSpeech.FileTextToSpeechProvider/<GetCachedFile>d__5::<>s__1
+	ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* ___U3CU3Es__1_4;
 	// System.Runtime.CompilerServices.TaskAwaiter`1<System.Byte[]> VRBuilder.TextToSpeech.FileTextToSpeechProvider/<GetCachedFile>d__5::<>u__1
-	TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 ___U3CU3Eu__1_3;
+	TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 ___U3CU3Eu__1_5;
 };
 
 // VRBuilder.TextToSpeech.FileTextToSpeechProvider/<IsFileCached>d__6
-struct U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B 
+struct U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B  : public RuntimeObject
 {
 	// System.Int32 VRBuilder.TextToSpeech.FileTextToSpeechProvider/<IsFileCached>d__6::<>1__state
 	int32_t ___U3CU3E1__state_0;
@@ -1093,8 +1115,12 @@ struct U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B
 	AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA ___U3CU3Et__builder_1;
 	// System.String VRBuilder.TextToSpeech.FileTextToSpeechProvider/<IsFileCached>d__6::filePath
 	String_t* ___filePath_2;
+	// VRBuilder.TextToSpeech.FileTextToSpeechProvider VRBuilder.TextToSpeech.FileTextToSpeechProvider/<IsFileCached>d__6::<>4__this
+	FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788* ___U3CU3E4__this_3;
+	// System.Boolean VRBuilder.TextToSpeech.FileTextToSpeechProvider/<IsFileCached>d__6::<>s__1
+	bool ___U3CU3Es__1_4;
 	// System.Runtime.CompilerServices.TaskAwaiter`1<System.Boolean> VRBuilder.TextToSpeech.FileTextToSpeechProvider/<IsFileCached>d__6::<>u__1
-	TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 ___U3CU3Eu__1_3;
+	TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 ___U3CU3Eu__1_5;
 };
 
 // VRBuilder.TextToSpeech.FileTextToSpeechProvider/CouldNotLoadAudioFileException
@@ -1103,7 +1129,7 @@ struct CouldNotLoadAudioFileException_t38D8BE37A0E5DC53B9B9DE38A6BB47C2A50F6E35 
 };
 
 // VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18
-struct U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF 
+struct U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF  : public RuntimeObject
 {
 	// System.Int32 VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18::<>1__state
 	int32_t ___U3CU3E1__state_0;
@@ -1111,8 +1137,16 @@ struct U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF
 	AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D ___U3CU3Et__builder_1;
 	// VRBuilder.TextToSpeech.Audio.TextToSpeechAudio VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18::<>4__this
 	TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* ___U3CU3E4__this_2;
+	// VRBuilder.TextToSpeech.TextToSpeechConfiguration VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18::<ttsConfiguration>5__1
+	TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* ___U3CttsConfigurationU3E5__1_3;
+	// VRBuilder.TextToSpeech.ITextToSpeechProvider VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18::<provider>5__2
+	RuntimeObject* ___U3CproviderU3E5__2_4;
+	// UnityEngine.AudioClip VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18::<>s__3
+	AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* ___U3CU3Es__3_5;
+	// System.Exception VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18::<exception>5__4
+	Exception_t* ___U3CexceptionU3E5__4_6;
 	// System.Runtime.CompilerServices.TaskAwaiter`1<UnityEngine.AudioClip> VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18::<>u__1
-	TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 ___U3CU3Eu__1_3;
+	TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 ___U3CU3Eu__1_7;
 };
 
 // VRBuilder.TextToSpeech.TextToSpeechProviderFactory/InvalidProviderException
@@ -1216,15 +1250,6 @@ struct RuntimeConfigurator_t23F3F8F041885DA6CBF963E065020FB1A77C7478  : public M
 // System.Collections.Generic.Dictionary`2<System.String,VRBuilder.TextToSpeech.TextToSpeechProviderFactory/ITextToSpeechCreator>
 
 // System.Collections.Generic.Dictionary`2<System.String,VRBuilder.TextToSpeech.TextToSpeechProviderFactory/ITextToSpeechCreator>
-
-// VRBuilder.Unity.Singleton`1<System.Object>
-struct Singleton_1_t44355ECE83F29EC98CA129FB5C0A0D5357ACD4A0_StaticFields
-{
-	// T VRBuilder.Unity.Singleton`1::instance
-	RuntimeObject* ___instance_0;
-};
-
-// VRBuilder.Unity.Singleton`1<System.Object>
 
 // VRBuilder.Unity.Singleton`1<VRBuilder.TextToSpeech.TextToSpeechProviderFactory>
 struct Singleton_1_t280A0EEC0ACADAE3E305AEFB3F247ED72DDF2315_StaticFields
@@ -1583,39 +1608,6 @@ struct RuntimeConfigurator_t23F3F8F041885DA6CBF963E065020FB1A77C7478_StaticField
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-// System.Single[]
-struct SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C  : public RuntimeArray
-{
-	ALIGN_FIELD (8) float m_Items[1];
-
-	inline float GetAt(il2cpp_array_size_t index) const
-	{
-		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
-		return m_Items[index];
-	}
-	inline float* GetAddressAt(il2cpp_array_size_t index)
-	{
-		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
-		return m_Items + index;
-	}
-	inline void SetAt(il2cpp_array_size_t index, float value)
-	{
-		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
-		m_Items[index] = value;
-	}
-	inline float GetAtUnchecked(il2cpp_array_size_t index) const
-	{
-		return m_Items[index];
-	}
-	inline float* GetAddressAtUnchecked(il2cpp_array_size_t index)
-	{
-		return m_Items + index;
-	}
-	inline void SetAtUnchecked(il2cpp_array_size_t index, float value)
-	{
-		m_Items[index] = value;
-	}
-};
 // System.Byte[]
 struct ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031  : public RuntimeArray
 {
@@ -1645,6 +1637,39 @@ struct ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031  : public RuntimeArr
 		return m_Items + index;
 	}
 	inline void SetAtUnchecked(il2cpp_array_size_t index, uint8_t value)
+	{
+		m_Items[index] = value;
+	}
+};
+// System.Single[]
+struct SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C  : public RuntimeArray
+{
+	ALIGN_FIELD (8) float m_Items[1];
+
+	inline float GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline float* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, float value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline float GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline float* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, float value)
 	{
 		m_Items[index] = value;
 	}
@@ -1688,52 +1713,44 @@ struct ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918  : public RuntimeA
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<TResult> System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Object>::Create()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR AsyncTaskMethodBuilder_1_tE810F083929D7952F192036D298085BD4B048AD0 AsyncTaskMethodBuilder_1_Create_m6A59453D00C0143F178809ADFD98C90E8C291ABB_gshared (const RuntimeMethod* method) ;
-// System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Object>::Start<VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2>(TStateMachine&)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncTaskMethodBuilder_1_Start_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_mE20E0D2987F4BD051A37417A052BB23AD0FDDBEC_gshared (AsyncTaskMethodBuilder_1_tE810F083929D7952F192036D298085BD4B048AD0* __this, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* ___0_stateMachine, const RuntimeMethod* method) ;
+// System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Object>::Start<System.Object>(TStateMachine&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncTaskMethodBuilder_1_Start_TisRuntimeObject_m4CC6B9A3F0DD032BDFC0B8416CE27980382ED173_gshared (AsyncTaskMethodBuilder_1_tE810F083929D7952F192036D298085BD4B048AD0* __this, RuntimeObject** ___0_stateMachine, const RuntimeMethod* method) ;
 // System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Object>::get_Task()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Task_1_t0C4CD3A5BB93A184420D73218644C56C70FDA7E2* AsyncTaskMethodBuilder_1_get_Task_mEA092EC6F1324A9D694CF6056FA8583F2A2BDC89_gshared (AsyncTaskMethodBuilder_1_tE810F083929D7952F192036D298085BD4B048AD0* __this, const RuntimeMethod* method) ;
-// System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Object>::Start<VRBuilder.TextToSpeech.FileTextToSpeechProvider/<GetCachedFile>d__5>(TStateMachine&)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncTaskMethodBuilder_1_Start_TisU3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_m4A1EBBD0E0DDDE83374FD373C4C64A43A5A9E59E_gshared (AsyncTaskMethodBuilder_1_tE810F083929D7952F192036D298085BD4B048AD0* __this, U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* ___0_stateMachine, const RuntimeMethod* method) ;
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<TResult> System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Boolean>::Create()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA AsyncTaskMethodBuilder_1_Create_mA86694527610A40A01A943B16F0ECDDD8F00982D_gshared (const RuntimeMethod* method) ;
-// System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Boolean>::Start<VRBuilder.TextToSpeech.FileTextToSpeechProvider/<IsFileCached>d__6>(TStateMachine&)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncTaskMethodBuilder_1_Start_TisU3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_mBC297EDCFD2F9EAD5E1CF14FF6CA00B1E172C062_gshared (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* __this, U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* ___0_stateMachine, const RuntimeMethod* method) ;
+// System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Boolean>::Start<System.Object>(TStateMachine&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncTaskMethodBuilder_1_Start_TisRuntimeObject_m07B572608C528AC8F684456A98C7A8590DA70518_gshared (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* __this, RuntimeObject** ___0_stateMachine, const RuntimeMethod* method) ;
 // System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Boolean>::get_Task()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Task_1_t824317F4B958F7512E8F7300511752937A6C6043* AsyncTaskMethodBuilder_1_get_Task_m09169C120A259AF1F267F54C09A92B84D9832943_gshared (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* __this, const RuntimeMethod* method) ;
 // System.Runtime.CompilerServices.TaskAwaiter`1<TResult> System.Threading.Tasks.Task`1<System.Boolean>::GetAwaiter()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 Task_1_GetAwaiter_m2245DA7A0F2185DD5617D63F1544165AE6101935_gshared (Task_1_t824317F4B958F7512E8F7300511752937A6C6043* __this, const RuntimeMethod* method) ;
 // System.Boolean System.Runtime.CompilerServices.TaskAwaiter`1<System.Boolean>::get_IsCompleted()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool TaskAwaiter_1_get_IsCompleted_mCAA0D1EB5A6601DF81D5ED06BB0720D47C520DF9_gshared (TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35* __this, const RuntimeMethod* method) ;
-// System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Object>::AwaitUnsafeOnCompleted<System.Runtime.CompilerServices.TaskAwaiter`1<System.Boolean>,VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2>(TAwaiter&,TStateMachine&)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m99042CCC1CFC13067944424C18BBD08E7FA2604E_gshared (AsyncTaskMethodBuilder_1_tE810F083929D7952F192036D298085BD4B048AD0* __this, TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35* ___0_awaiter, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* ___1_stateMachine, const RuntimeMethod* method) ;
+// System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Object>::AwaitUnsafeOnCompleted<System.Runtime.CompilerServices.TaskAwaiter`1<System.Boolean>,System.Object>(TAwaiter&,TStateMachine&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisRuntimeObject_m9DA6938BA04E3D14DB5CC26F9C7CDD3514CA44B6_gshared (AsyncTaskMethodBuilder_1_tE810F083929D7952F192036D298085BD4B048AD0* __this, TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35* ___0_awaiter, RuntimeObject** ___1_stateMachine, const RuntimeMethod* method) ;
 // TResult System.Runtime.CompilerServices.TaskAwaiter`1<System.Boolean>::GetResult()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool TaskAwaiter_1_GetResult_mB0D209154690F6972CF22B23275167F6A404B08B_gshared (TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35* __this, const RuntimeMethod* method) ;
 // System.Runtime.CompilerServices.TaskAwaiter`1<TResult> System.Threading.Tasks.Task`1<System.Object>::GetAwaiter()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR TaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA Task_1_GetAwaiter_mD80ED263BF3F1F8DBDBD177BA3401A0AAAFA38E3_gshared (Task_1_t0C4CD3A5BB93A184420D73218644C56C70FDA7E2* __this, const RuntimeMethod* method) ;
 // System.Boolean System.Runtime.CompilerServices.TaskAwaiter`1<System.Object>::get_IsCompleted()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool TaskAwaiter_1_get_IsCompleted_mEEBB09E26F4165A0F864D92E1890CFCD2C8CFD54_gshared (TaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA* __this, const RuntimeMethod* method) ;
-// System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Object>::AwaitUnsafeOnCompleted<System.Runtime.CompilerServices.TaskAwaiter`1<System.Object>,VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2>(TAwaiter&,TStateMachine&)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m313F021EA4F6A51B6BA781CD5DDC8F096C032F8C_gshared (AsyncTaskMethodBuilder_1_tE810F083929D7952F192036D298085BD4B048AD0* __this, TaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA* ___0_awaiter, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* ___1_stateMachine, const RuntimeMethod* method) ;
+// System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Object>::AwaitUnsafeOnCompleted<System.Runtime.CompilerServices.TaskAwaiter`1<System.Object>,System.Object>(TAwaiter&,TStateMachine&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA_TisRuntimeObject_m88F9075FDCC2543975FBD89EEF959554B47051E3_gshared (AsyncTaskMethodBuilder_1_tE810F083929D7952F192036D298085BD4B048AD0* __this, TaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA* ___0_awaiter, RuntimeObject** ___1_stateMachine, const RuntimeMethod* method) ;
 // TResult System.Runtime.CompilerServices.TaskAwaiter`1<System.Object>::GetResult()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* TaskAwaiter_1_GetResult_mA4A8A1F43A456B40DDA251D00026C60919AED85B_gshared (TaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA* __this, const RuntimeMethod* method) ;
 // T VRBuilder.Unity.Singleton`1<System.Object>::get_Instance()
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR RuntimeObject* Singleton_1_get_Instance_m9FAFF5C248224AED9C1A4C4CC1245AC6EEA47DC0_gshared_inline (const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Singleton_1_get_Instance_m9FAFF5C248224AED9C1A4C4CC1245AC6EEA47DC0_gshared (const RuntimeMethod* method) ;
 // System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Object>::SetException(System.Exception)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncTaskMethodBuilder_1_SetException_mC2F74B26F5303F9F960965220E2866D777F1A5C6_gshared (AsyncTaskMethodBuilder_1_tE810F083929D7952F192036D298085BD4B048AD0* __this, Exception_t* ___0_exception, const RuntimeMethod* method) ;
 // System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Object>::SetResult(TResult)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncTaskMethodBuilder_1_SetResult_m0D83195F995F9825D7A6DCDC3835D6917C43B5A6_gshared (AsyncTaskMethodBuilder_1_tE810F083929D7952F192036D298085BD4B048AD0* __this, RuntimeObject* ___0_result, const RuntimeMethod* method) ;
-// System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Object>::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncTaskMethodBuilder_1_SetStateMachine_m3BE54983634ABF5BE05200C7894AD0F9F20BDD65_gshared (AsyncTaskMethodBuilder_1_tE810F083929D7952F192036D298085BD4B048AD0* __this, RuntimeObject* ___0_stateMachine, const RuntimeMethod* method) ;
-// System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Object>::AwaitUnsafeOnCompleted<System.Runtime.CompilerServices.TaskAwaiter`1<System.Object>,VRBuilder.TextToSpeech.FileTextToSpeechProvider/<GetCachedFile>d__5>(TAwaiter&,TStateMachine&)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA_TisU3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_m296393773282C8169D19423EA3F41891743A198B_gshared (AsyncTaskMethodBuilder_1_tE810F083929D7952F192036D298085BD4B048AD0* __this, TaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA* ___0_awaiter, U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* ___1_stateMachine, const RuntimeMethod* method) ;
-// System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Boolean>::AwaitUnsafeOnCompleted<System.Runtime.CompilerServices.TaskAwaiter`1<System.Boolean>,VRBuilder.TextToSpeech.FileTextToSpeechProvider/<IsFileCached>d__6>(TAwaiter&,TStateMachine&)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisU3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_m6F73BA14D5CB80D4D5ACD5369B8BE4A39EE67BCA_gshared (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* __this, TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35* ___0_awaiter, U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* ___1_stateMachine, const RuntimeMethod* method) ;
+// System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Boolean>::AwaitUnsafeOnCompleted<System.Runtime.CompilerServices.TaskAwaiter`1<System.Boolean>,System.Object>(TAwaiter&,TStateMachine&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisRuntimeObject_mC5DDF6D3774DC1E3C602EF2FF5992BEB85CAA85B_gshared (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* __this, TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35* ___0_awaiter, RuntimeObject** ___1_stateMachine, const RuntimeMethod* method) ;
 // System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Boolean>::SetException(System.Exception)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncTaskMethodBuilder_1_SetException_mB8F5D5EF18A12CBFF3C7D54CE6382DBB1640C0FD_gshared (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* __this, Exception_t* ___0_exception, const RuntimeMethod* method) ;
 // System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Boolean>::SetResult(TResult)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncTaskMethodBuilder_1_SetResult_mF21C48FC9CEC24F4E9C5975C54F87BE9CA179046_gshared (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* __this, bool ___0_result, const RuntimeMethod* method) ;
-// System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Boolean>::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncTaskMethodBuilder_1_SetStateMachine_m9D382E265E211762EDB525CF74EBB7FA21DDDCE8_gshared (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* __this, RuntimeObject* ___0_stateMachine, const RuntimeMethod* method) ;
 // System.Void VRBuilder.Core.Runtime.Utils.SettingsObject`1<System.Object>::.ctor()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SettingsObject_1__ctor_mC233154FBD41DE9055BCFDA159FB548D8826F0FE_gshared (SettingsObject_1_tADAE7515A9E8A429CD37BD66B2522D374E03E557* __this, const RuntimeMethod* method) ;
 // T UnityEngine.Resources::Load<System.Object>(System.String)
@@ -1754,12 +1771,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Dictionary_2_ContainsKey_m703047C213F7AB
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Dictionary_2_get_Item_m4AAAECBE902A211BF2126E6AFA280AEF73A3E0D6_gshared (Dictionary_2_t14FE4A752A83D53771C584E4C8D14E01F2AFD7BA* __this, RuntimeObject* ___0_key, const RuntimeMethod* method) ;
 // System.Void System.Action`1<System.Object>::.ctor(System.Object,System.IntPtr)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_1__ctor_m2E1DFA67718FC1A0B6E5DFEB78831FFE9C059EB4_gshared (Action_1_t6F9EB113EB3F16226AEF811A2744F4111C116C87* __this, RuntimeObject* ___0_object, intptr_t ___1_method, const RuntimeMethod* method) ;
-// System.Void System.Runtime.CompilerServices.AsyncVoidMethodBuilder::Start<VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18>(TStateMachine&)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncVoidMethodBuilder_Start_TisU3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_m32051F124C6BF7458690DE1B0EAD005EE8D7EFEB_gshared (AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* __this, U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* ___0_stateMachine, const RuntimeMethod* method) ;
+// System.Void System.Runtime.CompilerServices.AsyncVoidMethodBuilder::Start<System.Object>(TStateMachine&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncVoidMethodBuilder_Start_TisRuntimeObject_m3CA145CBB6CFE8B4ADD6148BF98E85899F95DCEA_gshared (AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* __this, RuntimeObject** ___0_stateMachine, const RuntimeMethod* method) ;
 // T VRBuilder.Core.Runtime.Utils.SettingsObject`1<System.Object>::get_Instance()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* SettingsObject_1_get_Instance_mADD4AC5D04FD5452594B8D4C6E0EC46B2517936B_gshared (const RuntimeMethod* method) ;
-// System.Void System.Runtime.CompilerServices.AsyncVoidMethodBuilder::AwaitUnsafeOnCompleted<System.Runtime.CompilerServices.TaskAwaiter`1<System.Object>,VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18>(TAwaiter&,TStateMachine&)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncVoidMethodBuilder_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA_TisU3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_m3F93C5AB5F2C07D43656C934D4C6B90F515F06C4_gshared (AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* __this, TaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA* ___0_awaiter, U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* ___1_stateMachine, const RuntimeMethod* method) ;
+// System.Void System.Runtime.CompilerServices.AsyncVoidMethodBuilder::AwaitUnsafeOnCompleted<System.Runtime.CompilerServices.TaskAwaiter`1<System.Object>,System.Object>(TAwaiter&,TStateMachine&)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncVoidMethodBuilder_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA_TisRuntimeObject_m39330AED229FA1BA70485D8A3995487EAF512FD4_gshared (AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* __this, TaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA* ___0_awaiter, RuntimeObject** ___1_stateMachine, const RuntimeMethod* method) ;
 
 // System.Boolean UnityEngine.Object::op_Equality(UnityEngine.Object,UnityEngine.Object)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_x, Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___1_y, const RuntimeMethod* method) ;
@@ -1767,15 +1784,17 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Object_op_Equality_mB6120F782D83091EF56A
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* TextToSpeechConfiguration_LoadConfiguration_m3DBAAB33AEC1E8E127BCE3A8D6A8EC368E60B7CD (const RuntimeMethod* method) ;
 // System.Void System.Object::.ctor()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2 (RuntimeObject* __this, const RuntimeMethod* method) ;
+// System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CConvertTextToSpeechU3Ed__2__ctor_mADF27F99CC29877AEA4C53566E4049EF838643A6 (U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* __this, const RuntimeMethod* method) ;
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<TResult> System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<UnityEngine.AudioClip>::Create()
 inline AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF AsyncTaskMethodBuilder_1_Create_mBF0353DFDA4F81FB5DFFF926FF206704D3AB18DF (const RuntimeMethod* method)
 {
 	return ((  AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF (*) (const RuntimeMethod*))AsyncTaskMethodBuilder_1_Create_m6A59453D00C0143F178809ADFD98C90E8C291ABB_gshared)(method);
 }
 // System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<UnityEngine.AudioClip>::Start<VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2>(TStateMachine&)
-inline void AsyncTaskMethodBuilder_1_Start_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_mDFE79EB84AC4A6FE3B1BB4C64EF4B69B0619D968 (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* __this, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* ___0_stateMachine, const RuntimeMethod* method)
+inline void AsyncTaskMethodBuilder_1_Start_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_mDFE79EB84AC4A6FE3B1BB4C64EF4B69B0619D968 (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* __this, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5** ___0_stateMachine, const RuntimeMethod* method)
 {
-	((  void (*) (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF*, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5*, const RuntimeMethod*))AsyncTaskMethodBuilder_1_Start_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_mE20E0D2987F4BD051A37417A052BB23AD0FDDBEC_gshared)(__this, ___0_stateMachine, method);
+	((  void (*) (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF*, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5**, const RuntimeMethod*))AsyncTaskMethodBuilder_1_Start_TisRuntimeObject_m4CC6B9A3F0DD032BDFC0B8416CE27980382ED173_gshared)(__this, ___0_stateMachine, method);
 }
 // System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<UnityEngine.AudioClip>::get_Task()
 inline Task_1_t290EA9539222B740AC917B9AB459B4F252E537C1* AsyncTaskMethodBuilder_1_get_Task_m3BF23D7AB89EA03322E0DBC67214E4ABA61C6402 (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* __this, const RuntimeMethod* method)
@@ -1784,30 +1803,34 @@ inline Task_1_t290EA9539222B740AC917B9AB459B4F252E537C1* AsyncTaskMethodBuilder_
 }
 // System.String System.String::Concat(System.String,System.String,System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B (String_t* ___0_str0, String_t* ___1_str1, String_t* ___2_str2, const RuntimeMethod* method) ;
+// System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider/<GetCachedFile>d__5::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CGetCachedFileU3Ed__5__ctor_m67B0DA265E97E365073C55F934059D7335712215 (U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* __this, const RuntimeMethod* method) ;
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<TResult> System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Byte[]>::Create()
 inline AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81 AsyncTaskMethodBuilder_1_Create_m012D63730B8B8AE5D0740D902A328F4E0DC91891 (const RuntimeMethod* method)
 {
 	return ((  AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81 (*) (const RuntimeMethod*))AsyncTaskMethodBuilder_1_Create_m6A59453D00C0143F178809ADFD98C90E8C291ABB_gshared)(method);
 }
 // System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Byte[]>::Start<VRBuilder.TextToSpeech.FileTextToSpeechProvider/<GetCachedFile>d__5>(TStateMachine&)
-inline void AsyncTaskMethodBuilder_1_Start_TisU3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_m6C9A9DF9DDF2032AC7386665B3C3DC8BBD8CDCB2 (AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81* __this, U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* ___0_stateMachine, const RuntimeMethod* method)
+inline void AsyncTaskMethodBuilder_1_Start_TisU3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_m6C9A9DF9DDF2032AC7386665B3C3DC8BBD8CDCB2 (AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81* __this, U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93** ___0_stateMachine, const RuntimeMethod* method)
 {
-	((  void (*) (AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81*, U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93*, const RuntimeMethod*))AsyncTaskMethodBuilder_1_Start_TisU3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_m4A1EBBD0E0DDDE83374FD373C4C64A43A5A9E59E_gshared)(__this, ___0_stateMachine, method);
+	((  void (*) (AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81*, U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93**, const RuntimeMethod*))AsyncTaskMethodBuilder_1_Start_TisRuntimeObject_m4CC6B9A3F0DD032BDFC0B8416CE27980382ED173_gshared)(__this, ___0_stateMachine, method);
 }
 // System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Byte[]>::get_Task()
 inline Task_1_t46575E75F710D631831E756B5DE20429700F6B95* AsyncTaskMethodBuilder_1_get_Task_mBF376E337D4B5678E2CA85B41B527FA18E340B4A (AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81* __this, const RuntimeMethod* method)
 {
 	return ((  Task_1_t46575E75F710D631831E756B5DE20429700F6B95* (*) (AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81*, const RuntimeMethod*))AsyncTaskMethodBuilder_1_get_Task_mEA092EC6F1324A9D694CF6056FA8583F2A2BDC89_gshared)(__this, method);
 }
+// System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider/<IsFileCached>d__6::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CIsFileCachedU3Ed__6__ctor_m64B585693F6BDBF73931F961F5C186E4648B59DF (U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* __this, const RuntimeMethod* method) ;
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<TResult> System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Boolean>::Create()
 inline AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA AsyncTaskMethodBuilder_1_Create_mA86694527610A40A01A943B16F0ECDDD8F00982D (const RuntimeMethod* method)
 {
 	return ((  AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA (*) (const RuntimeMethod*))AsyncTaskMethodBuilder_1_Create_mA86694527610A40A01A943B16F0ECDDD8F00982D_gshared)(method);
 }
 // System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Boolean>::Start<VRBuilder.TextToSpeech.FileTextToSpeechProvider/<IsFileCached>d__6>(TStateMachine&)
-inline void AsyncTaskMethodBuilder_1_Start_TisU3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_mBC297EDCFD2F9EAD5E1CF14FF6CA00B1E172C062 (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* __this, U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* ___0_stateMachine, const RuntimeMethod* method)
+inline void AsyncTaskMethodBuilder_1_Start_TisU3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_mBC297EDCFD2F9EAD5E1CF14FF6CA00B1E172C062 (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* __this, U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B** ___0_stateMachine, const RuntimeMethod* method)
 {
-	((  void (*) (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA*, U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B*, const RuntimeMethod*))AsyncTaskMethodBuilder_1_Start_TisU3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_mBC297EDCFD2F9EAD5E1CF14FF6CA00B1E172C062_gshared)(__this, ___0_stateMachine, method);
+	((  void (*) (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA*, U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B**, const RuntimeMethod*))AsyncTaskMethodBuilder_1_Start_TisRuntimeObject_m07B572608C528AC8F684456A98C7A8590DA70518_gshared)(__this, ___0_stateMachine, method);
 }
 // System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Boolean>::get_Task()
 inline Task_1_t824317F4B958F7512E8F7300511752937A6C6043* AsyncTaskMethodBuilder_1_get_Task_m09169C120A259AF1F267F54C09A92B84D9832943 (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* __this, const RuntimeMethod* method)
@@ -1831,9 +1854,9 @@ inline bool TaskAwaiter_1_get_IsCompleted_mCAA0D1EB5A6601DF81D5ED06BB0720D47C520
 	return ((  bool (*) (TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35*, const RuntimeMethod*))TaskAwaiter_1_get_IsCompleted_mCAA0D1EB5A6601DF81D5ED06BB0720D47C520DF9_gshared)(__this, method);
 }
 // System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<UnityEngine.AudioClip>::AwaitUnsafeOnCompleted<System.Runtime.CompilerServices.TaskAwaiter`1<System.Boolean>,VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2>(TAwaiter&,TStateMachine&)
-inline void AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m2683B0F239AED56D495AACF34A30687E7580F2E5 (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* __this, TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35* ___0_awaiter, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* ___1_stateMachine, const RuntimeMethod* method)
+inline void AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m2683B0F239AED56D495AACF34A30687E7580F2E5 (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* __this, TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35* ___0_awaiter, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5** ___1_stateMachine, const RuntimeMethod* method)
 {
-	((  void (*) (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF*, TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35*, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5*, const RuntimeMethod*))AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m99042CCC1CFC13067944424C18BBD08E7FA2604E_gshared)(__this, ___0_awaiter, ___1_stateMachine, method);
+	((  void (*) (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF*, TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35*, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5**, const RuntimeMethod*))AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisRuntimeObject_m9DA6938BA04E3D14DB5CC26F9C7CDD3514CA44B6_gshared)(__this, ___0_awaiter, ___1_stateMachine, method);
 }
 // TResult System.Runtime.CompilerServices.TaskAwaiter`1<System.Boolean>::GetResult()
 inline bool TaskAwaiter_1_GetResult_mB0D209154690F6972CF22B23275167F6A404B08B (TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35* __this, const RuntimeMethod* method)
@@ -1851,9 +1874,9 @@ inline bool TaskAwaiter_1_get_IsCompleted_m896CDD4304D3FD8B44E321EB886905CA84584
 	return ((  bool (*) (TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808*, const RuntimeMethod*))TaskAwaiter_1_get_IsCompleted_mEEBB09E26F4165A0F864D92E1890CFCD2C8CFD54_gshared)(__this, method);
 }
 // System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<UnityEngine.AudioClip>::AwaitUnsafeOnCompleted<System.Runtime.CompilerServices.TaskAwaiter`1<System.Byte[]>,VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2>(TAwaiter&,TStateMachine&)
-inline void AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m9676687D98DD58E02373FF0979DEF085933B9D0F (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* __this, TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808* ___0_awaiter, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* ___1_stateMachine, const RuntimeMethod* method)
+inline void AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m9676687D98DD58E02373FF0979DEF085933B9D0F (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* __this, TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808* ___0_awaiter, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5** ___1_stateMachine, const RuntimeMethod* method)
 {
-	((  void (*) (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF*, TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808*, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5*, const RuntimeMethod*))AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m313F021EA4F6A51B6BA781CD5DDC8F096C032F8C_gshared)(__this, ___0_awaiter, ___1_stateMachine, method);
+	((  void (*) (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF*, TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808*, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5**, const RuntimeMethod*))AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA_TisRuntimeObject_m88F9075FDCC2543975FBD89EEF959554B47051E3_gshared)(__this, ___0_awaiter, ___1_stateMachine, method);
 }
 // TResult System.Runtime.CompilerServices.TaskAwaiter`1<System.Byte[]>::GetResult()
 inline ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* TaskAwaiter_1_GetResult_m46820317903FD726C7B5337DD3861F0AB0DDD6B0 (TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808* __this, const RuntimeMethod* method)
@@ -1869,9 +1892,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool AudioClip_SetData_m7B473C614C11953D74677
 // System.Void UnityEngine.Debug::Log(System.Object)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB (RuntimeObject* ___0_message, const RuntimeMethod* method) ;
 // T VRBuilder.Unity.Singleton`1<VRBuilder.TextToSpeech.TextToSpeechProviderFactory>::get_Instance()
-inline TextToSpeechProviderFactory_tEC7E017208D7F8B3BA5979232DFDE02996A68361* Singleton_1_get_Instance_m76F1A8237FA83FEFE2EA60823CEB54D42861D841_inline (const RuntimeMethod* method)
+inline TextToSpeechProviderFactory_tEC7E017208D7F8B3BA5979232DFDE02996A68361* Singleton_1_get_Instance_m76F1A8237FA83FEFE2EA60823CEB54D42861D841 (const RuntimeMethod* method)
 {
-	return ((  TextToSpeechProviderFactory_tEC7E017208D7F8B3BA5979232DFDE02996A68361* (*) (const RuntimeMethod*))Singleton_1_get_Instance_m9FAFF5C248224AED9C1A4C4CC1245AC6EEA47DC0_gshared_inline)(method);
+	return ((  TextToSpeechProviderFactory_tEC7E017208D7F8B3BA5979232DFDE02996A68361* (*) (const RuntimeMethod*))Singleton_1_get_Instance_m9FAFF5C248224AED9C1A4C4CC1245AC6EEA47DC0_gshared)(method);
 }
 // VRBuilder.TextToSpeech.ITextToSpeechProvider VRBuilder.TextToSpeech.TextToSpeechProviderFactory::CreateProvider()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* TextToSpeechProviderFactory_CreateProvider_m8BD567EDD395F4898AE33DE54076FBCB300493B2 (TextToSpeechProviderFactory_tEC7E017208D7F8B3BA5979232DFDE02996A68361* __this, const RuntimeMethod* method) ;
@@ -1886,9 +1909,9 @@ inline bool TaskAwaiter_1_get_IsCompleted_mF67B1777A0C12E6EEA458AA4210768AAB390F
 	return ((  bool (*) (TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6*, const RuntimeMethod*))TaskAwaiter_1_get_IsCompleted_mEEBB09E26F4165A0F864D92E1890CFCD2C8CFD54_gshared)(__this, method);
 }
 // System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<UnityEngine.AudioClip>::AwaitUnsafeOnCompleted<System.Runtime.CompilerServices.TaskAwaiter`1<UnityEngine.AudioClip>,VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2>(TAwaiter&,TStateMachine&)
-inline void AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m792EBDC0995FB1C8EE85CE7D614F08D953230F79 (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* __this, TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6* ___0_awaiter, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* ___1_stateMachine, const RuntimeMethod* method)
+inline void AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m792EBDC0995FB1C8EE85CE7D614F08D953230F79 (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* __this, TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6* ___0_awaiter, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5** ___1_stateMachine, const RuntimeMethod* method)
 {
-	((  void (*) (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF*, TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6*, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5*, const RuntimeMethod*))AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m313F021EA4F6A51B6BA781CD5DDC8F096C032F8C_gshared)(__this, ___0_awaiter, ___1_stateMachine, method);
+	((  void (*) (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF*, TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6*, U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5**, const RuntimeMethod*))AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA_TisRuntimeObject_m88F9075FDCC2543975FBD89EEF959554B47051E3_gshared)(__this, ___0_awaiter, ___1_stateMachine, method);
 }
 // TResult System.Runtime.CompilerServices.TaskAwaiter`1<UnityEngine.AudioClip>::GetResult()
 inline AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* TaskAwaiter_1_GetResult_m5BC400000238AF0EF79816BFD737A06B49F25F95 (TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6* __this, const RuntimeMethod* method)
@@ -1907,23 +1930,14 @@ inline void AsyncTaskMethodBuilder_1_SetResult_mF62BDDDE4117AA164F8FDDA8C7E9E9FE
 {
 	((  void (*) (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF*, AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20*, const RuntimeMethod*))AsyncTaskMethodBuilder_1_SetResult_m0D83195F995F9825D7A6DCDC3835D6917C43B5A6_gshared)(__this, ___0_result, method);
 }
-// System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::MoveNext()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CConvertTextToSpeechU3Ed__2_MoveNext_mE79561215D30F00751C35920ED514E47AD9C110F (U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* __this, const RuntimeMethod* method) ;
-// System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<UnityEngine.AudioClip>::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
-inline void AsyncTaskMethodBuilder_1_SetStateMachine_m8889CD98833041D0F942AF4FFA070793D6A75B15 (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* __this, RuntimeObject* ___0_stateMachine, const RuntimeMethod* method)
-{
-	((  void (*) (AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF*, RuntimeObject*, const RuntimeMethod*))AsyncTaskMethodBuilder_1_SetStateMachine_m3BE54983634ABF5BE05200C7894AD0F9F20BDD65_gshared)(__this, ___0_stateMachine, method);
-}
-// System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CConvertTextToSpeechU3Ed__2_SetStateMachine_m464819641D2EA5F3CBA8464F1CB98E6F75872781 (U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* __this, RuntimeObject* ___0_stateMachine, const RuntimeMethod* method) ;
 // System.Boolean UnityEngine.Application::get_isPlaying()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Application_get_isPlaying_m25B0ABDFEF54F5370CD3F263A813540843D00F34 (const RuntimeMethod* method) ;
 // System.Threading.Tasks.Task`1<System.Byte[]> VRBuilder.Core.IO.FileManager::Read(System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Task_1_t46575E75F710D631831E756B5DE20429700F6B95* FileManager_Read_mBD428D42D4F59B5B24F136E661FC2D0DABFEAFE4 (String_t* ___0_filePath, const RuntimeMethod* method) ;
 // System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Byte[]>::AwaitUnsafeOnCompleted<System.Runtime.CompilerServices.TaskAwaiter`1<System.Byte[]>,VRBuilder.TextToSpeech.FileTextToSpeechProvider/<GetCachedFile>d__5>(TAwaiter&,TStateMachine&)
-inline void AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808_TisU3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_mB94BC91A2207DCBD0B3B2A7ACF9E1E3A13712492 (AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81* __this, TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808* ___0_awaiter, U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* ___1_stateMachine, const RuntimeMethod* method)
+inline void AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808_TisU3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_mB94BC91A2207DCBD0B3B2A7ACF9E1E3A13712492 (AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81* __this, TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808* ___0_awaiter, U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93** ___1_stateMachine, const RuntimeMethod* method)
 {
-	((  void (*) (AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81*, TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808*, U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93*, const RuntimeMethod*))AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA_TisU3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_m296393773282C8169D19423EA3F41891743A198B_gshared)(__this, ___0_awaiter, ___1_stateMachine, method);
+	((  void (*) (AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81*, TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808*, U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93**, const RuntimeMethod*))AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA_TisRuntimeObject_m88F9075FDCC2543975FBD89EEF959554B47051E3_gshared)(__this, ___0_awaiter, ___1_stateMachine, method);
 }
 // System.String UnityEngine.Application::get_streamingAssetsPath()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* Application_get_streamingAssetsPath_mB904BCD9A7A4F18A52C175DE4A81F5DC3010CDB5 (const RuntimeMethod* method) ;
@@ -1941,21 +1955,12 @@ inline void AsyncTaskMethodBuilder_1_SetResult_mA33666F8F9751DDF31F6C4C22C991E9F
 {
 	((  void (*) (AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81*, ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*, const RuntimeMethod*))AsyncTaskMethodBuilder_1_SetResult_m0D83195F995F9825D7A6DCDC3835D6917C43B5A6_gshared)(__this, ___0_result, method);
 }
-// System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider/<GetCachedFile>d__5::MoveNext()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CGetCachedFileU3Ed__5_MoveNext_m7531D0CF78AE7D77F4F458C521D24B78386A9B29 (U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* __this, const RuntimeMethod* method) ;
-// System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Byte[]>::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
-inline void AsyncTaskMethodBuilder_1_SetStateMachine_mAD061BEAE640C56538A74B398FCF9195BCED98E4 (AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81* __this, RuntimeObject* ___0_stateMachine, const RuntimeMethod* method)
-{
-	((  void (*) (AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81*, RuntimeObject*, const RuntimeMethod*))AsyncTaskMethodBuilder_1_SetStateMachine_m3BE54983634ABF5BE05200C7894AD0F9F20BDD65_gshared)(__this, ___0_stateMachine, method);
-}
-// System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider/<GetCachedFile>d__5::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CGetCachedFileU3Ed__5_SetStateMachine_m2FD59B630099452CECB7DCF037463062DA17F6B8 (U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* __this, RuntimeObject* ___0_stateMachine, const RuntimeMethod* method) ;
 // System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.Core.IO.FileManager::Exists(System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Task_1_t824317F4B958F7512E8F7300511752937A6C6043* FileManager_Exists_mDB38A5A7D420462E082A4F6883A437E97CA873D7 (String_t* ___0_filePath, const RuntimeMethod* method) ;
 // System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Boolean>::AwaitUnsafeOnCompleted<System.Runtime.CompilerServices.TaskAwaiter`1<System.Boolean>,VRBuilder.TextToSpeech.FileTextToSpeechProvider/<IsFileCached>d__6>(TAwaiter&,TStateMachine&)
-inline void AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisU3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_m6F73BA14D5CB80D4D5ACD5369B8BE4A39EE67BCA (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* __this, TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35* ___0_awaiter, U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* ___1_stateMachine, const RuntimeMethod* method)
+inline void AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisU3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_m6F73BA14D5CB80D4D5ACD5369B8BE4A39EE67BCA (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* __this, TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35* ___0_awaiter, U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B** ___1_stateMachine, const RuntimeMethod* method)
 {
-	((  void (*) (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA*, TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35*, U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B*, const RuntimeMethod*))AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisU3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_m6F73BA14D5CB80D4D5ACD5369B8BE4A39EE67BCA_gshared)(__this, ___0_awaiter, ___1_stateMachine, method);
+	((  void (*) (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA*, TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35*, U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B**, const RuntimeMethod*))AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisRuntimeObject_mC5DDF6D3774DC1E3C602EF2FF5992BEB85CAA85B_gshared)(__this, ___0_awaiter, ___1_stateMachine, method);
 }
 // System.Boolean System.IO.File::Exists(System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool File_Exists_m95E329ABBE3EAD6750FE1989BBA6884457136D4A (String_t* ___0_path, const RuntimeMethod* method) ;
@@ -1969,15 +1974,6 @@ inline void AsyncTaskMethodBuilder_1_SetResult_mF21C48FC9CEC24F4E9C5975C54F87BE9
 {
 	((  void (*) (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA*, bool, const RuntimeMethod*))AsyncTaskMethodBuilder_1_SetResult_mF21C48FC9CEC24F4E9C5975C54F87BE9CA179046_gshared)(__this, ___0_result, method);
 }
-// System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider/<IsFileCached>d__6::MoveNext()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CIsFileCachedU3Ed__6_MoveNext_m7B4D64C97E9EA7157B6E98FE77DD0282D0AA7CB1 (U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* __this, const RuntimeMethod* method) ;
-// System.Void System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Boolean>::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
-inline void AsyncTaskMethodBuilder_1_SetStateMachine_m9D382E265E211762EDB525CF74EBB7FA21DDDCE8 (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* __this, RuntimeObject* ___0_stateMachine, const RuntimeMethod* method)
-{
-	((  void (*) (AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA*, RuntimeObject*, const RuntimeMethod*))AsyncTaskMethodBuilder_1_SetStateMachine_m9D382E265E211762EDB525CF74EBB7FA21DDDCE8_gshared)(__this, ___0_stateMachine, method);
-}
-// System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider/<IsFileCached>d__6::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CIsFileCachedU3Ed__6_SetStateMachine_mA90BBF758BB2B54FDFD412171B41ECDC59105BD6 (U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* __this, RuntimeObject* ___0_stateMachine, const RuntimeMethod* method) ;
 // System.Void VRBuilder.Core.Runtime.Utils.SettingsObject`1<VRBuilder.TextToSpeech.TextToSpeechConfiguration>::.ctor()
 inline void SettingsObject_1__ctor_m5FDA94AB95229AC21C9CC889650887623C7E99EC (SettingsObject_1_tD736F721006CAE1F5D1FEA89CB9804F83578C2BD* __this, const RuntimeMethod* method)
 {
@@ -2092,17 +2088,19 @@ inline void Action_1__ctor_m5CD9148DEE5317BA23F52D3CFF3B775540F3D24D (Action_1_t
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void LocalizationSettings_add_SelectedLocaleChanged_m8F417D4662DEDA1C37BE3A159B956EFCDE4ADF79 (Action_1_t55C64C85A9D0051A87CCECD2C9B66D12616ECC38* ___0_value, const RuntimeMethod* method) ;
 // UnityEngine.AudioClip VRBuilder.TextToSpeech.Audio.TextToSpeechAudio::get_AudioClip()
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* TextToSpeechAudio_get_AudioClip_mD1BCCED1898475DF1A02E5135122856BFE8C1B23_inline (TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* __this, const RuntimeMethod* method) ;
+// System.Void VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CInitializeAudioClipU3Ed__18__ctor_m3EF86E0750402EC95196D92783206B069050B8E7 (U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* __this, const RuntimeMethod* method) ;
 // System.Runtime.CompilerServices.AsyncVoidMethodBuilder System.Runtime.CompilerServices.AsyncVoidMethodBuilder::Create()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D AsyncVoidMethodBuilder_Create_m13D0B23DD350C14035918384E10AF641E6B9EE67 (const RuntimeMethod* method) ;
 // System.Void System.Runtime.CompilerServices.AsyncVoidMethodBuilder::Start<VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18>(TStateMachine&)
-inline void AsyncVoidMethodBuilder_Start_TisU3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_m32051F124C6BF7458690DE1B0EAD005EE8D7EFEB (AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* __this, U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* ___0_stateMachine, const RuntimeMethod* method)
+inline void AsyncVoidMethodBuilder_Start_TisU3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_m32051F124C6BF7458690DE1B0EAD005EE8D7EFEB (AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* __this, U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF** ___0_stateMachine, const RuntimeMethod* method)
 {
-	((  void (*) (AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D*, U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF*, const RuntimeMethod*))AsyncVoidMethodBuilder_Start_TisU3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_m32051F124C6BF7458690DE1B0EAD005EE8D7EFEB_gshared)(__this, ___0_stateMachine, method);
+	((  void (*) (AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D*, U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF**, const RuntimeMethod*))AsyncVoidMethodBuilder_Start_TisRuntimeObject_m3CA145CBB6CFE8B4ADD6148BF98E85899F95DCEA_gshared)(__this, ___0_stateMachine, method);
 }
 // VRBuilder.Core.Configuration.RuntimeConfigurator VRBuilder.Core.Configuration.RuntimeConfigurator::get_Instance()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeConfigurator_t23F3F8F041885DA6CBF963E065020FB1A77C7478* RuntimeConfigurator_get_Instance_mC3FA36748ECEDB3A40DB0AD952E29C5E775E1FE3 (const RuntimeMethod* method) ;
 // System.String VRBuilder.Core.Configuration.RuntimeConfigurator::GetProcessStringLocalizationTable()
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR String_t* RuntimeConfigurator_GetProcessStringLocalizationTable_m8A37F97B43EC884BC788FD6283937665E8C8329D_inline (RuntimeConfigurator_t23F3F8F041885DA6CBF963E065020FB1A77C7478* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* RuntimeConfigurator_GetProcessStringLocalizationTable_m8A37F97B43EC884BC788FD6283937665E8C8329D (RuntimeConfigurator_t23F3F8F041885DA6CBF963E065020FB1A77C7478* __this, const RuntimeMethod* method) ;
 // T VRBuilder.Core.Runtime.Utils.SettingsObject`1<VRBuilder.Core.Localization.LanguageSettings>::get_Instance()
 inline LanguageSettings_t644A5BE8AE6ECE199004889174DFBC0169D2DD13* SettingsObject_1_get_Instance_m3126322FB5F0874A0C64CC87C6DDECB909E35D42 (const RuntimeMethod* method)
 {
@@ -2121,20 +2119,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR TextToSpeechConfiguration_tD1606382CF70703192
 // System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider::.ctor(VRBuilder.TextToSpeech.TextToSpeechConfiguration)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void FileTextToSpeechProvider__ctor_mE44A38D806E9EEDC8739858947C3402CFB789572 (FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788* __this, TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* ___0_configuration, const RuntimeMethod* method) ;
 // System.Void System.Runtime.CompilerServices.AsyncVoidMethodBuilder::AwaitUnsafeOnCompleted<System.Runtime.CompilerServices.TaskAwaiter`1<UnityEngine.AudioClip>,VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18>(TAwaiter&,TStateMachine&)
-inline void AsyncVoidMethodBuilder_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6_TisU3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_m2ADE794B3EFED657BA5522EF25A1195AF562C897 (AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* __this, TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6* ___0_awaiter, U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* ___1_stateMachine, const RuntimeMethod* method)
+inline void AsyncVoidMethodBuilder_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6_TisU3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_m2ADE794B3EFED657BA5522EF25A1195AF562C897 (AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* __this, TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6* ___0_awaiter, U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF** ___1_stateMachine, const RuntimeMethod* method)
 {
-	((  void (*) (AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D*, TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6*, U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF*, const RuntimeMethod*))AsyncVoidMethodBuilder_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA_TisU3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_m3F93C5AB5F2C07D43656C934D4C6B90F515F06C4_gshared)(__this, ___0_awaiter, ___1_stateMachine, method);
+	((  void (*) (AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D*, TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6*, U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF**, const RuntimeMethod*))AsyncVoidMethodBuilder_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t0B808409CD8201F13AAC85F29D646518C4857BEA_TisRuntimeObject_m39330AED229FA1BA70485D8A3995487EAF512FD4_gshared)(__this, ___0_awaiter, ___1_stateMachine, method);
 }
 // System.Void System.Runtime.CompilerServices.AsyncVoidMethodBuilder::SetException(System.Exception)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncVoidMethodBuilder_SetException_mD9A6F5D1A99A62AC9DF322901BFDE05193CB177B (AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* __this, Exception_t* ___0_exception, const RuntimeMethod* method) ;
 // System.Void System.Runtime.CompilerServices.AsyncVoidMethodBuilder::SetResult()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncVoidMethodBuilder_SetResult_m008490FDF057D5F5D871F537C7A58BE36027F3DC (AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* __this, const RuntimeMethod* method) ;
-// System.Void VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18::MoveNext()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CInitializeAudioClipU3Ed__18_MoveNext_mAA400B603D5E52EC7150637961ADED9BEB29621B (U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* __this, const RuntimeMethod* method) ;
-// System.Void System.Runtime.CompilerServices.AsyncVoidMethodBuilder::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncVoidMethodBuilder_SetStateMachine_m48640FB81C34D4C2B5A5BBA7F5AE17DC50BF1A25 (AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* __this, RuntimeObject* ___0_stateMachine, const RuntimeMethod* method) ;
-// System.Void VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CInitializeAudioClipU3Ed__18_SetStateMachine_mD69EBFDD3A5A4757CDAF35C85EBCE88913D6A603 (U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* __this, RuntimeObject* ___0_stateMachine, const RuntimeMethod* method) ;
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -2158,30 +2150,42 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR TextToSpeechConfiguration_tD1606382CF70703192
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
+	bool V_0 = false;
+	TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* V_1 = NULL;
 	{
 		// if (textToSpeechConfiguration == null)
 		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_0 = ((IRuntimeConfigurationExtensions_tA7A5CBDB955F60E5BEFCE054296F02C88E1A6CB2_StaticFields*)il2cpp_codegen_static_fields_for(IRuntimeConfigurationExtensions_tA7A5CBDB955F60E5BEFCE054296F02C88E1A6CB2_il2cpp_TypeInfo_var))->___textToSpeechConfiguration_0;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
 		L_1 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_0, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_1)
+		V_0 = L_1;
+		bool L_2 = V_0;
+		if (!L_2)
 		{
-			goto IL_0017;
+			goto IL_001c;
 		}
 	}
 	{
 		// textToSpeechConfiguration = TextToSpeechConfiguration.LoadConfiguration();
-		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_2;
-		L_2 = TextToSpeechConfiguration_LoadConfiguration_m3DBAAB33AEC1E8E127BCE3A8D6A8EC368E60B7CD(NULL);
-		((IRuntimeConfigurationExtensions_tA7A5CBDB955F60E5BEFCE054296F02C88E1A6CB2_StaticFields*)il2cpp_codegen_static_fields_for(IRuntimeConfigurationExtensions_tA7A5CBDB955F60E5BEFCE054296F02C88E1A6CB2_il2cpp_TypeInfo_var))->___textToSpeechConfiguration_0 = L_2;
-		Il2CppCodeGenWriteBarrier((void**)(&((IRuntimeConfigurationExtensions_tA7A5CBDB955F60E5BEFCE054296F02C88E1A6CB2_StaticFields*)il2cpp_codegen_static_fields_for(IRuntimeConfigurationExtensions_tA7A5CBDB955F60E5BEFCE054296F02C88E1A6CB2_il2cpp_TypeInfo_var))->___textToSpeechConfiguration_0), (void*)L_2);
+		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_3;
+		L_3 = TextToSpeechConfiguration_LoadConfiguration_m3DBAAB33AEC1E8E127BCE3A8D6A8EC368E60B7CD(NULL);
+		((IRuntimeConfigurationExtensions_tA7A5CBDB955F60E5BEFCE054296F02C88E1A6CB2_StaticFields*)il2cpp_codegen_static_fields_for(IRuntimeConfigurationExtensions_tA7A5CBDB955F60E5BEFCE054296F02C88E1A6CB2_il2cpp_TypeInfo_var))->___textToSpeechConfiguration_0 = L_3;
+		Il2CppCodeGenWriteBarrier((void**)(&((IRuntimeConfigurationExtensions_tA7A5CBDB955F60E5BEFCE054296F02C88E1A6CB2_StaticFields*)il2cpp_codegen_static_fields_for(IRuntimeConfigurationExtensions_tA7A5CBDB955F60E5BEFCE054296F02C88E1A6CB2_il2cpp_TypeInfo_var))->___textToSpeechConfiguration_0), (void*)L_3);
 	}
 
-IL_0017:
+IL_001c:
 	{
 		// return textToSpeechConfiguration;
-		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_3 = ((IRuntimeConfigurationExtensions_tA7A5CBDB955F60E5BEFCE054296F02C88E1A6CB2_StaticFields*)il2cpp_codegen_static_fields_for(IRuntimeConfigurationExtensions_tA7A5CBDB955F60E5BEFCE054296F02C88E1A6CB2_il2cpp_TypeInfo_var))->___textToSpeechConfiguration_0;
-		return L_3;
+		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_4 = ((IRuntimeConfigurationExtensions_tA7A5CBDB955F60E5BEFCE054296F02C88E1A6CB2_StaticFields*)il2cpp_codegen_static_fields_for(IRuntimeConfigurationExtensions_tA7A5CBDB955F60E5BEFCE054296F02C88E1A6CB2_il2cpp_TypeInfo_var))->___textToSpeechConfiguration_0;
+		V_1 = L_4;
+		goto IL_0024;
+	}
+
+IL_0024:
+	{
+		// }
+		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_5 = V_1;
+		return L_5;
 	}
 }
 // System.Void VRBuilder.TextToSpeech.IRuntimeConfigurationExtensions::SetTextToSpeechConfiguration(VRBuilder.Core.Configuration.IRuntimeConfiguration,VRBuilder.TextToSpeech.TextToSpeechConfiguration)
@@ -2234,37 +2238,55 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Task_1_t290EA9539222B740AC917B9AB459B4F252E53
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&AsyncTaskMethodBuilder_1_Start_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_mDFE79EB84AC4A6FE3B1BB4C64EF4B69B0619D968_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&AsyncTaskMethodBuilder_1_get_Task_m3BF23D7AB89EA03322E0DBC67214E4ABA61C6402_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
-	U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5 V_0;
-	memset((&V_0), 0, sizeof(V_0));
+	U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* V_0 = NULL;
 	{
+		U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* L_0 = (U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5*)il2cpp_codegen_object_new(U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_il2cpp_TypeInfo_var);
+		NullCheck(L_0);
+		U3CConvertTextToSpeechU3Ed__2__ctor_mADF27F99CC29877AEA4C53566E4049EF838643A6(L_0, NULL);
+		V_0 = L_0;
+		U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* L_1 = V_0;
 		il2cpp_codegen_runtime_class_init_inline(AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF_il2cpp_TypeInfo_var);
-		AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF L_0;
-		L_0 = AsyncTaskMethodBuilder_1_Create_mBF0353DFDA4F81FB5DFFF926FF206704D3AB18DF(AsyncTaskMethodBuilder_1_Create_mBF0353DFDA4F81FB5DFFF926FF206704D3AB18DF_RuntimeMethod_var);
-		(&V_0)->___U3CU3Et__builder_1 = L_0;
-		Il2CppCodeGenWriteBarrier((void**)&((&(((&(&V_0)->___U3CU3Et__builder_1))->___m_coreState_1))->___m_stateMachine_0), (void*)NULL);
+		AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF L_2;
+		L_2 = AsyncTaskMethodBuilder_1_Create_mBF0353DFDA4F81FB5DFFF926FF206704D3AB18DF(AsyncTaskMethodBuilder_1_Create_mBF0353DFDA4F81FB5DFFF926FF206704D3AB18DF_RuntimeMethod_var);
+		NullCheck(L_1);
+		L_1->___U3CU3Et__builder_1 = L_2;
+		Il2CppCodeGenWriteBarrier((void**)&((&(((&L_1->___U3CU3Et__builder_1))->___m_coreState_1))->___m_stateMachine_0), (void*)NULL);
 		#if IL2CPP_ENABLE_STRICT_WRITE_BARRIERS
-		Il2CppCodeGenWriteBarrier((void**)&((&(((&(&V_0)->___U3CU3Et__builder_1))->___m_coreState_1))->___m_defaultContextAction_1), (void*)NULL);
+		Il2CppCodeGenWriteBarrier((void**)&((&(((&L_1->___U3CU3Et__builder_1))->___m_coreState_1))->___m_defaultContextAction_1), (void*)NULL);
 		#endif
 		#if IL2CPP_ENABLE_STRICT_WRITE_BARRIERS
-		Il2CppCodeGenWriteBarrier((void**)&(((&(&V_0)->___U3CU3Et__builder_1))->___m_task_2), (void*)NULL);
+		Il2CppCodeGenWriteBarrier((void**)&(((&L_1->___U3CU3Et__builder_1))->___m_task_2), (void*)NULL);
 		#endif
-		(&V_0)->___U3CU3E4__this_2 = __this;
-		Il2CppCodeGenWriteBarrier((void**)(&(&V_0)->___U3CU3E4__this_2), (void*)__this);
-		String_t* L_1 = ___0_text;
-		(&V_0)->___text_3 = L_1;
-		Il2CppCodeGenWriteBarrier((void**)(&(&V_0)->___text_3), (void*)L_1);
-		Locale_t7BD9FB50247883E73B4CC92360943B0455CF02B9* L_2 = ___1_locale;
-		(&V_0)->___locale_4 = L_2;
-		Il2CppCodeGenWriteBarrier((void**)(&(&V_0)->___locale_4), (void*)L_2);
-		(&V_0)->___U3CU3E1__state_0 = (-1);
-		AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* L_3 = (&(&V_0)->___U3CU3Et__builder_1);
-		AsyncTaskMethodBuilder_1_Start_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_mDFE79EB84AC4A6FE3B1BB4C64EF4B69B0619D968(L_3, (&V_0), AsyncTaskMethodBuilder_1_Start_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_mDFE79EB84AC4A6FE3B1BB4C64EF4B69B0619D968_RuntimeMethod_var);
-		AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* L_4 = (&(&V_0)->___U3CU3Et__builder_1);
-		Task_1_t290EA9539222B740AC917B9AB459B4F252E537C1* L_5;
-		L_5 = AsyncTaskMethodBuilder_1_get_Task_m3BF23D7AB89EA03322E0DBC67214E4ABA61C6402(L_4, AsyncTaskMethodBuilder_1_get_Task_m3BF23D7AB89EA03322E0DBC67214E4ABA61C6402_RuntimeMethod_var);
-		return L_5;
+		U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* L_3 = V_0;
+		NullCheck(L_3);
+		L_3->___U3CU3E4__this_4 = __this;
+		Il2CppCodeGenWriteBarrier((void**)(&L_3->___U3CU3E4__this_4), (void*)__this);
+		U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* L_4 = V_0;
+		String_t* L_5 = ___0_text;
+		NullCheck(L_4);
+		L_4->___text_2 = L_5;
+		Il2CppCodeGenWriteBarrier((void**)(&L_4->___text_2), (void*)L_5);
+		U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* L_6 = V_0;
+		Locale_t7BD9FB50247883E73B4CC92360943B0455CF02B9* L_7 = ___1_locale;
+		NullCheck(L_6);
+		L_6->___locale_3 = L_7;
+		Il2CppCodeGenWriteBarrier((void**)(&L_6->___locale_3), (void*)L_7);
+		U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* L_8 = V_0;
+		NullCheck(L_8);
+		L_8->___U3CU3E1__state_0 = (-1);
+		U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* L_9 = V_0;
+		NullCheck(L_9);
+		AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* L_10 = (&L_9->___U3CU3Et__builder_1);
+		AsyncTaskMethodBuilder_1_Start_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_mDFE79EB84AC4A6FE3B1BB4C64EF4B69B0619D968(L_10, (&V_0), AsyncTaskMethodBuilder_1_Start_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_mDFE79EB84AC4A6FE3B1BB4C64EF4B69B0619D968_RuntimeMethod_var);
+		U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* L_11 = V_0;
+		NullCheck(L_11);
+		AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* L_12 = (&L_11->___U3CU3Et__builder_1);
+		Task_1_t290EA9539222B740AC917B9AB459B4F252E537C1* L_13;
+		L_13 = AsyncTaskMethodBuilder_1_get_Task_m3BF23D7AB89EA03322E0DBC67214E4ABA61C6402(L_12, AsyncTaskMethodBuilder_1_get_Task_m3BF23D7AB89EA03322E0DBC67214E4ABA61C6402_RuntimeMethod_var);
+		return L_13;
 	}
 }
 // System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider::SetConfig(VRBuilder.TextToSpeech.TextToSpeechConfiguration)
@@ -2288,6 +2310,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* FileTextToSpeechProvider_GetPathToF
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral86BBAACC00198DBB3046818AD3FC2AA10AE48DE1);
 		s_Il2CppMethodInitialized = true;
 	}
+	String_t* V_0 = NULL;
+	String_t* V_1 = NULL;
 	{
 		// string directory = $"{Configuration.StreamingAssetCacheDirectoryName}/{filename}";
 		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_0 = __this->___Configuration_0;
@@ -2296,8 +2320,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* FileTextToSpeechProvider_GetPathToF
 		String_t* L_2 = ___0_filename;
 		String_t* L_3;
 		L_3 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(L_1, _stringLiteral86BBAACC00198DBB3046818AD3FC2AA10AE48DE1, L_2, NULL);
+		V_0 = L_3;
 		// return directory;
-		return L_3;
+		String_t* L_4 = V_0;
+		V_1 = L_4;
+		goto IL_001c;
+	}
+
+IL_001c:
+	{
+		// }
+		String_t* L_5 = V_1;
+		return L_5;
 	}
 }
 // System.Threading.Tasks.Task`1<System.Byte[]> VRBuilder.TextToSpeech.FileTextToSpeechProvider::GetCachedFile(System.String)
@@ -2310,32 +2344,50 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Task_1_t46575E75F710D631831E756B5DE20429700F6
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&AsyncTaskMethodBuilder_1_Start_TisU3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_m6C9A9DF9DDF2032AC7386665B3C3DC8BBD8CDCB2_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&AsyncTaskMethodBuilder_1_get_Task_mBF376E337D4B5678E2CA85B41B527FA18E340B4A_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
-	U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93 V_0;
-	memset((&V_0), 0, sizeof(V_0));
+	U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* V_0 = NULL;
 	{
+		U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* L_0 = (U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93*)il2cpp_codegen_object_new(U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_il2cpp_TypeInfo_var);
+		NullCheck(L_0);
+		U3CGetCachedFileU3Ed__5__ctor_m67B0DA265E97E365073C55F934059D7335712215(L_0, NULL);
+		V_0 = L_0;
+		U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* L_1 = V_0;
 		il2cpp_codegen_runtime_class_init_inline(AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81_il2cpp_TypeInfo_var);
-		AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81 L_0;
-		L_0 = AsyncTaskMethodBuilder_1_Create_m012D63730B8B8AE5D0740D902A328F4E0DC91891(AsyncTaskMethodBuilder_1_Create_m012D63730B8B8AE5D0740D902A328F4E0DC91891_RuntimeMethod_var);
-		(&V_0)->___U3CU3Et__builder_1 = L_0;
-		Il2CppCodeGenWriteBarrier((void**)&((&(((&(&V_0)->___U3CU3Et__builder_1))->___m_coreState_1))->___m_stateMachine_0), (void*)NULL);
+		AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81 L_2;
+		L_2 = AsyncTaskMethodBuilder_1_Create_m012D63730B8B8AE5D0740D902A328F4E0DC91891(AsyncTaskMethodBuilder_1_Create_m012D63730B8B8AE5D0740D902A328F4E0DC91891_RuntimeMethod_var);
+		NullCheck(L_1);
+		L_1->___U3CU3Et__builder_1 = L_2;
+		Il2CppCodeGenWriteBarrier((void**)&((&(((&L_1->___U3CU3Et__builder_1))->___m_coreState_1))->___m_stateMachine_0), (void*)NULL);
 		#if IL2CPP_ENABLE_STRICT_WRITE_BARRIERS
-		Il2CppCodeGenWriteBarrier((void**)&((&(((&(&V_0)->___U3CU3Et__builder_1))->___m_coreState_1))->___m_defaultContextAction_1), (void*)NULL);
+		Il2CppCodeGenWriteBarrier((void**)&((&(((&L_1->___U3CU3Et__builder_1))->___m_coreState_1))->___m_defaultContextAction_1), (void*)NULL);
 		#endif
 		#if IL2CPP_ENABLE_STRICT_WRITE_BARRIERS
-		Il2CppCodeGenWriteBarrier((void**)&(((&(&V_0)->___U3CU3Et__builder_1))->___m_task_2), (void*)NULL);
+		Il2CppCodeGenWriteBarrier((void**)&(((&L_1->___U3CU3Et__builder_1))->___m_task_2), (void*)NULL);
 		#endif
-		String_t* L_1 = ___0_filePath;
-		(&V_0)->___filePath_2 = L_1;
-		Il2CppCodeGenWriteBarrier((void**)(&(&V_0)->___filePath_2), (void*)L_1);
-		(&V_0)->___U3CU3E1__state_0 = (-1);
-		AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81* L_2 = (&(&V_0)->___U3CU3Et__builder_1);
-		AsyncTaskMethodBuilder_1_Start_TisU3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_m6C9A9DF9DDF2032AC7386665B3C3DC8BBD8CDCB2(L_2, (&V_0), AsyncTaskMethodBuilder_1_Start_TisU3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_m6C9A9DF9DDF2032AC7386665B3C3DC8BBD8CDCB2_RuntimeMethod_var);
-		AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81* L_3 = (&(&V_0)->___U3CU3Et__builder_1);
-		Task_1_t46575E75F710D631831E756B5DE20429700F6B95* L_4;
-		L_4 = AsyncTaskMethodBuilder_1_get_Task_mBF376E337D4B5678E2CA85B41B527FA18E340B4A(L_3, AsyncTaskMethodBuilder_1_get_Task_mBF376E337D4B5678E2CA85B41B527FA18E340B4A_RuntimeMethod_var);
-		return L_4;
+		U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* L_3 = V_0;
+		NullCheck(L_3);
+		L_3->___U3CU3E4__this_3 = __this;
+		Il2CppCodeGenWriteBarrier((void**)(&L_3->___U3CU3E4__this_3), (void*)__this);
+		U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* L_4 = V_0;
+		String_t* L_5 = ___0_filePath;
+		NullCheck(L_4);
+		L_4->___filePath_2 = L_5;
+		Il2CppCodeGenWriteBarrier((void**)(&L_4->___filePath_2), (void*)L_5);
+		U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* L_6 = V_0;
+		NullCheck(L_6);
+		L_6->___U3CU3E1__state_0 = (-1);
+		U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* L_7 = V_0;
+		NullCheck(L_7);
+		AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81* L_8 = (&L_7->___U3CU3Et__builder_1);
+		AsyncTaskMethodBuilder_1_Start_TisU3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_m6C9A9DF9DDF2032AC7386665B3C3DC8BBD8CDCB2(L_8, (&V_0), AsyncTaskMethodBuilder_1_Start_TisU3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_m6C9A9DF9DDF2032AC7386665B3C3DC8BBD8CDCB2_RuntimeMethod_var);
+		U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* L_9 = V_0;
+		NullCheck(L_9);
+		AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81* L_10 = (&L_9->___U3CU3Et__builder_1);
+		Task_1_t46575E75F710D631831E756B5DE20429700F6B95* L_11;
+		L_11 = AsyncTaskMethodBuilder_1_get_Task_mBF376E337D4B5678E2CA85B41B527FA18E340B4A(L_10, AsyncTaskMethodBuilder_1_get_Task_mBF376E337D4B5678E2CA85B41B527FA18E340B4A_RuntimeMethod_var);
+		return L_11;
 	}
 }
 // System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.TextToSpeech.FileTextToSpeechProvider::IsFileCached(System.String)
@@ -2348,32 +2400,50 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Task_1_t824317F4B958F7512E8F7300511752937A6C6
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&AsyncTaskMethodBuilder_1_Start_TisU3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_mBC297EDCFD2F9EAD5E1CF14FF6CA00B1E172C062_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&AsyncTaskMethodBuilder_1_get_Task_m09169C120A259AF1F267F54C09A92B84D9832943_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
-	U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B V_0;
-	memset((&V_0), 0, sizeof(V_0));
+	U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* V_0 = NULL;
 	{
+		U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* L_0 = (U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B*)il2cpp_codegen_object_new(U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_il2cpp_TypeInfo_var);
+		NullCheck(L_0);
+		U3CIsFileCachedU3Ed__6__ctor_m64B585693F6BDBF73931F961F5C186E4648B59DF(L_0, NULL);
+		V_0 = L_0;
+		U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* L_1 = V_0;
 		il2cpp_codegen_runtime_class_init_inline(AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA_il2cpp_TypeInfo_var);
-		AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA L_0;
-		L_0 = AsyncTaskMethodBuilder_1_Create_mA86694527610A40A01A943B16F0ECDDD8F00982D(AsyncTaskMethodBuilder_1_Create_mA86694527610A40A01A943B16F0ECDDD8F00982D_RuntimeMethod_var);
-		(&V_0)->___U3CU3Et__builder_1 = L_0;
-		Il2CppCodeGenWriteBarrier((void**)&((&(((&(&V_0)->___U3CU3Et__builder_1))->___m_coreState_1))->___m_stateMachine_0), (void*)NULL);
+		AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA L_2;
+		L_2 = AsyncTaskMethodBuilder_1_Create_mA86694527610A40A01A943B16F0ECDDD8F00982D(AsyncTaskMethodBuilder_1_Create_mA86694527610A40A01A943B16F0ECDDD8F00982D_RuntimeMethod_var);
+		NullCheck(L_1);
+		L_1->___U3CU3Et__builder_1 = L_2;
+		Il2CppCodeGenWriteBarrier((void**)&((&(((&L_1->___U3CU3Et__builder_1))->___m_coreState_1))->___m_stateMachine_0), (void*)NULL);
 		#if IL2CPP_ENABLE_STRICT_WRITE_BARRIERS
-		Il2CppCodeGenWriteBarrier((void**)&((&(((&(&V_0)->___U3CU3Et__builder_1))->___m_coreState_1))->___m_defaultContextAction_1), (void*)NULL);
+		Il2CppCodeGenWriteBarrier((void**)&((&(((&L_1->___U3CU3Et__builder_1))->___m_coreState_1))->___m_defaultContextAction_1), (void*)NULL);
 		#endif
 		#if IL2CPP_ENABLE_STRICT_WRITE_BARRIERS
-		Il2CppCodeGenWriteBarrier((void**)&(((&(&V_0)->___U3CU3Et__builder_1))->___m_task_2), (void*)NULL);
+		Il2CppCodeGenWriteBarrier((void**)&(((&L_1->___U3CU3Et__builder_1))->___m_task_2), (void*)NULL);
 		#endif
-		String_t* L_1 = ___0_filePath;
-		(&V_0)->___filePath_2 = L_1;
-		Il2CppCodeGenWriteBarrier((void**)(&(&V_0)->___filePath_2), (void*)L_1);
-		(&V_0)->___U3CU3E1__state_0 = (-1);
-		AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* L_2 = (&(&V_0)->___U3CU3Et__builder_1);
-		AsyncTaskMethodBuilder_1_Start_TisU3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_mBC297EDCFD2F9EAD5E1CF14FF6CA00B1E172C062(L_2, (&V_0), AsyncTaskMethodBuilder_1_Start_TisU3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_mBC297EDCFD2F9EAD5E1CF14FF6CA00B1E172C062_RuntimeMethod_var);
-		AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* L_3 = (&(&V_0)->___U3CU3Et__builder_1);
-		Task_1_t824317F4B958F7512E8F7300511752937A6C6043* L_4;
-		L_4 = AsyncTaskMethodBuilder_1_get_Task_m09169C120A259AF1F267F54C09A92B84D9832943(L_3, AsyncTaskMethodBuilder_1_get_Task_m09169C120A259AF1F267F54C09A92B84D9832943_RuntimeMethod_var);
-		return L_4;
+		U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* L_3 = V_0;
+		NullCheck(L_3);
+		L_3->___U3CU3E4__this_3 = __this;
+		Il2CppCodeGenWriteBarrier((void**)(&L_3->___U3CU3E4__this_3), (void*)__this);
+		U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* L_4 = V_0;
+		String_t* L_5 = ___0_filePath;
+		NullCheck(L_4);
+		L_4->___filePath_2 = L_5;
+		Il2CppCodeGenWriteBarrier((void**)(&L_4->___filePath_2), (void*)L_5);
+		U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* L_6 = V_0;
+		NullCheck(L_6);
+		L_6->___U3CU3E1__state_0 = (-1);
+		U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* L_7 = V_0;
+		NullCheck(L_7);
+		AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* L_8 = (&L_7->___U3CU3Et__builder_1);
+		AsyncTaskMethodBuilder_1_Start_TisU3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_mBC297EDCFD2F9EAD5E1CF14FF6CA00B1E172C062(L_8, (&V_0), AsyncTaskMethodBuilder_1_Start_TisU3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_mBC297EDCFD2F9EAD5E1CF14FF6CA00B1E172C062_RuntimeMethod_var);
+		U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* L_9 = V_0;
+		NullCheck(L_9);
+		AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* L_10 = (&L_9->___U3CU3Et__builder_1);
+		Task_1_t824317F4B958F7512E8F7300511752937A6C6043* L_11;
+		L_11 = AsyncTaskMethodBuilder_1_get_Task_m09169C120A259AF1F267F54C09A92B84D9832943(L_10, AsyncTaskMethodBuilder_1_get_Task_m09169C120A259AF1F267F54C09A92B84D9832943_RuntimeMethod_var);
+		return L_11;
 	}
 }
 #ifdef __clang__
@@ -2429,6 +2499,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CouldNotLoadAudioFileException__ctor_mBF
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
+// System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CConvertTextToSpeechU3Ed__2__ctor_mADF27F99CC29877AEA4C53566E4049EF838643A6 (U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* __this, const RuntimeMethod* method) 
+{
+	{
+		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
+		return;
+	}
+}
 // System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::MoveNext()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CConvertTextToSpeechU3Ed__2_MoveNext_mE79561215D30F00751C35920ED514E47AD9C110F (U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* __this, const RuntimeMethod* method) 
 {
@@ -2458,266 +2536,314 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CConvertTextToSpeechU3Ed__2_MoveNext_m
 		s_Il2CppMethodInitialized = true;
 	}
 	int32_t V_0 = 0;
-	FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788* V_1 = NULL;
-	AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* V_2 = NULL;
-	String_t* V_3 = NULL;
-	AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* V_4 = NULL;
-	TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 V_5;
+	AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* V_1 = NULL;
+	bool V_2 = false;
+	TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 V_3;
+	memset((&V_3), 0, sizeof(V_3));
+	U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* V_4 = NULL;
+	TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 V_5;
 	memset((&V_5), 0, sizeof(V_5));
-	SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* V_6 = NULL;
-	TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 V_7;
-	memset((&V_7), 0, sizeof(V_7));
-	TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 V_8;
-	memset((&V_8), 0, sizeof(V_8));
-	Exception_t* V_9 = NULL;
+	TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 V_6;
+	memset((&V_6), 0, sizeof(V_6));
+	bool V_7 = false;
+	Exception_t* V_8 = NULL;
 	il2cpp::utils::ExceptionSupportStack<RuntimeObject*, 1> __active_exceptions;
 	{
 		int32_t L_0 = __this->___U3CU3E1__state_0;
 		V_0 = L_0;
-		FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788* L_1 = __this->___U3CU3E4__this_2;
-		V_1 = L_1;
 	}
 	try
 	{// begin try (depth: 1)
 		{
-			int32_t L_2 = V_0;
-			switch (L_2)
+			int32_t L_1 = V_0;
+			switch (L_1)
 			{
 				case 0:
 				{
-					goto IL_008d_1;
+					goto IL_001b_1;
 				}
 				case 1:
 				{
-					goto IL_00f6_1;
+					goto IL_0020_1;
 				}
 				case 2:
 				{
-					goto IL_019f_1;
+					goto IL_0025_1;
 				}
 			}
 		}
 		{
+			goto IL_002a_1;
+		}
+
+IL_001b_1:
+		{
+			goto IL_00b8_1;
+		}
+
+IL_0020_1:
+		{
+			goto IL_0139_1;
+		}
+
+IL_0025_1:
+		{
+			goto IL_022e_1;
+		}
+
+IL_002a_1:
+		{
 			// string filename = Configuration.GetUniqueTextToSpeechFilename(text, locale);
-			FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788* L_3 = V_1;
-			NullCheck(L_3);
-			TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_4 = L_3->___Configuration_0;
-			String_t* L_5 = __this->___text_3;
-			Locale_t7BD9FB50247883E73B4CC92360943B0455CF02B9* L_6 = __this->___locale_4;
-			String_t* L_7;
-			L_7 = TextToSpeechUtils_GetUniqueTextToSpeechFilename_m85B7B48280D09335A860C8BBF0FA71A108E824B8(L_4, L_5, L_6, _stringLiteralB7AD3BE74803C14B2CB5D2C17486D5F2138FDE60, NULL);
-			V_3 = L_7;
+			FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788* L_2 = __this->___U3CU3E4__this_4;
+			NullCheck(L_2);
+			TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_3 = L_2->___Configuration_0;
+			String_t* L_4 = __this->___text_2;
+			Locale_t7BD9FB50247883E73B4CC92360943B0455CF02B9* L_5 = __this->___locale_3;
+			String_t* L_6;
+			L_6 = TextToSpeechUtils_GetUniqueTextToSpeechFilename_m85B7B48280D09335A860C8BBF0FA71A108E824B8(L_3, L_4, L_5, _stringLiteralB7AD3BE74803C14B2CB5D2C17486D5F2138FDE60, NULL);
+			__this->___U3CfilenameU3E5__1_5 = L_6;
+			Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CfilenameU3E5__1_5), (void*)L_6);
 			// string filePath = GetPathToFile(filename);
-			FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788* L_8 = V_1;
-			String_t* L_9 = V_3;
-			NullCheck(L_8);
-			String_t* L_10;
-			L_10 = VirtualFuncInvoker1< String_t*, String_t* >::Invoke(6 /* System.String VRBuilder.TextToSpeech.FileTextToSpeechProvider::GetPathToFile(System.String) */, L_8, L_9);
-			__this->___U3CfilePathU3E5__2_5 = L_10;
-			Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CfilePathU3E5__2_5), (void*)L_10);
+			FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788* L_7 = __this->___U3CU3E4__this_4;
+			String_t* L_8 = __this->___U3CfilenameU3E5__1_5;
+			NullCheck(L_7);
+			String_t* L_9;
+			L_9 = VirtualFuncInvoker1< String_t*, String_t* >::Invoke(6 /* System.String VRBuilder.TextToSpeech.FileTextToSpeechProvider::GetPathToFile(System.String) */, L_7, L_8);
+			__this->___U3CfilePathU3E5__2_6 = L_9;
+			Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CfilePathU3E5__2_6), (void*)L_9);
 			// AudioClip audioClip = null;
-			V_4 = (AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20*)NULL;
+			__this->___U3CaudioClipU3E5__3_7 = (AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20*)NULL;
+			Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CaudioClipU3E5__3_7), (void*)(AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20*)NULL);
 			// if (await IsFileCached(filePath))
-			FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788* L_11 = V_1;
-			String_t* L_12 = __this->___U3CfilePathU3E5__2_5;
-			NullCheck(L_11);
-			Task_1_t824317F4B958F7512E8F7300511752937A6C6043* L_13;
-			L_13 = VirtualFuncInvoker1< Task_1_t824317F4B958F7512E8F7300511752937A6C6043*, String_t* >::Invoke(8 /* System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.TextToSpeech.FileTextToSpeechProvider::IsFileCached(System.String) */, L_11, L_12);
-			NullCheck(L_13);
-			TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 L_14;
-			L_14 = Task_1_GetAwaiter_m2245DA7A0F2185DD5617D63F1544165AE6101935(L_13, Task_1_GetAwaiter_m2245DA7A0F2185DD5617D63F1544165AE6101935_RuntimeMethod_var);
-			V_5 = L_14;
-			bool L_15;
-			L_15 = TaskAwaiter_1_get_IsCompleted_mCAA0D1EB5A6601DF81D5ED06BB0720D47C520DF9((&V_5), TaskAwaiter_1_get_IsCompleted_mCAA0D1EB5A6601DF81D5ED06BB0720D47C520DF9_RuntimeMethod_var);
-			if (L_15)
+			FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788* L_10 = __this->___U3CU3E4__this_4;
+			String_t* L_11 = __this->___U3CfilePathU3E5__2_6;
+			NullCheck(L_10);
+			Task_1_t824317F4B958F7512E8F7300511752937A6C6043* L_12;
+			L_12 = VirtualFuncInvoker1< Task_1_t824317F4B958F7512E8F7300511752937A6C6043*, String_t* >::Invoke(8 /* System.Threading.Tasks.Task`1<System.Boolean> VRBuilder.TextToSpeech.FileTextToSpeechProvider::IsFileCached(System.String) */, L_10, L_11);
+			NullCheck(L_12);
+			TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 L_13;
+			L_13 = Task_1_GetAwaiter_m2245DA7A0F2185DD5617D63F1544165AE6101935(L_12, Task_1_GetAwaiter_m2245DA7A0F2185DD5617D63F1544165AE6101935_RuntimeMethod_var);
+			V_3 = L_13;
+			bool L_14;
+			L_14 = TaskAwaiter_1_get_IsCompleted_mCAA0D1EB5A6601DF81D5ED06BB0720D47C520DF9((&V_3), TaskAwaiter_1_get_IsCompleted_mCAA0D1EB5A6601DF81D5ED06BB0720D47C520DF9_RuntimeMethod_var);
+			if (L_14)
 			{
-				goto IL_00aa_1;
+				goto IL_00d4_1;
 			}
 		}
 		{
-			int32_t L_16 = 0;
-			V_0 = L_16;
-			__this->___U3CU3E1__state_0 = L_16;
-			TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 L_17 = V_5;
-			__this->___U3CU3Eu__1_6 = L_17;
-			Il2CppCodeGenWriteBarrier((void**)&(((&__this->___U3CU3Eu__1_6))->___m_task_0), (void*)NULL);
-			AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* L_18 = (&__this->___U3CU3Et__builder_1);
-			AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m2683B0F239AED56D495AACF34A30687E7580F2E5(L_18, (&V_5), __this, AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m2683B0F239AED56D495AACF34A30687E7580F2E5_RuntimeMethod_var);
-			goto IL_022a;
+			int32_t L_15 = 0;
+			V_0 = L_15;
+			__this->___U3CU3E1__state_0 = L_15;
+			TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 L_16 = V_3;
+			__this->___U3CU3Eu__1_13 = L_16;
+			Il2CppCodeGenWriteBarrier((void**)&(((&__this->___U3CU3Eu__1_13))->___m_task_0), (void*)NULL);
+			V_4 = __this;
+			AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* L_17 = (&__this->___U3CU3Et__builder_1);
+			AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m2683B0F239AED56D495AACF34A30687E7580F2E5(L_17, (&V_3), (&V_4), AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m2683B0F239AED56D495AACF34A30687E7580F2E5_RuntimeMethod_var);
+			goto IL_02fc;
 		}
 
-IL_008d_1:
+IL_00b8_1:
 		{
-			TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 L_19 = __this->___U3CU3Eu__1_6;
-			V_5 = L_19;
-			TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35* L_20 = (&__this->___U3CU3Eu__1_6);
-			il2cpp_codegen_initobj(L_20, sizeof(TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35));
-			int32_t L_21 = (-1);
-			V_0 = L_21;
-			__this->___U3CU3E1__state_0 = L_21;
+			TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 L_18 = __this->___U3CU3Eu__1_13;
+			V_3 = L_18;
+			TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35* L_19 = (&__this->___U3CU3Eu__1_13);
+			il2cpp_codegen_initobj(L_19, sizeof(TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35));
+			int32_t L_20 = (-1);
+			V_0 = L_20;
+			__this->___U3CU3E1__state_0 = L_20;
 		}
 
-IL_00aa_1:
+IL_00d4_1:
 		{
-			bool L_22;
-			L_22 = TaskAwaiter_1_GetResult_mB0D209154690F6972CF22B23275167F6A404B08B((&V_5), TaskAwaiter_1_GetResult_mB0D209154690F6972CF22B23275167F6A404B08B_RuntimeMethod_var);
-			if (!L_22)
+			bool L_21;
+			L_21 = TaskAwaiter_1_GetResult_mB0D209154690F6972CF22B23275167F6A404B08B((&V_3), TaskAwaiter_1_GetResult_mB0D209154690F6972CF22B23275167F6A404B08B_RuntimeMethod_var);
+			__this->___U3CU3Es__4_8 = L_21;
+			bool L_22 = __this->___U3CU3Es__4_8;
+			V_2 = L_22;
+			bool L_23 = V_2;
+			if (!L_23)
 			{
-				goto IL_0146_1;
+				goto IL_01ce_1;
 			}
 		}
 		{
 			// byte[] bytes = await GetCachedFile(filePath);
-			FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788* L_23 = V_1;
-			String_t* L_24 = __this->___U3CfilePathU3E5__2_5;
-			NullCheck(L_23);
-			Task_1_t46575E75F710D631831E756B5DE20429700F6B95* L_25;
-			L_25 = VirtualFuncInvoker1< Task_1_t46575E75F710D631831E756B5DE20429700F6B95*, String_t* >::Invoke(7 /* System.Threading.Tasks.Task`1<System.Byte[]> VRBuilder.TextToSpeech.FileTextToSpeechProvider::GetCachedFile(System.String) */, L_23, L_24);
-			NullCheck(L_25);
-			TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 L_26;
-			L_26 = Task_1_GetAwaiter_m5ACC74BF4CDE3FBDF91F2F26DF141DD79DDEE5C0(L_25, Task_1_GetAwaiter_m5ACC74BF4CDE3FBDF91F2F26DF141DD79DDEE5C0_RuntimeMethod_var);
-			V_7 = L_26;
-			bool L_27;
-			L_27 = TaskAwaiter_1_get_IsCompleted_m896CDD4304D3FD8B44E321EB886905CA845848F2((&V_7), TaskAwaiter_1_get_IsCompleted_m896CDD4304D3FD8B44E321EB886905CA845848F2_RuntimeMethod_var);
-			if (L_27)
+			FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788* L_24 = __this->___U3CU3E4__this_4;
+			String_t* L_25 = __this->___U3CfilePathU3E5__2_6;
+			NullCheck(L_24);
+			Task_1_t46575E75F710D631831E756B5DE20429700F6B95* L_26;
+			L_26 = VirtualFuncInvoker1< Task_1_t46575E75F710D631831E756B5DE20429700F6B95*, String_t* >::Invoke(7 /* System.Threading.Tasks.Task`1<System.Byte[]> VRBuilder.TextToSpeech.FileTextToSpeechProvider::GetCachedFile(System.String) */, L_24, L_25);
+			NullCheck(L_26);
+			TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 L_27;
+			L_27 = Task_1_GetAwaiter_m5ACC74BF4CDE3FBDF91F2F26DF141DD79DDEE5C0(L_26, Task_1_GetAwaiter_m5ACC74BF4CDE3FBDF91F2F26DF141DD79DDEE5C0_RuntimeMethod_var);
+			V_5 = L_27;
+			bool L_28;
+			L_28 = TaskAwaiter_1_get_IsCompleted_m896CDD4304D3FD8B44E321EB886905CA845848F2((&V_5), TaskAwaiter_1_get_IsCompleted_m896CDD4304D3FD8B44E321EB886905CA845848F2_RuntimeMethod_var);
+			if (L_28)
 			{
-				goto IL_0113_1;
+				goto IL_0156_1;
 			}
 		}
 		{
-			int32_t L_28 = 1;
-			V_0 = L_28;
-			__this->___U3CU3E1__state_0 = L_28;
-			TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 L_29 = V_7;
-			__this->___U3CU3Eu__2_7 = L_29;
-			Il2CppCodeGenWriteBarrier((void**)&(((&__this->___U3CU3Eu__2_7))->___m_task_0), (void*)NULL);
-			AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* L_30 = (&__this->___U3CU3Et__builder_1);
-			AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m9676687D98DD58E02373FF0979DEF085933B9D0F(L_30, (&V_7), __this, AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m9676687D98DD58E02373FF0979DEF085933B9D0F_RuntimeMethod_var);
-			goto IL_022a;
+			int32_t L_29 = 1;
+			V_0 = L_29;
+			__this->___U3CU3E1__state_0 = L_29;
+			TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 L_30 = V_5;
+			__this->___U3CU3Eu__2_14 = L_30;
+			Il2CppCodeGenWriteBarrier((void**)&(((&__this->___U3CU3Eu__2_14))->___m_task_0), (void*)NULL);
+			V_4 = __this;
+			AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* L_31 = (&__this->___U3CU3Et__builder_1);
+			AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m9676687D98DD58E02373FF0979DEF085933B9D0F(L_31, (&V_5), (&V_4), AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m9676687D98DD58E02373FF0979DEF085933B9D0F_RuntimeMethod_var);
+			goto IL_02fc;
 		}
 
-IL_00f6_1:
+IL_0139_1:
 		{
-			TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 L_31 = __this->___U3CU3Eu__2_7;
-			V_7 = L_31;
-			TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808* L_32 = (&__this->___U3CU3Eu__2_7);
-			il2cpp_codegen_initobj(L_32, sizeof(TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808));
-			int32_t L_33 = (-1);
-			V_0 = L_33;
-			__this->___U3CU3E1__state_0 = L_33;
+			TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 L_32 = __this->___U3CU3Eu__2_14;
+			V_5 = L_32;
+			TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808* L_33 = (&__this->___U3CU3Eu__2_14);
+			il2cpp_codegen_initobj(L_33, sizeof(TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808));
+			int32_t L_34 = (-1);
+			V_0 = L_34;
+			__this->___U3CU3E1__state_0 = L_34;
 		}
 
-IL_0113_1:
+IL_0156_1:
 		{
-			ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_34;
-			L_34 = TaskAwaiter_1_GetResult_m46820317903FD726C7B5337DD3861F0AB0DDD6B0((&V_7), TaskAwaiter_1_GetResult_m46820317903FD726C7B5337DD3861F0AB0DDD6B0_RuntimeMethod_var);
+			ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_35;
+			L_35 = TaskAwaiter_1_GetResult_m46820317903FD726C7B5337DD3861F0AB0DDD6B0((&V_5), TaskAwaiter_1_GetResult_m46820317903FD726C7B5337DD3861F0AB0DDD6B0_RuntimeMethod_var);
+			__this->___U3CU3Es__7_11 = L_35;
+			Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3Es__7_11), (void*)L_35);
+			ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_36 = __this->___U3CU3Es__7_11;
+			__this->___U3CbytesU3E5__5_9 = L_36;
+			Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CbytesU3E5__5_9), (void*)L_36);
+			__this->___U3CU3Es__7_11 = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)NULL;
+			Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3Es__7_11), (void*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)NULL);
 			// float[] sound = TextToSpeechUtils.ShortsInByteArrayToFloats(bytes);
-			SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* L_35;
-			L_35 = TextToSpeechUtils_ShortsInByteArrayToFloats_mA1A6DA924880F06508B29DE357EC3428D6A47A0D(L_34, NULL);
-			V_6 = L_35;
+			ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_37 = __this->___U3CbytesU3E5__5_9;
+			SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* L_38;
+			L_38 = TextToSpeechUtils_ShortsInByteArrayToFloats_mA1A6DA924880F06508B29DE357EC3428D6A47A0D(L_37, NULL);
+			__this->___U3CsoundU3E5__6_10 = L_38;
+			Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CsoundU3E5__6_10), (void*)L_38);
 			// audioClip = AudioClip.Create(text, channels: 1, frequency: 48000, lengthSamples: sound.Length, stream: false);
-			String_t* L_36 = __this->___text_3;
-			SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* L_37 = V_6;
-			NullCheck(L_37);
-			AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* L_38;
-			L_38 = AudioClip_Create_mE8111F06981E42666B6A9A59D0A3EBE002D2CDFB(L_36, ((int32_t)(((RuntimeArray*)L_37)->max_length)), 1, ((int32_t)48000), (bool)0, NULL);
-			V_4 = L_38;
+			String_t* L_39 = __this->___text_2;
+			SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* L_40 = __this->___U3CsoundU3E5__6_10;
+			NullCheck(L_40);
+			AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* L_41;
+			L_41 = AudioClip_Create_mE8111F06981E42666B6A9A59D0A3EBE002D2CDFB(L_39, ((int32_t)(((RuntimeArray*)L_40)->max_length)), 1, ((int32_t)48000), (bool)0, NULL);
+			__this->___U3CaudioClipU3E5__3_7 = L_41;
+			Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CaudioClipU3E5__3_7), (void*)L_41);
 			// audioClip.SetData(sound, 0);
-			AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* L_39 = V_4;
-			SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* L_40 = V_6;
-			NullCheck(L_39);
-			bool L_41;
-			L_41 = AudioClip_SetData_m7B473C614C11953D746770F4F89B44600B5A6AF3(L_39, L_40, 0, NULL);
-			goto IL_01c5_1;
+			AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* L_42 = __this->___U3CaudioClipU3E5__3_7;
+			SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* L_43 = __this->___U3CsoundU3E5__6_10;
+			NullCheck(L_42);
+			bool L_44;
+			L_44 = AudioClip_SetData_m7B473C614C11953D746770F4F89B44600B5A6AF3(L_42, L_43, 0, NULL);
+			__this->___U3CbytesU3E5__5_9 = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)NULL;
+			Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CbytesU3E5__5_9), (void*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)NULL);
+			__this->___U3CsoundU3E5__6_10 = (SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C*)NULL;
+			Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CsoundU3E5__6_10), (void*)(SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C*)NULL);
+			goto IL_026c_1;
 		}
 
-IL_0146_1:
+IL_01ce_1:
 		{
 			// Debug.Log($"No audio cached for TTS string. Audio will be generated in real time.");
 			il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 			Debug_Log_m87A9A3C761FF5C43ED8A53B16190A53D08F818BB(_stringLiteral1F9D975D25AB70D25DFF2A39E08CCF6D5CCA3241, NULL);
 			// audioClip = await TextToSpeechProviderFactory.Instance.CreateProvider().ConvertTextToSpeech(text, locale);
 			il2cpp_codegen_runtime_class_init_inline(Singleton_1_t280A0EEC0ACADAE3E305AEFB3F247ED72DDF2315_il2cpp_TypeInfo_var);
-			TextToSpeechProviderFactory_tEC7E017208D7F8B3BA5979232DFDE02996A68361* L_42;
-			L_42 = Singleton_1_get_Instance_m76F1A8237FA83FEFE2EA60823CEB54D42861D841_inline(Singleton_1_get_Instance_m76F1A8237FA83FEFE2EA60823CEB54D42861D841_RuntimeMethod_var);
-			NullCheck(L_42);
-			RuntimeObject* L_43;
-			L_43 = TextToSpeechProviderFactory_CreateProvider_m8BD567EDD395F4898AE33DE54076FBCB300493B2(L_42, NULL);
-			String_t* L_44 = __this->___text_3;
-			Locale_t7BD9FB50247883E73B4CC92360943B0455CF02B9* L_45 = __this->___locale_4;
-			NullCheck(L_43);
-			Task_1_t290EA9539222B740AC917B9AB459B4F252E537C1* L_46;
-			L_46 = InterfaceFuncInvoker2< Task_1_t290EA9539222B740AC917B9AB459B4F252E537C1*, String_t*, Locale_t7BD9FB50247883E73B4CC92360943B0455CF02B9* >::Invoke(1 /* System.Threading.Tasks.Task`1<UnityEngine.AudioClip> VRBuilder.TextToSpeech.ITextToSpeechProvider::ConvertTextToSpeech(System.String,UnityEngine.Localization.Locale) */, ITextToSpeechProvider_t21ECCBBEF7A9B3113C39D71919E273890D2FF967_il2cpp_TypeInfo_var, L_43, L_44, L_45);
+			TextToSpeechProviderFactory_tEC7E017208D7F8B3BA5979232DFDE02996A68361* L_45;
+			L_45 = Singleton_1_get_Instance_m76F1A8237FA83FEFE2EA60823CEB54D42861D841(Singleton_1_get_Instance_m76F1A8237FA83FEFE2EA60823CEB54D42861D841_RuntimeMethod_var);
+			NullCheck(L_45);
+			RuntimeObject* L_46;
+			L_46 = TextToSpeechProviderFactory_CreateProvider_m8BD567EDD395F4898AE33DE54076FBCB300493B2(L_45, NULL);
+			String_t* L_47 = __this->___text_2;
+			Locale_t7BD9FB50247883E73B4CC92360943B0455CF02B9* L_48 = __this->___locale_3;
 			NullCheck(L_46);
-			TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 L_47;
-			L_47 = Task_1_GetAwaiter_m8F761484522DA81252985511926635872EA964B1(L_46, Task_1_GetAwaiter_m8F761484522DA81252985511926635872EA964B1_RuntimeMethod_var);
-			V_8 = L_47;
-			bool L_48;
-			L_48 = TaskAwaiter_1_get_IsCompleted_mF67B1777A0C12E6EEA458AA4210768AAB390F19E((&V_8), TaskAwaiter_1_get_IsCompleted_mF67B1777A0C12E6EEA458AA4210768AAB390F19E_RuntimeMethod_var);
-			if (L_48)
+			Task_1_t290EA9539222B740AC917B9AB459B4F252E537C1* L_49;
+			L_49 = InterfaceFuncInvoker2< Task_1_t290EA9539222B740AC917B9AB459B4F252E537C1*, String_t*, Locale_t7BD9FB50247883E73B4CC92360943B0455CF02B9* >::Invoke(1 /* System.Threading.Tasks.Task`1<UnityEngine.AudioClip> VRBuilder.TextToSpeech.ITextToSpeechProvider::ConvertTextToSpeech(System.String,UnityEngine.Localization.Locale) */, ITextToSpeechProvider_t21ECCBBEF7A9B3113C39D71919E273890D2FF967_il2cpp_TypeInfo_var, L_46, L_47, L_48);
+			NullCheck(L_49);
+			TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 L_50;
+			L_50 = Task_1_GetAwaiter_m8F761484522DA81252985511926635872EA964B1(L_49, Task_1_GetAwaiter_m8F761484522DA81252985511926635872EA964B1_RuntimeMethod_var);
+			V_6 = L_50;
+			bool L_51;
+			L_51 = TaskAwaiter_1_get_IsCompleted_mF67B1777A0C12E6EEA458AA4210768AAB390F19E((&V_6), TaskAwaiter_1_get_IsCompleted_mF67B1777A0C12E6EEA458AA4210768AAB390F19E_RuntimeMethod_var);
+			if (L_51)
 			{
-				goto IL_01bc_1;
+				goto IL_024b_1;
 			}
 		}
 		{
-			int32_t L_49 = 2;
-			V_0 = L_49;
-			__this->___U3CU3E1__state_0 = L_49;
-			TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 L_50 = V_8;
-			__this->___U3CU3Eu__3_8 = L_50;
-			Il2CppCodeGenWriteBarrier((void**)&(((&__this->___U3CU3Eu__3_8))->___m_task_0), (void*)NULL);
-			AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* L_51 = (&__this->___U3CU3Et__builder_1);
-			AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m792EBDC0995FB1C8EE85CE7D614F08D953230F79(L_51, (&V_8), __this, AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m792EBDC0995FB1C8EE85CE7D614F08D953230F79_RuntimeMethod_var);
-			goto IL_022a;
+			int32_t L_52 = 2;
+			V_0 = L_52;
+			__this->___U3CU3E1__state_0 = L_52;
+			TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 L_53 = V_6;
+			__this->___U3CU3Eu__3_15 = L_53;
+			Il2CppCodeGenWriteBarrier((void**)&(((&__this->___U3CU3Eu__3_15))->___m_task_0), (void*)NULL);
+			V_4 = __this;
+			AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* L_54 = (&__this->___U3CU3Et__builder_1);
+			AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m792EBDC0995FB1C8EE85CE7D614F08D953230F79(L_54, (&V_6), (&V_4), AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6_TisU3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5_m792EBDC0995FB1C8EE85CE7D614F08D953230F79_RuntimeMethod_var);
+			goto IL_02fc;
 		}
 
-IL_019f_1:
+IL_022e_1:
 		{
-			TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 L_52 = __this->___U3CU3Eu__3_8;
-			V_8 = L_52;
-			TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6* L_53 = (&__this->___U3CU3Eu__3_8);
-			il2cpp_codegen_initobj(L_53, sizeof(TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6));
-			int32_t L_54 = (-1);
-			V_0 = L_54;
-			__this->___U3CU3E1__state_0 = L_54;
+			TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 L_55 = __this->___U3CU3Eu__3_15;
+			V_6 = L_55;
+			TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6* L_56 = (&__this->___U3CU3Eu__3_15);
+			il2cpp_codegen_initobj(L_56, sizeof(TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6));
+			int32_t L_57 = (-1);
+			V_0 = L_57;
+			__this->___U3CU3E1__state_0 = L_57;
 		}
 
-IL_01bc_1:
+IL_024b_1:
 		{
-			AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* L_55;
-			L_55 = TaskAwaiter_1_GetResult_m5BC400000238AF0EF79816BFD737A06B49F25F95((&V_8), TaskAwaiter_1_GetResult_m5BC400000238AF0EF79816BFD737A06B49F25F95_RuntimeMethod_var);
-			V_4 = L_55;
+			AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* L_58;
+			L_58 = TaskAwaiter_1_GetResult_m5BC400000238AF0EF79816BFD737A06B49F25F95((&V_6), TaskAwaiter_1_GetResult_m5BC400000238AF0EF79816BFD737A06B49F25F95_RuntimeMethod_var);
+			__this->___U3CU3Es__8_12 = L_58;
+			Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3Es__8_12), (void*)L_58);
+			AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* L_59 = __this->___U3CU3Es__8_12;
+			__this->___U3CaudioClipU3E5__3_7 = L_59;
+			Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CaudioClipU3E5__3_7), (void*)L_59);
+			__this->___U3CU3Es__8_12 = (AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20*)NULL;
+			Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3Es__8_12), (void*)(AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20*)NULL);
 		}
 
-IL_01c5_1:
+IL_026c_1:
 		{
 			// if (audioClip == null)
-			AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* L_56 = V_4;
+			AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* L_60 = __this->___U3CaudioClipU3E5__3_7;
 			il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
-			bool L_57;
-			L_57 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_56, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-			if (!L_57)
+			bool L_61;
+			L_61 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_60, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+			V_7 = L_61;
+			bool L_62 = V_7;
+			if (!L_62)
 			{
-				goto IL_01ea_1;
+				goto IL_029a_1;
 			}
 		}
 		{
 			// throw new CouldNotLoadAudioFileException($"AudioClip is null for text '{text}'");
-			String_t* L_58 = __this->___text_3;
-			String_t* L_59;
-			L_59 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteralEE9018F0DF2E543853969473C43BFEC053250E7E)), L_58, ((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteral42646B33B50B6AA15E22733C8900716F0FE19E1D)), NULL);
-			CouldNotLoadAudioFileException_t38D8BE37A0E5DC53B9B9DE38A6BB47C2A50F6E35* L_60 = (CouldNotLoadAudioFileException_t38D8BE37A0E5DC53B9B9DE38A6BB47C2A50F6E35*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&CouldNotLoadAudioFileException_t38D8BE37A0E5DC53B9B9DE38A6BB47C2A50F6E35_il2cpp_TypeInfo_var)));
-			NullCheck(L_60);
-			CouldNotLoadAudioFileException__ctor_mADFAA8702A10F5F48997F819DEDB5FAA3DC99525(L_60, L_59, NULL);
-			IL2CPP_RAISE_MANAGED_EXCEPTION(L_60, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CConvertTextToSpeechU3Ed__2_MoveNext_mE79561215D30F00751C35920ED514E47AD9C110F_RuntimeMethod_var)));
+			String_t* L_63 = __this->___text_2;
+			String_t* L_64;
+			L_64 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteralEE9018F0DF2E543853969473C43BFEC053250E7E)), L_63, ((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteral42646B33B50B6AA15E22733C8900716F0FE19E1D)), NULL);
+			CouldNotLoadAudioFileException_t38D8BE37A0E5DC53B9B9DE38A6BB47C2A50F6E35* L_65 = (CouldNotLoadAudioFileException_t38D8BE37A0E5DC53B9B9DE38A6BB47C2A50F6E35*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&CouldNotLoadAudioFileException_t38D8BE37A0E5DC53B9B9DE38A6BB47C2A50F6E35_il2cpp_TypeInfo_var)));
+			NullCheck(L_65);
+			CouldNotLoadAudioFileException__ctor_mADFAA8702A10F5F48997F819DEDB5FAA3DC99525(L_65, L_64, NULL);
+			IL2CPP_RAISE_MANAGED_EXCEPTION(L_65, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&U3CConvertTextToSpeechU3Ed__2_MoveNext_mE79561215D30F00751C35920ED514E47AD9C110F_RuntimeMethod_var)));
 		}
 
-IL_01ea_1:
+IL_029a_1:
 		{
 			// return audioClip;
-			AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* L_61 = V_4;
-			V_2 = L_61;
-			goto IL_020f;
+			AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* L_66 = __this->___U3CaudioClipU3E5__3_7;
+			V_1 = L_66;
+			goto IL_02d2;
 		}
 	}// end try (depth: 1)
 	catch(Il2CppExceptionWrapper& e)
@@ -2725,69 +2851,54 @@ IL_01ea_1:
 		if(il2cpp_codegen_class_is_assignable_from (((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&Exception_t_il2cpp_TypeInfo_var)), il2cpp_codegen_object_class(e.ex)))
 		{
 			IL2CPP_PUSH_ACTIVE_EXCEPTION(e.ex);
-			goto CATCH_01ef;
+			goto CATCH_02a3;
 		}
 		throw e;
 	}
 
-CATCH_01ef:
+CATCH_02a3:
 	{// begin catch(System.Exception)
-		V_9 = ((Exception_t*)IL2CPP_GET_ACTIVE_EXCEPTION(Exception_t*));
+		V_8 = ((Exception_t*)IL2CPP_GET_ACTIVE_EXCEPTION(Exception_t*));
 		__this->___U3CU3E1__state_0 = ((int32_t)-2);
-		__this->___U3CfilePathU3E5__2_5 = (String_t*)NULL;
-		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CfilePathU3E5__2_5), (void*)(String_t*)NULL);
-		AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* L_62 = (&__this->___U3CU3Et__builder_1);
-		Exception_t* L_63 = V_9;
-		AsyncTaskMethodBuilder_1_SetException_m2FE876EDDC2E4F3A0CDA14E2360E2C806BF5E2B6(L_62, L_63, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&AsyncTaskMethodBuilder_1_SetException_m2FE876EDDC2E4F3A0CDA14E2360E2C806BF5E2B6_RuntimeMethod_var)));
+		__this->___U3CfilenameU3E5__1_5 = (String_t*)NULL;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CfilenameU3E5__1_5), (void*)(String_t*)NULL);
+		__this->___U3CfilePathU3E5__2_6 = (String_t*)NULL;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CfilePathU3E5__2_6), (void*)(String_t*)NULL);
+		__this->___U3CaudioClipU3E5__3_7 = (AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20*)NULL;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CaudioClipU3E5__3_7), (void*)(AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20*)NULL);
+		AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* L_67 = (&__this->___U3CU3Et__builder_1);
+		Exception_t* L_68 = V_8;
+		AsyncTaskMethodBuilder_1_SetException_m2FE876EDDC2E4F3A0CDA14E2360E2C806BF5E2B6(L_67, L_68, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&AsyncTaskMethodBuilder_1_SetException_m2FE876EDDC2E4F3A0CDA14E2360E2C806BF5E2B6_RuntimeMethod_var)));
 		IL2CPP_POP_ACTIVE_EXCEPTION();
-		goto IL_022a;
+		goto IL_02fc;
 	}// end catch (depth: 1)
 
-IL_020f:
+IL_02d2:
 	{
 		// }
 		__this->___U3CU3E1__state_0 = ((int32_t)-2);
-		__this->___U3CfilePathU3E5__2_5 = (String_t*)NULL;
-		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CfilePathU3E5__2_5), (void*)(String_t*)NULL);
-		AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* L_64 = (&__this->___U3CU3Et__builder_1);
-		AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* L_65 = V_2;
-		AsyncTaskMethodBuilder_1_SetResult_mF62BDDDE4117AA164F8FDDA8C7E9E9FE3FDD79D3(L_64, L_65, AsyncTaskMethodBuilder_1_SetResult_mF62BDDDE4117AA164F8FDDA8C7E9E9FE3FDD79D3_RuntimeMethod_var);
+		__this->___U3CfilenameU3E5__1_5 = (String_t*)NULL;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CfilenameU3E5__1_5), (void*)(String_t*)NULL);
+		__this->___U3CfilePathU3E5__2_6 = (String_t*)NULL;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CfilePathU3E5__2_6), (void*)(String_t*)NULL);
+		__this->___U3CaudioClipU3E5__3_7 = (AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20*)NULL;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CaudioClipU3E5__3_7), (void*)(AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20*)NULL);
+		AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* L_69 = (&__this->___U3CU3Et__builder_1);
+		AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* L_70 = V_1;
+		AsyncTaskMethodBuilder_1_SetResult_mF62BDDDE4117AA164F8FDDA8C7E9E9FE3FDD79D3(L_69, L_70, AsyncTaskMethodBuilder_1_SetResult_mF62BDDDE4117AA164F8FDDA8C7E9E9FE3FDD79D3_RuntimeMethod_var);
 	}
 
-IL_022a:
+IL_02fc:
 	{
 		return;
 	}
-}
-IL2CPP_EXTERN_C  void U3CConvertTextToSpeechU3Ed__2_MoveNext_mE79561215D30F00751C35920ED514E47AD9C110F_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
-{
-	U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* _thisAdjusted;
-	int32_t _offset = 1;
-	_thisAdjusted = reinterpret_cast<U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5*>(__this + _offset);
-	U3CConvertTextToSpeechU3Ed__2_MoveNext_mE79561215D30F00751C35920ED514E47AD9C110F(_thisAdjusted, method);
 }
 // System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider/<ConvertTextToSpeech>d__2::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CConvertTextToSpeechU3Ed__2_SetStateMachine_m464819641D2EA5F3CBA8464F1CB98E6F75872781 (U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* __this, RuntimeObject* ___0_stateMachine, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&AsyncTaskMethodBuilder_1_SetStateMachine_m8889CD98833041D0F942AF4FFA070793D6A75B15_RuntimeMethod_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		AsyncTaskMethodBuilder_1_t2C4D7E1C76681879D1D1737BCD4B020BC81E81DF* L_0 = (&__this->___U3CU3Et__builder_1);
-		RuntimeObject* L_1 = ___0_stateMachine;
-		AsyncTaskMethodBuilder_1_SetStateMachine_m8889CD98833041D0F942AF4FFA070793D6A75B15(L_0, L_1, AsyncTaskMethodBuilder_1_SetStateMachine_m8889CD98833041D0F942AF4FFA070793D6A75B15_RuntimeMethod_var);
 		return;
 	}
-}
-IL2CPP_EXTERN_C  void U3CConvertTextToSpeechU3Ed__2_SetStateMachine_m464819641D2EA5F3CBA8464F1CB98E6F75872781_AdjustorThunk (RuntimeObject* __this, RuntimeObject* ___0_stateMachine, const RuntimeMethod* method)
-{
-	U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5* _thisAdjusted;
-	int32_t _offset = 1;
-	_thisAdjusted = reinterpret_cast<U3CConvertTextToSpeechU3Ed__2_t0C98F42333D3D75897A9122A29D6F9AC426780A5*>(__this + _offset);
-	U3CConvertTextToSpeechU3Ed__2_SetStateMachine_m464819641D2EA5F3CBA8464F1CB98E6F75872781(_thisAdjusted, ___0_stateMachine, method);
 }
 #ifdef __clang__
 #pragma clang diagnostic pop
@@ -2797,6 +2908,14 @@ IL2CPP_EXTERN_C  void U3CConvertTextToSpeechU3Ed__2_SetStateMachine_m464819641D2
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
+// System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider/<GetCachedFile>d__5::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CGetCachedFileU3Ed__5__ctor_m67B0DA265E97E365073C55F934059D7335712215 (U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* __this, const RuntimeMethod* method) 
+{
+	{
+		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
+		return;
+	}
+}
 // System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider/<GetCachedFile>d__5::MoveNext()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CGetCachedFileU3Ed__5_MoveNext_m7531D0CF78AE7D77F4F458C521D24B78386A9B29 (U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* __this, const RuntimeMethod* method) 
 {
@@ -2813,9 +2932,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CGetCachedFileU3Ed__5_MoveNext_m7531D0
 	}
 	int32_t V_0 = 0;
 	ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* V_1 = NULL;
-	TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 V_2;
-	memset((&V_2), 0, sizeof(V_2));
-	Exception_t* V_3 = NULL;
+	bool V_2 = false;
+	TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 V_3;
+	memset((&V_3), 0, sizeof(V_3));
+	U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* V_4 = NULL;
+	Exception_t* V_5 = NULL;
 	il2cpp::utils::ExceptionSupportStack<RuntimeObject*, 1> __active_exceptions;
 	{
 		int32_t L_0 = __this->___U3CU3E1__state_0;
@@ -2827,78 +2948,94 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CGetCachedFileU3Ed__5_MoveNext_m7531D0
 			int32_t L_1 = V_0;
 			if (!L_1)
 			{
-				goto IL_004b_1;
+				goto IL_000c_1;
 			}
 		}
+		{
+			goto IL_000e_1;
+		}
+
+IL_000c_1:
+		{
+			goto IL_0058_1;
+		}
+
+IL_000e_1:
 		{
 			// if (Application.isPlaying)
 			bool L_2;
 			L_2 = Application_get_isPlaying_m25B0ABDFEF54F5370CD3F263A813540843D00F34(NULL);
-			if (!L_2)
+			V_2 = L_2;
+			bool L_3 = V_2;
+			if (!L_3)
 			{
-				goto IL_0071_1;
+				goto IL_008a_1;
 			}
 		}
 		{
 			// return await FileManager.Read(filePath);
-			String_t* L_3 = __this->___filePath_2;
-			Task_1_t46575E75F710D631831E756B5DE20429700F6B95* L_4;
-			L_4 = FileManager_Read_mBD428D42D4F59B5B24F136E661FC2D0DABFEAFE4(L_3, NULL);
-			NullCheck(L_4);
-			TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 L_5;
-			L_5 = Task_1_GetAwaiter_m5ACC74BF4CDE3FBDF91F2F26DF141DD79DDEE5C0(L_4, Task_1_GetAwaiter_m5ACC74BF4CDE3FBDF91F2F26DF141DD79DDEE5C0_RuntimeMethod_var);
-			V_2 = L_5;
-			bool L_6;
-			L_6 = TaskAwaiter_1_get_IsCompleted_m896CDD4304D3FD8B44E321EB886905CA845848F2((&V_2), TaskAwaiter_1_get_IsCompleted_m896CDD4304D3FD8B44E321EB886905CA845848F2_RuntimeMethod_var);
-			if (L_6)
+			String_t* L_4 = __this->___filePath_2;
+			Task_1_t46575E75F710D631831E756B5DE20429700F6B95* L_5;
+			L_5 = FileManager_Read_mBD428D42D4F59B5B24F136E661FC2D0DABFEAFE4(L_4, NULL);
+			NullCheck(L_5);
+			TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 L_6;
+			L_6 = Task_1_GetAwaiter_m5ACC74BF4CDE3FBDF91F2F26DF141DD79DDEE5C0(L_5, Task_1_GetAwaiter_m5ACC74BF4CDE3FBDF91F2F26DF141DD79DDEE5C0_RuntimeMethod_var);
+			V_3 = L_6;
+			bool L_7;
+			L_7 = TaskAwaiter_1_get_IsCompleted_m896CDD4304D3FD8B44E321EB886905CA845848F2((&V_3), TaskAwaiter_1_get_IsCompleted_m896CDD4304D3FD8B44E321EB886905CA845848F2_RuntimeMethod_var);
+			if (L_7)
 			{
-				goto IL_0067_1;
+				goto IL_0074_1;
 			}
 		}
 		{
-			int32_t L_7 = 0;
-			V_0 = L_7;
-			__this->___U3CU3E1__state_0 = L_7;
-			TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 L_8 = V_2;
-			__this->___U3CU3Eu__1_3 = L_8;
-			Il2CppCodeGenWriteBarrier((void**)&(((&__this->___U3CU3Eu__1_3))->___m_task_0), (void*)NULL);
-			AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81* L_9 = (&__this->___U3CU3Et__builder_1);
-			AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808_TisU3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_mB94BC91A2207DCBD0B3B2A7ACF9E1E3A13712492(L_9, (&V_2), __this, AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808_TisU3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_mB94BC91A2207DCBD0B3B2A7ACF9E1E3A13712492_RuntimeMethod_var);
-			goto IL_00b4;
+			int32_t L_8 = 0;
+			V_0 = L_8;
+			__this->___U3CU3E1__state_0 = L_8;
+			TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 L_9 = V_3;
+			__this->___U3CU3Eu__1_5 = L_9;
+			Il2CppCodeGenWriteBarrier((void**)&(((&__this->___U3CU3Eu__1_5))->___m_task_0), (void*)NULL);
+			V_4 = __this;
+			AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81* L_10 = (&__this->___U3CU3Et__builder_1);
+			AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808_TisU3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_mB94BC91A2207DCBD0B3B2A7ACF9E1E3A13712492(L_10, (&V_3), (&V_4), AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808_TisU3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93_mB94BC91A2207DCBD0B3B2A7ACF9E1E3A13712492_RuntimeMethod_var);
+			goto IL_00d2;
 		}
 
-IL_004b_1:
+IL_0058_1:
 		{
-			TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 L_10 = __this->___U3CU3Eu__1_3;
-			V_2 = L_10;
-			TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808* L_11 = (&__this->___U3CU3Eu__1_3);
-			il2cpp_codegen_initobj(L_11, sizeof(TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808));
-			int32_t L_12 = (-1);
-			V_0 = L_12;
-			__this->___U3CU3E1__state_0 = L_12;
+			TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808 L_11 = __this->___U3CU3Eu__1_5;
+			V_3 = L_11;
+			TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808* L_12 = (&__this->___U3CU3Eu__1_5);
+			il2cpp_codegen_initobj(L_12, sizeof(TaskAwaiter_1_t7E7C3F965F4ECF1DD3680288653A559E29B40808));
+			int32_t L_13 = (-1);
+			V_0 = L_13;
+			__this->___U3CU3E1__state_0 = L_13;
 		}
 
-IL_0067_1:
+IL_0074_1:
 		{
-			ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_13;
-			L_13 = TaskAwaiter_1_GetResult_m46820317903FD726C7B5337DD3861F0AB0DDD6B0((&V_2), TaskAwaiter_1_GetResult_m46820317903FD726C7B5337DD3861F0AB0DDD6B0_RuntimeMethod_var);
-			V_1 = L_13;
-			goto IL_00a0;
+			ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_14;
+			L_14 = TaskAwaiter_1_GetResult_m46820317903FD726C7B5337DD3861F0AB0DDD6B0((&V_3), TaskAwaiter_1_GetResult_m46820317903FD726C7B5337DD3861F0AB0DDD6B0_RuntimeMethod_var);
+			__this->___U3CU3Es__1_4 = L_14;
+			Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3Es__1_4), (void*)L_14);
+			ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_15 = __this->___U3CU3Es__1_4;
+			V_1 = L_15;
+			goto IL_00bd;
 		}
 
-IL_0071_1:
+IL_008a_1:
 		{
 			// return File.ReadAllBytes(Path.Combine(Application.streamingAssetsPath, filePath));
-			String_t* L_14;
-			L_14 = Application_get_streamingAssetsPath_mB904BCD9A7A4F18A52C175DE4A81F5DC3010CDB5(NULL);
-			String_t* L_15 = __this->___filePath_2;
-			il2cpp_codegen_runtime_class_init_inline(Path_t8A38A801D0219E8209C1B1D90D82D4D755D998BC_il2cpp_TypeInfo_var);
 			String_t* L_16;
-			L_16 = Path_Combine_m1ADAC05CDA2D1D61B172DF65A81E86592696BEAE(L_14, L_15, NULL);
-			ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_17;
-			L_17 = File_ReadAllBytes_m704CBBA3F130C94F5A3E0BE2A93D9E9D79DC3E24(L_16, NULL);
-			V_1 = L_17;
-			goto IL_00a0;
+			L_16 = Application_get_streamingAssetsPath_mB904BCD9A7A4F18A52C175DE4A81F5DC3010CDB5(NULL);
+			String_t* L_17 = __this->___filePath_2;
+			il2cpp_codegen_runtime_class_init_inline(Path_t8A38A801D0219E8209C1B1D90D82D4D755D998BC_il2cpp_TypeInfo_var);
+			String_t* L_18;
+			L_18 = Path_Combine_m1ADAC05CDA2D1D61B172DF65A81E86592696BEAE(L_16, L_17, NULL);
+			ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_19;
+			L_19 = File_ReadAllBytes_m704CBBA3F130C94F5A3E0BE2A93D9E9D79DC3E24(L_18, NULL);
+			V_1 = L_19;
+			goto IL_00bd;
 		}
 	}// end try (depth: 1)
 	catch(Il2CppExceptionWrapper& e)
@@ -2906,65 +3043,42 @@ IL_0071_1:
 		if(il2cpp_codegen_class_is_assignable_from (((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&Exception_t_il2cpp_TypeInfo_var)), il2cpp_codegen_object_class(e.ex)))
 		{
 			IL2CPP_PUSH_ACTIVE_EXCEPTION(e.ex);
-			goto CATCH_0089;
+			goto CATCH_00a3;
 		}
 		throw e;
 	}
 
-CATCH_0089:
+CATCH_00a3:
 	{// begin catch(System.Exception)
-		V_3 = ((Exception_t*)IL2CPP_GET_ACTIVE_EXCEPTION(Exception_t*));
+		V_5 = ((Exception_t*)IL2CPP_GET_ACTIVE_EXCEPTION(Exception_t*));
 		__this->___U3CU3E1__state_0 = ((int32_t)-2);
-		AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81* L_18 = (&__this->___U3CU3Et__builder_1);
-		Exception_t* L_19 = V_3;
-		AsyncTaskMethodBuilder_1_SetException_mF567C6A1FEA33A1EF9F395C24D9CD4095E2B70A6(L_18, L_19, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&AsyncTaskMethodBuilder_1_SetException_mF567C6A1FEA33A1EF9F395C24D9CD4095E2B70A6_RuntimeMethod_var)));
+		AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81* L_20 = (&__this->___U3CU3Et__builder_1);
+		Exception_t* L_21 = V_5;
+		AsyncTaskMethodBuilder_1_SetException_mF567C6A1FEA33A1EF9F395C24D9CD4095E2B70A6(L_20, L_21, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&AsyncTaskMethodBuilder_1_SetException_mF567C6A1FEA33A1EF9F395C24D9CD4095E2B70A6_RuntimeMethod_var)));
 		IL2CPP_POP_ACTIVE_EXCEPTION();
-		goto IL_00b4;
+		goto IL_00d2;
 	}// end catch (depth: 1)
 
-IL_00a0:
+IL_00bd:
 	{
 		// }
 		__this->___U3CU3E1__state_0 = ((int32_t)-2);
-		AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81* L_20 = (&__this->___U3CU3Et__builder_1);
-		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_21 = V_1;
-		AsyncTaskMethodBuilder_1_SetResult_mA33666F8F9751DDF31F6C4C22C991E9F4BDA52B0(L_20, L_21, AsyncTaskMethodBuilder_1_SetResult_mA33666F8F9751DDF31F6C4C22C991E9F4BDA52B0_RuntimeMethod_var);
+		AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81* L_22 = (&__this->___U3CU3Et__builder_1);
+		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_23 = V_1;
+		AsyncTaskMethodBuilder_1_SetResult_mA33666F8F9751DDF31F6C4C22C991E9F4BDA52B0(L_22, L_23, AsyncTaskMethodBuilder_1_SetResult_mA33666F8F9751DDF31F6C4C22C991E9F4BDA52B0_RuntimeMethod_var);
 	}
 
-IL_00b4:
+IL_00d2:
 	{
 		return;
 	}
-}
-IL2CPP_EXTERN_C  void U3CGetCachedFileU3Ed__5_MoveNext_m7531D0CF78AE7D77F4F458C521D24B78386A9B29_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
-{
-	U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* _thisAdjusted;
-	int32_t _offset = 1;
-	_thisAdjusted = reinterpret_cast<U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93*>(__this + _offset);
-	U3CGetCachedFileU3Ed__5_MoveNext_m7531D0CF78AE7D77F4F458C521D24B78386A9B29(_thisAdjusted, method);
 }
 // System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider/<GetCachedFile>d__5::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CGetCachedFileU3Ed__5_SetStateMachine_m2FD59B630099452CECB7DCF037463062DA17F6B8 (U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* __this, RuntimeObject* ___0_stateMachine, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&AsyncTaskMethodBuilder_1_SetStateMachine_mAD061BEAE640C56538A74B398FCF9195BCED98E4_RuntimeMethod_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		AsyncTaskMethodBuilder_1_tF4B144BF5EE52E8AC70FFD31FC2684642AC52B81* L_0 = (&__this->___U3CU3Et__builder_1);
-		RuntimeObject* L_1 = ___0_stateMachine;
-		AsyncTaskMethodBuilder_1_SetStateMachine_mAD061BEAE640C56538A74B398FCF9195BCED98E4(L_0, L_1, AsyncTaskMethodBuilder_1_SetStateMachine_mAD061BEAE640C56538A74B398FCF9195BCED98E4_RuntimeMethod_var);
 		return;
 	}
-}
-IL2CPP_EXTERN_C  void U3CGetCachedFileU3Ed__5_SetStateMachine_m2FD59B630099452CECB7DCF037463062DA17F6B8_AdjustorThunk (RuntimeObject* __this, RuntimeObject* ___0_stateMachine, const RuntimeMethod* method)
-{
-	U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93* _thisAdjusted;
-	int32_t _offset = 1;
-	_thisAdjusted = reinterpret_cast<U3CGetCachedFileU3Ed__5_t6F65D4BF5D18308C4325637A201AB8CEB2E65E93*>(__this + _offset);
-	U3CGetCachedFileU3Ed__5_SetStateMachine_m2FD59B630099452CECB7DCF037463062DA17F6B8(_thisAdjusted, ___0_stateMachine, method);
 }
 #ifdef __clang__
 #pragma clang diagnostic pop
@@ -2974,6 +3088,14 @@ IL2CPP_EXTERN_C  void U3CGetCachedFileU3Ed__5_SetStateMachine_m2FD59B630099452CE
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
+// System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider/<IsFileCached>d__6::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CIsFileCachedU3Ed__6__ctor_m64B585693F6BDBF73931F961F5C186E4648B59DF (U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* __this, const RuntimeMethod* method) 
+{
+	{
+		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
+		return;
+	}
+}
 // System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider/<IsFileCached>d__6::MoveNext()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CIsFileCachedU3Ed__6_MoveNext_m7B4D64C97E9EA7157B6E98FE77DD0282D0AA7CB1 (U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* __this, const RuntimeMethod* method) 
 {
@@ -2990,9 +3112,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CIsFileCachedU3Ed__6_MoveNext_m7B4D64C
 	}
 	int32_t V_0 = 0;
 	bool V_1 = false;
-	TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 V_2;
-	memset((&V_2), 0, sizeof(V_2));
-	Exception_t* V_3 = NULL;
+	bool V_2 = false;
+	TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 V_3;
+	memset((&V_3), 0, sizeof(V_3));
+	U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* V_4 = NULL;
+	Exception_t* V_5 = NULL;
 	il2cpp::utils::ExceptionSupportStack<RuntimeObject*, 1> __active_exceptions;
 	{
 		int32_t L_0 = __this->___U3CU3E1__state_0;
@@ -3004,78 +3128,93 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CIsFileCachedU3Ed__6_MoveNext_m7B4D64C
 			int32_t L_1 = V_0;
 			if (!L_1)
 			{
-				goto IL_004b_1;
+				goto IL_000c_1;
 			}
 		}
+		{
+			goto IL_000e_1;
+		}
+
+IL_000c_1:
+		{
+			goto IL_0058_1;
+		}
+
+IL_000e_1:
 		{
 			// if(Application.isPlaying)
 			bool L_2;
 			L_2 = Application_get_isPlaying_m25B0ABDFEF54F5370CD3F263A813540843D00F34(NULL);
-			if (!L_2)
+			V_2 = L_2;
+			bool L_3 = V_2;
+			if (!L_3)
 			{
-				goto IL_0071_1;
+				goto IL_008a_1;
 			}
 		}
 		{
 			// return await FileManager.Exists(filePath);
-			String_t* L_3 = __this->___filePath_2;
-			Task_1_t824317F4B958F7512E8F7300511752937A6C6043* L_4;
-			L_4 = FileManager_Exists_mDB38A5A7D420462E082A4F6883A437E97CA873D7(L_3, NULL);
-			NullCheck(L_4);
-			TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 L_5;
-			L_5 = Task_1_GetAwaiter_m2245DA7A0F2185DD5617D63F1544165AE6101935(L_4, Task_1_GetAwaiter_m2245DA7A0F2185DD5617D63F1544165AE6101935_RuntimeMethod_var);
-			V_2 = L_5;
-			bool L_6;
-			L_6 = TaskAwaiter_1_get_IsCompleted_mCAA0D1EB5A6601DF81D5ED06BB0720D47C520DF9((&V_2), TaskAwaiter_1_get_IsCompleted_mCAA0D1EB5A6601DF81D5ED06BB0720D47C520DF9_RuntimeMethod_var);
-			if (L_6)
+			String_t* L_4 = __this->___filePath_2;
+			Task_1_t824317F4B958F7512E8F7300511752937A6C6043* L_5;
+			L_5 = FileManager_Exists_mDB38A5A7D420462E082A4F6883A437E97CA873D7(L_4, NULL);
+			NullCheck(L_5);
+			TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 L_6;
+			L_6 = Task_1_GetAwaiter_m2245DA7A0F2185DD5617D63F1544165AE6101935(L_5, Task_1_GetAwaiter_m2245DA7A0F2185DD5617D63F1544165AE6101935_RuntimeMethod_var);
+			V_3 = L_6;
+			bool L_7;
+			L_7 = TaskAwaiter_1_get_IsCompleted_mCAA0D1EB5A6601DF81D5ED06BB0720D47C520DF9((&V_3), TaskAwaiter_1_get_IsCompleted_mCAA0D1EB5A6601DF81D5ED06BB0720D47C520DF9_RuntimeMethod_var);
+			if (L_7)
 			{
-				goto IL_0067_1;
+				goto IL_0074_1;
 			}
 		}
 		{
-			int32_t L_7 = 0;
-			V_0 = L_7;
-			__this->___U3CU3E1__state_0 = L_7;
-			TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 L_8 = V_2;
-			__this->___U3CU3Eu__1_3 = L_8;
-			Il2CppCodeGenWriteBarrier((void**)&(((&__this->___U3CU3Eu__1_3))->___m_task_0), (void*)NULL);
-			AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* L_9 = (&__this->___U3CU3Et__builder_1);
-			AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisU3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_m6F73BA14D5CB80D4D5ACD5369B8BE4A39EE67BCA(L_9, (&V_2), __this, AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisU3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_m6F73BA14D5CB80D4D5ACD5369B8BE4A39EE67BCA_RuntimeMethod_var);
-			goto IL_00b4;
+			int32_t L_8 = 0;
+			V_0 = L_8;
+			__this->___U3CU3E1__state_0 = L_8;
+			TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 L_9 = V_3;
+			__this->___U3CU3Eu__1_5 = L_9;
+			Il2CppCodeGenWriteBarrier((void**)&(((&__this->___U3CU3Eu__1_5))->___m_task_0), (void*)NULL);
+			V_4 = __this;
+			AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* L_10 = (&__this->___U3CU3Et__builder_1);
+			AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisU3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_m6F73BA14D5CB80D4D5ACD5369B8BE4A39EE67BCA(L_10, (&V_3), (&V_4), AsyncTaskMethodBuilder_1_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35_TisU3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B_m6F73BA14D5CB80D4D5ACD5369B8BE4A39EE67BCA_RuntimeMethod_var);
+			goto IL_00d2;
 		}
 
-IL_004b_1:
+IL_0058_1:
 		{
-			TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 L_10 = __this->___U3CU3Eu__1_3;
-			V_2 = L_10;
-			TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35* L_11 = (&__this->___U3CU3Eu__1_3);
-			il2cpp_codegen_initobj(L_11, sizeof(TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35));
-			int32_t L_12 = (-1);
-			V_0 = L_12;
-			__this->___U3CU3E1__state_0 = L_12;
+			TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35 L_11 = __this->___U3CU3Eu__1_5;
+			V_3 = L_11;
+			TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35* L_12 = (&__this->___U3CU3Eu__1_5);
+			il2cpp_codegen_initobj(L_12, sizeof(TaskAwaiter_1_t1F3F1A2BD44A71ED705D6586CA2594868672DE35));
+			int32_t L_13 = (-1);
+			V_0 = L_13;
+			__this->___U3CU3E1__state_0 = L_13;
 		}
 
-IL_0067_1:
+IL_0074_1:
 		{
-			bool L_13;
-			L_13 = TaskAwaiter_1_GetResult_mB0D209154690F6972CF22B23275167F6A404B08B((&V_2), TaskAwaiter_1_GetResult_mB0D209154690F6972CF22B23275167F6A404B08B_RuntimeMethod_var);
-			V_1 = L_13;
-			goto IL_00a0;
+			bool L_14;
+			L_14 = TaskAwaiter_1_GetResult_mB0D209154690F6972CF22B23275167F6A404B08B((&V_3), TaskAwaiter_1_GetResult_mB0D209154690F6972CF22B23275167F6A404B08B_RuntimeMethod_var);
+			__this->___U3CU3Es__1_4 = L_14;
+			bool L_15 = __this->___U3CU3Es__1_4;
+			V_1 = L_15;
+			goto IL_00bd;
 		}
 
-IL_0071_1:
+IL_008a_1:
 		{
 			// return File.Exists(Path.Combine(Application.streamingAssetsPath, filePath));
-			String_t* L_14;
-			L_14 = Application_get_streamingAssetsPath_mB904BCD9A7A4F18A52C175DE4A81F5DC3010CDB5(NULL);
-			String_t* L_15 = __this->___filePath_2;
-			il2cpp_codegen_runtime_class_init_inline(Path_t8A38A801D0219E8209C1B1D90D82D4D755D998BC_il2cpp_TypeInfo_var);
 			String_t* L_16;
-			L_16 = Path_Combine_m1ADAC05CDA2D1D61B172DF65A81E86592696BEAE(L_14, L_15, NULL);
-			bool L_17;
-			L_17 = File_Exists_m95E329ABBE3EAD6750FE1989BBA6884457136D4A(L_16, NULL);
-			V_1 = L_17;
-			goto IL_00a0;
+			L_16 = Application_get_streamingAssetsPath_mB904BCD9A7A4F18A52C175DE4A81F5DC3010CDB5(NULL);
+			String_t* L_17 = __this->___filePath_2;
+			il2cpp_codegen_runtime_class_init_inline(Path_t8A38A801D0219E8209C1B1D90D82D4D755D998BC_il2cpp_TypeInfo_var);
+			String_t* L_18;
+			L_18 = Path_Combine_m1ADAC05CDA2D1D61B172DF65A81E86592696BEAE(L_16, L_17, NULL);
+			bool L_19;
+			L_19 = File_Exists_m95E329ABBE3EAD6750FE1989BBA6884457136D4A(L_18, NULL);
+			V_1 = L_19;
+			goto IL_00bd;
 		}
 	}// end try (depth: 1)
 	catch(Il2CppExceptionWrapper& e)
@@ -3083,65 +3222,42 @@ IL_0071_1:
 		if(il2cpp_codegen_class_is_assignable_from (((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&Exception_t_il2cpp_TypeInfo_var)), il2cpp_codegen_object_class(e.ex)))
 		{
 			IL2CPP_PUSH_ACTIVE_EXCEPTION(e.ex);
-			goto CATCH_0089;
+			goto CATCH_00a3;
 		}
 		throw e;
 	}
 
-CATCH_0089:
+CATCH_00a3:
 	{// begin catch(System.Exception)
-		V_3 = ((Exception_t*)IL2CPP_GET_ACTIVE_EXCEPTION(Exception_t*));
+		V_5 = ((Exception_t*)IL2CPP_GET_ACTIVE_EXCEPTION(Exception_t*));
 		__this->___U3CU3E1__state_0 = ((int32_t)-2);
-		AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* L_18 = (&__this->___U3CU3Et__builder_1);
-		Exception_t* L_19 = V_3;
-		AsyncTaskMethodBuilder_1_SetException_mB8F5D5EF18A12CBFF3C7D54CE6382DBB1640C0FD(L_18, L_19, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&AsyncTaskMethodBuilder_1_SetException_mB8F5D5EF18A12CBFF3C7D54CE6382DBB1640C0FD_RuntimeMethod_var)));
+		AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* L_20 = (&__this->___U3CU3Et__builder_1);
+		Exception_t* L_21 = V_5;
+		AsyncTaskMethodBuilder_1_SetException_mB8F5D5EF18A12CBFF3C7D54CE6382DBB1640C0FD(L_20, L_21, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&AsyncTaskMethodBuilder_1_SetException_mB8F5D5EF18A12CBFF3C7D54CE6382DBB1640C0FD_RuntimeMethod_var)));
 		IL2CPP_POP_ACTIVE_EXCEPTION();
-		goto IL_00b4;
+		goto IL_00d2;
 	}// end catch (depth: 1)
 
-IL_00a0:
+IL_00bd:
 	{
 		// }
 		__this->___U3CU3E1__state_0 = ((int32_t)-2);
-		AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* L_20 = (&__this->___U3CU3Et__builder_1);
-		bool L_21 = V_1;
-		AsyncTaskMethodBuilder_1_SetResult_mF21C48FC9CEC24F4E9C5975C54F87BE9CA179046(L_20, L_21, AsyncTaskMethodBuilder_1_SetResult_mF21C48FC9CEC24F4E9C5975C54F87BE9CA179046_RuntimeMethod_var);
+		AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* L_22 = (&__this->___U3CU3Et__builder_1);
+		bool L_23 = V_1;
+		AsyncTaskMethodBuilder_1_SetResult_mF21C48FC9CEC24F4E9C5975C54F87BE9CA179046(L_22, L_23, AsyncTaskMethodBuilder_1_SetResult_mF21C48FC9CEC24F4E9C5975C54F87BE9CA179046_RuntimeMethod_var);
 	}
 
-IL_00b4:
+IL_00d2:
 	{
 		return;
 	}
-}
-IL2CPP_EXTERN_C  void U3CIsFileCachedU3Ed__6_MoveNext_m7B4D64C97E9EA7157B6E98FE77DD0282D0AA7CB1_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
-{
-	U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* _thisAdjusted;
-	int32_t _offset = 1;
-	_thisAdjusted = reinterpret_cast<U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B*>(__this + _offset);
-	U3CIsFileCachedU3Ed__6_MoveNext_m7B4D64C97E9EA7157B6E98FE77DD0282D0AA7CB1(_thisAdjusted, method);
 }
 // System.Void VRBuilder.TextToSpeech.FileTextToSpeechProvider/<IsFileCached>d__6::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CIsFileCachedU3Ed__6_SetStateMachine_mA90BBF758BB2B54FDFD412171B41ECDC59105BD6 (U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* __this, RuntimeObject* ___0_stateMachine, const RuntimeMethod* method) 
 {
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&AsyncTaskMethodBuilder_1_SetStateMachine_m9D382E265E211762EDB525CF74EBB7FA21DDDCE8_RuntimeMethod_var);
-		s_Il2CppMethodInitialized = true;
-	}
-	{
-		AsyncTaskMethodBuilder_1_t651E7BA5C7209C40335555F361280911CF711AAA* L_0 = (&__this->___U3CU3Et__builder_1);
-		RuntimeObject* L_1 = ___0_stateMachine;
-		AsyncTaskMethodBuilder_1_SetStateMachine_m9D382E265E211762EDB525CF74EBB7FA21DDDCE8(L_0, L_1, AsyncTaskMethodBuilder_1_SetStateMachine_m9D382E265E211762EDB525CF74EBB7FA21DDDCE8_RuntimeMethod_var);
 		return;
 	}
-}
-IL2CPP_EXTERN_C  void U3CIsFileCachedU3Ed__6_SetStateMachine_mA90BBF758BB2B54FDFD412171B41ECDC59105BD6_AdjustorThunk (RuntimeObject* __this, RuntimeObject* ___0_stateMachine, const RuntimeMethod* method)
-{
-	U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B* _thisAdjusted;
-	int32_t _offset = 1;
-	_thisAdjusted = reinterpret_cast<U3CIsFileCachedU3Ed__6_t90A05D577D21FB522DC45ECBBBF68F89166B382B*>(__this + _offset);
-	U3CIsFileCachedU3Ed__6_SetStateMachine_mA90BBF758BB2B54FDFD412171B41ECDC59105BD6(_thisAdjusted, ___0_stateMachine, method);
 }
 #ifdef __clang__
 #pragma clang diagnostic pop
@@ -3161,30 +3277,42 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR TextToSpeechConfiguration_tD1606382CF70703192
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&RuntimeConfigurationExtensions_tD774A40236605AF922E674C4B618D8DA0E6DD325_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
+	bool V_0 = false;
+	TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* V_1 = NULL;
 	{
 		// if (textToSpeechConfiguration == null)
 		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_0 = ((RuntimeConfigurationExtensions_tD774A40236605AF922E674C4B618D8DA0E6DD325_StaticFields*)il2cpp_codegen_static_fields_for(RuntimeConfigurationExtensions_tD774A40236605AF922E674C4B618D8DA0E6DD325_il2cpp_TypeInfo_var))->___textToSpeechConfiguration_0;
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
 		L_1 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_0, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		if (!L_1)
+		V_0 = L_1;
+		bool L_2 = V_0;
+		if (!L_2)
 		{
-			goto IL_0017;
+			goto IL_001c;
 		}
 	}
 	{
 		// textToSpeechConfiguration = TextToSpeechConfiguration.LoadConfiguration();
-		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_2;
-		L_2 = TextToSpeechConfiguration_LoadConfiguration_m3DBAAB33AEC1E8E127BCE3A8D6A8EC368E60B7CD(NULL);
-		((RuntimeConfigurationExtensions_tD774A40236605AF922E674C4B618D8DA0E6DD325_StaticFields*)il2cpp_codegen_static_fields_for(RuntimeConfigurationExtensions_tD774A40236605AF922E674C4B618D8DA0E6DD325_il2cpp_TypeInfo_var))->___textToSpeechConfiguration_0 = L_2;
-		Il2CppCodeGenWriteBarrier((void**)(&((RuntimeConfigurationExtensions_tD774A40236605AF922E674C4B618D8DA0E6DD325_StaticFields*)il2cpp_codegen_static_fields_for(RuntimeConfigurationExtensions_tD774A40236605AF922E674C4B618D8DA0E6DD325_il2cpp_TypeInfo_var))->___textToSpeechConfiguration_0), (void*)L_2);
+		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_3;
+		L_3 = TextToSpeechConfiguration_LoadConfiguration_m3DBAAB33AEC1E8E127BCE3A8D6A8EC368E60B7CD(NULL);
+		((RuntimeConfigurationExtensions_tD774A40236605AF922E674C4B618D8DA0E6DD325_StaticFields*)il2cpp_codegen_static_fields_for(RuntimeConfigurationExtensions_tD774A40236605AF922E674C4B618D8DA0E6DD325_il2cpp_TypeInfo_var))->___textToSpeechConfiguration_0 = L_3;
+		Il2CppCodeGenWriteBarrier((void**)(&((RuntimeConfigurationExtensions_tD774A40236605AF922E674C4B618D8DA0E6DD325_StaticFields*)il2cpp_codegen_static_fields_for(RuntimeConfigurationExtensions_tD774A40236605AF922E674C4B618D8DA0E6DD325_il2cpp_TypeInfo_var))->___textToSpeechConfiguration_0), (void*)L_3);
 	}
 
-IL_0017:
+IL_001c:
 	{
 		// return textToSpeechConfiguration;
-		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_3 = ((RuntimeConfigurationExtensions_tD774A40236605AF922E674C4B618D8DA0E6DD325_StaticFields*)il2cpp_codegen_static_fields_for(RuntimeConfigurationExtensions_tD774A40236605AF922E674C4B618D8DA0E6DD325_il2cpp_TypeInfo_var))->___textToSpeechConfiguration_0;
-		return L_3;
+		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_4 = ((RuntimeConfigurationExtensions_tD774A40236605AF922E674C4B618D8DA0E6DD325_StaticFields*)il2cpp_codegen_static_fields_for(RuntimeConfigurationExtensions_tD774A40236605AF922E674C4B618D8DA0E6DD325_il2cpp_TypeInfo_var))->___textToSpeechConfiguration_0;
+		V_1 = L_4;
+		goto IL_0024;
+	}
+
+IL_0024:
+	{
+		// }
+		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_5 = V_1;
+		return L_5;
 	}
 }
 // System.Void VRBuilder.TextToSpeech.RuntimeConfigurationExtensions::SetTextToSpeechConfiguration(VRBuilder.Core.Configuration.BaseRuntimeConfiguration,VRBuilder.TextToSpeech.TextToSpeechConfiguration)
@@ -3257,6 +3385,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR TextToSpeechConfiguration_tD1606382CF70703192
 		s_Il2CppMethodInitialized = true;
 	}
 	TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* V_0 = NULL;
+	TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* V_1 = NULL;
+	TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* G_B3_0 = NULL;
 	{
 		// TextToSpeechConfiguration configuration = Resources.Load<TextToSpeechConfiguration>(nameof(TextToSpeechConfiguration));
 		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_0;
@@ -3269,19 +3399,33 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR TextToSpeechConfiguration_tD1606382CF70703192
 		L_2 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_1, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
 		if (L_2)
 		{
-			goto IL_001a;
+			goto IL_001c;
 		}
 	}
 	{
 		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_3;
 		L_3 = TextToSpeechConfiguration_CreateNewConfiguration_mFED4BED18F21F80456401DDED5F9812DC7551475(NULL);
-		return L_3;
+		G_B3_0 = L_3;
+		goto IL_001d;
 	}
 
-IL_001a:
+IL_001c:
 	{
 		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_4 = V_0;
-		return L_4;
+		G_B3_0 = L_4;
+	}
+
+IL_001d:
+	{
+		V_1 = G_B3_0;
+		goto IL_0020;
+	}
+
+IL_0020:
+	{
+		// }
+		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_5 = V_1;
+		return L_5;
 	}
 }
 // VRBuilder.TextToSpeech.TextToSpeechConfiguration VRBuilder.TextToSpeech.TextToSpeechConfiguration::CreateNewConfiguration()
@@ -3294,6 +3438,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR TextToSpeechConfiguration_tD1606382CF70703192
 		s_Il2CppMethodInitialized = true;
 	}
 	TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* V_0 = NULL;
+	TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* V_1 = NULL;
 	{
 		// TextToSpeechConfiguration textToSpeechConfiguration = CreateInstance<TextToSpeechConfiguration>();
 		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_0;
@@ -3306,7 +3451,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR TextToSpeechConfiguration_tD1606382CF70703192
 		RuntimeConfigurationExtensions_SetTextToSpeechConfiguration_mF243F901AE1039B429A8891B41696F3730176974(L_1, L_2, NULL);
 		// return textToSpeechConfiguration;
 		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_3 = V_0;
-		return L_3;
+		V_1 = L_3;
+		goto IL_0017;
+	}
+
+IL_0017:
+	{
+		// }
+		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_4 = V_1;
+		return L_4;
 	}
 }
 #ifdef __clang__
@@ -3335,7 +3488,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextToSpeechProviderFactory__ctor_mD2BA3
 		s_Il2CppMethodInitialized = true;
 	}
 	RuntimeObject* V_0 = NULL;
-	Type_t* V_1 = NULL;
+	RuntimeObject* V_1 = NULL;
+	Type_t* V_2 = NULL;
 	{
 		// private readonly Dictionary<string, ITextToSpeechCreator> registeredProvider = new Dictionary<string, ITextToSpeechCreator>();
 		Dictionary_2_t207C1A9F488C00E09528538826414BBA0834B83C* L_0 = (Dictionary_2_t207C1A9F488C00E09528538826414BBA0834B83C*)il2cpp_codegen_object_new(Dictionary_2_t207C1A9F488C00E09528538826414BBA0834B83C_il2cpp_TypeInfo_var);
@@ -3349,32 +3503,34 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextToSpeechProviderFactory__ctor_mD2BA3
 		// IEnumerable<Type> providers = ReflectionUtils.GetConcreteImplementationsOf<ITextToSpeechProvider>();
 		RuntimeObject* L_1;
 		L_1 = ReflectionUtils_GetConcreteImplementationsOf_TisITextToSpeechProvider_t21ECCBBEF7A9B3113C39D71919E273890D2FF967_mC557E281CAB87F05A0A182584FE9C4C157638B5A(ReflectionUtils_GetConcreteImplementationsOf_TisITextToSpeechProvider_t21ECCBBEF7A9B3113C39D71919E273890D2FF967_mC557E281CAB87F05A0A182584FE9C4C157638B5A_RuntimeMethod_var);
+		V_0 = L_1;
 		// foreach(Type provider in providers)
-		NullCheck(L_1);
-		RuntimeObject* L_2;
-		L_2 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* System.Collections.Generic.IEnumerator`1<T> System.Collections.Generic.IEnumerable`1<System.Type>::GetEnumerator() */, IEnumerable_1_t6686595E4CB7AC210F0EF075F7B1DD4A21D3902B_il2cpp_TypeInfo_var, L_1);
-		V_0 = L_2;
+		RuntimeObject* L_2 = V_0;
+		NullCheck(L_2);
+		RuntimeObject* L_3;
+		L_3 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* System.Collections.Generic.IEnumerator`1<T> System.Collections.Generic.IEnumerable`1<System.Type>::GetEnumerator() */, IEnumerable_1_t6686595E4CB7AC210F0EF075F7B1DD4A21D3902B_il2cpp_TypeInfo_var, L_2);
+		V_1 = L_3;
 	}
 	{
 		auto __finallyBlock = il2cpp::utils::Finally([&]
 		{
 
-FINALLY_0036:
+FINALLY_003e:
 			{// begin finally (depth: 1)
 				{
-					RuntimeObject* L_3 = V_0;
-					if (!L_3)
+					RuntimeObject* L_4 = V_1;
+					if (!L_4)
 					{
-						goto IL_003f;
+						goto IL_0048;
 					}
 				}
 				{
-					RuntimeObject* L_4 = V_0;
-					NullCheck(L_4);
-					InterfaceActionInvoker0::Invoke(0 /* System.Void System.IDisposable::Dispose() */, IDisposable_t030E0496B4E0E4E4F086825007979AF51F7248C5_il2cpp_TypeInfo_var, L_4);
+					RuntimeObject* L_5 = V_1;
+					NullCheck(L_5);
+					InterfaceActionInvoker0::Invoke(0 /* System.Void System.IDisposable::Dispose() */, IDisposable_t030E0496B4E0E4E4F086825007979AF51F7248C5_il2cpp_TypeInfo_var, L_5);
 				}
 
-IL_003f:
+IL_0048:
 				{
 					return;
 				}
@@ -3383,36 +3539,36 @@ IL_003f:
 		try
 		{// begin try (depth: 1)
 			{
-				goto IL_002c_1;
+				goto IL_0034_1;
 			}
 
-IL_001e_1:
+IL_0023_1:
 			{
 				// foreach(Type provider in providers)
-				RuntimeObject* L_5 = V_0;
-				NullCheck(L_5);
-				Type_t* L_6;
-				L_6 = InterfaceFuncInvoker0< Type_t* >::Invoke(0 /* T System.Collections.Generic.IEnumerator`1<System.Type>::get_Current() */, IEnumerator_1_t889CCC5EFE6A6E3DAB66C7475F56D94D53F43D0E_il2cpp_TypeInfo_var, L_5);
-				V_1 = L_6;
+				RuntimeObject* L_6 = V_1;
+				NullCheck(L_6);
+				Type_t* L_7;
+				L_7 = InterfaceFuncInvoker0< Type_t* >::Invoke(0 /* T System.Collections.Generic.IEnumerator`1<System.Type>::get_Current() */, IEnumerator_1_t889CCC5EFE6A6E3DAB66C7475F56D94D53F43D0E_il2cpp_TypeInfo_var, L_6);
+				V_2 = L_7;
 				// RegisterProvider(provider);
-				Type_t* L_7 = V_1;
-				TextToSpeechProviderFactory_RegisterProvider_mF21DEDDF9D8FCDE2357FDF965E5E76078E8E38C3(__this, L_7, NULL);
+				Type_t* L_8 = V_2;
+				TextToSpeechProviderFactory_RegisterProvider_mF21DEDDF9D8FCDE2357FDF965E5E76078E8E38C3(__this, L_8, NULL);
 			}
 
-IL_002c_1:
+IL_0034_1:
 			{
 				// foreach(Type provider in providers)
-				RuntimeObject* L_8 = V_0;
-				NullCheck(L_8);
-				bool L_9;
-				L_9 = InterfaceFuncInvoker0< bool >::Invoke(0 /* System.Boolean System.Collections.IEnumerator::MoveNext() */, IEnumerator_t7B609C2FFA6EB5167D9C62A0C32A21DE2F666DAA_il2cpp_TypeInfo_var, L_8);
-				if (L_9)
+				RuntimeObject* L_9 = V_1;
+				NullCheck(L_9);
+				bool L_10;
+				L_10 = InterfaceFuncInvoker0< bool >::Invoke(0 /* System.Boolean System.Collections.IEnumerator::MoveNext() */, IEnumerator_t7B609C2FFA6EB5167D9C62A0C32A21DE2F666DAA_il2cpp_TypeInfo_var, L_9);
+				if (L_10)
 				{
-					goto IL_001e_1;
+					goto IL_0023_1;
 				}
 			}
 			{
-				goto IL_0040;
+				goto IL_0049;
 			}
 		}// end try (depth: 1)
 		catch(Il2CppExceptionWrapper& e)
@@ -3421,7 +3577,7 @@ IL_002c_1:
 		}
 	}
 
-IL_0040:
+IL_0049:
 	{
 		// }
 		return;
@@ -3439,6 +3595,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextToSpeechProviderFactory_RegisterProv
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Type_t_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
+	bool V_0 = false;
 	{
 		// if(typeof(ITextToSpeechProvider).IsAssignableFrom(textToSpeechProviderType) == false)
 		RuntimeTypeHandle_t332A452B8B6179E4469B69525D0FE82A88030F7B L_0 = { reinterpret_cast<intptr_t> (ITextToSpeechProvider_t21ECCBBEF7A9B3113C39D71919E273890D2FF967_0_0_0_var) };
@@ -3449,39 +3606,41 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextToSpeechProviderFactory_RegisterProv
 		NullCheck(L_1);
 		bool L_3;
 		L_3 = VirtualFuncInvoker1< bool, Type_t* >::Invoke(22 /* System.Boolean System.Type::IsAssignableFrom(System.Type) */, L_1, L_2);
-		if (L_3)
+		V_0 = (bool)((((int32_t)L_3) == ((int32_t)0))? 1 : 0);
+		bool L_4 = V_0;
+		if (!L_4)
 		{
-			goto IL_002d;
+			goto IL_0034;
 		}
 	}
 	{
 		// throw new InvalidProviderException($"Type '{textToSpeechProviderType.Name}' is not a valid text to speech provider, therefore it cannot be registered.");
-		Type_t* L_4 = ___0_textToSpeechProviderType;
-		NullCheck(L_4);
-		String_t* L_5;
-		L_5 = VirtualFuncInvoker0< String_t* >::Invoke(8 /* System.String System.Reflection.MemberInfo::get_Name() */, L_4);
+		Type_t* L_5 = ___0_textToSpeechProviderType;
+		NullCheck(L_5);
 		String_t* L_6;
-		L_6 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteral3C686C624D22B0C45E4FADFB00FA535DDDC88AD7)), L_5, ((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteral1032683CCF3D2EA1A66CE98F8F735078558EC71C)), NULL);
-		InvalidProviderException_t1E120054284844CBAC1E9F71CDB9B4FF0DF648CF* L_7 = (InvalidProviderException_t1E120054284844CBAC1E9F71CDB9B4FF0DF648CF*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&InvalidProviderException_t1E120054284844CBAC1E9F71CDB9B4FF0DF648CF_il2cpp_TypeInfo_var)));
-		NullCheck(L_7);
-		InvalidProviderException__ctor_m934E6C3F7E4B9BFDE82676F6103ED58FDFACA748(L_7, L_6, NULL);
-		IL2CPP_RAISE_MANAGED_EXCEPTION(L_7, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&TextToSpeechProviderFactory_RegisterProvider_mF21DEDDF9D8FCDE2357FDF965E5E76078E8E38C3_RuntimeMethod_var)));
+		L_6 = VirtualFuncInvoker0< String_t* >::Invoke(8 /* System.String System.Reflection.MemberInfo::get_Name() */, L_5);
+		String_t* L_7;
+		L_7 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteral3C686C624D22B0C45E4FADFB00FA535DDDC88AD7)), L_6, ((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteral1032683CCF3D2EA1A66CE98F8F735078558EC71C)), NULL);
+		InvalidProviderException_t1E120054284844CBAC1E9F71CDB9B4FF0DF648CF* L_8 = (InvalidProviderException_t1E120054284844CBAC1E9F71CDB9B4FF0DF648CF*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&InvalidProviderException_t1E120054284844CBAC1E9F71CDB9B4FF0DF648CF_il2cpp_TypeInfo_var)));
+		NullCheck(L_8);
+		InvalidProviderException__ctor_m934E6C3F7E4B9BFDE82676F6103ED58FDFACA748(L_8, L_7, NULL);
+		IL2CPP_RAISE_MANAGED_EXCEPTION(L_8, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&TextToSpeechProviderFactory_RegisterProvider_mF21DEDDF9D8FCDE2357FDF965E5E76078E8E38C3_RuntimeMethod_var)));
 	}
 
-IL_002d:
+IL_0034:
 	{
 		// registeredProvider.Add(textToSpeechProviderType.Name, new BaseCreator(textToSpeechProviderType));
-		Dictionary_2_t207C1A9F488C00E09528538826414BBA0834B83C* L_8 = __this->___registeredProvider_1;
-		Type_t* L_9 = ___0_textToSpeechProviderType;
+		Dictionary_2_t207C1A9F488C00E09528538826414BBA0834B83C* L_9 = __this->___registeredProvider_1;
+		Type_t* L_10 = ___0_textToSpeechProviderType;
+		NullCheck(L_10);
+		String_t* L_11;
+		L_11 = VirtualFuncInvoker0< String_t* >::Invoke(8 /* System.String System.Reflection.MemberInfo::get_Name() */, L_10);
+		Type_t* L_12 = ___0_textToSpeechProviderType;
+		BaseCreator_t4E77E30B98D4C4108F69664AA8741F1E18EA566F* L_13 = (BaseCreator_t4E77E30B98D4C4108F69664AA8741F1E18EA566F*)il2cpp_codegen_object_new(BaseCreator_t4E77E30B98D4C4108F69664AA8741F1E18EA566F_il2cpp_TypeInfo_var);
+		NullCheck(L_13);
+		BaseCreator__ctor_m827F5EC6C61DF648234AC57BBB6452C6EBC5856C(L_13, L_12, NULL);
 		NullCheck(L_9);
-		String_t* L_10;
-		L_10 = VirtualFuncInvoker0< String_t* >::Invoke(8 /* System.String System.Reflection.MemberInfo::get_Name() */, L_9);
-		Type_t* L_11 = ___0_textToSpeechProviderType;
-		BaseCreator_t4E77E30B98D4C4108F69664AA8741F1E18EA566F* L_12 = (BaseCreator_t4E77E30B98D4C4108F69664AA8741F1E18EA566F*)il2cpp_codegen_object_new(BaseCreator_t4E77E30B98D4C4108F69664AA8741F1E18EA566F_il2cpp_TypeInfo_var);
-		NullCheck(L_12);
-		BaseCreator__ctor_m827F5EC6C61DF648234AC57BBB6452C6EBC5856C(L_12, L_11, NULL);
-		NullCheck(L_8);
-		Dictionary_2_Add_mAA03B15A669B250362B4BFACC0CC06863094CD36(L_8, L_10, L_12, Dictionary_2_Add_mAA03B15A669B250362B4BFACC0CC06863094CD36_RuntimeMethod_var);
+		Dictionary_2_Add_mAA03B15A669B250362B4BFACC0CC06863094CD36(L_9, L_11, L_13, Dictionary_2_Add_mAA03B15A669B250362B4BFACC0CC06863094CD36_RuntimeMethod_var);
 		// }
 		return;
 	}
@@ -3490,6 +3649,7 @@ IL_002d:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* TextToSpeechProviderFactory_CreateProvider_m8BD567EDD395F4898AE33DE54076FBCB300493B2 (TextToSpeechProviderFactory_tEC7E017208D7F8B3BA5979232DFDE02996A68361* __this, const RuntimeMethod* method) 
 {
 	TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* V_0 = NULL;
+	RuntimeObject* V_1 = NULL;
 	{
 		// TextToSpeechConfiguration ttsConfiguration = TextToSpeechConfiguration.LoadConfiguration();
 		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_0;
@@ -3499,7 +3659,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* TextToSpeechProviderFactory_Cr
 		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_1 = V_0;
 		RuntimeObject* L_2;
 		L_2 = TextToSpeechProviderFactory_CreateProvider_mDCA130C7D38B3AEEE18DB518F0F9096E2476AD16(__this, L_1, NULL);
-		return L_2;
+		V_1 = L_2;
+		goto IL_0011;
+	}
+
+IL_0011:
+	{
+		// }
+		RuntimeObject* L_3 = V_1;
+		return L_3;
 	}
 }
 // VRBuilder.TextToSpeech.ITextToSpeechProvider VRBuilder.TextToSpeech.TextToSpeechProviderFactory::CreateProvider(VRBuilder.TextToSpeech.TextToSpeechConfiguration)
@@ -3513,6 +3681,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* TextToSpeechProviderFactory_Cr
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ITextToSpeechCreator_t033F33FE63FF6DC8F4519840B92542C17147F0CD_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
+	RuntimeObject* V_0 = NULL;
+	bool V_1 = false;
+	bool V_2 = false;
+	RuntimeObject* V_3 = NULL;
 	{
 		// if (string.IsNullOrEmpty(configuration.Provider))
 		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_0 = ___0_configuration;
@@ -3520,72 +3692,86 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* TextToSpeechProviderFactory_Cr
 		String_t* L_1 = L_0->___Provider_5;
 		bool L_2;
 		L_2 = String_IsNullOrEmpty_mEA9E3FB005AC28FE02E69FCF95A7B8456192B478(L_1, NULL);
-		if (!L_2)
+		V_1 = L_2;
+		bool L_3 = V_1;
+		if (!L_3)
 		{
-			goto IL_002d;
+			goto IL_0031;
 		}
 	}
 	{
 		// throw new NoConfigurationFoundException($"There is not a valid provider set in '{configuration.GetType().Name}'!");
-		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_3 = ___0_configuration;
-		NullCheck(L_3);
-		Type_t* L_4;
-		L_4 = Object_GetType_mE10A8FC1E57F3DF29972CCBC026C2DC3942263B3(L_3, NULL);
+		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_4 = ___0_configuration;
 		NullCheck(L_4);
-		String_t* L_5;
-		L_5 = VirtualFuncInvoker0< String_t* >::Invoke(8 /* System.String System.Reflection.MemberInfo::get_Name() */, L_4);
+		Type_t* L_5;
+		L_5 = Object_GetType_mE10A8FC1E57F3DF29972CCBC026C2DC3942263B3(L_4, NULL);
+		NullCheck(L_5);
 		String_t* L_6;
-		L_6 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteral36394919BE4BA7876D9963381AECED9103E7AED7)), L_5, ((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteralA71835C02B0068E7EB5DB4C34281E4F9F69A9471)), NULL);
-		NoConfigurationFoundException_t728FF809CE0803B5EECC9D2F4B0963B191D3BC44* L_7 = (NoConfigurationFoundException_t728FF809CE0803B5EECC9D2F4B0963B191D3BC44*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&NoConfigurationFoundException_t728FF809CE0803B5EECC9D2F4B0963B191D3BC44_il2cpp_TypeInfo_var)));
-		NullCheck(L_7);
-		NoConfigurationFoundException__ctor_mFB12B9A42A082DAE0B486F97B1D8500697273412(L_7, L_6, NULL);
-		IL2CPP_RAISE_MANAGED_EXCEPTION(L_7, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&TextToSpeechProviderFactory_CreateProvider_mDCA130C7D38B3AEEE18DB518F0F9096E2476AD16_RuntimeMethod_var)));
+		L_6 = VirtualFuncInvoker0< String_t* >::Invoke(8 /* System.String System.Reflection.MemberInfo::get_Name() */, L_5);
+		String_t* L_7;
+		L_7 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteral36394919BE4BA7876D9963381AECED9103E7AED7)), L_6, ((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteralA71835C02B0068E7EB5DB4C34281E4F9F69A9471)), NULL);
+		NoConfigurationFoundException_t728FF809CE0803B5EECC9D2F4B0963B191D3BC44* L_8 = (NoConfigurationFoundException_t728FF809CE0803B5EECC9D2F4B0963B191D3BC44*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&NoConfigurationFoundException_t728FF809CE0803B5EECC9D2F4B0963B191D3BC44_il2cpp_TypeInfo_var)));
+		NullCheck(L_8);
+		NoConfigurationFoundException__ctor_mFB12B9A42A082DAE0B486F97B1D8500697273412(L_8, L_7, NULL);
+		IL2CPP_RAISE_MANAGED_EXCEPTION(L_8, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&TextToSpeechProviderFactory_CreateProvider_mDCA130C7D38B3AEEE18DB518F0F9096E2476AD16_RuntimeMethod_var)));
 	}
 
-IL_002d:
+IL_0031:
 	{
 		// if (!registeredProvider.ContainsKey(configuration.Provider))
-		Dictionary_2_t207C1A9F488C00E09528538826414BBA0834B83C* L_8 = __this->___registeredProvider_1;
-		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_9 = ___0_configuration;
+		Dictionary_2_t207C1A9F488C00E09528538826414BBA0834B83C* L_9 = __this->___registeredProvider_1;
+		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_10 = ___0_configuration;
+		NullCheck(L_10);
+		String_t* L_11 = L_10->___Provider_5;
 		NullCheck(L_9);
-		String_t* L_10 = L_9->___Provider_5;
-		NullCheck(L_8);
-		bool L_11;
-		L_11 = Dictionary_2_ContainsKey_mD848213574C438C888FE61A26CC572808248226D(L_8, L_10, Dictionary_2_ContainsKey_mD848213574C438C888FE61A26CC572808248226D_RuntimeMethod_var);
-		if (L_11)
+		bool L_12;
+		L_12 = Dictionary_2_ContainsKey_mD848213574C438C888FE61A26CC572808248226D(L_9, L_11, Dictionary_2_ContainsKey_mD848213574C438C888FE61A26CC572808248226D_RuntimeMethod_var);
+		V_2 = (bool)((((int32_t)L_12) == ((int32_t)0))? 1 : 0);
+		bool L_13 = V_2;
+		if (!L_13)
 		{
-			goto IL_005b;
+			goto IL_0065;
 		}
 	}
 	{
 		// throw new NoMatchingProviderFoundException($"No matching provider with name '{configuration.Provider}' found!");
-		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_12 = ___0_configuration;
-		NullCheck(L_12);
-		String_t* L_13 = L_12->___Provider_5;
-		String_t* L_14;
-		L_14 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteral7A5445989139CFB997A9544D62B0A6BC4BBF8BF6)), L_13, ((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteral176CA81FCAAFC7E28768895C4C996AE51DD32E78)), NULL);
-		NoMatchingProviderFoundException_tF29724F243F43D010076DA4B50CC1FBA10786703* L_15 = (NoMatchingProviderFoundException_tF29724F243F43D010076DA4B50CC1FBA10786703*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&NoMatchingProviderFoundException_tF29724F243F43D010076DA4B50CC1FBA10786703_il2cpp_TypeInfo_var)));
-		NullCheck(L_15);
-		NoMatchingProviderFoundException__ctor_mBC8883E62F7676DB1EA90C0FFA866C609C1B6392(L_15, L_14, NULL);
-		IL2CPP_RAISE_MANAGED_EXCEPTION(L_15, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&TextToSpeechProviderFactory_CreateProvider_mDCA130C7D38B3AEEE18DB518F0F9096E2476AD16_RuntimeMethod_var)));
+		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_14 = ___0_configuration;
+		NullCheck(L_14);
+		String_t* L_15 = L_14->___Provider_5;
+		String_t* L_16;
+		L_16 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteral7A5445989139CFB997A9544D62B0A6BC4BBF8BF6)), L_15, ((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteral176CA81FCAAFC7E28768895C4C996AE51DD32E78)), NULL);
+		NoMatchingProviderFoundException_tF29724F243F43D010076DA4B50CC1FBA10786703* L_17 = (NoMatchingProviderFoundException_tF29724F243F43D010076DA4B50CC1FBA10786703*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&NoMatchingProviderFoundException_tF29724F243F43D010076DA4B50CC1FBA10786703_il2cpp_TypeInfo_var)));
+		NullCheck(L_17);
+		NoMatchingProviderFoundException__ctor_mBC8883E62F7676DB1EA90C0FFA866C609C1B6392(L_17, L_16, NULL);
+		IL2CPP_RAISE_MANAGED_EXCEPTION(L_17, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&TextToSpeechProviderFactory_CreateProvider_mDCA130C7D38B3AEEE18DB518F0F9096E2476AD16_RuntimeMethod_var)));
 	}
 
-IL_005b:
+IL_0065:
 	{
 		// ITextToSpeechProvider provider = registeredProvider[configuration.Provider].Create(configuration);
-		Dictionary_2_t207C1A9F488C00E09528538826414BBA0834B83C* L_16 = __this->___registeredProvider_1;
-		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_17 = ___0_configuration;
-		NullCheck(L_17);
-		String_t* L_18 = L_17->___Provider_5;
-		NullCheck(L_16);
-		RuntimeObject* L_19;
-		L_19 = Dictionary_2_get_Item_mB2911BAAD47F3DBAE9A9AF40F1C2ACEC871912B3(L_16, L_18, Dictionary_2_get_Item_mB2911BAAD47F3DBAE9A9AF40F1C2ACEC871912B3_RuntimeMethod_var);
-		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_20 = ___0_configuration;
+		Dictionary_2_t207C1A9F488C00E09528538826414BBA0834B83C* L_18 = __this->___registeredProvider_1;
+		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_19 = ___0_configuration;
 		NullCheck(L_19);
+		String_t* L_20 = L_19->___Provider_5;
+		NullCheck(L_18);
 		RuntimeObject* L_21;
-		L_21 = InterfaceFuncInvoker1< RuntimeObject*, TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* >::Invoke(0 /* VRBuilder.TextToSpeech.ITextToSpeechProvider VRBuilder.TextToSpeech.TextToSpeechProviderFactory/ITextToSpeechCreator::Create(VRBuilder.TextToSpeech.TextToSpeechConfiguration) */, ITextToSpeechCreator_t033F33FE63FF6DC8F4519840B92542C17147F0CD_il2cpp_TypeInfo_var, L_19, L_20);
+		L_21 = Dictionary_2_get_Item_mB2911BAAD47F3DBAE9A9AF40F1C2ACEC871912B3(L_18, L_20, Dictionary_2_get_Item_mB2911BAAD47F3DBAE9A9AF40F1C2ACEC871912B3_RuntimeMethod_var);
+		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_22 = ___0_configuration;
+		NullCheck(L_21);
+		RuntimeObject* L_23;
+		L_23 = InterfaceFuncInvoker1< RuntimeObject*, TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* >::Invoke(0 /* VRBuilder.TextToSpeech.ITextToSpeechProvider VRBuilder.TextToSpeech.TextToSpeechProviderFactory/ITextToSpeechCreator::Create(VRBuilder.TextToSpeech.TextToSpeechConfiguration) */, ITextToSpeechCreator_t033F33FE63FF6DC8F4519840B92542C17147F0CD_il2cpp_TypeInfo_var, L_21, L_22);
+		V_0 = L_23;
 		// return provider;
-		return L_21;
+		RuntimeObject* L_24 = V_0;
+		V_3 = L_24;
+		goto IL_0081;
+	}
+
+IL_0081:
+	{
+		// }
+		RuntimeObject* L_25 = V_3;
+		return L_25;
 	}
 }
 #ifdef __clang__
@@ -3606,6 +3792,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseCreator__ctor_m827F5EC6C61DF648234AC
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Type_t_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
+	bool V_0 = false;
 	{
 		// public BaseCreator(Type textToSpeechProviderType)
 		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
@@ -3618,31 +3805,33 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseCreator__ctor_m827F5EC6C61DF648234AC
 		NullCheck(L_1);
 		bool L_3;
 		L_3 = VirtualFuncInvoker1< bool, Type_t* >::Invoke(22 /* System.Boolean System.Type::IsAssignableFrom(System.Type) */, L_1, L_2);
-		if (L_3)
+		V_0 = (bool)((((int32_t)L_3) == ((int32_t)0))? 1 : 0);
+		bool L_4 = V_0;
+		if (!L_4)
 		{
-			goto IL_0033;
+			goto IL_003b;
 		}
 	}
 	{
 		// throw new InvalidProviderException($"Type '{textToSpeechProviderType.Name}' is not a valid text to speech provider.");
-		Type_t* L_4 = ___0_textToSpeechProviderType;
-		NullCheck(L_4);
-		String_t* L_5;
-		L_5 = VirtualFuncInvoker0< String_t* >::Invoke(8 /* System.String System.Reflection.MemberInfo::get_Name() */, L_4);
+		Type_t* L_5 = ___0_textToSpeechProviderType;
+		NullCheck(L_5);
 		String_t* L_6;
-		L_6 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteral3C686C624D22B0C45E4FADFB00FA535DDDC88AD7)), L_5, ((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteral3D4FE0CEFC04B14D3D9675C05BF4227B4DD7F2C9)), NULL);
-		InvalidProviderException_t1E120054284844CBAC1E9F71CDB9B4FF0DF648CF* L_7 = (InvalidProviderException_t1E120054284844CBAC1E9F71CDB9B4FF0DF648CF*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&InvalidProviderException_t1E120054284844CBAC1E9F71CDB9B4FF0DF648CF_il2cpp_TypeInfo_var)));
-		NullCheck(L_7);
-		InvalidProviderException__ctor_m934E6C3F7E4B9BFDE82676F6103ED58FDFACA748(L_7, L_6, NULL);
-		IL2CPP_RAISE_MANAGED_EXCEPTION(L_7, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&BaseCreator__ctor_m827F5EC6C61DF648234AC57BBB6452C6EBC5856C_RuntimeMethod_var)));
+		L_6 = VirtualFuncInvoker0< String_t* >::Invoke(8 /* System.String System.Reflection.MemberInfo::get_Name() */, L_5);
+		String_t* L_7;
+		L_7 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteral3C686C624D22B0C45E4FADFB00FA535DDDC88AD7)), L_6, ((String_t*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&_stringLiteral3D4FE0CEFC04B14D3D9675C05BF4227B4DD7F2C9)), NULL);
+		InvalidProviderException_t1E120054284844CBAC1E9F71CDB9B4FF0DF648CF* L_8 = (InvalidProviderException_t1E120054284844CBAC1E9F71CDB9B4FF0DF648CF*)il2cpp_codegen_object_new(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&InvalidProviderException_t1E120054284844CBAC1E9F71CDB9B4FF0DF648CF_il2cpp_TypeInfo_var)));
+		NullCheck(L_8);
+		InvalidProviderException__ctor_m934E6C3F7E4B9BFDE82676F6103ED58FDFACA748(L_8, L_7, NULL);
+		IL2CPP_RAISE_MANAGED_EXCEPTION(L_8, ((RuntimeMethod*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&BaseCreator__ctor_m827F5EC6C61DF648234AC57BBB6452C6EBC5856C_RuntimeMethod_var)));
 	}
 
-IL_0033:
+IL_003b:
 	{
 		// this.textToSpeechProviderType = textToSpeechProviderType;
-		Type_t* L_8 = ___0_textToSpeechProviderType;
-		__this->___textToSpeechProviderType_0 = L_8;
-		Il2CppCodeGenWriteBarrier((void**)(&__this->___textToSpeechProviderType_0), (void*)L_8);
+		Type_t* L_9 = ___0_textToSpeechProviderType;
+		__this->___textToSpeechProviderType_0 = L_9;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___textToSpeechProviderType_0), (void*)L_9);
 		// }
 		return;
 	}
@@ -3656,18 +3845,30 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* BaseCreator_Create_m89DC1D0285
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ITextToSpeechProvider_t21ECCBBEF7A9B3113C39D71919E273890D2FF967_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
+	RuntimeObject* V_0 = NULL;
+	RuntimeObject* V_1 = NULL;
 	{
 		// ITextToSpeechProvider provider = Activator.CreateInstance(textToSpeechProviderType) as ITextToSpeechProvider;
 		Type_t* L_0 = __this->___textToSpeechProviderType_0;
 		RuntimeObject* L_1;
 		L_1 = Activator_CreateInstance_mFF030428C64FDDFACC74DFAC97388A1C628BFBCF(L_0, NULL);
+		V_0 = ((RuntimeObject*)IsInst((RuntimeObject*)L_1, ITextToSpeechProvider_t21ECCBBEF7A9B3113C39D71919E273890D2FF967_il2cpp_TypeInfo_var));
 		// provider.SetConfig(configuration);
-		RuntimeObject* L_2 = ((RuntimeObject*)IsInst((RuntimeObject*)L_1, ITextToSpeechProvider_t21ECCBBEF7A9B3113C39D71919E273890D2FF967_il2cpp_TypeInfo_var));
+		RuntimeObject* L_2 = V_0;
 		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_3 = ___0_configuration;
 		NullCheck(L_2);
 		InterfaceActionInvoker1< TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* >::Invoke(0 /* System.Void VRBuilder.TextToSpeech.ITextToSpeechProvider::SetConfig(VRBuilder.TextToSpeech.TextToSpeechConfiguration) */, ITextToSpeechProvider_t21ECCBBEF7A9B3113C39D71919E273890D2FF967_il2cpp_TypeInfo_var, L_2, L_3);
 		// return provider;
-		return L_2;
+		RuntimeObject* L_4 = V_0;
+		V_1 = L_4;
+		goto IL_001e;
+	}
+
+IL_001e:
+	{
+		// }
+		RuntimeObject* L_5 = V_1;
+		return L_5;
 	}
 }
 #ifdef __clang__
@@ -3772,6 +3973,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* TextToSpeechUtils_GetUniqueTextToSp
 	String_t* V_0 = NULL;
 	LocaleIdentifier_t1C6758D6E05D8D5DBCD7FFEC16E8E55547595C18 V_1;
 	memset((&V_1), 0, sizeof(V_1));
+	String_t* V_2 = NULL;
 	{
 		// string hash = string.Format("{0}", text);
 		String_t* L_0 = ___1_text;
@@ -3815,7 +4017,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* TextToSpeechUtils_GetUniqueTextToSp
 		(L_14)->SetAt(static_cast<il2cpp_array_size_t>(3), (RuntimeObject*)L_15);
 		String_t* L_16;
 		L_16 = String_Format_m918500C1EFB475181349A79989BB79BB36102894(_stringLiteralCCAC2F2A74353AA4034827863390F45ED5B5408C, L_14, NULL);
-		return L_16;
+		V_2 = L_16;
+		goto IL_0056;
+	}
+
+IL_0056:
+	{
+		// }
+		String_t* L_17 = V_2;
+		return L_17;
 	}
 }
 // System.Single[] VRBuilder.TextToSpeech.TextToSpeechUtils::ShortsInByteArrayToFloats(System.Byte[])
@@ -3830,6 +4040,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52C
 	SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* V_0 = NULL;
 	int32_t V_1 = 0;
 	int16_t V_2 = 0;
+	bool V_3 = false;
+	SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* V_4 = NULL;
 	{
 		// float[] floats = new float[shorts.Length / 2];
 		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_0 = ___0_shorts;
@@ -3838,10 +4050,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52C
 		V_0 = L_1;
 		// for (int i = 0; i < floats.Length; i++)
 		V_1 = 0;
-		goto IL_002f;
+		goto IL_0032;
 	}
 
-IL_000f:
+IL_0010:
 	{
 		// short restoredShort = (short) ((shorts[i * 2 + 1] << 8) | (shorts[i * 2]));
 		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_2 = ___0_shorts;
@@ -3866,21 +4078,31 @@ IL_000f:
 		V_1 = ((int32_t)il2cpp_codegen_add(L_13, 1));
 	}
 
-IL_002f:
+IL_0032:
 	{
 		// for (int i = 0; i < floats.Length; i++)
 		int32_t L_14 = V_1;
 		SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* L_15 = V_0;
 		NullCheck(L_15);
-		if ((((int32_t)L_14) < ((int32_t)((int32_t)(((RuntimeArray*)L_15)->max_length)))))
+		V_3 = (bool)((((int32_t)L_14) < ((int32_t)((int32_t)(((RuntimeArray*)L_15)->max_length))))? 1 : 0);
+		bool L_16 = V_3;
+		if (L_16)
 		{
-			goto IL_000f;
+			goto IL_0010;
 		}
 	}
 	{
 		// return floats;
-		SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* L_16 = V_0;
-		return L_16;
+		SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* L_17 = V_0;
+		V_4 = L_17;
+		goto IL_0041;
+	}
+
+IL_0041:
+	{
+		// }
+		SingleU5BU5D_t89DEFE97BCEDB5857010E79ECE0F52CF6E93B87C* L_18 = V_4;
+		return L_18;
 	}
 }
 // System.String VRBuilder.TextToSpeech.TextToSpeechUtils::GetMd5Hash(System.String)
@@ -3896,11 +4118,12 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* TextToSpeechUtils_GetMd5Hash_mF802C
 	}
 	MD5_t808E6AE387D5FCC368DBB86576572C1564D17E5A* V_0 = NULL;
 	ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* V_1 = NULL;
-	StringBuilder_t* V_2 = NULL;
-	ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* V_3 = NULL;
-	int32_t V_4 = 0;
-	uint8_t V_5 = 0x0;
-	String_t* V_6 = NULL;
+	ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* V_2 = NULL;
+	StringBuilder_t* V_3 = NULL;
+	ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* V_4 = NULL;
+	int32_t V_5 = 0;
+	uint8_t V_6 = 0x0;
+	String_t* V_7 = NULL;
 	{
 		// using (MD5 md5Hash = MD5.Create())
 		MD5_t808E6AE387D5FCC368DBB86576572C1564D17E5A* L_0;
@@ -3911,13 +4134,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* TextToSpeechUtils_GetMd5Hash_mF802C
 		auto __finallyBlock = il2cpp::utils::Finally([&]
 		{
 
-FINALLY_0055:
+FINALLY_005f:
 			{// begin finally (depth: 1)
 				{
 					MD5_t808E6AE387D5FCC368DBB86576572C1564D17E5A* L_1 = V_0;
 					if (!L_1)
 					{
-						goto IL_005e;
+						goto IL_0069;
 					}
 				}
 				{
@@ -3926,7 +4149,7 @@ FINALLY_0055:
 					InterfaceActionInvoker0::Invoke(0 /* System.Void System.IDisposable::Dispose() */, IDisposable_t030E0496B4E0E4E4F086825007979AF51F7248C5_il2cpp_TypeInfo_var, L_2);
 				}
 
-IL_005e:
+IL_0069:
 				{
 					return;
 				}
@@ -3949,56 +4172,58 @@ IL_005e:
 				NullCheck(L_6);
 				ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_8;
 				L_8 = HashAlgorithm_ComputeHash_mC9CD24714D75A8D61F12509BF952A26347FF22FB(L_6, L_7, NULL);
+				V_2 = L_8;
 				// StringBuilder sBuilder = new StringBuilder();
 				StringBuilder_t* L_9 = (StringBuilder_t*)il2cpp_codegen_object_new(StringBuilder_t_il2cpp_TypeInfo_var);
 				NullCheck(L_9);
 				StringBuilder__ctor_m1D99713357DE05DAFA296633639DB55F8C30587D(L_9, NULL);
-				V_2 = L_9;
+				V_3 = L_9;
 				// foreach (byte @byte in data)
-				V_3 = L_8;
-				V_4 = 0;
-				goto IL_0044_1;
+				ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_10 = V_2;
+				V_4 = L_10;
+				V_5 = 0;
+				goto IL_004d_1;
 			}
 
-IL_0025_1:
+IL_002b_1:
 			{
 				// foreach (byte @byte in data)
-				ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_10 = V_3;
-				int32_t L_11 = V_4;
-				NullCheck(L_10);
-				int32_t L_12 = L_11;
-				uint8_t L_13 = (L_10)->GetAt(static_cast<il2cpp_array_size_t>(L_12));
-				V_5 = L_13;
+				ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_11 = V_4;
+				int32_t L_12 = V_5;
+				NullCheck(L_11);
+				int32_t L_13 = L_12;
+				uint8_t L_14 = (L_11)->GetAt(static_cast<il2cpp_array_size_t>(L_13));
+				V_6 = L_14;
 				// sBuilder.Append(@byte.ToString("x2"));
-				StringBuilder_t* L_14 = V_2;
-				String_t* L_15;
-				L_15 = Byte_ToString_m793A41EEEB7B422F6FE658E99D2F7683F59EE310((&V_5), _stringLiteral65A0F9B64ACE7C859A284EA54B1190CBF83E1260, NULL);
-				NullCheck(L_14);
-				StringBuilder_t* L_16;
-				L_16 = StringBuilder_Append_m08904D74E0C78E5F36DCD9C9303BDD07886D9F7D(L_14, L_15, NULL);
-				int32_t L_17 = V_4;
-				V_4 = ((int32_t)il2cpp_codegen_add(L_17, 1));
+				StringBuilder_t* L_15 = V_3;
+				String_t* L_16;
+				L_16 = Byte_ToString_m793A41EEEB7B422F6FE658E99D2F7683F59EE310((&V_6), _stringLiteral65A0F9B64ACE7C859A284EA54B1190CBF83E1260, NULL);
+				NullCheck(L_15);
+				StringBuilder_t* L_17;
+				L_17 = StringBuilder_Append_m08904D74E0C78E5F36DCD9C9303BDD07886D9F7D(L_15, L_16, NULL);
+				int32_t L_18 = V_5;
+				V_5 = ((int32_t)il2cpp_codegen_add(L_18, 1));
 			}
 
-IL_0044_1:
+IL_004d_1:
 			{
 				// foreach (byte @byte in data)
-				int32_t L_18 = V_4;
-				ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_19 = V_3;
-				NullCheck(L_19);
-				if ((((int32_t)L_18) < ((int32_t)((int32_t)(((RuntimeArray*)L_19)->max_length)))))
+				int32_t L_19 = V_5;
+				ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_20 = V_4;
+				NullCheck(L_20);
+				if ((((int32_t)L_19) < ((int32_t)((int32_t)(((RuntimeArray*)L_20)->max_length)))))
 				{
-					goto IL_0025_1;
+					goto IL_002b_1;
 				}
 			}
 			{
 				// return sBuilder.ToString();
-				StringBuilder_t* L_20 = V_2;
-				NullCheck(L_20);
-				String_t* L_21;
-				L_21 = VirtualFuncInvoker0< String_t* >::Invoke(3 /* System.String System.Object::ToString() */, L_20);
-				V_6 = L_21;
-				goto IL_005f;
+				StringBuilder_t* L_21 = V_3;
+				NullCheck(L_21);
+				String_t* L_22;
+				L_22 = VirtualFuncInvoker0< String_t* >::Invoke(3 /* System.String System.Object::ToString() */, L_21);
+				V_7 = L_22;
+				goto IL_006a;
 			}
 		}// end try (depth: 1)
 		catch(Il2CppExceptionWrapper& e)
@@ -4007,11 +4232,11 @@ IL_0044_1:
 		}
 	}
 
-IL_005f:
+IL_006a:
 	{
 		// }
-		String_t* L_22 = V_6;
-		return L_22;
+		String_t* L_23 = V_7;
+		return L_23;
 	}
 }
 #ifdef __clang__
@@ -4051,15 +4276,25 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnableToParseAudioFormatException__ctor_
 // System.String VRBuilder.TextToSpeech.Audio.TextToSpeechAudio::get_Text()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* TextToSpeechAudio_get_Text_m3B03333D1CF56FE642D3222AB51AD640A50DE05D (TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* __this, const RuntimeMethod* method) 
 {
+	String_t* V_0 = NULL;
 	{
 		// return text;
 		String_t* L_0 = __this->___text_1;
-		return L_0;
+		V_0 = L_0;
+		goto IL_000a;
+	}
+
+IL_000a:
+	{
+		// }
+		String_t* L_1 = V_0;
+		return L_1;
 	}
 }
 // System.Void VRBuilder.TextToSpeech.Audio.TextToSpeechAudio::set_Text(System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextToSpeechAudio_set_Text_mE1EBB159485B03231FBD077A4592FF2F248A717E (TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* __this, String_t* ___0_value, const RuntimeMethod* method) 
 {
+	bool V_0 = false;
 	{
 		// text = value;
 		String_t* L_0 = ___0_value;
@@ -4068,9 +4303,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextToSpeechAudio_set_Text_mE1EBB159485B
 		// if (Application.isPlaying)
 		bool L_1;
 		L_1 = Application_get_isPlaying_m25B0ABDFEF54F5370CD3F263A813540843D00F34(NULL);
-		if (!L_1)
+		V_0 = L_1;
+		bool L_2 = V_0;
+		if (!L_2)
 		{
-			goto IL_0014;
+			goto IL_001a;
 		}
 	}
 	{
@@ -4078,7 +4315,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextToSpeechAudio_set_Text_mE1EBB159485B
 		TextToSpeechAudio_InitializeAudioClip_m9420B39D8D9AFDF3EBA4697021115D39A57C95FE(__this, NULL);
 	}
 
-IL_0014:
+IL_001a:
 	{
 		// }
 		return;
@@ -4110,6 +4347,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextToSpeechAudio__ctor_mE5C5E418A50EC3E
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&TextToSpeechAudio_OnSelectedLocaleChanged_m0784741A9B0AA00E4E4D712046C80D7628D34631_RuntimeMethod_var);
 		s_Il2CppMethodInitialized = true;
 	}
+	bool V_0 = false;
 	{
 		// public TextToSpeechAudio(string text)
 		TextToSpeechContent__ctor_m02A445BA17DF1D68F7041D65C08CBE917F3F4894(__this, NULL);
@@ -4120,20 +4358,22 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextToSpeechAudio__ctor_mE5C5E418A50EC3E
 		// if (LocalizationSettings.HasSettings)
 		bool L_1;
 		L_1 = LocalizationSettings_get_HasSettings_m4C99F58B4C4135F60D59C008341E5562525BB369(NULL);
-		if (!L_1)
+		V_0 = L_1;
+		bool L_2 = V_0;
+		if (!L_2)
 		{
-			goto IL_0025;
+			goto IL_002c;
 		}
 	}
 	{
 		// LocalizationSettings.SelectedLocaleChanged += OnSelectedLocaleChanged;
-		Action_1_t55C64C85A9D0051A87CCECD2C9B66D12616ECC38* L_2 = (Action_1_t55C64C85A9D0051A87CCECD2C9B66D12616ECC38*)il2cpp_codegen_object_new(Action_1_t55C64C85A9D0051A87CCECD2C9B66D12616ECC38_il2cpp_TypeInfo_var);
-		NullCheck(L_2);
-		Action_1__ctor_m5CD9148DEE5317BA23F52D3CFF3B775540F3D24D(L_2, __this, (intptr_t)((void*)TextToSpeechAudio_OnSelectedLocaleChanged_m0784741A9B0AA00E4E4D712046C80D7628D34631_RuntimeMethod_var), NULL);
-		LocalizationSettings_add_SelectedLocaleChanged_m8F417D4662DEDA1C37BE3A159B956EFCDE4ADF79(L_2, NULL);
+		Action_1_t55C64C85A9D0051A87CCECD2C9B66D12616ECC38* L_3 = (Action_1_t55C64C85A9D0051A87CCECD2C9B66D12616ECC38*)il2cpp_codegen_object_new(Action_1_t55C64C85A9D0051A87CCECD2C9B66D12616ECC38_il2cpp_TypeInfo_var);
+		NullCheck(L_3);
+		Action_1__ctor_m5CD9148DEE5317BA23F52D3CFF3B775540F3D24D(L_3, __this, (intptr_t)((void*)TextToSpeechAudio_OnSelectedLocaleChanged_m0784741A9B0AA00E4E4D712046C80D7628D34631_RuntimeMethod_var), NULL);
+		LocalizationSettings_add_SelectedLocaleChanged_m8F417D4662DEDA1C37BE3A159B956EFCDE4ADF79(L_3, NULL);
 	}
 
-IL_0025:
+IL_002c:
 	{
 		// }
 		return;
@@ -4148,6 +4388,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool TextToSpeechAudio_get_HasAudioClip_mC0B9
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
+	bool V_0 = false;
 	{
 		// return AudioClip != null;
 		AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* L_0;
@@ -4155,16 +4396,33 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool TextToSpeechAudio_get_HasAudioClip_mC0B9
 		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
 		bool L_1;
 		L_1 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_0, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
-		return L_1;
+		V_0 = L_1;
+		goto IL_0010;
+	}
+
+IL_0010:
+	{
+		// }
+		bool L_2 = V_0;
+		return L_2;
 	}
 }
 // System.Boolean VRBuilder.TextToSpeech.Audio.TextToSpeechAudio::get_IsLoading()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool TextToSpeechAudio_get_IsLoading_m7C484C939337DEF4E8EC1991D128DB46457D1B9B (TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* __this, const RuntimeMethod* method) 
 {
+	bool V_0 = false;
 	{
 		// get { return isLoading; }
 		bool L_0 = __this->___isLoading_0;
-		return L_0;
+		V_0 = L_0;
+		goto IL_000a;
+	}
+
+IL_000a:
+	{
+		// get { return isLoading; }
+		bool L_1 = V_0;
+		return L_1;
 	}
 }
 // UnityEngine.AudioClip VRBuilder.TextToSpeech.Audio.TextToSpeechAudio::get_AudioClip()
@@ -4190,11 +4448,20 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextToSpeechAudio_set_AudioClip_m3AC68EA
 // System.String VRBuilder.TextToSpeech.Audio.TextToSpeechAudio::get_ClipData()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* TextToSpeechAudio_get_ClipData_m2A3BA5074FADA1C229A4A4FB66463CB8A68F01F7 (TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* __this, const RuntimeMethod* method) 
 {
+	String_t* V_0 = NULL;
 	{
 		// return Text;
 		String_t* L_0;
 		L_0 = VirtualFuncInvoker0< String_t* >::Invoke(7 /* System.String VRBuilder.TextToSpeech.Audio.TextToSpeechContent::get_Text() */, __this);
-		return L_0;
+		V_0 = L_0;
+		goto IL_000a;
+	}
+
+IL_000a:
+	{
+		// }
+		String_t* L_1 = V_0;
+		return L_1;
 	}
 }
 // System.Void VRBuilder.TextToSpeech.Audio.TextToSpeechAudio::set_ClipData(System.String)
@@ -4215,42 +4482,57 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextToSpeechAudio_InitializeAudioClip_m9
 	if (!s_Il2CppMethodInitialized)
 	{
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&AsyncVoidMethodBuilder_Start_TisU3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_m32051F124C6BF7458690DE1B0EAD005EE8D7EFEB_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
-	U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF V_0;
-	memset((&V_0), 0, sizeof(V_0));
+	U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* V_0 = NULL;
 	{
-		AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D L_0;
-		L_0 = AsyncVoidMethodBuilder_Create_m13D0B23DD350C14035918384E10AF641E6B9EE67(NULL);
-		(&V_0)->___U3CU3Et__builder_1 = L_0;
-		Il2CppCodeGenWriteBarrier((void**)&(((&(&V_0)->___U3CU3Et__builder_1))->___m_synchronizationContext_0), (void*)NULL);
+		U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* L_0 = (U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF*)il2cpp_codegen_object_new(U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_il2cpp_TypeInfo_var);
+		NullCheck(L_0);
+		U3CInitializeAudioClipU3Ed__18__ctor_m3EF86E0750402EC95196D92783206B069050B8E7(L_0, NULL);
+		V_0 = L_0;
+		U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* L_1 = V_0;
+		AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D L_2;
+		L_2 = AsyncVoidMethodBuilder_Create_m13D0B23DD350C14035918384E10AF641E6B9EE67(NULL);
+		NullCheck(L_1);
+		L_1->___U3CU3Et__builder_1 = L_2;
+		Il2CppCodeGenWriteBarrier((void**)&(((&L_1->___U3CU3Et__builder_1))->___m_synchronizationContext_0), (void*)NULL);
 		#if IL2CPP_ENABLE_STRICT_WRITE_BARRIERS
-		Il2CppCodeGenWriteBarrier((void**)&((&(((&(&V_0)->___U3CU3Et__builder_1))->___m_coreState_1))->___m_stateMachine_0), (void*)NULL);
+		Il2CppCodeGenWriteBarrier((void**)&((&(((&L_1->___U3CU3Et__builder_1))->___m_coreState_1))->___m_stateMachine_0), (void*)NULL);
 		#endif
 		#if IL2CPP_ENABLE_STRICT_WRITE_BARRIERS
-		Il2CppCodeGenWriteBarrier((void**)&((&(((&(&V_0)->___U3CU3Et__builder_1))->___m_coreState_1))->___m_defaultContextAction_1), (void*)NULL);
+		Il2CppCodeGenWriteBarrier((void**)&((&(((&L_1->___U3CU3Et__builder_1))->___m_coreState_1))->___m_defaultContextAction_1), (void*)NULL);
 		#endif
 		#if IL2CPP_ENABLE_STRICT_WRITE_BARRIERS
-		Il2CppCodeGenWriteBarrier((void**)&(((&(&V_0)->___U3CU3Et__builder_1))->___m_task_2), (void*)NULL);
+		Il2CppCodeGenWriteBarrier((void**)&(((&L_1->___U3CU3Et__builder_1))->___m_task_2), (void*)NULL);
 		#endif
-		(&V_0)->___U3CU3E4__this_2 = __this;
-		Il2CppCodeGenWriteBarrier((void**)(&(&V_0)->___U3CU3E4__this_2), (void*)__this);
-		(&V_0)->___U3CU3E1__state_0 = (-1);
-		AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* L_1 = (&(&V_0)->___U3CU3Et__builder_1);
-		AsyncVoidMethodBuilder_Start_TisU3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_m32051F124C6BF7458690DE1B0EAD005EE8D7EFEB(L_1, (&V_0), AsyncVoidMethodBuilder_Start_TisU3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_m32051F124C6BF7458690DE1B0EAD005EE8D7EFEB_RuntimeMethod_var);
+		U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* L_3 = V_0;
+		NullCheck(L_3);
+		L_3->___U3CU3E4__this_2 = __this;
+		Il2CppCodeGenWriteBarrier((void**)(&L_3->___U3CU3E4__this_2), (void*)__this);
+		U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* L_4 = V_0;
+		NullCheck(L_4);
+		L_4->___U3CU3E1__state_0 = (-1);
+		U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* L_5 = V_0;
+		NullCheck(L_5);
+		AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* L_6 = (&L_5->___U3CU3Et__builder_1);
+		AsyncVoidMethodBuilder_Start_TisU3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_m32051F124C6BF7458690DE1B0EAD005EE8D7EFEB(L_6, (&V_0), AsyncVoidMethodBuilder_Start_TisU3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_m32051F124C6BF7458690DE1B0EAD005EE8D7EFEB_RuntimeMethod_var);
 		return;
 	}
 }
 // System.Void VRBuilder.TextToSpeech.Audio.TextToSpeechAudio::OnSelectedLocaleChanged(UnityEngine.Localization.Locale)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextToSpeechAudio_OnSelectedLocaleChanged_m0784741A9B0AA00E4E4D712046C80D7628D34631 (TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* __this, Locale_t7BD9FB50247883E73B4CC92360943B0455CF02B9* ___0_locale, const RuntimeMethod* method) 
 {
+	bool V_0 = false;
 	{
 		// if (Application.isPlaying)
 		bool L_0;
 		L_0 = Application_get_isPlaying_m25B0ABDFEF54F5370CD3F263A813540843D00F34(NULL);
-		if (!L_0)
+		V_0 = L_0;
+		bool L_1 = V_0;
+		if (!L_1)
 		{
-			goto IL_000d;
+			goto IL_0013;
 		}
 	}
 	{
@@ -4258,7 +4540,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TextToSpeechAudio_OnSelectedLocaleChange
 		TextToSpeechAudio_InitializeAudioClip_m9420B39D8D9AFDF3EBA4697021115D39A57C95FE(__this, NULL);
 	}
 
-IL_000d:
+IL_0013:
 	{
 		// }
 		return;
@@ -4267,13 +4549,15 @@ IL_000d:
 // System.Boolean VRBuilder.TextToSpeech.Audio.TextToSpeechAudio::IsEmpty()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool TextToSpeechAudio_IsEmpty_m03DD8484345B765816D5391E3456FD26BF3C7A59 (TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* __this, const RuntimeMethod* method) 
 {
+	bool V_0 = false;
+	int32_t G_B3_0 = 0;
 	{
 		// return Text == null || (string.IsNullOrEmpty(Text));
 		String_t* L_0;
 		L_0 = VirtualFuncInvoker0< String_t* >::Invoke(7 /* System.String VRBuilder.TextToSpeech.Audio.TextToSpeechContent::get_Text() */, __this);
 		if (!L_0)
 		{
-			goto IL_0014;
+			goto IL_0016;
 		}
 	}
 	{
@@ -4281,12 +4565,26 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool TextToSpeechAudio_IsEmpty_m03DD8484345B7
 		L_1 = VirtualFuncInvoker0< String_t* >::Invoke(7 /* System.String VRBuilder.TextToSpeech.Audio.TextToSpeechContent::get_Text() */, __this);
 		bool L_2;
 		L_2 = String_IsNullOrEmpty_mEA9E3FB005AC28FE02E69FCF95A7B8456192B478(L_1, NULL);
-		return L_2;
+		G_B3_0 = ((int32_t)(L_2));
+		goto IL_0017;
 	}
 
-IL_0014:
+IL_0016:
 	{
-		return (bool)1;
+		G_B3_0 = 1;
+	}
+
+IL_0017:
+	{
+		V_0 = (bool)G_B3_0;
+		goto IL_001a;
+	}
+
+IL_001a:
+	{
+		// }
+		bool L_3 = V_0;
+		return L_3;
 	}
 }
 // System.String VRBuilder.TextToSpeech.Audio.TextToSpeechAudio::GetLocalizedContent()
@@ -4298,6 +4596,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* TextToSpeechAudio_GetLocalizedConte
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&SettingsObject_1_get_Instance_m3126322FB5F0874A0C64CC87C6DDECB909E35D42_RuntimeMethod_var);
 		s_Il2CppMethodInitialized = true;
 	}
+	String_t* V_0 = NULL;
 	{
 		// return LanguageUtils.GetLocalizedString(Text, RuntimeConfigurator.Instance.GetProcessStringLocalizationTable(), LanguageSettings.Instance.ActiveOrDefaultLocale);
 		String_t* L_0;
@@ -4306,7 +4605,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* TextToSpeechAudio_GetLocalizedConte
 		L_1 = RuntimeConfigurator_get_Instance_mC3FA36748ECEDB3A40DB0AD952E29C5E775E1FE3(NULL);
 		NullCheck(L_1);
 		String_t* L_2;
-		L_2 = RuntimeConfigurator_GetProcessStringLocalizationTable_m8A37F97B43EC884BC788FD6283937665E8C8329D_inline(L_1, NULL);
+		L_2 = RuntimeConfigurator_GetProcessStringLocalizationTable_m8A37F97B43EC884BC788FD6283937665E8C8329D(L_1, NULL);
 		LanguageSettings_t644A5BE8AE6ECE199004889174DFBC0169D2DD13* L_3;
 		L_3 = SettingsObject_1_get_Instance_m3126322FB5F0874A0C64CC87C6DDECB909E35D42(SettingsObject_1_get_Instance_m3126322FB5F0874A0C64CC87C6DDECB909E35D42_RuntimeMethod_var);
 		NullCheck(L_3);
@@ -4314,7 +4613,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* TextToSpeechAudio_GetLocalizedConte
 		L_4 = LanguageSettings_get_ActiveOrDefaultLocale_mCE4EF49729A8D32E5A08C227551AD75992C71C9B(L_3, NULL);
 		String_t* L_5;
 		L_5 = LanguageUtils_GetLocalizedString_m9DA23749015C7956727B3A3D6FED56EB25B1E654(L_0, L_2, L_4, NULL);
-		return L_5;
+		V_0 = L_5;
+		goto IL_0023;
+	}
+
+IL_0023:
+	{
+		// }
+		String_t* L_6 = V_0;
+		return L_6;
 	}
 }
 #ifdef __clang__
@@ -4325,6 +4632,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* TextToSpeechAudio_GetLocalizedConte
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
+// System.Void VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CInitializeAudioClipU3Ed__18__ctor_m3EF86E0750402EC95196D92783206B069050B8E7 (U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* __this, const RuntimeMethod* method) 
+{
+	{
+		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
+		return;
+	}
+}
 // System.Void VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18::MoveNext()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CInitializeAudioClipU3Ed__18_MoveNext_mAA400B603D5E52EC7150637961ADED9BEB29621B (U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* __this, const RuntimeMethod* method) 
 {
@@ -4343,42 +4658,52 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CInitializeAudioClipU3Ed__18_MoveNext_
 		s_Il2CppMethodInitialized = true;
 	}
 	int32_t V_0 = 0;
-	TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* V_1 = NULL;
-	AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* V_2 = NULL;
-	TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 V_3;
-	memset((&V_3), 0, sizeof(V_3));
+	bool V_1 = false;
+	TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 V_2;
+	memset((&V_2), 0, sizeof(V_2));
+	U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* V_3 = NULL;
 	Exception_t* V_4 = NULL;
 	il2cpp::utils::ExceptionSupportStack<RuntimeObject*, 2> __active_exceptions;
 	{
 		int32_t L_0 = __this->___U3CU3E1__state_0;
 		V_0 = L_0;
-		TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* L_1 = __this->___U3CU3E4__this_2;
-		V_1 = L_1;
 	}
 	try
 	{// begin try (depth: 1)
 		{
-			int32_t L_2 = V_0;
-			if (!L_2)
+			int32_t L_1 = V_0;
+			if (!L_1)
 			{
-				goto IL_003b_1;
+				goto IL_000c_1;
 			}
 		}
 		{
+			goto IL_000e_1;
+		}
+
+IL_000c_1:
+		{
+			goto IL_004d_1;
+		}
+
+IL_000e_1:
+		{
 			// AudioClip = null;
-			TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* L_3 = V_1;
-			NullCheck(L_3);
-			TextToSpeechAudio_set_AudioClip_m3AC68EAB796BF9530E2FD7970D70D1A27C21E36E_inline(L_3, (AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20*)NULL, NULL);
+			TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* L_2 = __this->___U3CU3E4__this_2;
+			NullCheck(L_2);
+			TextToSpeechAudio_set_AudioClip_m3AC68EAB796BF9530E2FD7970D70D1A27C21E36E_inline(L_2, (AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20*)NULL, NULL);
 			// if (string.IsNullOrEmpty(Text))
-			TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* L_4 = V_1;
-			NullCheck(L_4);
-			String_t* L_5;
-			L_5 = VirtualFuncInvoker0< String_t* >::Invoke(7 /* System.String VRBuilder.TextToSpeech.Audio.TextToSpeechContent::get_Text() */, L_4);
-			bool L_6;
-			L_6 = String_IsNullOrEmpty_mEA9E3FB005AC28FE02E69FCF95A7B8456192B478(L_5, NULL);
+			TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* L_3 = __this->___U3CU3E4__this_2;
+			NullCheck(L_3);
+			String_t* L_4;
+			L_4 = VirtualFuncInvoker0< String_t* >::Invoke(7 /* System.String VRBuilder.TextToSpeech.Audio.TextToSpeechContent::get_Text() */, L_3);
+			bool L_5;
+			L_5 = String_IsNullOrEmpty_mEA9E3FB005AC28FE02E69FCF95A7B8456192B478(L_4, NULL);
+			V_1 = L_5;
+			bool L_6 = V_1;
 			if (!L_6)
 			{
-				goto IL_0034_1;
+				goto IL_0041_1;
 			}
 		}
 		{
@@ -4386,18 +4711,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CInitializeAudioClipU3Ed__18_MoveNext_
 			il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
 			Debug_LogWarning_m33EF1B897E0C7C6FF538989610BFAFFEF4628CA9(_stringLiteral0DB26887BB76E922B58A892B2E490905A50A07F6, NULL);
 			// return;
-			goto IL_00ed;
+			goto IL_0167;
 		}
 
-IL_0034_1:
+IL_0041_1:
 		{
 			// isLoading = true;
-			TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* L_7 = V_1;
+			TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* L_7 = __this->___U3CU3E4__this_2;
 			NullCheck(L_7);
 			L_7->___isLoading_0 = (bool)1;
 		}
 
-IL_003b_1:
+IL_004d_1:
 		{
 		}
 		try
@@ -4406,77 +4731,100 @@ IL_003b_1:
 				int32_t L_8 = V_0;
 				if (!L_8)
 				{
-					goto IL_0092_2;
+					goto IL_0053_2;
 				}
 			}
+			{
+				goto IL_0055_2;
+			}
+
+IL_0053_2:
+			{
+				goto IL_00cd_2;
+			}
+
+IL_0055_2:
 			{
 				// TextToSpeechConfiguration ttsConfiguration = RuntimeConfigurator.Configuration.GetTextToSpeechConfiguration();
 				BaseRuntimeConfiguration_tA6534EE83E1A33162E28993006E97132522760C6* L_9;
 				L_9 = RuntimeConfigurator_get_Configuration_m240115A530335A9A799EB54CE92C9DDC15A00F10(NULL);
 				TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_10;
 				L_10 = RuntimeConfigurationExtensions_GetTextToSpeechConfiguration_mF5BB573835BDC7A86CC715DAA97B3168414C5D4A(L_9, NULL);
+				__this->___U3CttsConfigurationU3E5__1_3 = L_10;
+				Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CttsConfigurationU3E5__1_3), (void*)L_10);
 				// ITextToSpeechProvider provider = new FileTextToSpeechProvider(ttsConfiguration);
-				FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788* L_11 = (FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788*)il2cpp_codegen_object_new(FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788_il2cpp_TypeInfo_var);
-				NullCheck(L_11);
-				FileTextToSpeechProvider__ctor_mE44A38D806E9EEDC8739858947C3402CFB789572(L_11, L_10, NULL);
-				// AudioClip = await provider.ConvertTextToSpeech(GetLocalizedContent(), LanguageSettings.Instance.ActiveOrDefaultLocale);
-				TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* L_12 = V_1;
+				TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_11 = __this->___U3CttsConfigurationU3E5__1_3;
+				FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788* L_12 = (FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788*)il2cpp_codegen_object_new(FileTextToSpeechProvider_t52ADD5A6BDA96427973CD4630936E0368AA8E788_il2cpp_TypeInfo_var);
 				NullCheck(L_12);
-				String_t* L_13;
-				L_13 = VirtualFuncInvoker0< String_t* >::Invoke(9 /* System.String VRBuilder.TextToSpeech.Audio.TextToSpeechContent::GetLocalizedContent() */, L_12);
-				LanguageSettings_t644A5BE8AE6ECE199004889174DFBC0169D2DD13* L_14;
-				L_14 = SettingsObject_1_get_Instance_m3126322FB5F0874A0C64CC87C6DDECB909E35D42(SettingsObject_1_get_Instance_m3126322FB5F0874A0C64CC87C6DDECB909E35D42_RuntimeMethod_var);
+				FileTextToSpeechProvider__ctor_mE44A38D806E9EEDC8739858947C3402CFB789572(L_12, L_11, NULL);
+				__this->___U3CproviderU3E5__2_4 = L_12;
+				Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CproviderU3E5__2_4), (void*)L_12);
+				// AudioClip = await provider.ConvertTextToSpeech(GetLocalizedContent(), LanguageSettings.Instance.ActiveOrDefaultLocale);
+				RuntimeObject* L_13 = __this->___U3CproviderU3E5__2_4;
+				TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* L_14 = __this->___U3CU3E4__this_2;
 				NullCheck(L_14);
-				Locale_t7BD9FB50247883E73B4CC92360943B0455CF02B9* L_15;
-				L_15 = LanguageSettings_get_ActiveOrDefaultLocale_mCE4EF49729A8D32E5A08C227551AD75992C71C9B(L_14, NULL);
-				NullCheck(L_11);
-				Task_1_t290EA9539222B740AC917B9AB459B4F252E537C1* L_16;
-				L_16 = InterfaceFuncInvoker2< Task_1_t290EA9539222B740AC917B9AB459B4F252E537C1*, String_t*, Locale_t7BD9FB50247883E73B4CC92360943B0455CF02B9* >::Invoke(1 /* System.Threading.Tasks.Task`1<UnityEngine.AudioClip> VRBuilder.TextToSpeech.ITextToSpeechProvider::ConvertTextToSpeech(System.String,UnityEngine.Localization.Locale) */, ITextToSpeechProvider_t21ECCBBEF7A9B3113C39D71919E273890D2FF967_il2cpp_TypeInfo_var, L_11, L_13, L_15);
+				String_t* L_15;
+				L_15 = VirtualFuncInvoker0< String_t* >::Invoke(9 /* System.String VRBuilder.TextToSpeech.Audio.TextToSpeechContent::GetLocalizedContent() */, L_14);
+				LanguageSettings_t644A5BE8AE6ECE199004889174DFBC0169D2DD13* L_16;
+				L_16 = SettingsObject_1_get_Instance_m3126322FB5F0874A0C64CC87C6DDECB909E35D42(SettingsObject_1_get_Instance_m3126322FB5F0874A0C64CC87C6DDECB909E35D42_RuntimeMethod_var);
 				NullCheck(L_16);
-				TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 L_17;
-				L_17 = Task_1_GetAwaiter_m8F761484522DA81252985511926635872EA964B1(L_16, Task_1_GetAwaiter_m8F761484522DA81252985511926635872EA964B1_RuntimeMethod_var);
-				V_3 = L_17;
-				bool L_18;
-				L_18 = TaskAwaiter_1_get_IsCompleted_mF67B1777A0C12E6EEA458AA4210768AAB390F19E((&V_3), TaskAwaiter_1_get_IsCompleted_mF67B1777A0C12E6EEA458AA4210768AAB390F19E_RuntimeMethod_var);
-				if (L_18)
+				Locale_t7BD9FB50247883E73B4CC92360943B0455CF02B9* L_17;
+				L_17 = LanguageSettings_get_ActiveOrDefaultLocale_mCE4EF49729A8D32E5A08C227551AD75992C71C9B(L_16, NULL);
+				NullCheck(L_13);
+				Task_1_t290EA9539222B740AC917B9AB459B4F252E537C1* L_18;
+				L_18 = InterfaceFuncInvoker2< Task_1_t290EA9539222B740AC917B9AB459B4F252E537C1*, String_t*, Locale_t7BD9FB50247883E73B4CC92360943B0455CF02B9* >::Invoke(1 /* System.Threading.Tasks.Task`1<UnityEngine.AudioClip> VRBuilder.TextToSpeech.ITextToSpeechProvider::ConvertTextToSpeech(System.String,UnityEngine.Localization.Locale) */, ITextToSpeechProvider_t21ECCBBEF7A9B3113C39D71919E273890D2FF967_il2cpp_TypeInfo_var, L_13, L_15, L_17);
+				NullCheck(L_18);
+				TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 L_19;
+				L_19 = Task_1_GetAwaiter_m8F761484522DA81252985511926635872EA964B1(L_18, Task_1_GetAwaiter_m8F761484522DA81252985511926635872EA964B1_RuntimeMethod_var);
+				V_2 = L_19;
+				bool L_20;
+				L_20 = TaskAwaiter_1_get_IsCompleted_mF67B1777A0C12E6EEA458AA4210768AAB390F19E((&V_2), TaskAwaiter_1_get_IsCompleted_mF67B1777A0C12E6EEA458AA4210768AAB390F19E_RuntimeMethod_var);
+				if (L_20)
 				{
-					goto IL_00ae_2;
+					goto IL_00e9_2;
 				}
 			}
 			{
-				int32_t L_19 = 0;
-				V_0 = L_19;
-				__this->___U3CU3E1__state_0 = L_19;
-				TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 L_20 = V_3;
-				__this->___U3CU3Eu__1_3 = L_20;
-				Il2CppCodeGenWriteBarrier((void**)&(((&__this->___U3CU3Eu__1_3))->___m_task_0), (void*)NULL);
-				AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* L_21 = (&__this->___U3CU3Et__builder_1);
-				AsyncVoidMethodBuilder_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6_TisU3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_m2ADE794B3EFED657BA5522EF25A1195AF562C897(L_21, (&V_3), __this, AsyncVoidMethodBuilder_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6_TisU3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_m2ADE794B3EFED657BA5522EF25A1195AF562C897_RuntimeMethod_var);
-				goto IL_0100;
+				int32_t L_21 = 0;
+				V_0 = L_21;
+				__this->___U3CU3E1__state_0 = L_21;
+				TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 L_22 = V_2;
+				__this->___U3CU3Eu__1_7 = L_22;
+				Il2CppCodeGenWriteBarrier((void**)&(((&__this->___U3CU3Eu__1_7))->___m_task_0), (void*)NULL);
+				V_3 = __this;
+				AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* L_23 = (&__this->___U3CU3Et__builder_1);
+				AsyncVoidMethodBuilder_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6_TisU3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_m2ADE794B3EFED657BA5522EF25A1195AF562C897(L_23, (&V_2), (&V_3), AsyncVoidMethodBuilder_AwaitUnsafeOnCompleted_TisTaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6_TisU3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF_m2ADE794B3EFED657BA5522EF25A1195AF562C897_RuntimeMethod_var);
+				goto IL_017b;
 			}
 
-IL_0092_2:
+IL_00cd_2:
 			{
-				TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 L_22 = __this->___U3CU3Eu__1_3;
-				V_3 = L_22;
-				TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6* L_23 = (&__this->___U3CU3Eu__1_3);
-				il2cpp_codegen_initobj(L_23, sizeof(TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6));
-				int32_t L_24 = (-1);
-				V_0 = L_24;
-				__this->___U3CU3E1__state_0 = L_24;
+				TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6 L_24 = __this->___U3CU3Eu__1_7;
+				V_2 = L_24;
+				TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6* L_25 = (&__this->___U3CU3Eu__1_7);
+				il2cpp_codegen_initobj(L_25, sizeof(TaskAwaiter_1_tA73145785D9CD6F67BFB7B98635FB8AB3C713ED6));
+				int32_t L_26 = (-1);
+				V_0 = L_26;
+				__this->___U3CU3E1__state_0 = L_26;
 			}
 
-IL_00ae_2:
+IL_00e9_2:
 			{
-				AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* L_25;
-				L_25 = TaskAwaiter_1_GetResult_m5BC400000238AF0EF79816BFD737A06B49F25F95((&V_3), TaskAwaiter_1_GetResult_m5BC400000238AF0EF79816BFD737A06B49F25F95_RuntimeMethod_var);
-				V_2 = L_25;
-				TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* L_26 = V_1;
-				AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* L_27 = V_2;
-				NullCheck(L_26);
-				TextToSpeechAudio_set_AudioClip_m3AC68EAB796BF9530E2FD7970D70D1A27C21E36E_inline(L_26, L_27, NULL);
-				// }
-				goto IL_00cb_1;
+				AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* L_27;
+				L_27 = TaskAwaiter_1_GetResult_m5BC400000238AF0EF79816BFD737A06B49F25F95((&V_2), TaskAwaiter_1_GetResult_m5BC400000238AF0EF79816BFD737A06B49F25F95_RuntimeMethod_var);
+				__this->___U3CU3Es__3_5 = L_27;
+				Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3Es__3_5), (void*)L_27);
+				TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* L_28 = __this->___U3CU3E4__this_2;
+				AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* L_29 = __this->___U3CU3Es__3_5;
+				NullCheck(L_28);
+				TextToSpeechAudio_set_AudioClip_m3AC68EAB796BF9530E2FD7970D70D1A27C21E36E_inline(L_28, L_29, NULL);
+				__this->___U3CU3Es__3_5 = (AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20*)NULL;
+				Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CU3Es__3_5), (void*)(AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20*)NULL);
+				__this->___U3CttsConfigurationU3E5__1_3 = (TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F*)NULL;
+				Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CttsConfigurationU3E5__1_3), (void*)(TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F*)NULL);
+				__this->___U3CproviderU3E5__2_4 = (RuntimeObject*)NULL;
+				Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CproviderU3E5__2_4), (void*)(RuntimeObject*)NULL);
+				goto IL_013f_1;
 			}
 		}// end try (depth: 2)
 		catch(Il2CppExceptionWrapper& e)
@@ -4484,31 +4832,36 @@ IL_00ae_2:
 			if(il2cpp_codegen_class_is_assignable_from (((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&Exception_t_il2cpp_TypeInfo_var)), il2cpp_codegen_object_class(e.ex)))
 			{
 				IL2CPP_PUSH_ACTIVE_EXCEPTION(e.ex);
-				goto CATCH_00bf_1;
+				goto CATCH_0120_1;
 			}
 			throw e;
 		}
 
-CATCH_00bf_1:
+CATCH_0120_1:
 		{// begin catch(System.Exception)
+			// catch (Exception exception)
+			V_4 = ((Exception_t*)IL2CPP_GET_ACTIVE_EXCEPTION(Exception_t*));
+			Exception_t* L_30 = V_4;
+			__this->___U3CexceptionU3E5__4_6 = L_30;
+			Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CexceptionU3E5__4_6), (void*)L_30);
 			// Debug.LogWarning(exception.Message);
-			NullCheck(((Exception_t*)IL2CPP_GET_ACTIVE_EXCEPTION(Exception_t*)));
-			String_t* L_28;
-			L_28 = VirtualFuncInvoker0< String_t* >::Invoke(5 /* System.String System.Exception::get_Message() */, ((Exception_t*)IL2CPP_GET_ACTIVE_EXCEPTION(Exception_t*)));
+			Exception_t* L_31 = __this->___U3CexceptionU3E5__4_6;
+			NullCheck(L_31);
+			String_t* L_32;
+			L_32 = VirtualFuncInvoker0< String_t* >::Invoke(5 /* System.String System.Exception::get_Message() */, L_31);
 			il2cpp_codegen_runtime_class_init_inline(((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var)));
-			Debug_LogWarning_m33EF1B897E0C7C6FF538989610BFAFFEF4628CA9(L_28, NULL);
-			// }
+			Debug_LogWarning_m33EF1B897E0C7C6FF538989610BFAFFEF4628CA9(L_32, NULL);
 			IL2CPP_POP_ACTIVE_EXCEPTION();
-			goto IL_00cb_1;
+			goto IL_013f_1;
 		}// end catch (depth: 2)
 
-IL_00cb_1:
+IL_013f_1:
 		{
 			// isLoading = false;
-			TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* L_29 = V_1;
-			NullCheck(L_29);
-			L_29->___isLoading_0 = (bool)0;
-			goto IL_00ed;
+			TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* L_33 = __this->___U3CU3E4__this_2;
+			NullCheck(L_33);
+			L_33->___isLoading_0 = (bool)0;
+			goto IL_0167;
 		}
 	}// end try (depth: 1)
 	catch(Il2CppExceptionWrapper& e)
@@ -4516,58 +4869,41 @@ IL_00cb_1:
 		if(il2cpp_codegen_class_is_assignable_from (((RuntimeClass*)il2cpp_codegen_initialize_runtime_metadata_inline((uintptr_t*)&Exception_t_il2cpp_TypeInfo_var)), il2cpp_codegen_object_class(e.ex)))
 		{
 			IL2CPP_PUSH_ACTIVE_EXCEPTION(e.ex);
-			goto CATCH_00d4;
+			goto CATCH_014d;
 		}
 		throw e;
 	}
 
-CATCH_00d4:
+CATCH_014d:
 	{// begin catch(System.Exception)
 		V_4 = ((Exception_t*)IL2CPP_GET_ACTIVE_EXCEPTION(Exception_t*));
 		__this->___U3CU3E1__state_0 = ((int32_t)-2);
-		AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* L_30 = (&__this->___U3CU3Et__builder_1);
-		Exception_t* L_31 = V_4;
-		AsyncVoidMethodBuilder_SetException_mD9A6F5D1A99A62AC9DF322901BFDE05193CB177B(L_30, L_31, NULL);
+		AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* L_34 = (&__this->___U3CU3Et__builder_1);
+		Exception_t* L_35 = V_4;
+		AsyncVoidMethodBuilder_SetException_mD9A6F5D1A99A62AC9DF322901BFDE05193CB177B(L_34, L_35, NULL);
 		IL2CPP_POP_ACTIVE_EXCEPTION();
-		goto IL_0100;
+		goto IL_017b;
 	}// end catch (depth: 1)
 
-IL_00ed:
+IL_0167:
 	{
 		// }
 		__this->___U3CU3E1__state_0 = ((int32_t)-2);
-		AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* L_32 = (&__this->___U3CU3Et__builder_1);
-		AsyncVoidMethodBuilder_SetResult_m008490FDF057D5F5D871F537C7A58BE36027F3DC(L_32, NULL);
+		AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* L_36 = (&__this->___U3CU3Et__builder_1);
+		AsyncVoidMethodBuilder_SetResult_m008490FDF057D5F5D871F537C7A58BE36027F3DC(L_36, NULL);
 	}
 
-IL_0100:
+IL_017b:
 	{
 		return;
 	}
-}
-IL2CPP_EXTERN_C  void U3CInitializeAudioClipU3Ed__18_MoveNext_mAA400B603D5E52EC7150637961ADED9BEB29621B_AdjustorThunk (RuntimeObject* __this, const RuntimeMethod* method)
-{
-	U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* _thisAdjusted;
-	int32_t _offset = 1;
-	_thisAdjusted = reinterpret_cast<U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF*>(__this + _offset);
-	U3CInitializeAudioClipU3Ed__18_MoveNext_mAA400B603D5E52EC7150637961ADED9BEB29621B(_thisAdjusted, method);
 }
 // System.Void VRBuilder.TextToSpeech.Audio.TextToSpeechAudio/<InitializeAudioClip>d__18::SetStateMachine(System.Runtime.CompilerServices.IAsyncStateMachine)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void U3CInitializeAudioClipU3Ed__18_SetStateMachine_mD69EBFDD3A5A4757CDAF35C85EBCE88913D6A603 (U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* __this, RuntimeObject* ___0_stateMachine, const RuntimeMethod* method) 
 {
 	{
-		AsyncVoidMethodBuilder_t253E37B63E7E7B504878AE6563347C147F98EF2D* L_0 = (&__this->___U3CU3Et__builder_1);
-		RuntimeObject* L_1 = ___0_stateMachine;
-		AsyncVoidMethodBuilder_SetStateMachine_m48640FB81C34D4C2B5A5BBA7F5AE17DC50BF1A25(L_0, L_1, NULL);
 		return;
 	}
-}
-IL2CPP_EXTERN_C  void U3CInitializeAudioClipU3Ed__18_SetStateMachine_mD69EBFDD3A5A4757CDAF35C85EBCE88913D6A603_AdjustorThunk (RuntimeObject* __this, RuntimeObject* ___0_stateMachine, const RuntimeMethod* method)
-{
-	U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF* _thisAdjusted;
-	int32_t _offset = 1;
-	_thisAdjusted = reinterpret_cast<U3CInitializeAudioClipU3Ed__18_tF88CED70EBE3AE9BF0F4915D57F2CDB1737575EF*>(__this + _offset);
-	U3CInitializeAudioClipU3Ed__18_SetStateMachine_mD69EBFDD3A5A4757CDAF35C85EBCE88913D6A603(_thisAdjusted, ___0_stateMachine, method);
 }
 #ifdef __clang__
 #pragma clang diagnostic pop
@@ -4588,39 +4924,51 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool TextToSpeechContent_IsCached_mC221159F68
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralB7AD3BE74803C14B2CB5D2C17486D5F2138FDE60);
 		s_Il2CppMethodInitialized = true;
 	}
-	String_t* V_0 = NULL;
+	TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* V_0 = NULL;
 	String_t* V_1 = NULL;
+	String_t* V_2 = NULL;
+	bool V_3 = false;
 	{
 		// TextToSpeechConfiguration ttsConfiguration = RuntimeConfigurator.Configuration.GetTextToSpeechConfiguration();
 		BaseRuntimeConfiguration_tA6534EE83E1A33162E28993006E97132522760C6* L_0;
 		L_0 = RuntimeConfigurator_get_Configuration_m240115A530335A9A799EB54CE92C9DDC15A00F10(NULL);
 		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_1;
 		L_1 = RuntimeConfigurationExtensions_GetTextToSpeechConfiguration_mF5BB573835BDC7A86CC715DAA97B3168414C5D4A(L_0, NULL);
+		V_0 = L_1;
 		// string filename = ttsConfiguration.GetUniqueTextToSpeechFilename(GetLocalizedContent(), locale);
-		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_2 = L_1;
+		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_2 = V_0;
 		String_t* L_3;
 		L_3 = VirtualFuncInvoker0< String_t* >::Invoke(9 /* System.String VRBuilder.TextToSpeech.Audio.TextToSpeechContent::GetLocalizedContent() */, __this);
 		Locale_t7BD9FB50247883E73B4CC92360943B0455CF02B9* L_4 = ___0_locale;
 		String_t* L_5;
 		L_5 = TextToSpeechUtils_GetUniqueTextToSpeechFilename_m85B7B48280D09335A860C8BBF0FA71A108E824B8(L_2, L_3, L_4, _stringLiteralB7AD3BE74803C14B2CB5D2C17486D5F2138FDE60, NULL);
-		V_0 = L_5;
+		V_1 = L_5;
 		// string filePath = $"{ttsConfiguration.StreamingAssetCacheDirectoryName}/{filename}";
-		NullCheck(L_2);
-		String_t* L_6 = L_2->___StreamingAssetCacheDirectoryName_8;
-		String_t* L_7 = V_0;
-		String_t* L_8;
-		L_8 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(L_6, _stringLiteral86BBAACC00198DBB3046818AD3FC2AA10AE48DE1, L_7, NULL);
-		V_1 = L_8;
-		// return File.Exists(Path.Combine(Application.streamingAssetsPath, filePath));
+		TextToSpeechConfiguration_tD1606382CF7070319248A4EBB905C3C0DAEC948F* L_6 = V_0;
+		NullCheck(L_6);
+		String_t* L_7 = L_6->___StreamingAssetCacheDirectoryName_8;
+		String_t* L_8 = V_1;
 		String_t* L_9;
-		L_9 = Application_get_streamingAssetsPath_mB904BCD9A7A4F18A52C175DE4A81F5DC3010CDB5(NULL);
-		String_t* L_10 = V_1;
+		L_9 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(L_7, _stringLiteral86BBAACC00198DBB3046818AD3FC2AA10AE48DE1, L_8, NULL);
+		V_2 = L_9;
+		// return File.Exists(Path.Combine(Application.streamingAssetsPath, filePath));
+		String_t* L_10;
+		L_10 = Application_get_streamingAssetsPath_mB904BCD9A7A4F18A52C175DE4A81F5DC3010CDB5(NULL);
+		String_t* L_11 = V_2;
 		il2cpp_codegen_runtime_class_init_inline(Path_t8A38A801D0219E8209C1B1D90D82D4D755D998BC_il2cpp_TypeInfo_var);
-		String_t* L_11;
-		L_11 = Path_Combine_m1ADAC05CDA2D1D61B172DF65A81E86592696BEAE(L_9, L_10, NULL);
-		bool L_12;
-		L_12 = File_Exists_m95E329ABBE3EAD6750FE1989BBA6884457136D4A(L_11, NULL);
-		return L_12;
+		String_t* L_12;
+		L_12 = Path_Combine_m1ADAC05CDA2D1D61B172DF65A81E86592696BEAE(L_10, L_11, NULL);
+		bool L_13;
+		L_13 = File_Exists_m95E329ABBE3EAD6750FE1989BBA6884457136D4A(L_12, NULL);
+		V_3 = L_13;
+		goto IL_0044;
+	}
+
+IL_0044:
+	{
+		// }
+		bool L_14 = V_3;
+		return L_14;
 	}
 }
 // System.Void VRBuilder.TextToSpeech.Audio.TextToSpeechContent::.ctor()
@@ -4658,14 +5006,6 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR AudioClip_t5D272C4EB4F2D3ED49F1C3
 		return L_0;
 	}
 }
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR String_t* RuntimeConfigurator_GetProcessStringLocalizationTable_m8A37F97B43EC884BC788FD6283937665E8C8329D_inline (RuntimeConfigurator_t23F3F8F041885DA6CBF963E065020FB1A77C7478* __this, const RuntimeMethod* method) 
-{
-	{
-		// return processStringLocalizationTable;
-		String_t* L_0 = __this->___processStringLocalizationTable_8;
-		return L_0;
-	}
-}
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void TextToSpeechAudio_set_AudioClip_m3AC68EAB796BF9530E2FD7970D70D1A27C21E36E_inline (TextToSpeechAudio_t4E703C697B05F743DEC958402B44C5419B580E3D* __this, AudioClip_t5D272C4EB4F2D3ED49F1C346DEA373CF6D585F20* ___0_value, const RuntimeMethod* method) 
 {
 	{
@@ -4674,14 +5014,5 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void TextToSpeechAudio_set_AudioC
 		__this->___U3CAudioClipU3Ek__BackingField_2 = L_0;
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___U3CAudioClipU3Ek__BackingField_2), (void*)L_0);
 		return;
-	}
-}
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR RuntimeObject* Singleton_1_get_Instance_m9FAFF5C248224AED9C1A4C4CC1245AC6EEA47DC0_gshared_inline (const RuntimeMethod* method) 
-{
-	{
-		// return instance;
-		il2cpp_codegen_runtime_class_init_inline(il2cpp_rgctx_data(InitializedTypeInfo(method->klass)->rgctx_data, 0));
-		RuntimeObject* L_0 = ((Singleton_1_t44355ECE83F29EC98CA129FB5C0A0D5357ACD4A0_StaticFields*)il2cpp_codegen_static_fields_for(il2cpp_rgctx_data(InitializedTypeInfo(method->klass)->rgctx_data, 0)))->___instance_0;
-		return L_0;
 	}
 }
